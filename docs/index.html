@@ -1,0 +1,1356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal — Investment Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F8F7F4;
+    --bg2: #FFFFFF;
+    --bg3: #F0EEE9;
+    --border: rgba(0,0,0,0.08);
+    --border-mid: rgba(0,0,0,0.12);
+    --text: #1C1C1A;
+    --text-dim: rgba(28,28,26,0.55);
+    --text-faint: rgba(28,28,26,0.32);
+    --accent: #8B6914;
+    --accent-light: rgba(139,105,20,0.08);
+    --accent-border: rgba(139,105,20,0.22);
+    --red: #C0392B;
+    --blue: #1A56A0;
+    --purple: #6B3FA0;
+    --green: #1A7A4A;
+    --amber: #C07A1A;
+    --teal: #1A7A72;
+    --cyan: #1A6A8B;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* ── HEADER ─────────────────────────────────── */
+  header {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2.5rem;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+  }
+
+  .logo {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+
+  .logo-mark {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: var(--text);
+    letter-spacing: 0.02em;
+  }
+
+  .logo-sub {
+    font-size: 0.6rem;
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+  }
+
+  .live-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--text-faint);
+  }
+
+  .pulse {
+    width: 6px; height: 6px;
+    background: #16a34a;
+    border-radius: 50%;
+    animation: blink 2s infinite;
+  }
+
+  @keyframes blink {
+    0%,100% { opacity:1; }
+    50% { opacity:0.3; }
+  }
+
+  .btn {
+    background: var(--bg3);
+    border: 1px solid var(--border-mid);
+    color: var(--text-dim);
+    padding: 5px 13px;
+    border-radius: 3px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.03em;
+  }
+
+  .btn:hover { background: var(--border); color: var(--text); }
+
+  .btn-accent {
+    background: var(--accent-light);
+    border-color: var(--accent-border);
+    color: var(--accent);
+  }
+
+  .btn-accent:hover { background: rgba(139,105,20,0.14); }
+
+  /* ── TABS ───────────────────────────────────── */
+  .tabs-bar {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0;
+    position: sticky;
+    top: 58px;
+    z-index: 100;
+  }
+
+  .tab {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: var(--text-faint);
+    padding: 11px 18px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+    margin-bottom: -1px;
+    white-space: nowrap;
+  }
+
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--text); border-bottom-color: var(--accent); }
+
+  .tab-count {
+    display: inline-block;
+    background: var(--bg3);
+    color: var(--text-faint);
+    font-size: 0.6rem;
+    padding: 1px 5px;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-weight: 600;
+  }
+
+  /* ── LAYOUT ─────────────────────────────────── */
+  .container {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 2.5rem;
+  }
+
+  .pane { display: none; }
+  .pane.active { display: block; }
+
+  /* ── STATS BAR ──────────────────────────────── */
+  .stats-bar {
+    padding: 1.5rem 0 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.5rem;
+  }
+
+  .stat { display: flex; flex-direction: column; gap: 2px; }
+
+  .stat-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.9rem;
+    font-weight: 400;
+    line-height: 1;
+    color: var(--text);
+  }
+
+  .stat-label {
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+  }
+
+  .stat-div { width: 1px; height: 30px; background: var(--border); }
+
+  /* ── FILTERS ────────────────────────────────── */
+  .filters-row {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-label {
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+    margin-right: 0.3rem;
+  }
+
+  .filter-chip {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 4px 11px;
+    border-radius: 2px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.12s;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .filter-chip:hover { border-color: var(--border-mid); color: var(--text); }
+  .filter-chip.on { background: var(--accent-light); border-color: var(--accent-border); color: var(--accent); }
+
+  .filter-dot { width: 6px; height: 6px; border-radius: 50%; }
+
+  .search-box {
+    margin-left: auto;
+    position: relative;
+  }
+
+  .search-box input {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 5px 12px 5px 30px;
+    border-radius: 3px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    width: 210px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-box input:focus { border-color: var(--border-mid); }
+  .search-box input::placeholder { color: var(--text-faint); }
+
+  .search-box::before {
+    content: '';
+    position: absolute;
+    left: 9px; top: 50%;
+    transform: translateY(-50%);
+    width: 13px; height: 13px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='rgba(28,28,26,0.3)' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  /* ── SECTION ROW ────────────────────────────── */
+  .section-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.1rem;
+  }
+
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .section-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--text-faint);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .view-toggle {
+    display: flex;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 2px;
+    gap: 2px;
+  }
+
+  .vbtn {
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    padding: 3px 9px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 0.62rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    transition: all 0.12s;
+  }
+
+  .vbtn.on { background: var(--bg2); color: var(--text); border: 1px solid var(--border); }
+
+  /* ── CARD GRID ──────────────────────────────── */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
+    gap: 1rem;
+    padding-bottom: 3rem;
+  }
+
+  .card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 1.3rem;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.18s, border-color 0.18s;
+  }
+
+  .card::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--theme-color, var(--accent));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.2s;
+  }
+
+  .card:hover { box-shadow: 0 3px 16px rgba(0,0,0,0.07); border-color: var(--border-mid); }
+  .card:hover::after { transform: scaleX(1); }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-bottom: 0.65rem;
+  }
+
+  .card-left { display: flex; flex-direction: column; gap: 2px; }
+
+  .card-source {
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+  }
+
+  .card-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.2;
+  }
+
+  .card-original {
+    font-size: 0.7rem;
+    color: var(--text-faint);
+    font-style: italic;
+    margin-top: 2px;
+    line-height: 1.3;
+  }
+
+  .card-right { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; flex-shrink: 0; }
+
+  .badge-theme {
+    font-size: 0.58rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+
+  .badge-region {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.56rem;
+    color: var(--text-faint);
+    border: 1px solid var(--border);
+    padding: 1px 5px;
+    border-radius: 2px;
+  }
+
+  .card-summary {
+    font-size: 0.84rem;
+    line-height: 1.65;
+    color: var(--text-dim);
+    margin-bottom: 0.85rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card.open .card-summary { -webkit-line-clamp: unset; overflow: visible; }
+
+  .takeaways-head {
+    font-size: 0.58rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 0.45rem;
+  }
+
+  .takeaways-head::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+
+  .takeaways { list-style: none; display: none; margin-bottom: 0.85rem; }
+  .card.open .takeaways { display: block; }
+
+  .tk {
+    font-size: 0.8rem;
+    line-height: 1.55;
+    color: var(--text-dim);
+    padding: 4px 0 4px 11px;
+    border-left: 2px solid var(--theme-color, var(--accent));
+    margin-bottom: 5px;
+  }
+
+  .card-foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.7rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .card-date {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.62rem;
+    color: var(--text-faint);
+  }
+
+  .card-actions { display: flex; align-items: center; gap: 0.65rem; }
+
+  .card-min {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.62rem;
+    color: var(--text-faint);
+  }
+
+  .btn-expand {
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    font-size: 0.7rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    padding: 2px 0;
+    transition: color 0.12s;
+  }
+
+  .btn-expand:hover { color: var(--text); }
+
+  .btn-read {
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--accent);
+    text-decoration: none;
+    padding: 3px 9px;
+    border: 1px solid var(--accent-border);
+    border-radius: 2px;
+    background: var(--accent-light);
+    transition: all 0.12s;
+  }
+
+  .btn-read:hover { background: rgba(139,105,20,0.14); }
+
+  .empty { text-align: center; padding: 4rem 2rem; color: var(--text-faint); font-style: italic; grid-column: 1/-1; }
+
+  /* ── DIGEST PANE ────────────────────────────── */
+  #digestPane { padding-bottom: 4rem; }
+
+  .digest-controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 0 1.25rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .digest-title-block { display: flex; flex-direction: column; gap: 4px; }
+
+  .digest-month {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--text);
+    letter-spacing: -0.01em;
+  }
+
+  .digest-subtitle {
+    font-size: 0.65rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+  }
+
+  .digest-btns { display: flex; gap: 0.5rem; }
+
+  .digest-intro {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 1.8;
+    color: var(--text-dim);
+    max-width: 820px;
+    margin-bottom: 2.5rem;
+    padding-left: 1.25rem;
+    border-left: 2px solid var(--accent);
+  }
+
+  .digest-section { margin-bottom: 2.75rem; }
+
+  .digest-section-head {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .digest-section-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+
+  .digest-section-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .digest-section-n {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.62rem;
+    color: var(--text-faint);
+    margin-left: auto;
+  }
+
+  .digest-article { margin-bottom: 1.75rem; padding-left: 1.25rem; border-left: 2px solid var(--border); }
+  .digest-article:last-child { margin-bottom: 0; }
+
+  .digest-art-meta {
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+
+  .digest-art-summary {
+    font-size: 0.9rem;
+    line-height: 1.75;
+    color: var(--text);
+    margin-bottom: 0.6rem;
+  }
+
+  .digest-art-tks { list-style: none; margin-bottom: 0.5rem; }
+
+  .digest-tk {
+    font-size: 0.82rem;
+    line-height: 1.6;
+    color: var(--text-dim);
+    padding: 2px 0 2px 13px;
+    position: relative;
+    margin-bottom: 3px;
+  }
+
+  .digest-tk::before { content: '→'; position: absolute; left: 0; color: var(--text-faint); font-size: 0.72rem; }
+
+  .digest-art-link {
+    font-size: 0.72rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .digest-art-link:hover { text-decoration: underline; }
+
+  .digest-empty { text-align: center; padding: 4rem 2rem; color: var(--text-faint); font-style: italic; }
+
+  /* ── ARCHIVE PANE ───────────────────────────── */
+  #archivePane { padding-bottom: 4rem; }
+
+  .archive-header {
+    padding: 1.5rem 0 1.25rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+
+  .archive-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+
+  .archive-sub {
+    font-size: 0.65rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+  }
+
+  .archive-tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.75rem;
+  }
+
+  .archive-tab {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: var(--text-faint);
+    padding: 9px 16px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.12s;
+    margin-bottom: -1px;
+  }
+
+  .archive-tab:hover { color: var(--text); }
+  .archive-tab.on { color: var(--text); border-bottom-color: var(--accent); }
+
+  .archive-month-group { margin-bottom: 2.5rem; }
+
+  .archive-month-label {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+
+  .archive-month-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.62rem;
+    color: var(--text-faint);
+    font-weight: 400;
+  }
+
+  /* Archive articles */
+  .archive-articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .archive-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 1rem 1.1rem;
+    transition: box-shadow 0.15s;
+  }
+
+  .archive-card:hover { box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
+
+  .archive-card-source {
+    font-size: 0.58rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+    margin-bottom: 3px;
+  }
+
+  .archive-card-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.98rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 4px;
+    line-height: 1.3;
+  }
+
+  .archive-card-summary {
+    font-size: 0.78rem;
+    line-height: 1.55;
+    color: var(--text-dim);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Archive digests */
+  .digest-archive-item {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 1.25rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+    transition: box-shadow 0.15s;
+  }
+
+  .digest-archive-item:hover { box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
+
+  .digest-archive-left { display: flex; flex-direction: column; gap: 3px; }
+
+  .digest-archive-month {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .digest-archive-meta {
+    font-size: 0.65rem;
+    color: var(--text-faint);
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .digest-archive-btns { display: flex; gap: 0.5rem; }
+
+  /* ── PRINT STYLES ───────────────────────────── */
+  @media print {
+    header, .tabs-bar, .digest-btns, .digest-controls .btn { display: none !important; }
+    body { background: white; font-size: 11pt; }
+    .digest-month { font-size: 22pt; }
+    .digest-section-name { font-size: 14pt; }
+    .digest-art-summary { font-size: 10pt; }
+  }
+
+  /* ── TOAST ──────────────────────────────────── */
+  .toast {
+    position: fixed;
+    bottom: 1.75rem; right: 1.75rem;
+    background: var(--text);
+    color: #fff;
+    padding: 9px 16px;
+    border-radius: 4px;
+    font-size: 0.78rem;
+    z-index: 999;
+    transform: translateY(16px);
+    opacity: 0;
+    transition: all 0.25s;
+  }
+  .toast.show { transform: translateY(0); opacity: 1; }
+
+  /* ── FOOTER ─────────────────────────────────── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 1.25rem 0 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+
+  .footer-left { font-size: 0.68rem; color: var(--text-faint); line-height: 1.8; }
+  .footer-stack { display: flex; gap: 0.6rem; }
+  .stack-pill {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.58rem;
+    color: var(--text-faint);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    padding: 3px 8px;
+    border-radius: 2px;
+  }
+
+  @media (max-width: 768px) {
+    .container, header, .tabs-bar { padding-left: 1rem; padding-right: 1rem; }
+    .grid { grid-template-columns: 1fr; }
+    .stats-bar { gap: 1.25rem; flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <span class="logo-mark">Signal</span>
+    <span class="logo-sub">Investment Intelligence</span>
+  </div>
+  <div class="header-right">
+    <div class="live-badge">
+      <div class="pulse"></div>
+      <span id="lastUpdated">Loading...</span>
+    </div>
+    <button class="btn" onclick="loadData()">↺ Refresh</button>
+  </div>
+</header>
+
+<div class="tabs-bar">
+  <button class="tab active" onclick="showTab('feed',this)">
+    Latest Feed <span class="tab-count" id="tcFeed">0</span>
+  </button>
+  <button class="tab" onclick="showTab('digest',this)">
+    Monthly Digest
+  </button>
+  <button class="tab" onclick="showTab('archive',this)">
+    Archive <span class="tab-count" id="tcArchive">0</span>
+  </button>
+</div>
+
+<!-- ══ FEED PANE ══════════════════════════════════════════════ -->
+<div id="feedPane" class="pane active">
+  <div class="container">
+    <div class="stats-bar">
+      <div class="stat"><span class="stat-num" id="sTotal">—</span><span class="stat-label">This Month</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-num" id="sThemes">—</span><span class="stat-label">Themes</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-num" id="sNew">—</span><span class="stat-label">New Today</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-num" id="sRegions">—</span><span class="stat-label">Regions</span></div>
+    </div>
+
+    <div class="filters-row" id="filtersRow">
+      <span class="filter-label">Filter</span>
+      <button class="filter-chip on" data-f="all" onclick="setFilter('all',this)">All</button>
+      <div class="search-box">
+        <input type="text" placeholder="Search..." oninput="setSearch(this.value)">
+      </div>
+    </div>
+
+    <div class="section-row">
+      <span class="section-title" id="feedHeading">This Month's Intelligence</span>
+      <div class="section-meta">
+        <span id="feedCount">—</span>
+        <div class="view-toggle">
+          <button class="vbtn on" onclick="setView('grid',this)">Grid</button>
+          <button class="vbtn" onclick="setView('list',this)">List</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid" id="feedGrid"></div>
+
+    <footer>
+      <div class="footer-left">Signal — Personal Investment Intelligence · AI summaries via Claude Haiku · ~$0.04/month</div>
+      <div class="footer-stack">
+        <span class="stack-pill">Claude Haiku</span>
+        <span class="stack-pill">Gmail</span>
+        <span class="stack-pill">GitHub Actions</span>
+      </div>
+    </footer>
+  </div>
+</div>
+
+<!-- ══ DIGEST PANE ════════════════════════════════════════════ -->
+<div id="digestPane" class="pane">
+  <div class="container">
+    <div class="digest-controls">
+      <div class="digest-title-block">
+        <span class="digest-month" id="digestMonthTitle">—</span>
+        <span class="digest-subtitle">Monthly Investment Intelligence Digest</span>
+      </div>
+      <div class="digest-btns">
+        <button class="btn" onclick="window.print()">🖨 Print</button>
+        <button class="btn btn-accent" onclick="downloadDigestPDF()">↓ Download PDF</button>
+      </div>
+    </div>
+    <p class="digest-intro" id="digestIntro"></p>
+    <div id="digestContent"></div>
+    <div class="digest-empty" id="digestEmpty" style="display:none">No articles this month yet. Check back as newsletters arrive.</div>
+  </div>
+</div>
+
+<!-- ══ ARCHIVE PANE ═══════════════════════════════════════════ -->
+<div id="archivePane" class="pane">
+  <div class="container">
+    <div class="archive-header">
+      <div class="archive-title">Archive</div>
+      <div class="archive-sub">Past articles and monthly digests</div>
+    </div>
+
+    <div class="archive-tabs">
+      <button class="archive-tab on" onclick="showArchiveTab('articles',this)">Past Articles</button>
+      <button class="archive-tab" onclick="showArchiveTab('digests',this)">Past Digests</button>
+    </div>
+
+    <div id="archiveArticles"></div>
+    <div id="archiveDigests" style="display:none"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ── Source URLs ──────────────────────────────────────────────
+const SOURCE_URLS = {
+  "Term Sheet": "https://fortune.com/section/term-sheet/",
+  "Pro Rata": "https://www.axios.com/newsletters/axios-pro-rata",
+  "PitchBook": "https://pitchbook.com/news/newsletters",
+  "CB Insights": "https://www.cbinsights.com/newsletter",
+  "The Diff": "https://www.thediff.co",
+  "Not Boring": "https://www.notboring.co",
+  "The Generalist": "https://www.generalist.com",
+  "Exponential View": "https://www.exponentialview.co",
+  "Benedict Evans": "https://www.ben-evans.com/newsletter",
+  "Stratechery": "https://stratechery.com",
+  "Deep Tech Newsletter": "https://deeptechnewsletter.com",
+  "Defense Tech Newsletter": "https://defensetechnewsletter.curated.co",
+  "Tech Buzz China": "https://www.techbuzzchina.com",
+  "TechNode": "https://technode.com",
+  "Caixin Global": "https://www.caixinglobal.com",
+  "Sifted": "https://sifted.eu",
+  "Maddyness": "https://www.maddyness.com",
+  "Heatmap": "https://heatmap.news",
+  "Volts": "https://www.volts.wtf",
+  "Latitude Media": "https://www.latitudemedia.com",
+  "Fintech Business Weekly": "https://fintechbusinessweekly.substack.com",
+  "Fintech Blueprint": "https://www.fintechblueprint.com",
+};
+
+// ── State ────────────────────────────────────────────────────
+let allArticles = [];
+let currentFilter = 'all';
+let currentSearch = '';
+let currentView = 'grid';
+let currentArchiveTab = 'articles';
+
+const NOW = new Date();
+const CURRENT_MONTH = `${NOW.getFullYear()}-${String(NOW.getMonth()+1).padStart(2,'0')}`;
+
+function monthKey(dateStr) {
+  return dateStr.slice(0, 7); // "YYYY-MM"
+}
+
+function isCurrentMonth(dateStr) {
+  return monthKey(dateStr) === CURRENT_MONTH;
+}
+
+function monthLabel(key) {
+  const [y, m] = key.split('-');
+  return new Date(+y, +m-1, 1).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+}
+
+function getUrl(n) {
+  if (n.url && n.url.length > 5) return n.url;
+  return SOURCE_URLS[n.title] || '#';
+}
+
+function fmtDate(d) {
+  return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function hexRgba(hex, a) {
+  const r = parseInt(hex.slice(1,3),16), g = parseInt(hex.slice(3,5),16), b = parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${a})`;
+}
+
+// ── Load ─────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch('newsletters.json?t=' + Date.now());
+    const data = await res.json();
+    allArticles = data.newsletters || [];
+
+    const d = new Date(data.lastUpdated);
+    document.getElementById('lastUpdated').textContent =
+      `Updated ${d.toLocaleDateString('en-GB',{day:'numeric',month:'short'})} ${d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})}`;
+
+    buildFilters(data.themes || []);
+    renderFeed();
+    renderDigest();
+    renderArchive();
+    updateTabCounts();
+
+  } catch(e) {
+    document.getElementById('lastUpdated').textContent = 'No data yet';
+    document.getElementById('feedGrid').innerHTML = '<div class="empty">No newsletters loaded yet. Run the ingestion workflow to populate.</div>';
+  }
+}
+
+// ── Filters ──────────────────────────────────────────────────
+function buildFilters(themes) {
+  const row = document.getElementById('filtersRow');
+  const search = row.querySelector('.search-box');
+  // Remove old theme chips
+  row.querySelectorAll('[data-f]:not([data-f="all"])').forEach(b => b.remove());
+  themes.forEach(t => {
+    const b = document.createElement('button');
+    b.className = 'filter-chip';
+    b.dataset.f = t.name;
+    b.onclick = () => setFilter(t.name, b);
+    b.innerHTML = `<span class="filter-dot" style="background:${t.color}"></span>${t.name}`;
+    row.insertBefore(b, search);
+  });
+}
+
+function setFilter(val, btn) {
+  currentFilter = val;
+  document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  renderFeed();
+}
+
+function setSearch(q) {
+  currentSearch = q.toLowerCase();
+  renderFeed();
+}
+
+function setView(v, btn) {
+  currentView = v;
+  document.querySelectorAll('.vbtn').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  renderFeed();
+}
+
+// ── Feed ─────────────────────────────────────────────────────
+function renderFeed() {
+  const thisMonth = allArticles.filter(n => isCurrentMonth(n.date));
+  const today = new Date().toISOString().split('T')[0];
+  const regions = [...new Set(thisMonth.map(n => n.region))];
+  const themes = [...new Set(thisMonth.map(n => n.theme))];
+
+  document.getElementById('sTotal').textContent = thisMonth.length;
+  document.getElementById('sThemes').textContent = themes.length;
+  document.getElementById('sNew').textContent = thisMonth.filter(n => n.date === today).length;
+  document.getElementById('sRegions').textContent = regions.length;
+
+  const filtered = thisMonth.filter(n => {
+    const mf = currentFilter === 'all' || n.theme === currentFilter || n.region === currentFilter;
+    const ms = !currentSearch ||
+      n.title.toLowerCase().includes(currentSearch) ||
+      n.summary.toLowerCase().includes(currentSearch) ||
+      (n.keyTakeaways||[]).some(t => t.toLowerCase().includes(currentSearch));
+    return mf && ms;
+  });
+
+  document.getElementById('feedCount').textContent = `${filtered.length} article${filtered.length!==1?'s':''}`;
+
+  const grid = document.getElementById('feedGrid');
+  grid.style.gridTemplateColumns = currentView === 'list' ? '1fr' : '';
+  grid.innerHTML = '';
+
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="empty">No articles match your filter.</div>';
+    return;
+  }
+
+  filtered.forEach(n => grid.appendChild(makeCard(n)));
+}
+
+function makeCard(n) {
+  const el = document.createElement('div');
+  el.className = 'card';
+  el.style.setProperty('--theme-color', n.themeColor);
+
+  const bg = hexRgba(n.themeColor, 0.09);
+  const url = getUrl(n);
+  const tks = (n.keyTakeaways||[]).map(t => `<li class="tk">${t}</li>`).join('');
+  const orig = n.originalTitle ? `<div class="card-original">${n.originalTitle}</div>` : '';
+
+  el.innerHTML = `
+    <div class="card-top">
+      <div class="card-left">
+        <span class="card-source">${n.source}</span>
+        <span class="card-name">${n.title}</span>
+        ${orig}
+      </div>
+      <div class="card-right">
+        <span class="badge-theme" style="background:${bg};color:${n.themeColor}">${n.theme}</span>
+        <span class="badge-region">${n.region}</span>
+      </div>
+    </div>
+    <p class="card-summary">${n.summary}</p>
+    <div class="takeaways-head">Key Takeaways</div>
+    <ul class="takeaways">${tks}</ul>
+    <div class="card-foot">
+      <span class="card-date">${fmtDate(n.date)}</span>
+      <div class="card-actions">
+        <span class="card-min">${n.readTime} min</span>
+        <button class="btn-expand" onclick="toggleCard(this)">Expand ▾</button>
+        <a class="btn-read" href="${url}" target="_blank" rel="noopener">→ Read</a>
+      </div>
+    </div>`;
+  return el;
+}
+
+function toggleCard(btn) {
+  const card = btn.closest('.card');
+  card.classList.toggle('open');
+  btn.textContent = card.classList.contains('open') ? 'Collapse ▴' : 'Expand ▾';
+}
+
+// ── Digest ───────────────────────────────────────────────────
+function renderDigest() {
+  const thisMonth = allArticles.filter(n => isCurrentMonth(n.date));
+  document.getElementById('digestMonthTitle').textContent = monthLabel(CURRENT_MONTH);
+
+  const content = document.getElementById('digestContent');
+  const empty = document.getElementById('digestEmpty');
+
+  if (!thisMonth.length) {
+    content.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+
+  empty.style.display = 'none';
+
+  const today = new Date().toLocaleDateString('en-GB', {weekday:'long', day:'numeric', month:'long', year:'numeric'});
+  document.getElementById('digestIntro').textContent =
+    `This digest compiles the key investment signals from ${thisMonth.length} newsletter${thisMonth.length>1?'s':''} tracked by Signal throughout ${monthLabel(CURRENT_MONTH)}. Content is organised by theme and written to surface the most actionable insights for a global VC and private equity audience. It is updated continuously as new editions arrive.`;
+
+  // Group by theme
+  const byTheme = {};
+  thisMonth.forEach(n => {
+    if (!byTheme[n.theme]) byTheme[n.theme] = { color: n.themeColor, items: [] };
+    byTheme[n.theme].items.push(n);
+  });
+
+  content.innerHTML = Object.entries(byTheme).map(([theme, g]) => {
+    const articles = g.items.map(n => {
+      const url = getUrl(n);
+      const tks = (n.keyTakeaways||[]).map(t => `<li class="digest-tk">${t}</li>`).join('');
+      const link = url !== '#' ? `<a class="digest-art-link" href="${url}" target="_blank" rel="noopener">Read full article →</a>` : '';
+      return `
+        <div class="digest-article">
+          <div class="digest-art-meta">${n.source} · ${fmtDate(n.date)}</div>
+          <p class="digest-art-summary">${n.summary}</p>
+          <ul class="digest-art-tks">${tks}</ul>
+          ${link}
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="digest-section">
+        <div class="digest-section-head">
+          <div class="digest-section-dot" style="background:${g.color}"></div>
+          <span class="digest-section-name">${theme}</span>
+          <span class="digest-section-n">${g.items.length} source${g.items.length>1?'s':''}</span>
+        </div>
+        ${articles}
+      </div>`;
+  }).join('');
+}
+
+function downloadDigestPDF() {
+  showToast('Opening print dialog — save as PDF from there');
+  setTimeout(() => window.print(), 400);
+}
+
+// ── Archive ──────────────────────────────────────────────────
+function renderArchive() {
+  const past = allArticles.filter(n => !isCurrentMonth(n.date));
+
+  // Group by month
+  const byMonth = {};
+  past.forEach(n => {
+    const mk = monthKey(n.date);
+    if (!byMonth[mk]) byMonth[mk] = [];
+    byMonth[mk].push(n);
+  });
+
+  const months = Object.keys(byMonth).sort().reverse();
+
+  // Articles section
+  const artEl = document.getElementById('archiveArticles');
+  if (!months.length) {
+    artEl.innerHTML = '<div class="digest-empty">No archived articles yet. Articles move here after one month.</div>';
+  } else {
+    artEl.innerHTML = months.map(mk => {
+      const items = byMonth[mk];
+      const cards = items.map(n => `
+        <div class="archive-card">
+          <div class="archive-card-source">${n.source} · ${fmtDate(n.date)}</div>
+          <div class="archive-card-title">${n.title}</div>
+          <div class="archive-card-summary">${n.summary}</div>
+        </div>`).join('');
+      return `
+        <div class="archive-month-group">
+          <div class="archive-month-label">
+            ${monthLabel(mk)}
+            <span class="archive-month-count">${items.length} article${items.length>1?'s':''}</span>
+          </div>
+          <div class="archive-articles-grid">${cards}</div>
+        </div>`;
+    }).join('');
+  }
+
+  // Digests section
+  const digestEl = document.getElementById('archiveDigests');
+  if (!months.length) {
+    digestEl.innerHTML = '<div class="digest-empty">No archived digests yet. Digests move here at the start of each new month.</div>';
+  } else {
+    digestEl.innerHTML = months.map(mk => {
+      const items = byMonth[mk];
+      return `
+        <div class="digest-archive-item">
+          <div class="digest-archive-left">
+            <span class="digest-archive-month">${monthLabel(mk)} Digest</span>
+            <span class="digest-archive-meta">${items.length} article${items.length>1?'s':''} · ${[...new Set(items.map(n=>n.theme))].length} themes</span>
+          </div>
+          <div class="digest-archive-btns">
+            <button class="btn" onclick="viewArchivedDigest('${mk}')">View</button>
+            <button class="btn btn-accent" onclick="printArchivedDigest('${mk}')">↓ PDF</button>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  document.getElementById('tcArchive').textContent = past.length;
+}
+
+function showArchiveTab(tab, btn) {
+  currentArchiveTab = tab;
+  document.querySelectorAll('.archive-tab').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  document.getElementById('archiveArticles').style.display = tab === 'articles' ? 'block' : 'none';
+  document.getElementById('archiveDigests').style.display = tab === 'digests' ? 'block' : 'none';
+}
+
+function viewArchivedDigest(mk) {
+  // Build a printable digest for this month in a new window
+  const items = allArticles.filter(n => monthKey(n.date) === mk);
+  const byTheme = {};
+  items.forEach(n => {
+    if (!byTheme[n.theme]) byTheme[n.theme] = { color: n.themeColor, items: [] };
+    byTheme[n.theme].items.push(n);
+  });
+
+  const sections = Object.entries(byTheme).map(([theme, g]) => {
+    const arts = g.items.map(n => {
+      const url = getUrl(n);
+      const tks = (n.keyTakeaways||[]).map(t => `<li style="margin-bottom:4px;padding-left:14px;position:relative;font-size:13px;color:#444"><span style="position:absolute;left:0;color:#999">→</span>${t}</li>`).join('');
+      const link = url !== '#' ? `<a href="${url}" target="_blank" style="font-size:12px;color:#8B6914;font-weight:500">Read full article →</a>` : '';
+      return `<div style="margin-bottom:20px;padding-left:16px;border-left:2px solid #ddd">
+        <div style="font-size:10px;text-transform:uppercase;letter-spacing:0.14em;color:#999;font-weight:600;margin-bottom:4px">${n.source} · ${fmtDate(n.date)}</div>
+        <p style="font-size:14px;line-height:1.7;color:#222;margin-bottom:8px">${n.summary}</p>
+        <ul style="list-style:none;margin-bottom:8px">${tks}</ul>
+        ${link}
+      </div>`;
+    }).join('');
+    return `<div style="margin-bottom:36px">
+      <div style="display:flex;align-items:center;gap:8px;border-bottom:1px solid #eee;padding-bottom:10px;margin-bottom:16px">
+        <div style="width:9px;height:9px;border-radius:50%;background:${g.color};flex-shrink:0"></div>
+        <span style="font-family:Georgia,serif;font-size:18px;color:#1C1C1A">${theme}</span>
+        <span style="font-size:11px;color:#aaa;margin-left:auto">${g.items.length} source${g.items.length>1?'s':''}</span>
+      </div>
+      ${arts}
+    </div>`;
+  }).join('');
+
+  const html = `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Signal Digest — ${monthLabel(mk)}</title>
+  <style>body{font-family:'Georgia',serif;max-width:800px;margin:40px auto;padding:0 24px;color:#1C1C1A;background:#fff}
+  @media print{button{display:none}}</style></head><body>
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2px solid #1C1C1A;padding-bottom:16px;margin-bottom:24px">
+    <div>
+      <div style="font-size:28px;font-weight:400;margin-bottom:4px">${monthLabel(mk)} Digest</div>
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:0.16em;color:#999;font-weight:600">Signal — Monthly Investment Intelligence</div>
+    </div>
+    <button onclick="window.print()" style="padding:6px 14px;border:1px solid #ddd;border-radius:3px;cursor:pointer;font-size:12px">Print / Save PDF</button>
+  </div>
+  <p style="font-style:italic;font-size:15px;line-height:1.8;color:#555;border-left:2px solid #8B6914;padding-left:16px;margin-bottom:32px">
+    This digest compiles the key investment signals from ${items.length} newsletter${items.length>1?'s':''} tracked by Signal throughout ${monthLabel(mk)}.
+  </p>
+  ${sections}
+  </body></html>`;
+
+  const w = window.open('', '_blank');
+  w.document.write(html);
+  w.document.close();
+}
+
+function printArchivedDigest(mk) {
+  viewArchivedDigest(mk);
+  setTimeout(() => {}, 500);
+}
+
+// ── Tab navigation ───────────────────────────────────────────
+function showTab(id, btn) {
+  document.querySelectorAll('.pane').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(id + 'Pane').classList.add('active');
+  btn.classList.add('active');
+}
+
+function updateTabCounts() {
+  const thisMonth = allArticles.filter(n => isCurrentMonth(n.date));
+  const past = allArticles.filter(n => !isCurrentMonth(n.date));
+  document.getElementById('tcFeed').textContent = thisMonth.length;
+  document.getElementById('tcArchive').textContent = past.length;
+}
+
+// ── Toast ────────────────────────────────────────────────────
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3000);
+}
+
+loadData();
+</script>
+</body>
+</html>
