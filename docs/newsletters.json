@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "3337bf3c",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-03-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX is preparing an unprecedented $75 billion IPO that could raise more capital than the entire U.S. IPO market in 2024-2025 combined, aiming for a $1 trillion+ valuation. The offering presents four major risks: its massive scale, the uncertain viability of Musk's recent mergers (xAI into SpaceX, X into xAI), regulatory concerns around Musk's social media conduct as an insider, and the substantial losses at xAI despite investor enthusiasm for AI. Meanwhile, Sysco agreed to acquire Jetro Restaurant Depot for $29.1 billion, creating a dominant food services player at a time of elevated food price inflation.",
+      "keyTakeaways": [
+        "SpaceX's IPO will be a critical market test for AI-heavy companies with significant cash burn\u2014if public investors reject xAI's losses, it could cool valuations for OpenAI and Anthropic before their expected 2026 public debuts.",
+        "The merger complexity (xAI + X combined into SpaceX) and lack of meaningful historical financials create unusual execution risk; investors will be betting on Musk's vision for one million orbital data centers with limited evidence of viability.",
+        "Sysco's $29 billion Restaurant Depot acquisition signals consolidation in food services amid persistent inflation, potentially signaling M&A appetite in mature industries where scale and leverage can offset rising input costs."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Blast off"
+    },
+    {
       "id": "c33e2b26",
       "title": "Newsletter",
       "source": "Substack",
@@ -211,14 +229,14 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 3
+    },
+    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 7
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 2
     },
     {
       "name": "Climate & Energy",
@@ -236,5 +254,5 @@
       "count": 2
     }
   ],
-  "lastUpdated": "2026-03-30T13:06:33.443131Z"
+  "lastUpdated": "2026-03-30T13:15:09.936843Z"
 }
