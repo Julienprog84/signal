@@ -58,7 +58,6 @@ SENDER_MAP = [
     {"match": "fintechbusinessweekly",     "name": "Fintech Business Weekly", "source": "Jason Mikula",           "theme": "Fintech",             "themeColor": "#0D9488", "region": "Global"},
     {"match": "fintechblueprint",          "name": "Fintech Blueprint",       "source": "Lex Sokolin",            "theme": "Fintech",             "themeColor": "#0D9488", "region": "Global"},
     # Substack fallback (many newsletters use substack.com as sender)
-    {"match": "substack.com",              "name": "Newsletter",              "source": "Substack",               "theme": "Strategy & Thesis",   "themeColor": "#0891B2", "region": "Global"},
 ]
 
 def match_sender(from_addr):
