@@ -1003,7 +1003,6 @@
         <span class="digest-subtitle">Monthly Investment Intelligence Digest</span>
       </div>
       <div class="digest-btns">
-        <button class="btn" id="btnGenerate" onclick="generateDigest()">✦ Generate Digest</button>
         <button class="btn" onclick="window.print()" id="btnPrint" style="display:none">🖨 Print</button>
         <button class="btn btn-accent" onclick="downloadDigestPDF()" id="btnPDF" style="display:none">↓ Download PDF</button>
       </div>
@@ -1012,34 +1011,18 @@
     <!-- Loading state -->
     <div id="digestLoading" style="display:none">
       <div style="padding:3rem 0;text-align:center;color:var(--text-faint)">
-        <div style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:400;margin-bottom:8px;color:var(--text-dim)">Synthesising intelligence briefing...</div>
-        <div style="font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase">Reading across <span id="loadingCount">—</span> articles · Identifying patterns · Writing analysis</div>
-        <div style="margin-top:1.5rem;height:2px;background:var(--bg3);border-radius:2px;overflow:hidden;max-width:320px;margin-left:auto;margin-right:auto">
-          <div id="loadingBar" style="height:100%;background:var(--accent);width:0%;transition:width 0.4s;border-radius:2px"></div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Prompt state (before generation) -->
-    <div id="digestPrompt">
-      <div style="padding:3rem 0 2rem;max-width:600px">
-        <p style="font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-style:italic;line-height:1.8;color:var(--text-dim);margin-bottom:1.5rem">
-          Click <strong style="font-style:normal;color:var(--text)">Generate Digest</strong> to produce a synthesised intelligence briefing across all this month's newsletters. Rather than listing articles, it reads across sources to identify emerging patterns, surfacing cross-theme signals and ending with a "So what?" section for VC and PE investors.
-        </p>
-        <div style="margin-bottom:1rem">
-          <label style="font-size:0.65rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--text-faint);font-weight:600;display:block;margin-bottom:6px">Anthropic API Key (stored in browser only)</label>
-          <input type="password" id="digestApiKey" placeholder="sk-ant-..." style="background:var(--bg2);border:1px solid var(--border-mid);color:var(--text);padding:7px 12px;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.78rem;width:340px;outline:none">
-        </div>
-        <div style="font-size:0.72rem;color:var(--text-faint);font-family:'JetBrains Mono',monospace" id="digestStats"></div>
+        <div style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--text-dim);margin-bottom:6px">Loading digest...</div>
       </div>
     </div>
 
     <!-- Generated digest -->
-    <div id="digestOutput" style="display:none">
+    <div id="digestOutput">
       <div id="digestContent" style="max-width:820px"></div>
     </div>
 
-    <div class="digest-empty" id="digestEmpty" style="display:none">No articles this month yet. Check back as newsletters arrive.</div>
+    <div class="digest-empty" id="digestEmpty" style="display:none">
+      The monthly digest is generated automatically every day by the ingestion script. Check back after the next scheduled run (9am Paris time).
+    </div>
   </div>
 </div>
 
@@ -1263,172 +1246,68 @@ function toggleCard(btn) {
 }
 
 // ── Digest ───────────────────────────────────────────────────
-let digestGenerated = false;
-
-function renderDigest() {
+async function renderDigest() {
   const thisMonth = allArticles.filter(n => isCurrentMonth(n.date));
   document.getElementById('digestMonthTitle').textContent = monthLabel(CURRENT_MONTH);
 
   const empty = document.getElementById('digestEmpty');
-  const prompt = document.getElementById('digestPrompt');
   const output = document.getElementById('digestOutput');
+  const loading = document.getElementById('digestLoading');
 
   if (!thisMonth.length) {
     empty.style.display = 'block';
-    prompt.style.display = 'none';
+    output.style.display = 'none';
     return;
   }
 
   empty.style.display = 'none';
 
-  // Show stats in prompt area
-  const themes = [...new Set(thisMonth.map(n => n.theme))];
-  const stats = document.getElementById('digestStats');
-  if (stats) {
-    stats.textContent = `${thisMonth.length} articles · ${themes.length} themes · ${monthLabel(CURRENT_MONTH)}`;
-  }
-
-  // If already generated this session, keep showing it
-  if (!digestGenerated) {
-    prompt.style.display = 'block';
-    output.style.display = 'none';
-  }
-}
-
-async function generateDigest() {
-  const thisMonth = allArticles.filter(n => isCurrentMonth(n.date))
-    .filter(n => n.summary && !n.summary.includes('Unable to generate'));
-
-  if (!thisMonth.length) {
-    showToast('No articles with summaries yet');
-    return;
-  }
-
-  const apiKey = document.getElementById('digestApiKey').value.trim();
-  if (!apiKey) {
-    showToast('Please enter your Anthropic API key first');
-    return;
-  }
-  sessionStorage.setItem('signal_api_key', apiKey);
-
-  // Show loading
-  document.getElementById('digestPrompt').style.display = 'none';
-  document.getElementById('digestOutput').style.display = 'none';
-  document.getElementById('digestLoading').style.display = 'block';
-  document.getElementById('btnGenerate').disabled = true;
-  document.getElementById('btnGenerate').textContent = 'Generating...';
-  document.getElementById('loadingCount').textContent = thisMonth.length;
-
-  // Animate loading bar
-  let progress = 0;
-  const bar = document.getElementById('loadingBar');
-  const barInterval = setInterval(() => {
-    progress = Math.min(progress + Math.random() * 8, 85);
-    bar.style.width = progress + '%';
-  }, 400);
-
-  // Group by theme for the prompt
-  const byTheme = {};
-  thisMonth.forEach(n => {
-    if (!byTheme[n.theme]) byTheme[n.theme] = [];
-    byTheme[n.theme].push(n);
-  });
-
-  // Build the prompt
-  const themeBlocks = Object.entries(byTheme).map(([theme, items]) => {
-    const articleSummaries = items.map(n =>
-      `- ${n.source} (${n.date}): ${n.summary} Key signals: ${(n.keyTakeaways||[]).join('; ')}`
-    ).join('\n');
-    return `THEME: ${theme}\n${articleSummaries}`;
-  }).join('\n\n');
-
-  const prompt = `You are a senior investment analyst writing a monthly briefing for a global VC and private equity investor. You have read the following newsletter summaries from ${monthLabel(CURRENT_MONTH)}:
-
-${themeBlocks}
-
-Write a synthesised investment intelligence briefing. Do NOT simply summarise each article individually. Instead:
-
-1. For each theme, write 2-3 paragraphs of analytical prose that identifies the common threads, emerging patterns, tensions, and contradictions ACROSS the articles in that theme. Write as a senior analyst would — with conviction, specific references to companies/figures mentioned, and investment implications.
-
-2. After the theme sections, write a "So What?" section with 4-6 short paragraphs, each addressing one cross-theme macro signal or investment implication for a VC/PE investor. These should connect dots across themes.
-
-Use clear, journalistic prose. No bullet points. No headers beyond the theme names and "So What?". Be specific — name companies, figures, and dates when relevant. Be analytical, not descriptive.
-
-Respond in JSON only, no markdown:
-{
-  "intro": "2 sentence framing of this month's macro context",
-  "themes": [
-    {
-      "name": "theme name exactly as given",
-      "synthesis": "full analytical paragraphs as a single string with \\n\\n between paragraphs",
-      "sources": ["source1", "source2"]
-    }
-  ],
-  "sowhat": "4-6 short paragraphs as a single string with \\n\\n between paragraphs, each being a distinct cross-theme investment signal"
-}`;
-
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-api-key': apiKey, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 4000,
-        messages: [{ role: 'user', content: prompt }]
-      })
+    loading.style.display = 'block';
+    output.style.display = 'none';
+
+    const res = await fetch('digest-current.json?t=' + Date.now());
+    if (!res.ok) throw new Error('No digest file yet');
+    const digest = await res.json();
+
+    loading.style.display = 'none';
+    output.style.display = 'block';
+
+    const byTheme = {};
+    thisMonth.forEach(n => {
+      if (!byTheme[n.theme]) byTheme[n.theme] = [];
+      byTheme[n.theme].push(n);
     });
 
-    const data = await res.json();
-    let raw = data.content[0].text.trim();
-    raw = raw.replace(/^```json\s*/,'').replace(/\s*```$/,'');
-    const digest = JSON.parse(raw);
-
-    // Complete loading bar
-    clearInterval(barInterval);
-    bar.style.width = '100%';
-    await new Promise(r => setTimeout(r, 400));
-
-    // Render
-    renderDigestOutput(digest, byTheme, thisMonth.length);
-    digestGenerated = true;
-
-    document.getElementById('digestLoading').style.display = 'none';
-    document.getElementById('digestOutput').style.display = 'block';
-    document.getElementById('btnGenerate').textContent = '↺ Regenerate';
-    document.getElementById('btnGenerate').disabled = false;
+    renderDigestOutput(digest, byTheme);
     document.getElementById('btnPrint').style.display = 'inline-block';
     document.getElementById('btnPDF').style.display = 'inline-block';
 
   } catch(e) {
-    clearInterval(barInterval);
-    document.getElementById('digestLoading').style.display = 'none';
-    document.getElementById('digestPrompt').style.display = 'block';
-    document.getElementById('btnGenerate').disabled = false;
-    document.getElementById('btnGenerate').textContent = '✦ Generate Digest';
-    showToast('Error generating digest — check API key in browser console');
-    console.error(e);
+    loading.style.display = 'none';
+    output.style.display = 'block';
+    document.getElementById('digestContent').innerHTML = `
+      <p class="digest-lead" style="font-style:normal;color:var(--text-dim);font-size:0.9rem">
+        The digest for ${monthLabel(CURRENT_MONTH)} is being prepared. It will appear here automatically after the next daily run (9am Paris time). ${thisMonth.length} article${thisMonth.length>1?'s are':' is'} ready to be synthesised.
+      </p>`;
   }
 }
 
-function renderDigestOutput(digest, byTheme, totalCount) {
+function renderDigestOutput(digest, byTheme) {
   const content = document.getElementById('digestContent');
 
-  // Build theme color map
-  const themeColors = {};
-  allArticles.forEach(n => { themeColors[n.theme] = n.themeColor; });
-
   const themeSections = (digest.themes || []).map(t => {
-    const color = themeColors[t.name] || '#8B6914';
-    const paraCount = (t.synthesis || '').split('\n\n').filter(Boolean).length;
+    const color = t.color || '#8B6914';
     const parasHTML = (t.synthesis || '').split('\n\n').filter(Boolean)
       .map(p => `<p>${p}</p>`).join('');
     const sources = (t.sources || []).join(', ');
+    const count = byTheme[t.name]?.length || 0;
     return `
       <div class="digest-theme-block">
         <div class="digest-theme-head">
           <div class="digest-theme-dot" style="background:${color}"></div>
           <span class="digest-theme-name">${t.name}</span>
-          <span class="digest-theme-count">${byTheme[t.name]?.length || 0} source${(byTheme[t.name]?.length||0)>1?'s':''}</span>
+          <span class="digest-theme-count">${count} source${count>1?'s':''}</span>
         </div>
         <div class="digest-synthesis">${parasHTML}</div>
         ${sources ? `<div class="digest-sources-line">Sources: ${sources}</div>` : ''}
@@ -1438,7 +1317,12 @@ function renderDigestOutput(digest, byTheme, totalCount) {
   const sowhatParas = (digest.sowhat || '').split('\n\n').filter(Boolean)
     .map(p => `<p>${p}</p>`).join('');
 
+  const generatedAt = digest.generatedAt
+    ? `Generated ${new Date(digest.generatedAt).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})} · ${digest.articleCount || '?'} articles`
+    : '';
+
   content.innerHTML = `
+    ${generatedAt ? `<div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--text-faint);margin-bottom:1.5rem">${generatedAt}</div>` : ''}
     <p class="digest-lead">${digest.intro || ''}</p>
     ${themeSections}
     <div class="digest-sowhat">
