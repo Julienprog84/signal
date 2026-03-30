@@ -30,4 +30,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update newsletters"
-          file_pattern: docs/newsletters.json
+          file_pattern: docs/newsletters.json docs/digest-*.json
