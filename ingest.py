@@ -1,7 +1,10 @@
 """
-Signal — Gmail Ingestion Script
+Signal — Gmail Ingestion + Auto Digest Script
 Fetches unread newsletters from Gmail, summarizes with Claude Haiku,
-updates docs/newsletters.json which powers the dashboard.
+generates a monthly digest synthesis, and updates docs/ folder.
+
+Daily run: fetches new emails, updates newsletters.json, regenerates digest
+Month-end: archives previous month's digest to digest-YYYY-MM.json
 """
 
 import imaplib
@@ -20,13 +23,11 @@ GMAIL_ADDRESS = os.environ["GMAIL_ADDRESS"]
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 DATA_PATH = "docs/newsletters.json"
-MAX_DAYS_OLD = 7
+DIGEST_PATH = "docs/digest-current.json"
 MAX_CONTENT_CHARS = 4000
-MAX_EMAILS = 20  # Max emails to process per run
+MAX_EMAILS = 30
 
 # ── Newsletter source mapping ────────────────────────────────────────────────
-# Maps sender email/domain to theme metadata
-# Add new newsletters here as you subscribe to more
 SENDER_MAP = [
     # VC & Deal Flow
     {"match": "fortune.com",               "name": "Term Sheet",              "source": "Fortune / Dan Primack",  "theme": "VC & Deal Flow",      "themeColor": "#E84B2E", "region": "US"},
@@ -57,74 +58,8 @@ SENDER_MAP = [
     # Fintech
     {"match": "fintechbusinessweekly",     "name": "Fintech Business Weekly", "source": "Jason Mikula",           "theme": "Fintech",             "themeColor": "#0D9488", "region": "Global"},
     {"match": "fintechblueprint",          "name": "Fintech Blueprint",       "source": "Lex Sokolin",            "theme": "Fintech",             "themeColor": "#0D9488", "region": "Global"},
-    # Substack fallback (many newsletters use substack.com as sender)
 ]
 
-def match_sender(from_addr):
-    """Match email sender to a known newsletter source."""
-    from_addr = from_addr.lower()
-    for s in SENDER_MAP:
-        if s["match"] in from_addr:
-            return s
-    return None
-
-def decode_mime_header(value):
-    """Decode email header to string."""
-    if not value:
-        return ""
-    parts = decode_header(value)
-    decoded = []
-    for part, enc in parts:
-        if isinstance(part, bytes):
-            decoded.append(part.decode(enc or "utf-8", errors="replace"))
-        else:
-            decoded.append(part)
-    return " ".join(decoded)
-
-def extract_text(msg):
-    """Extract clean text from email message."""
-    text = ""
-    if msg.is_multipart():
-        for part in msg.walk():
-            ct = part.get_content_type()
-            if ct == "text/html":
-                try:
-                    payload = part.get_payload(decode=True)
-                    charset = part.get_content_charset() or "utf-8"
-                    html = payload.decode(charset, errors="replace")
-                    soup = BeautifulSoup(html, "html.parser")
-                    # Remove navigation, footer, unsubscribe sections
-                    for tag in soup(["nav", "footer", "script", "style"]):
-                        tag.decompose()
-                    text = soup.get_text(separator=" ", strip=True)
-                    break
-                except Exception:
-                    continue
-            elif ct == "text/plain" and not text:
-                try:
-                    payload = part.get_payload(decode=True)
-                    charset = part.get_content_charset() or "utf-8"
-                    text = payload.decode(charset, errors="replace")
-                except Exception:
-                    continue
-    else:
-        try:
-            payload = msg.get_payload(decode=True)
-            charset = msg.get_content_charset() or "utf-8"
-            raw = payload.decode(charset, errors="replace")
-            if "<html" in raw.lower():
-                soup = BeautifulSoup(raw, "html.parser")
-                text = soup.get_text(separator=" ", strip=True)
-            else:
-                text = raw
-        except Exception:
-            pass
-
-    # Clean up whitespace
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text[:MAX_CONTENT_CHARS]
-
-# Source URL map — fallback homepage per newsletter name
 SOURCE_URLS = {
     "Term Sheet": "https://fortune.com/section/term-sheet/",
     "Pro Rata": "https://www.axios.com/newsletters/axios-pro-rata",
@@ -150,9 +85,79 @@ SOURCE_URLS = {
     "Fintech Blueprint": "https://www.fintechblueprint.com",
 }
 
+# ── Helpers ──────────────────────────────────────────────────────────────────
+
+def match_sender(from_addr):
+    from_addr = from_addr.lower()
+    for s in SENDER_MAP:
+        if s["match"] in from_addr:
+            return s
+    return None
+
+def decode_mime_header(value):
+    if not value:
+        return ""
+    parts = decode_header(value)
+    decoded = []
+    for part, enc in parts:
+        if isinstance(part, bytes):
+            decoded.append(part.decode(enc or "utf-8", errors="replace"))
+        else:
+            decoded.append(part)
+    return " ".join(decoded)
+
+def extract_text(msg):
+    text = ""
+    if msg.is_multipart():
+        for part in msg.walk():
+            ct = part.get_content_type()
+            if ct == "text/html":
+                try:
+                    payload = part.get_payload(decode=True)
+                    charset = part.get_content_charset() or "utf-8"
+                    html = payload.decode(charset, errors="replace")
+                    soup = BeautifulSoup(html, "html.parser")
+                    for tag in soup(["nav", "footer", "script", "style"]):
+                        tag.decompose()
+                    text = soup.get_text(separator=" ", strip=True)
+                    break
+                except Exception:
+                    continue
+            elif ct == "text/plain" and not text:
+                try:
+                    payload = part.get_payload(decode=True)
+                    charset = part.get_content_charset() or "utf-8"
+                    text = payload.decode(charset, errors="replace")
+                except Exception:
+                    continue
+    else:
+        try:
+            payload = msg.get_payload(decode=True)
+            charset = msg.get_content_charset() or "utf-8"
+            raw = payload.decode(charset, errors="replace")
+            if "<html" in raw.lower():
+                soup = BeautifulSoup(raw, "html.parser")
+                text = soup.get_text(separator=" ", strip=True)
+            else:
+                text = raw
+        except Exception:
+            pass
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:MAX_CONTENT_CHARS]
+
+def month_key(date_str):
+    return date_str[:7]  # "YYYY-MM"
+
+def current_month_key():
+    return datetime.now().strftime("%Y-%m")
+
+def month_label(key):
+    y, m = key.split("-")
+    return datetime(int(y), int(m), 1).strftime("%B %Y")
+
+# ── Article Summarization ────────────────────────────────────────────────────
+
 def summarize(title, content, theme):
-    """Call Claude Haiku to summarize newsletter content.
-    Returns None if the email is not substantive editorial content."""
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
     prompt = f"""You are an investment intelligence analyst. Analyze this newsletter email and respond in JSON only.
@@ -190,10 +195,8 @@ If is_substantive is false, still return the full JSON structure but with empty 
         raw = re.sub(r'\s*```$', '', raw)
         result = json.loads(raw)
 
-        # Return None if Claude flagged as non-substantive
         if not result.get("is_substantive", True):
             return None
-
         return result
     except Exception as e:
         print(f"  ⚠ Claude error: {e}")
@@ -204,22 +207,103 @@ If is_substantive is false, still return the full JSON structure but with empty 
             "readTime": 5
         }
 
+# ── Digest Generation ────────────────────────────────────────────────────────
+
+def generate_digest(articles, month_key_str):
+    """Generate a synthesised monthly digest using Claude."""
+    # Filter to substantive articles only
+    good = [a for a in articles if a.get("summary") and "Unable to generate" not in a.get("summary","")]
+    if not good:
+        print("  ⚠ No substantive articles for digest")
+        return None
+
+    print(f"  ✦ Generating digest from {len(good)} articles...")
+
+    # Group by theme
+    by_theme = {}
+    for n in good:
+        if n["theme"] not in by_theme:
+            by_theme[n["theme"]] = []
+        by_theme[n["theme"]].append(n)
+
+    theme_blocks = []
+    for theme, items in by_theme.items():
+        summaries = "\n".join([
+            f"- {n['source']} ({n['date']}): {n['summary']} Key signals: {'; '.join(n.get('keyTakeaways', []))}"
+            for n in items
+        ])
+        theme_blocks.append(f"THEME: {theme}\n{summaries}")
+
+    prompt = f"""You are a senior investment analyst writing a monthly briefing for a global VC and private equity investor. You have read the following newsletter summaries from {month_label(month_key_str)}:
+
+{chr(10).join(theme_blocks)}
+
+Write a synthesised investment intelligence briefing. Do NOT simply summarise each article individually. Instead:
+
+1. For each theme, write 2-3 paragraphs of analytical prose that identifies the common threads, emerging patterns, tensions, and contradictions ACROSS the articles in that theme. Write as a senior analyst would — with conviction, specific references to companies/figures mentioned, and investment implications.
+
+2. After the theme sections, write a "So What?" section with 4-6 short paragraphs, each addressing one cross-theme macro signal or investment implication for a VC/PE investor. These should connect dots across themes.
+
+Use clear, journalistic prose. No bullet points. No headers beyond the theme names and "So What?". Be specific — name companies, figures, and dates when relevant. Be analytical, not descriptive.
+
+Respond in JSON only, no markdown:
+{{
+  "month": "{month_label(month_key_str)}",
+  "generatedAt": "{datetime.now().isoformat()}",
+  "articleCount": {len(good)},
+  "intro": "2 sentence framing of this month's macro context",
+  "themes": [
+    {{
+      "name": "theme name exactly as given",
+      "color": "hex color for this theme",
+      "synthesis": "full analytical paragraphs as a single string with \\n\\n between paragraphs",
+      "sources": ["source1", "source2"]
+    }}
+  ],
+  "sowhat": "4-6 short paragraphs as a single string with \\n\\n between paragraphs, each being a distinct cross-theme investment signal"
+}}"""
+
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    try:
+        message = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=4000,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        raw = message.content[0].text.strip()
+        raw = re.sub(r'^```json\s*', '', raw)
+        raw = re.sub(r'\s*```$', '', raw)
+
+        # Add theme colors from our map
+        result = json.loads(raw)
+        theme_colors = {n["theme"]: n["themeColor"] for n in good}
+        for t in result.get("themes", []):
+            if not t.get("color") or t["color"] == "hex color for this theme":
+                t["color"] = theme_colors.get(t["name"], "#8B6914")
+
+        print(f"  ✓ Digest generated: {len(result.get('themes',[]))} themes, {len(result.get('sowhat','').split(chr(10)+chr(10)))} insights")
+        return result
+
+    except Exception as e:
+        print(f"  ⚠ Digest generation error: {e}")
+        return None
+
+# ── Gmail Fetch ──────────────────────────────────────────────────────────────
+
 def fetch_gmail():
-    """Connect to Gmail via IMAP and fetch unread newsletters."""
     print("📬 Connecting to Gmail...")
     mail = imaplib.IMAP4_SSL("imap.gmail.com")
     mail.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
     mail.select("inbox")
 
-    # Search for unread emails from last 7 days
-    cutoff = (datetime.now() - timedelta(days=MAX_DAYS_OLD)).strftime("%d-%b-%Y")
-    _, data = mail.search(None, f'(UNSEEN SINCE "{cutoff}")')
+    # Search all unread emails
+    _, data = mail.search(None, 'UNSEEN')
     email_ids = data[0].split()
 
     print(f"  Found {len(email_ids)} unread emails")
     emails = []
 
-    for eid in email_ids[-MAX_EMAILS:]:  # Process most recent first
+    for eid in email_ids[-MAX_EMAILS:]:
         _, msg_data = mail.fetch(eid, "(RFC822)")
         msg = email.message_from_bytes(msg_data[0][1])
 
@@ -227,7 +311,6 @@ def fetch_gmail():
         subject = decode_mime_header(msg.get("Subject", ""))
         date_str = msg.get("Date", "")
 
-        # Parse date
         try:
             from email.utils import parsedate_to_datetime
             dt = parsedate_to_datetime(date_str)
@@ -235,7 +318,6 @@ def fetch_gmail():
         except Exception:
             date = datetime.now().strftime("%Y-%m-%d")
 
-        # Match to known source
         source_meta = match_sender(from_addr)
         if not source_meta:
             print(f"  ↷ Unknown sender, skipping: {from_addr[:50]}")
@@ -255,11 +337,10 @@ def fetch_gmail():
             "email_id": eid.decode()
         })
 
-        # Mark as read
-        mail.store(eid, '+FLAGS', '\\Seen')
-
     mail.logout()
     return emails
+
+# ── Data I/O ─────────────────────────────────────────────────────────────────
 
 def load_existing():
     if os.path.exists(DATA_PATH):
@@ -274,14 +355,34 @@ def save_data(data):
         json.dump(data, f, indent=2)
     print(f"✓ Saved {len(data['newsletters'])} newsletters to {DATA_PATH}")
 
+def save_digest(digest, month_key_str, is_archive=False):
+    os.makedirs("docs", exist_ok=True)
+    # Always save as current
+    with open(DIGEST_PATH, "w") as f:
+        json.dump(digest, f, indent=2)
+    # If archiving, also save with month key
+    if is_archive:
+        archive_path = f"docs/digest-{month_key_str}.json"
+        with open(archive_path, "w") as f:
+            json.dump(digest, f, indent=2)
+        print(f"✓ Archived digest to {archive_path}")
+    print(f"✓ Saved digest to {DIGEST_PATH}")
+
 def make_id(subject, date):
     return hashlib.md5(f"{subject}{date}".encode()).hexdigest()[:8]
 
+# ── Main ─────────────────────────────────────────────────────────────────────
+
 def ingest():
     print("🔄 Signal — Starting ingestion...")
+    now = datetime.now()
+    curr_month = current_month_key()
+    is_last_day = (now + timedelta(days=1)).month != now.month
+
     existing = load_existing()
     existing_ids = {n["id"] for n in existing["newsletters"]}
 
+    # Fetch and process new emails
     emails = fetch_gmail()
     new_items = []
 
@@ -321,9 +422,8 @@ def ingest():
             "originalTitle": e["subject"]
         })
 
-    # Merge and cull old items
-    cutoff = (datetime.now() - timedelta(days=MAX_DAYS_OLD)).strftime("%Y-%m-%d")
-    combined = new_items + [n for n in existing["newsletters"] if n["date"] >= cutoff]
+    # Merge all articles (no cutoff — keep everything)
+    combined = new_items + existing["newsletters"]
     combined.sort(key=lambda x: x["date"], reverse=True)
 
     # Rebuild themes
@@ -335,6 +435,19 @@ def ingest():
 
     save_data({"newsletters": combined, "themes": list(theme_map.values())})
     print(f"\n✅ Done. {len(new_items)} new items processed.")
+
+    # Generate digest for current month
+    this_month_articles = [n for n in combined if month_key(n["date"]) == curr_month]
+    if this_month_articles:
+        print(f"\n📊 Generating monthly digest ({len(this_month_articles)} articles)...")
+        digest = generate_digest(this_month_articles, curr_month)
+        if digest:
+            # If last day of month, archive it
+            save_digest(digest, curr_month, is_archive=is_last_day)
+            if is_last_day:
+                print(f"📁 Last day of month — digest archived as digest-{curr_month}.json")
+    else:
+        print("\n⚠ No articles this month yet — skipping digest generation")
 
 if __name__ == "__main__":
     ingest()
