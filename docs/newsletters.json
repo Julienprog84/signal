@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "fd2f43fa",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-01",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French Tech startups are emerging as impact champions, with the Impact 40/120 index highlighting companies like Electra, Greenly, and Too Good To Go as potential impact unicorns. Notable funding activity includes Standing Ovation securing \u20ac25M in Series B for cultivated dairy proteins with backing from Danone and Bpifrance, and Kestra raising $25M for workflow automation software adopted by JPMorgan and Toyota, signaling strong institutional traction in both climate tech and enterprise software sectors.",
+      "keyTakeaways": [
+        "Impact-focused startups are attracting tier-one corporate venture partners (Danone Ventures, Sanofi, Bpifrance), suggesting ESG-driven capital allocation is moving beyond impact funds into strategic corporate ventures with 10+ year horizons",
+        "Enterprise software automation (Kestra) and alternative protein production (Standing Ovation) are winning large Series B rounds from established investors, indicating these sectors have crossed from early-stage hype into defensible, scalable business models",
+        "French Tech is positioning itself as Europe's leading impact innovation hub, with Station F's expansion into healthtech via Sanofi partnerships creating a potential new vertical for venture-backed startups competing in biotech acceleration"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "01.04 - Qui sont les champions de l\u2019impact dans la French Tech ?"
+    },
+    {
+      "id": "a696015c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-03-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is threatening to attack Iran's critical energy infrastructure including nuclear facilities while simultaneously delaying 30 U.S. wind farms totaling 7.5 gigawatts of capacity, creating policy uncertainty in the energy sector. Meanwhile, Holtec International is advancing plans to restart the Palisades nuclear reactor in Michigan and develop small modular reactors (SMRs), positioning itself as a key player in nuclear energy revival despite geopolitical tensions affecting global nuclear projects.",
+      "keyTakeaways": [
+        "Holtec International's transition from nuclear decommissioning to reactor restoration and SMR development represents a significant market opportunity in U.S. nuclear revival, with government financing support de-risking the Palisades restart project.",
+        "The Trump administration's energy policy creates contradictory signals: blocking renewable energy expansion while accelerating nuclear development, which could accelerate consolidation in the nuclear sector and disadvantage traditional utilities invested in wind.",
+        "Geopolitical risk to nuclear infrastructure\u2014both Iran's Russian-built Bushehr plant and Ukraine's occupied Zaporizhzhia facility\u2014raises insurance costs and financing challenges for global nuclear projects, potentially favoring U.S.-based reactor companies with government backing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "Trump\u2019s Energy Threat"
+    },
+    {
+      "id": "41e14292",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-03-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Western automakers are facing existential pressure from Chinese competitors who have halved vehicle development cycles to 24 months, but physical AI and humanoid robots could be the equalizer by reducing labor costs and geographic wage advantages. Jeff Bezos' Project Prometheus has assembled a $6.2 billion portfolio of physical AI technology and is reportedly raising a $100 billion fund to modernize manufacturing, with near-term applications like Figure AI's vision-language-action models handling assembly tasks such as wire routing.",
+      "keyTakeaways": [
+        "Physical AI and robotics are becoming mandatory investments for legacy automakers to compete with Chinese manufacturers\u2014this represents a significant capital reallocation opportunity for VCs backing humanoid robotics and manufacturing automation startups.",
+        "Project Prometheus and similar mega-funded initiatives are consolidating proprietary physical AI portfolios, suggesting larger PE/growth rounds are replacing smaller Series A/B funding in this sector; investors should monitor consolidation patterns.",
+        "The 50 million jobs tied to automotive value chains create geopolitical and macro risks, but also timing urgency\u2014the transition speed will determine which regions absorb employment disruption, making this a 2-5 year critical inflection point for capital deployment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "US carmarkers' futures ride on AI"
+    },
+    {
+      "id": "092f281b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-03-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Trump administration proposed new Department of Labor rules to allow alternative assets like private equity and crypto in 401(k) plans, focusing on prudent process frameworks rather than asset performance claims, with a two-month public comment period ahead. Meanwhile, McCormick agreed to acquire Unilever's food business for $44.8 billion in the largest deal in either company's history, creating a $60 billion condiments giant that will reshape Unilever's portfolio toward health and wellness.",
+      "keyTakeaways": [
+        "Private equity firms are preparing aggressive marketing campaigns to capitalize on retail 401(k) access once the DOL rule finalizes, but success will hinge on how individual plan managers implement these alternatives\u2014cautiously through target-date funds versus aggressive direct allocation.",
+        "The mega-merger signals major portfolio restructuring trends among legacy conglomerates, with Unilever exiting century-old food business to focus on higher-margin health and beauty segments, potentially unlocking shareholder value through specialization.",
+        "Alternative asset distribution to retail investors represents a structural shift in capital markets access, but regulatory focus on 'prudence' language (105 mentions) suggests DOL expects fiduciary scrutiny will intensify, not diminish, despite expansion."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Here we go"
+    },
+    {
+      "id": "667816f2",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-03-31",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes OpenAI's competitive vulnerabilities, noting it lacks unique technology, user stickiness, and network effects while incumbents have matched its capabilities and leverage their existing distribution. The newsletter examines a landmark social media addiction lawsuit against Meta and YouTube that bypassed Section 230 protections by focusing on product design liability, potentially opening a new legal frontier despite unclear standards for what constitutes actionable 'addiction.' OpenAI continues strategic consolidation by shelving its adult ChatGPT offering and shutting down Sora, its social video network that failed to convert novelty into habit-forming engagement.",
+      "keyTakeaways": [
+        "OpenAI faces an existential positioning problem: without proprietary technology, user lock-in, or network effects, it must compete on execution while large incumbents (Google, Microsoft, Apple) have already matched AI capabilities and possess superior distribution\u2014watch for potential acquisition or narrowing of ambitions.",
+        "The social media lawsuit precedent is legally uncertain but commercially significant; if 'addiction by design' becomes actionable without clear biochemical or statistical causation standards, it creates massive regulatory risk for engagement-driven platforms\u2014this could reshape product roadmaps across Meta, Google, Netflix, and TikTok.",
+        "Consumer social platforms with user acquisition and retention as core metrics face an inflection point where growth-at-all-costs design patterns may become legally indefensible, favoring companies with alternative revenue models or less engagement-dependent business models."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 636"
+    },
+    {
+      "id": "0887f485",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-03-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Battery energy storage systems (BESS) are becoming critical infrastructure for AI data centers, with Tesla, AES, and other major players convening at Transition-AI 2026 to discuss how storage addresses power reliability, grid integration, and economic feasibility. The panel will explore how BESS has evolved from backup power to a core operational component for managing unpredictable AI workloads and enabling faster deployment of large-scale power infrastructure.",
+      "keyTakeaways": [
+        "BESS is transitioning from a supplementary technology to foundational infrastructure for next-generation data centers, representing a significant market expansion opportunity as AI-driven power demand accelerates unpredictably.",
+        "Key economic and operational questions remain unresolved around grid versus onsite power optimization, project economics, and regulatory compliance\u2014indicating the market is still in early optimization phases with potential for standardization and margin compression.",
+        "Major infrastructure players (Tesla, AES, Shoals Technologies) are actively positioning themselves in this space, suggesting institutional capital is flowing toward BESS solutions; investors should monitor this panel discussion for competitive positioning and technology differentiation."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Hear from Tesla, AES, and other BESS experts at Transition-AI 2026"
+    },
+    {
+      "id": "18e70556",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-03-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Southeast Asia faces an acute energy crisis as summer approaches, with countries like the Philippines (96% oil from Persian Gulf), Vietnam (87%), and Thailand (74%) heavily dependent on Middle Eastern crude that cannot flow through the closed Strait of Hormuz following U.S.-Israel military action against Iran in February 2026. With only 1-2 months of emergency reserves and forecasts of an exceptionally hot year potentially driven by El Ni\u00f1o conditions, the region is scrambling to encourage energy conservation, but experts warn the supply shortfall could worsen significantly.",
+      "keyTakeaways": [
+        "Supply chain vulnerability in Southeast Asia presents acute capital risk: geopolitical exposure to Middle East disruptions creates sudden demand shocks for alternative energy sources, renewable infrastructure, and efficiency solutions\u2014investors should identify companies positioned to meet emergency energy needs or accelerate energy transition in the region.",
+        "Peak demand timing collision creates investment opportunity: the convergence of energy scarcity with peak cooling season (summer + potential El Ni\u00f1o) will force governments to rapidly deploy demand-management solutions and alternative power, creating near-term contracts for grid stabilization, battery storage, and distributed renewable projects.",
+        "Infrastructure underinvestment becomes existential risk: Southeast Asian nations with modest reserves cannot weather prolonged disruptions, signaling urgent need for capital reallocation toward energy independence projects\u2014LNG terminals, renewable capacity, and grid modernization represent both defensive and growth investment thesis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "A Summer of No AC"
+    },
+    {
       "id": "3337bf3c",
       "title": "Pro Rata",
       "source": "Axios / Dan Primack",
@@ -229,24 +355,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 3
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 7
+      "name": "European VC",
+      "color": "#059669",
+      "count": 2
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 1
+      "count": 4
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 1
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 5
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 8
     },
     {
       "name": "Fintech",
@@ -254,5 +380,5 @@
       "count": 2
     }
   ],
-  "lastUpdated": "2026-03-31T10:17:19.406773Z"
+  "lastUpdated": "2026-04-01T08:59:13.806845Z"
 }
