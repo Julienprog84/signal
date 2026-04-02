@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "bada8b65",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac1.5 billion across 37 deals in March 2026, driven by AMI Labs' exceptional \u20ac890 million seed round and a resurgence of late-stage mega-rounds after months of scarcity. Beyond funding activity, the newsletter highlights Protected's bootstrapped path to \u20ac20M+ ARR in cybersecurity, challenges facing European quantum computing commercialization, and the UK's strategic pivot toward AI-driven defense innovation.",
+      "keyTakeaways": [
+        "March 2026 marked an inflection point in European VC with mega-round returns and mega-seed activity, suggesting institutional capital is flowing back into growth and early-stage tech after a period of constraint",
+        "Bootstrapped profitability at scale (Protected's \u20ac20M ARR) demonstrates viable alternative pathways to venture funding, particularly in B2B SaaS with channel partner distribution models\u2014relevant for assessing market saturation in traditional VC-backed segments",
+        "European quantum and defense tech require industrial anchor customers and procurement partnerships, not just R&D funding, to create viable commercial ecosystems\u2014a structural gap for investors evaluating deep-tech opportunities"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "02.04 - Lev\u00e9es : mars 2026 a pulv\u00e9ris\u00e9 les compteurs !"
+    },
+    {
+      "id": "e9f2e24d",
+      "title": "Defense Tech Newsletter",
+      "source": "Defense Tech",
+      "date": "2026-04-01",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "US",
+      "summary": "Saronic, an autonomous maritime defense company, raised $1.75B in Series D funding at a $9.25B valuation, signaling robust investor appetite for defense tech despite geopolitical uncertainty. The newsletter highlights a critical inflection point: AI-generated code is already embedded in defense systems, making retrospective policy enforcement on AI-assisted software development virtually impossible. Simultaneously, a broader realignment is underway as tech companies strengthen ties with the U.S. military and European defense startups pursue aggressive commercial expansion with Gulf states amid the Iran conflict.",
+      "keyTakeaways": [
+        "Mega-round valuations in autonomous defense systems (Saronic at $9.25B) indicate institutional capital is betting heavily on unmanned platforms despite extended conflict timelines\u2014maritime autonomy appears recession-resistant in a wartime economy.",
+        "The AI code policy gap represents a material risk for defense contractors and procurement officers: regulation will lag reality by years, creating compliance and reputational exposure for firms that fail to document AI involvement in legacy defense codebases.",
+        "The Ukraine-to-Gulf supply chain diversification (foreign advisors joining Ukrainian drone firms, European startups bidding into Middle East contracts) suggests defense tech capital is hedging against U.S. political uncertainty and building redundant geopolitical relationships."
+      ],
+      "url": "https://defensetechnewsletter.curated.co",
+      "readTime": 4,
+      "originalTitle": "Defense Tech Newsletter -  Your Defense Code Is Already AI-Generated. Now What?"
+    },
+    {
+      "id": "92f8f41e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The gut health startup sector attracted $500 million in VC funding last year, but founders face a critical credibility gap as AI-powered recommendations outpace scientific understanding of the microbiome. Companies like Viome and Throne are marketing personalized health advice and supplements based on limited microbiome data, drawing caution from medical experts who warn that complex microbiome interactions remain poorly understood and unpredictable.",
+      "keyTakeaways": [
+        "Investors should scrutinize gut health startups' scientific validation claims before deploying capital\u2014medical skepticism about microbiome-based personalization could expose portfolio companies to regulatory and reputational risk as the sector matures.",
+        "Trust-building will become a competitive moat in consumer healthtech; companies making cautious, evidence-backed claims rather than over-promising AI-powered solutions may outperform overhyped competitors facing customer disappointment.",
+        "The $500 million gut health funding wave reflects broader healthtech trend of AI-enabled personalization outpacing scientific certainty, signaling potential sector consolidation pressure as regulatory scrutiny and clinical validation requirements increase."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Weak science behind AI health hype"
+    },
+    {
+      "id": "b6f4f790",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "OpenAI and SpaceX are opening private share access to retail investors through ETFs and IPO allocations respectively, addressing decades of wealth inequality in private tech investing. Separately, Austin-based autonomous military ship developer Saronic closed a $1.75 billion Series A at a $9.25 billion valuation, marking the largest VC round for an Austin startup, as U.S. defense spending refocuses on domestic shipbuilding.",
+      "keyTakeaways": [
+        "Major private tech companies are strategically increasing retail access to late-stage rounds and upcoming IPOs, suggesting a structural shift in how wealth from unicorn valuations gets distributed beyond institutional investors and early-stage founders.",
+        "Defense-tech is attracting mega-rounds ($1.75B for Saronic), signaling that government policy priorities around domestic manufacturing and autonomous systems are creating substantial capital opportunities in sectors previously underserved by VC.",
+        "The private markets are still fundamentally skewed\u2014retail investors are entering near peak valuations rather than ground floor\u2014but the narrative shift toward 'inclusive capitalism' reflects both PR positioning and genuine pressure to democratize access to venture-backed companies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Retail revival"
+    },
+    {
+      "id": "41d26e22",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-04-01",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A podcast episode discusses Bilt, a rent rewards and neighborhood loyalty startup that experienced a turbulent transition from Wells Fargo to Column and Cardless as its banking partners. The conversation explores the 'graduation problem' in banking-as-a-service, where fintech companies struggle to scale beyond their BaaS infrastructure providers, alongside New York's new financial data rights law that mirrors CFPB-style consumer protections.",
+      "keyTakeaways": [
+        "Bilt's banking partner transitions highlight operational and reputational risks in the BaaS model\u2014when startups depend on single banking partners, partner changes can disrupt customer experience and damage brand trust, affecting user retention and unit economics.",
+        "The 'graduation problem' in BaaS represents a structural challenge for fintech scaling: many companies outgrow their BaaS providers but lack alternatives, creating bottlenecks that constrain growth and may force unfavorable pivots or partnerships.",
+        "State-level financial data rights legislation (New York's law) signals regulatory fragmentation moving beyond federal frameworks\u2014fintech platforms must prepare for varying compliance requirements across states, increasing operational complexity and compliance costs."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 93,
+      "originalTitle": "Fintech Recap: Bilt's Rocky Transition"
+    },
+    {
+      "id": "adabe20a",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Federal lawmakers are rapidly advancing competing legislative approaches to regulate AI data centers, with Sen. Bernie Sanders introducing a strict moratorium bill while other legislators propose everything from off-grid exemptions to mandatory clean energy requirements. The regulatory momentum reflects growing concerns about energy costs and grid strain, with at least six major bills in 2026 addressing data center power consumption, suggesting significant policy risk and opportunity in the sector.",
+      "keyTakeaways": [
+        "Data center regulation is fragmenting across competing federal bills with opposite goals\u2014from Cotton's deregulation push for off-grid facilities to Sanders' moratorium and the PRICE Act's mandatory clean energy requirements\u2014creating regulatory uncertainty that will determine infrastructure investment viability",
+        "Ratepayer protection is becoming the bipartisan consensus issue, with even deregulation proponents framing their positions around grid relief, meaning companies that can demonstrate energy independence or renewable integration will face fewer regulatory headwinds",
+        "The sector is facing a critical policy inflection point in 2026 that could dramatically shift capital flows toward renewable-powered and off-grid data center developers while potentially restricting grid-dependent facilities in regulated states"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "3 months, 8 data center bills"
+    },
+    {
+      "id": "875c0164",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News, MIT, and the Clean Economy Project launched the Electricity Price Hub, a public data platform offering monthly, utility-level residential electricity price estimates broken down by generation, transmission, and distribution costs since 2021. The announcement highlights that U.S. electricity rates have risen 33% on average over five years, adding $420 annually to household bills, with 32 states experiencing increases exceeding 25% and six states surpassing 50%, creating significant pressure on consumer budgets amid broader cost-of-living concerns.",
+      "keyTakeaways": [
+        "A new transparent data infrastructure for electricity pricing has emerged, addressing a major market inefficiency; investors should monitor whether this hub becomes the standard reference tool for utilities, regulators, and energy investors seeking granular pricing intelligence across regions.",
+        "The 33% five-year surge in electricity rates, with six states experiencing 50%+ increases, signals that utility stocks and renewable energy infrastructure investments may face margin compression from rising transmission and distribution costs\u2014not just generation costs\u2014requiring deeper diligence into state-level regulatory environments.",
+        "The rapid growth in non-generation charges (transmission, distribution, grid modernization) on power bills represents a structural shift in utility economics favoring regulated infrastructure assets over commodity generation, likely to shape M&A and capital allocation strategies in the energy sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Introducing the Electricity Price Hub"
+    },
+    {
       "id": "fd2f43fa",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -357,28 +483,33 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 4
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 1
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 5
+      "count": 7
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 3
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 6
     },
     {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 8
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 2
     }
   ],
-  "lastUpdated": "2026-04-01T10:36:38.242515Z"
+  "lastUpdated": "2026-04-02T10:14:48.728077Z"
 }
