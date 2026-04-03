@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "43c09730",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "This European VC newsletter covers six investment stories including ManoMano founders stepping down amid growth challenges, Ludocare securing the first HAS reimbursement approval for a digital therapy app in pediatric asthma, and Generare raising \u20ac20 million in Series A led by Alven and Daphni to discover 2,000 new drug molecules. Additional highlights include a French greentech ecosystem analysis showing 2,900 startups, Omniscient's pre-seed round from Seedcamp for reputation intelligence, and modernization trends in France's funeral services sector.",
+      "keyTakeaways": [
+        "Founder transitions at portfolio-stage companies like ManoMano signal maturation pressures in e-commerce platforms; investors should monitor whether operational handoffs stabilize or accelerate decline in competitive marketplaces.",
+        "Digital health regulatory approval (Ludocare's HAS reimbursement) represents significant de-risking for healthtech investors in France and EU\u2014the first of its kind for mobile apps in pediatrics opens reimbursement pathways for similar applications.",
+        "The 2,900-startup greentech ecosystem analysis amid AI disruption suggests capital concentration risk; traditional cleantech may face investor rotation toward AI-enabled sustainability solutions, requiring portfolio rebalancing decisions."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "03.04 - ManoMano : les fondateurs l\u00e2chent les commandes !"
+    },
+    {
+      "id": "2919999a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The FDA is expected to reverse its ban on 14 injectable peptides, potentially enabling telehealth companies like Ro, Hims & Hers, and Solace to enter a fast-growing wellness market. Chinese imports of peptides and related compounds doubled to $328 million in the first nine months of 2025, driven by popularity among Silicon Valley biohackers and influencers, though these peptides lack the rigorous testing that GLP-1 drugs have undergone.",
+      "keyTakeaways": [
+        "Telehealth platforms have a clear regulatory pathway to enter the peptides market if the FDA approves, potentially creating a significant new revenue stream for established companies in the space.",
+        "The regulated peptides market could cannibalize the current gray market ($328M in 2025 imports) and reduce consumer reliance on unregulated channels, representing a major business opportunity for consumer health VCs and wellness startups.",
+        "Unlike GLP-1 drugs, these peptides lack Phase 3 clinical trial data and rigorous FDA approval, creating regulatory and reputational risk if adverse health effects emerge\u2014a potential downside for investors betting on this category."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Silicon Valley craze nears FDA nod"
+    },
+    {
+      "id": "a53ea5ca",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers three major climate and energy developments: NASA's successful Artemis II launch advancing plans for a lunar nuclear power plant by decade's end, with TerraPower seeking sites in Kansas for its Natrium sodium reactors; Japan launching a government-backed LNG investment initiative to secure overseas liquified natural gas supplies as the Iran War disrupts Strait of Hormuz shipments; and broader geopolitical energy shifts as countries diversify power sources following nuclear shutdowns and energy security concerns.",
+      "keyTakeaways": [
+        "Next-generation nuclear technology like TerraPower's Natrium reactors are moving from concept to commercial deployment, with multiple Kansas communities expressing willingness to host plants\u2014signaling strong regional interest in advanced nuclear infrastructure.",
+        "Japan's government-backed LNG investment fund represents a significant capital reallocation toward overseas energy security, creating opportunities for LNG developers and exporters to secure long-term Japanese partnerships amid supply chain disruptions.",
+        "The convergence of lunar nuclear ambitions, terrestrial reactor deployment, and geopolitical energy competition suggests sustained multi-decade demand for advanced nuclear technology and associated supply chain investments, despite historical industry volatility."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "To the Moon"
+    },
+    {
+      "id": "f1f5331b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Climate tech investors have fundamentally shifted strategy from displacing fossil fuels to merely supplementing energy demand, prioritizing price competitiveness and deployment speed over carbon reduction. Meanwhile, KKR closed a record $23.1 billion North American buyout fund, its largest ever, beating a $20 billion target despite a sluggish fundraising environment, while venture deals continue across coffee chains, semiconductors, robotics, and energy infrastructure.",
+      "keyTakeaways": [
+        "Climate startups and climate-focused investors like Generate Capital now view success as avoiding incremental gas-based demand growth rather than net-zero displacement\u2014a strategic retreat that signals 2026's reality diverges sharply from 2022 net-zero commitments. This reshaping of investment theses impacts which climate tech companies will attract capital.",
+        "The four new deal criteria for climate investments are price undercutting, faster deployment, operational reliability, and scalability\u2014carbon minimization has become a 'nice-to-have.' This commoditization of climate impact means investors should expect lower ESG premiums and higher competition based on operational metrics.",
+        "KKR's $23.1B fund closing in a weak fundraising cycle signals large-cap PE still has stable LP demand, but the sprawl of $50-100M venture rounds across unrelated sectors (drones, robotics, chips, security) suggests capital is fragmenting\u2014investors should focus on sector concentration rather than betting on generalist theses."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Climate surrender"
+    },
+    {
+      "id": "ceba0351",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "JPMorgan Chase CEO Jamie Dimon discusses artificial intelligence risks, business leadership during the Trump administration, and geopolitical headwinds in an Axios Show interview. The episode is part of Axios' video series featuring prominent newsmakers across politics, business, and technology sectors.",
+      "keyTakeaways": [
+        "Major financial institution leadership is actively engaging with AI risk assessment\u2014investors should monitor Dimon's specific concerns about AI implementation and regulatory frameworks affecting large banks' capital allocation strategies.",
+        "CEO commentary on Trump-era business operations signals potential shifts in regulatory environment, tax policy, and trade relations that could reshape investment thesis for financial services and corporate strategy.",
+        "Geopolitical challenges highlighted by JPMorgan's top executive may indicate macroeconomic headwinds affecting deal flow, cross-border M&A, and emerging market exposure that should factor into current portfolio positioning."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 25,
+      "originalTitle": "\ud83d\udcfa Jamie Dimon on \u201cThe Axios Show\u201d"
+    },
+    {
+      "id": "3e382875",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza Exchange, a surplus marketplace for renewable energy equipment, is positioning itself as a solution to supply chain volatility affecting solar and transformer procurement. The platform addresses a market inefficiency where project teams face either impossible lead times or excess inventory, allowing both buyers to source in-country PV modules and transformers quickly and sellers to offload surplus assets from their balance sheets.",
+      "keyTakeaways": [
+        "B2B marketplace addressing a genuine pain point in renewable energy supply chains\u2014companies are capital-constrained by surplus equipment and delayed projects, creating arbitrage opportunity for a trading platform",
+        "Demand signal: persistent supply chain friction in the clean energy sector suggests continued tailwinds for logistics/sourcing solutions and indicates solar deployment remains constrained by non-manufacturing factors",
+        "Market timing advantage: policy risks and lead time volatility create urgency for buyers to source domestically, potentially benefiting Anza's in-country inventory model as reshoring accelerates in energy infrastructure"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 1,
+      "originalTitle": "Find & offload new solar modules & transformer surplus"
+    },
+    {
+      "id": "e4930263",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Asian countries are responding to the Iran War's disruption of Strait of Hormuz oil flows by adopting China's energy policy model, including massive strategic reserves, electrification investments, and increased coal capacity. China's resilience stems from its 1.4 billion barrel oil stockpile\u2014over three times what the IEA coordinated globally\u2014and reduced dependency on imports, while poorer Asian nations impose driving restrictions and richer ones are rebooting nuclear plants and expanding coal capacity.",
+      "keyTakeaways": [
+        "Strategic energy independence is becoming a competitive advantage in Asia; companies in battery storage, EVs, solar, and renewable infrastructure positioned to serve countries mimicking China's model will see accelerated demand and policy support.",
+        "Energy security through diversification (not just decarbonization) is reshaping capital flows; investments in coal capacity expansion and nuclear restarts are competing with green energy projects as geopolitical risk drives energy policy decisions.",
+        "China's vertically integrated energy model\u2014combining massive reserves, domestic manufacturing of batteries and EVs, and refined product export controls\u2014is becoming the template for regional resilience, creating long-term competitive advantages for Chinese exporters and dependencies for importing nations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Becoming Chinese"
+    },
+    {
+      "id": "24525fc2",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Enterprise capital continues to concentrate in AI infrastructure, with over 50% of S&P 500 AI investment flowing to infrastructure and model-layer companies. Databricks strengthened its security position by acquiring Antimatter and SiftD.ai to build Lakewatch, an AI agent security platform powered by Anthropic's Claude. Separately, wearable fitness company Whoop raised $575M at a $10.1B valuation\u2014nearly tripling its last disclosed valuation\u2014signaling institutional interest in clinical-grade health monitoring.",
+      "keyTakeaways": [
+        "AI infrastructure remains the dominant investment thesis among Fortune 500 companies, suggesting that enabling platforms and foundational layer companies will capture disproportionate capital relative to application-layer startups.",
+        "Databricks' strategic acquisitions of security startups indicate major incumbents are consolidating specialized AI agent capabilities through M&A rather than building internally, creating exit opportunities for focused security tooling startups.",
+        "Wearables are transitioning from consumer fitness into clinical validation territory\u2014Abbott's participation in Whoop's round signals health tech consolidation around FDA-ready products, suggesting regulatory expertise and clinical credibility now command significant valuations."
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 3,
+      "originalTitle": "databricks strategy reveal"
+    },
+    {
       "id": "bada8b65",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -483,7 +627,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 3
+      "count": 4
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 11
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 9
     },
     {
       "name": "Deep Tech & Science",
@@ -491,19 +645,9 @@
       "count": 1
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 7
-    },
-    {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 3
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 6
     },
     {
       "name": "Strategy & Thesis",
@@ -511,5 +655,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-04-02T10:14:48.728077Z"
+  "lastUpdated": "2026-04-03T09:41:08.733688Z"
 }
