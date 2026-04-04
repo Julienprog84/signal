@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "30b068a9",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "KKR successfully closed its $23 billion North America Fund XIV, exceeding its $20 billion target and signaling a potential thaw in mega-fund fundraising after years of institutional capital constraints. The fund, backed by major public pensions including Washington State Investment Board and New York State Common Retirement Fund, plans 20-25 investments ranging from $1-4 billion across consumer, healthcare, tech, and software sectors, with the firm leveraging its 40-person operating team (KKR Capstone) that has supported 90% of prior fund investments.",
+      "keyTakeaways": [
+        "KKR's $23B fund close demonstrates that ultra-large PE funds can still access capital despite 2025 being the slowest PE fundraising year in over a decade\u2014suggesting the largest players with proven operating track records remain insulated from broader fundraising headwinds",
+        "The emphasis on KKR Capstone's operational support (used in 90% of prior investments) indicates that differentiated value-add capabilities beyond capital deployment are becoming table stakes for mega-fund LPs evaluating commitments",
+        "Resurgent mega-deal activity in 2025 may be creating runway for larger fund closures; however, persistent LP distribution shortages from interest rate impacts still constrain fundraising across the broader PE market"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 3,
+      "originalTitle": "KKR defies mega-fund freeze"
+    },
+    {
+      "id": "70b58bc1",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic and OpenAI are expected to pursue IPOs later in 2026, driven by scale and supersonic growth that exceeds what private markets can sustainably fund, despite deep secondary liquidity and sovereign wealth capital availability. Meanwhile, the CFTC is suing Arizona, Connecticut, and Illinois over state gambling law applications to prediction markets, potentially determining federal versus state regulatory authority over companies like Kalshi and Polymarket. The newsletter also covers recent venture deals including Mercury's $5B+ valuation raise, Sarvam's $350M funding round from Bessemer Venture Partners, and several emerging company fundraisings across fintech, biotech, and autonomous delivery.",
+      "keyTakeaways": [
+        "AI frontier labs are being forced public not by capital necessity but by unprecedented scale\u2014both Anthropic and OpenAI expect trillion-dollar valuations with revenue doubling seasonally, meaning private market depth, while considerable, cannot absorb their growth indefinitely.",
+        "The CFTC's lawsuit against three states signals a major jurisdictional battle ahead; venture-backed prediction market platforms have raised billions but face regulatory uncertainty that could either unlock massive market expansion or trigger state-level restrictions.",
+        "The $350M Sarvam funding round led by Bessemer with backing from Nvidia and Amazon demonstrates how enterprise AI infrastructure plays are consolidating capital from both traditional VCs and strategic tech giants, suggesting AI verticalization is outpacing horizontal LLM competition."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: AI IPOs"
+    },
+    {
+      "id": "05cbd241",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-04-03",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "NASA's Artemis II mission marks humanity's return to lunar exploration after 50+ years, with crewed flights scheduled to demonstrate safe passage and establish the foundation for sustained lunar bases. The newsletter highlights a convergence of deep tech investments across defense (Navy's $900M automated submarine factories), energy (Texas's $350M nuclear fund, DOE's quantum computing timeline), and emerging robotics (humanoid training, robotic swarms), signaling a broad capital reallocation toward advanced manufacturing and next-generation infrastructure.",
+      "keyTakeaways": [
+        "Government spending is accelerating across space exploration, defense automation, and nuclear energy\u2014Artemis II, Navy's $900M submarine investment, and Texas's nuclear fund represent over $1.25B in direct capital deployment that will flow to contractors and deep tech suppliers",
+        "Robotics and AI efficiency breakthroughs (brain-inspired chips achieving 2,000x energy efficiency, pneumatic muscles enabling 100x weight lifting) are maturing rapidly, creating investment opportunities in manufacturing automation and industrial robotics as a hedge against labor costs",
+        "The 'deep tech infrastructure' thesis is consolidating: quantum computing (3-year DOE timeline), underground wireless communication, and autonomous defense systems are moving from R&D to production phase, suggesting portfolio exposure should shift toward commercialization-stage companies rather than pure research plays"
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 156: We're going back to the f*cking moon"
+    },
+    {
+      "id": "7f99c101",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Iran War and Strait of Hormuz closure threaten to disrupt climate tech funding flows, as Gulf state sovereign wealth funds and oil company investment arms\u2014which channel billions annually into early-stage cleantech startups\u2014face reduced fossil fuel revenues despite higher commodity prices. The closure strands millions of barrels of oil and petrochemical exports in the region, creating a potential capital crunch for climate tech sectors like electric mobility, clean hydrogen, and carbon capture that lack U.S. government backing and rely heavily on patient, long-term strategic investors from the Middle East.",
+      "keyTakeaways": [
+        "Gulf state sovereign wealth funds and oil majors' investment arms are critical funders for early-stage climate tech startups outside favored U.S. sectors (data centers, nuclear, geothermal), filling a venture capital gap\u2014but the Strait of Hormuz closure threatens their ability to deploy this capital as oil revenues contract.",
+        "Climate tech investors should expect pullback in funding for forward-looking decarbonization initiatives lacking direct government support or near-term profitability, particularly in alternative fuels, carbon removal, and hydrogen sectors that depend on Middle Eastern strategic capital.",
+        "The paradox: while higher oil prices and energy disruption should theoretically accelerate renewables adoption, the simultaneous reduction in cleantech funding from petrostates creates a capital market headwind that could slow innovation and deployment in the energy transition ecosystem."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Climate Tech Ripples From the Iran War"
+    },
+    {
       "id": "43c09730",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -625,24 +697,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 4
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 11
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 9
+      "count": 13
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
-      "count": 1
+      "count": 2
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 10
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 4
     },
     {
       "name": "Fintech",
@@ -655,5 +727,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-04-03T09:41:08.733688Z"
+  "lastUpdated": "2026-04-04T09:04:02.817332Z"
 }
