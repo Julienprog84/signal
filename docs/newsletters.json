@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "1248a260",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "An Iran conflict-driven oil shock is creating asymmetric winners and losers across private markets, with energy producers and renewables benefiting while leveraged non-energy businesses face dual pressure from rising input costs and tighter financing. The IEA forecasts oil prices 20-25% above pre-conflict levels through 2027, risking a structural inflation reset that could keep interest rates elevated and extend pressure across private equity, venture capital, and credit well beyond the geopolitical event itself.",
+      "keyTakeaways": [
+        "Energy-exposed sectors like midstream operators and renewables infrastructure are positioned to benefit, while airlines, chemicals, and high-margin growth startups face compounding headwinds\u2014GPs must triage portfolios rather than apply uniform strategies across diversified holdings.",
+        "Venture capital faces broader challenges from compressed late-stage valuations due to higher discount rates and potential softening of AI deal appetite, with capital consolidating around established megafunds and leaving emerging managers vulnerable.",
+        "The real systemic risk is sustained elevated oil prices re-anchoring inflation expectations and keeping interest rates higher longer, which could extend private market pressure well into 2027 and trigger a credit downgrade wave (52% of broadly syndicated loan market rated B- or lower)."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "What the oil shock means for private markets"
+    },
+    {
+      "id": "f8fc4631",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Black Forest Labs, a visual model developer, has achieved the highest Mosaic score (938/1000) among emerging generative AI startups, signaling strong momentum. CB Insights' analysis identifies 70+ companies building physical AI infrastructure and maps critical gaps in AI agent deployment infrastructure\u2014particularly in performance visibility, cost attribution, and security\u2014as enterprises shift from experimentation to production use cases. The newsletter highlights that AI agent ROI measurement challenges are creating significant market opportunities for infrastructure providers in 2026.",
+      "keyTakeaways": [
+        "Black Forest Labs' leading Mosaic score indicates visual model development remains a high-momentum category; investors should monitor this company and peers in specialized generative AI models as acquisition and partnership targets",
+        "AI agent infrastructure\u2014not agents themselves\u2014represents the near-term venture opportunity, with specific demand signals around observability, cost management, and security infrastructure as adoption scales from pilot to production",
+        "Physical AI (robotics intelligence) and insurtech represent two macro expansion vectors where AI execution will separate winners from legacy competitors in 2026, suggesting selective sector rotation away from saturated GenAI foundation models"
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "future of ai agents"
+    },
+    {
       "id": "30b068a9",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -699,7 +735,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Deep Tech & Science",
@@ -727,5 +763,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-04-04T09:04:02.817332Z"
+  "lastUpdated": "2026-04-05T09:08:02.465093Z"
 }
