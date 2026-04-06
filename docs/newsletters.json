@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "984f433c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook analyzes the liquidity mechanics of evergreen and interval funds, arguing that recent redemption concerns are partly overstated since redemption limits are by design\u2014with quarterly 5% caps functioning as intended when demand exceeds supply. The newsletter highlights that agtech VC funding is rebounding to $1.5 billion in Q1 2026 driven by dual-use tech and robotics, while healthcare fundraising faces headwinds despite proven managers maintaining competitiveness in a squeezed market.",
+      "keyTakeaways": [
+        "Redemption limits in evergreen funds (typically 5% quarterly) are structural features, not failures\u2014investors should understand these terms before committing capital, and outflows are statistically inevitable with 80% of five-year public funds experiencing 20%+ outflows annually.",
+        "Demand better transparency: redemption data already exists in regulatory filings but isn't highlighted on fund fact sheets like performance metrics are, creating information asymmetry for institutional investors evaluating liquidity risk.",
+        "Agtech is staging a comeback with $1.5B in Q1 2026 funding, signaling renewed investor appetite for dual-use technology and robotics\u2014a contrarian bright spot amid broader VC market caution."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The liquidity puzzle in interval funds"
+    },
+    {
+      "id": "e51c876f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Iran's conflict and the blockade of the Strait of Hormuz have shifted European PE investment priorities in energy from pure decarbonization toward energy security and sovereignty. European PE invested a record \u20ac46.5 billion in energy in 2025, with recent fund closes including RGreen Invest's \u20ac900 million energy sovereignty fund and Partech's \u20ac300 million impact fund targeting energy security through technologies like battery optimization and circular economy solutions.",
+      "keyTakeaways": [
+        "Energy security is now co-equal with decarbonization in European energy investment theses, creating new capital deployment opportunities for funds willing to back both renewable and non-fossil fuel infrastructure that reduces import dependence.",
+        "PE and VC investors are increasingly targeting local, non-traded energy sources like renewables and nuclear as geopolitically safer bets than fossil fuels exposed to global trade disruptions, reshaping sector attractiveness across Europe.",
+        "Europe's 60% energy import dependency is driving structural demand for sovereign energy solutions, making this a multi-year sector tailwind independent of commodity price cycles and likely to attract sustained institutional capital."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Iran changes how investors view energy"
+    },
+    {
+      "id": "f519d357",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-04-05",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Bolt, once a unicorn valued at $11 billion, has fired one-third of its workforce as the payments company struggles with cash burn and liquidity challenges. The newsletter highlights a broader fintech crisis impacting formerly well-funded startups, alongside reporting on other sector developments including Evolve hack victim payments, Monzo's U.S. exit, Cash App's P2P buy-now-pay-later offering, and banking industry opposition to Coinbase's charter application.",
+      "keyTakeaways": [
+        "Bolt's dramatic downsizing signals severe financial distress at a once-prominent fintech unicorn, suggesting that inflated valuations from 2021-2022 are colliding with unit economics realities and a tightening capital environment.",
+        "Mass layoffs across fintech companies indicate that investor capital is drying up for unprofitable growth-at-all-costs models, forcing consolidation and a return to profitability-focused strategies\u2014a critical signal for late-stage venture allocation.",
+        "Regulatory headwinds (ICBA opposition to Coinbase charter, Monzo's U.S. retreat) combined with operational failures (Evolve hack) demonstrate that fintech's regulatory and compliance risks are proving more costly than anticipated, creating opportunities for well-capitalized, compliant players."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 2,
+      "originalTitle": "Bolt Bloodbath: One-Third of Staff Fired As Company, Once Worth $11Bn,\r\n Struggles To Pay Its Bills"
+    },
+    {
+      "id": "23efe978",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News examines the causes behind rising electricity prices across different U.S. regions, with particular focus on Virginia's unique pricing dynamics. The newsletter also covers broader energy trends including Southeast Asia's emerging power crisis driven by air conditioning demand, China's energy infrastructure model, and market pressures on EV manufacturers as consumers shift away from high-performance vehicles.",
+      "keyTakeaways": [
+        "Regional electricity price volatility presents investment opportunities in grid modernization and energy infrastructure companies, particularly in underperforming markets like Virginia where price increases are outpacing national averages.",
+        "Global energy demand patterns\u2014from AC adoption in Southeast Asia to China's centralized infrastructure approach\u2014signal growing capital requirements for power generation and distribution, favoring investors in utility stocks and renewable energy infrastructure.",
+        "The EV market contraction away from performance vehicles suggests consumer demand is shifting toward practical, affordable electric vehicles, creating openings for manufacturers focused on cost-efficient models over luxury/performance segments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Why Electricity Prices Are Rising in Your ZIP Code"
+    },
+    {
       "id": "1248a260",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -735,7 +807,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 15
+      "count": 17
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 4
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 11
     },
     {
       "name": "Deep Tech & Science",
@@ -743,19 +825,9 @@
       "count": 2
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 10
-    },
-    {
       "name": "European VC",
       "color": "#059669",
       "count": 4
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 3
     },
     {
       "name": "Strategy & Thesis",
@@ -763,5 +835,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-04-05T09:08:02.465093Z"
+  "lastUpdated": "2026-04-06T10:41:02.677471Z"
 }
