@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "b7161b1a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-07",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac107 million this week, nearly triple the previous week's \u20ac36 million, with an average ticket size of \u20ac13 million. AI-focused startups were particularly active, with four companies raising \u20ac33.7 million combined. Notable deals include healthtech Five Lives securing \u20ac1.7 million for its Alzheimer's digital therapy platform, alongside a crowdfunding campaign.",
+      "keyTakeaways": [
+        "French VC funding momentum is accelerating sharply with weekly raises tripling week-over-week, signaling strong investor appetite and potentially marking the start of a stronger funding quarter",
+        "AI remains the dominant investment theme in French tech, representing nearly one-third of weekly capital deployed, indicating continued sector concentration and potential market saturation concerns",
+        "Healthtech solutions addressing aging-population challenges (like Alzheimer's treatments) are attracting hybrid funding models combining institutional investment with retail crowdfunding, suggesting broader investor confidence in medtech innovation"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "07.04 - Lev\u00e9es : une entame de mois encourageante"
+    },
+    {
+      "id": "4b5c9952",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook has launched Navigator, an AI-powered search tool that enables investors to conduct natural language queries across its comprehensive database to uncover data, analyst insights, and market trends. The product combines artificial intelligence with human insights to help users quickly build company and deal screeners and identify investment opportunities from PitchBook's proprietary, real-time dataset.",
+      "keyTakeaways": [
+        "AI-augmented research tools are becoming table stakes for VC platforms; investors now expect conversational interfaces to access investment data rather than traditional search and filtering methods",
+        "Natural language processing reduces research friction for deal sourcing and diligence, potentially accelerating deal flow evaluation and compressing time-to-decision for portfolio decisions",
+        "The combination of AI search with proprietary, comprehensive deal and company data creates a defensible competitive moat for data platforms serving institutional investors"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 1,
+      "originalTitle": "Introducing Navigator: Accelerate research workflows with AI"
+    },
+    {
+      "id": "c6f46a4e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter covering climate and energy infrastructure reports on geopolitical threats to critical power and industrial assets, including Trump's threats to bomb Iran's power plants (including the Bushehr nuclear facility) and actual damage from Iranian strikes that forced Abu Dhabi's Al Taweelah aluminum smelter into emergency shutdown, with the company estimating up to a year for full recovery. The disruption affects global aluminum supplies and impacts U.S. companies with regional partnerships, while also raising nuclear safety concerns amid escalating Middle East tensions.",
+      "keyTakeaways": [
+        "Emirates Global Aluminum's Al Taweelah smelter shutdown creates a supply constraint in a commodity already experiencing record demand in China\u2014investors in aluminum-dependent sectors (automotive, aerospace, construction) should monitor recovery timelines and pricing pressure over the next 12 months.",
+        "Geopolitical risk is now a material operational factor for energy and industrial infrastructure; companies with Middle East exposure or supply chain dependencies on regional power stability face valuation headwinds and insurance cost increases.",
+        "The escalating U.S.-Iran conflict poses indirect nuclear safety risks at civilian facilities like Bushehr, potentially triggering regulatory scrutiny and investment restrictions in sectors tied to Iran-adjacent supply chains or nuclear technology partnerships."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "\u2018Power Plant Day\u2019"
+    },
+    {
+      "id": "fbc8762c",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The NBA is launching a European league with 14-16 teams across a dozen cities, with initial bids ranging from $500 million to $1 billion per club\u2014significantly cheaper than the $6 billion asking price for domestic expansion franchises. Meanwhile, Neurocrine Biosciences agreed to acquire metabolic disease specialist Soleno Therapeutics for $2.9 billion in cash, marking a strategic shift to capture the high-growth GLP-1 market that has become essential for large biotech companies.",
+      "keyTakeaways": [
+        "NBA Europe represents a lower-cost entry point for sports team ownership ($500M-$1B) compared to domestic franchises ($6B), but valuations hinge on whether the EuroLeague survives as competition and whether long-term viability improves with air travel advances like supersonic jets.",
+        "The $2.9B Soleno acquisition signals that metabolic disease capabilities are now table-stakes for large-cap biotech\u2014companies without GLP-1-related assets face competitive disadvantage, making this category a key M&A hunting ground.",
+        "Venture funding in biotech remains robust with three substantial rounds announced (Syneron Bio at $150M, Xoople at $130M, SpectronRx at $85M), but large-cap consolidation in metabolic and specialty pharma suggests the venture-to-exit path favors strategically positioned sub-sectors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\ud83c\udfc0 Axios Pro Rata: Game on"
+    },
+    {
+      "id": "360de3e4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Heatmap News analysis argues that the Trump administration's Iran War has undermined its domestic energy policy agenda, despite the president's stated goal of deregulating fossil fuels and delivering cheap energy to Americans. The piece examines how geopolitical conflict has disrupted supply chains and diverted political attention from the energy policy bargain Trump promised, while noting that nuclear energy buildout and other initiatives may still advance over the remaining presidential term.",
+      "keyTakeaways": [
+        "Energy policy implementation roadblocks: Geopolitical conflicts can derail sectoral policy initiatives regardless of regulatory intent; investors should monitor how international tensions affect energy sector expansion plans and market access.",
+        "Supply chain vulnerability in energy transition: The article notes climate tech funding disruptions from supply chain scrambling, suggesting that energy and climate infrastructure investments face compounding geopolitical risks beyond traditional sector analysis.",
+        "Nuclear energy remains viable despite broader policy setbacks: While Trump's broader fossil fuel deregulation strategy faces execution challenges, specific nuclear buildout projects may still advance, presenting a selective investment opportunity within the broader energy policy uncertainty."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "The Total Wreckage of Trump\u2019s Energy Policy"
+    },
+    {
       "id": "984f433c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -805,9 +895,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 5
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 17
+      "count": 19
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 13
     },
     {
       "name": "Fintech",
@@ -815,19 +915,9 @@
       "count": 4
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 11
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 2
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 4
     },
     {
       "name": "Strategy & Thesis",
@@ -835,5 +925,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-04-06T10:41:02.677471Z"
+  "lastUpdated": "2026-04-07T10:37:26.204506Z"
 }
