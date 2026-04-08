@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "13137073",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-08",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French healthtech unicorn Doctolib exceeded \u20ac400 million in revenue and completed a secondary market transaction allowing early investors and employees to sell nearly \u20ac300 million in shares while welcoming new capital partners, occurring shortly after achieving profitability. The newsletter covers several European tech developments including Mistral AI's 22-point proposal to strengthen European AI competitiveness, leadership transitions at ManoMano amid operational challenges, and emerging opportunities in medtech and AI-powered enterprise tools across the continent.",
+      "keyTakeaways": [
+        "Doctolib's secondary transaction at \u20ac400M+ revenue demonstrates strong exit appetite for profitable European healthtech at scale, signaling investor confidence in the business model despite recent market skepticism around SaaS valuations",
+        "European AI founders (Mistral) are actively advocating for structural support through policy proposals, indicating consolidation risk if US/China technical advantage widens\u2014relevant for cross-border AI investment strategy",
+        "Founder transitions (ManoMano) and leadership changes (OpenAI's Fidji Simo) amid market maturation suggest founder-led scaling is hitting execution limits, creating operator hiring opportunities and potential M&A signals in underperforming growth-stage companies"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "08.04 - Doctolib d\u00e9passe les 400 millions d'euros de revenus"
+    },
+    {
+      "id": "f4dd54e5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The Trump administration's Department of Labor proposal to expand private market assets in 401(k) plans faces significant litigation risk despite new 'safe harbor' protections for plan sponsors and fiduciaries. While the $15 trillion retirement plan market represents a lucrative opportunity for alternative asset managers seeking to diversify fundraising sources, major plan administrators remain cautious and are likely to wait for a pending Supreme Court ruling and early adopter results before expanding private credit offerings. Meanwhile, direct lending funds are pulling back from software sector financing, with ARR-based loans becoming scarce and riskier lenders commanding higher yields.",
+      "keyTakeaways": [
+        "The $15 trillion 401(k) market is accessible to alternatives managers, but litigation risk and cautious plan sponsors will likely limit initial adoption to smaller administrators, meaning meaningful capital flows may take 12+ months post-Supreme Court ruling",
+        "Institutional fundraising headwinds are forcing alternative asset managers to pursue retirement plan assets as a new revenue source, but regulatory and legal uncertainty makes execution timing unpredictable",
+        "Direct lending pullback from software creates a bifurcated market where only opportunistic, higher-yielding lenders are active in ARR-based financing, potentially driving up cost of capital for growth-stage SaaS businesses"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Lawsuits haunt 401(k) expansion"
+    },
+    {
+      "id": "5de4ea3c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "JPMorgan CEO Jamie Dimon warns that private equity firms face structural challenges if markets turn bearish, citing that average PE holding periods have doubled to seven years, IPO volumes remain dependent on mega-deals like Medline's $6.3 billion listing, and many companies are being rolled into continuation funds rather than exited. While 2025 saw 26 PE-backed IPOs totaling $141.4 billion, the market remains bifurcated\u2014successful exits like Medline's 41% pop on day one contrast sharply with failures like SailPoint's 61% post-IPO decline, signaling investor hesitation about valuation gaps.",
+      "keyTakeaways": [
+        "PE firms are increasingly reliant on continuation funds as an exit alternative, suggesting traditional IPO and sale exits are becoming less viable\u2014investors should monitor whether this trend masks underlying portfolio quality issues or genuine market timing challenges.",
+        "The IPO market for PE-backed companies remains highly concentrated in mega-deals, indicating that mid-market and smaller portfolio companies face significant exit friction and may face extended holding periods or forced continuation fund rollovers.",
+        "Dimon's warning about bear market exposure is material: PE's current structure assumes continued market strength, and a prolonged downturn could trigger forced liquidations or write-downs across the industry, affecting LP returns and fund-raising velocity."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Reading Altman's fine print"
+    },
+    {
+      "id": "af6a3e4c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is escalating geopolitical tensions with Iran while simultaneously advancing anti-renewable energy policies in its fiscal 2027 budget proposal. Key concerns include threatened strikes on Iran's Bushehr nuclear power plant amid regional instability, potential disruption to global energy markets through the Strait of Hormuz, and domestic policy shifts that continue defunding renewable energy initiatives in favor of fossil fuels and AI infrastructure.",
+      "keyTakeaways": [
+        "Geopolitical risk to energy markets is acute: threatened military action against Iran's nuclear and power infrastructure could severely disrupt oil flows through the Strait of Hormuz, creating immediate commodity price volatility and supply chain risks for energy-dependent sectors and emerging markets.",
+        "U.S. renewable energy and climate tech investments face policy headwinds as the administration redirects capital toward fossil fuels and AI; investors should reassess exposure to solar, offshore wind, and clean energy companies dependent on federal subsidies or regulatory support.",
+        "Nuclear power faces elevated safety and political risk in conflict zones; the Bushehr incident and WHO warnings highlight insurance and liability concerns for civilian nuclear infrastructure globally, potentially affecting financing and expansion plans for nuclear energy projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Deadline Day"
+    },
+    {
+      "id": "005be289",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "D1 Capital Partners has raised approximately $3 billion for its first closed-end private fund, marking a strategic shift from its traditional crossover hedge fund model toward co-investing in private equities alongside its existing fund. The firm, led by Daniel Sundheim, has already backed Anthropic and holds a sizable stake in the upcoming SpaceX IPO, with an overall private portfolio valued at roughly $20 billion. Meanwhile, Bill Ackman's Pershing Square Capital has made an unsolicited offer to acquire Universal Music Group for around $63 billion, proposing a merger with a SPARC vehicle and NYSE relisting.",
+      "keyTakeaways": [
+        "Established multi-strategy firms are formalizing dedicated private equity vehicles to systematically deploy capital into late-stage private companies, signaling confidence in extended private market valuations and IPO delays.",
+        "The IPO drought persists despite favorable market conditions since 2008, with research suggesting the 2012 JOBS Act inadvertently incentivized acquisitions over public offerings\u2014a structural headwind for exit opportunities that policymakers have yet to address.",
+        "Activist investors and established operators are targeting trophy assets in defensive, high-cash-flow sectors (music rights, mortgage servicing) as alternatives to traditional tech exits, reflecting a broader hunt for stable yield in a prolonged private market cycle."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: D1 dollars"
+    },
+    {
+      "id": "81daa81e",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Transition-AI 2026, a conference on April 13-14 in San Francisco, is convening stakeholders at the intersection of AI infrastructure and clean energy development. Key sessions will address behind-the-meter generation tradeoffs, portfolio approaches to data center siting, and grid optimization strategies, featuring executives from companies like Joule, Cloverleaf Infrastructure, Vantage, LevelTen Energy, GridCARE, and PG&E.",
+      "keyTakeaways": [
+        "The AI-energy nexus is becoming a critical investment area with renewed focus on financing mechanisms and regulatory frameworks for co-locating digital and energy infrastructure, as evidenced by sustained conference growth over three years.",
+        "Market leaders are shifting toward decentralized power solutions (behind-the-meter generation) and portfolio-based data center development strategies, suggesting emerging opportunities in distributed energy, infrastructure financing platforms, and grid optimization technologies.",
+        "The convergence of AI compute demand with clean energy buildout is creating a structural shift in how infrastructure projects are sited and financed, with implications for venture and growth capital in climate tech, energy infrastructure, and digital infrastructure sectors."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Last call for tickets to Transition-AI 2026!"
+    },
+    {
+      "id": "0458a71b",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-04-07",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "OpenAI raised $122 billion at an $852 billion valuation while facing strategic questions about competitive differentiation, limited user engagement, and lack of network effects against entrenched incumbents. The company acquired TBPN, a tech video talkshow with 75-100k views, for low hundreds of millions as part of a new communications strategy, though the investment's impact on public narrative remains unclear given the channel's niche tech audience rather than broad media reach.",
+      "keyTakeaways": [
+        "OpenAI's mega-funding round masks fundamental competitive vulnerabilities: no unique technology, limited product stickiness, no network effects, and reliance on external innovation for value creation\u2014investors are betting on unknowable future moats rather than defensible advantages.",
+        "The TBPN acquisition signals OpenAI recognizes it needs better narrative control and audience cultivation, but buying a 75-100k view channel suggests the company may be overestimating small media properties' influence relative to broader tech discourse platforms.",
+        "SpaceX's $1.75 trillion IPO filing and OpenAI's $122 billion raise represent a shift toward trillion-dollar valuations based on speculative futures, while Musk's alleged 'pay-to-play' bank requirement for Grok subscriptions indicates pressure to monetize adjacent assets in mega-cap deals."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "Benedict's Newsletter: No. 637"
+    },
+    {
+      "id": "dfbeeb38",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News is hosting a Washington D.C. event on April 28 focused on permitting reform in the energy sector, featuring U.S. Representative Mike Lawler (R-NY) and Heather Reams, CEO of the Citizens for Responsible Energy Solutions Forum. The event highlights bipartisan consensus that current permitting processes are too slow and uncertain, creating barriers to infrastructure development needed to meet rising electricity demand.",
+      "keyTakeaways": [
+        "Permitting reform has emerged as a rare bipartisan priority in energy policy, signaling potential legislative momentum that could accelerate deployment of renewable energy and grid infrastructure projects\u2014a key tailwind for clean energy investors.",
+        "The emphasis on regulatory uncertainty and development delays suggests significant market opportunity for companies and infrastructure funds focused on streamlining permitting processes, environmental compliance solutions, and project development services.",
+        "Growing consensus among both Republican and Democratic lawmakers on permitting bottlenecks indicates a shift toward pro-development energy policy that could benefit utilities, renewable energy developers, and transmission infrastructure investors seeking faster project deployment timelines."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Join Heatmap, Rep. Lawler, Heather Reams, and more in D.C. on April\r\n 28"
+    },
+    {
+      "id": "2753defd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Hawaii's electricity bills may surge 30% over the coming months due to disrupted global oil markets following geopolitical tensions in Iran, making the state uniquely vulnerable compared to the mainland U.S. Unlike 49 states that rely primarily on natural gas, coal, or nuclear power, Hawaii's islanded electrical grids depend on oil for roughly two-thirds of electricity generation, directly exposing ratepayers to volatile crude prices. Hawaiian Electric, which serves most residents, warned of increases beginning in April on Oahu and May-June across other islands.",
+      "keyTakeaways": [
+        "Hawaii represents a concentrated investment opportunity in energy resilience and grid modernization\u2014the state's structural dependence on oil-fired generation creates urgent demand for renewable energy infrastructure and battery storage solutions to hedge against geopolitical commodity shocks.",
+        "This scenario illustrates systemic infrastructure risk for investors in utility stocks and regulated energy businesses: grid composition and fuel mix diversity directly determine exposure to global supply disruptions, making energy transition investments essential for shareholder protection.",
+        "The 30% rate increase signals growing consumer appetite for distributed renewable energy solutions (rooftop solar, microgrids) as an alternative to utility bills, creating tailwinds for clean energy companies and storage developers operating in regulated markets vulnerable to commodity price volatility."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Hawaii\u2019s Surging Electricity Prices"
+    },
+    {
       "id": "b7161b1a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -897,17 +1059,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 5
+      "count": 6
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 19
+      "count": 22
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 13
+      "count": 17
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 9
     },
     {
       "name": "Fintech",
@@ -918,12 +1085,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 2
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 8
     }
   ],
-  "lastUpdated": "2026-04-07T10:37:26.204506Z"
+  "lastUpdated": "2026-04-08T10:41:21.996618Z"
 }
