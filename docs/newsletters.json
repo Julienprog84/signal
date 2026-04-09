@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "fa3fcc8e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-09",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "European venture capital and innovation remain robust with major developments across multiple sectors: Revolut is expanding its European headquarters to Paris's Silicon Sentier district with 500 employees by 2027, Aura Aero closed a \u20ac340M Series B for electric aircraft production, and Jeito Capital launched a record \u20ac1B biotech-focused fund. Additional activity includes strategic M&A in legaltech (Silae acquiring Kanoon) and emerging opportunities in the hospitality-tech space.",
+      "keyTakeaways": [
+        "Fintech consolidation continues with Revolut's major Paris expansion signaling confidence in Western European markets and talent availability, despite competitive pressures in the region",
+        "Deep tech and climate tech attracting substantial capital: Aura Aero's \u20ac340M raise demonstrates investor appetite for hard-to-build aerospace solutions, while Jeito's \u20ac1B fund closing validates European biotech as a capital-efficient investment thesis",
+        "Strategic acquirers are consolidating European software ecosystems\u2014Silae's Kanoon acquisition shows HR/legal tech convergence patterns, indicating consolidation phase in enterprise software where full-stack solutions command premiums"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "09.04 - La \u00abSilicon Sentier\u00bb n'a pas dit son dernier mot !"
+    },
+    {
+      "id": "c0e5ec6a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The Q4 2025 PitchBook-NCVA Venture Monitor reveals that larger venture firms with available capital are dominating deal flow, while the number of closed funds in 2025 hit a decade-low reflecting cautious LP sentiment. With exit activity remaining subdued, venture capitalists are increasingly seeking alternative liquidity generation strategies rather than traditional IPO and M&A paths.",
+      "keyTakeaways": [
+        "Capital concentration risk: Large, well-funded VCs are gaining outsized market control while smaller and mid-market firms face LP dry-up, reshaping competitive dynamics in venture investing",
+        "Fund formation headwinds persist into 2026: The lowest fund closures in a decade signals LPs remain selective and defensive, making fundraising difficult for emerging and lower-tier managers",
+        "Exit bottleneck driving innovation in monetization: Depressed exit activity is forcing VCs to explore non-traditional liquidity methods (secondary sales, continuation funds, dividend recaps), changing portfolio management strategies"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Q4 PitchBook-NCVA Venture Monitor"
+    },
+    {
+      "id": "9e2b83e6",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Infinite Machine, backed by a16z's American Dynamism fund with $14.2 million in funding, is manufacturing the Olto, a 176-pound e-bike that functions more like a moped with throttle-based acceleration up to 20+ mph and minimal pedaling. The company, founded by brothers Joseph and Eddie Cohen, is positioning itself in the crowded e-mobility space by designing vehicles optimized for urban transit across both roads and bike lanes, with future plans to explore autonomy integration.",
+      "keyTakeaways": [
+        "Infinite Machine is exploiting a regulatory arbitrage by designing vehicles that technically meet Class 2 e-bike requirements while delivering moped-like performance, potentially facing regulatory pushback as cities scrutinize e-bike safety and speed-related accidents.",
+        "The a16z American Dynamism fund's backing signals continued VC appetite for hardware-based urban mobility plays despite the sector's history of failures and challenges, raising questions about risk-adjusted returns in e-mobility.",
+        "The company's Shenzhen manufacturing base contradicts the 'American Dynamism' investment thesis, highlighting the ongoing tension between domestic manufacturing narratives and cost-driven supply chain realities in venture-backed hardware startups."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Buzzing in the bike lane"
+    },
+    {
+      "id": "a003ec94",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A two-week ceasefire between the Trump administration and Iran has paused military action against Iran's energy infrastructure, temporarily stabilizing oil markets which fell below $100 per barrel on the news. The EPA has finalized regulatory rollbacks to Biden-era methane standards, loosening restrictions on gas flaring at oil wells, drawing criticism from environmental groups who warn it will increase emissions and pollution in vulnerable communities. American oil majors including Chevron face higher foreign tax burdens than domestic competitors, raising questions about U.S. tax competitiveness.",
+      "keyTakeaways": [
+        "The Iran ceasefire creates near-term geopolitical relief for oil markets but introduces significant tail-risk exposure\u2014any escalation in the next two weeks could trigger sharp price spikes; investors in energy should prepare for volatility.",
+        "Regulatory rollback on methane flaring reduces compliance costs for oil and gas producers but signals weaker environmental enforcement, potentially attracting ESG-sensitive capital away from the sector and creating long-term reputational risks.",
+        "Chevron and other U.S. oil majors operating internationally face competitive tax disadvantages versus foreign competitors, suggesting opportunities in tax-efficient structures or a potential shift toward higher-margin downstream/refining operations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Two-Week Reprieve"
+    },
+    {
+      "id": "4257c703",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A geopolitical crisis avoidance in Iran has immediate implications for defense-tech venture capital, which has surged from $520 million in 2020 to nearly $7 billion in 2025. Meanwhile, American Ocean Minerals is merging with Odyssey Marine Exploration in a $1 billion reverse merger to address critical mineral supply chains, while biotech deals including Sidewinder Therapeutics ($137M Series B) and Life Biosciences ($80M Series D) continue to attract institutional capital.",
+      "keyTakeaways": [
+        "Defense-tech VC funding momentum is fragile and sentiment-dependent: the sector's 13-fold growth since 2020 could reverse if geopolitical vibes shift negative or civilian casualties erode investor comfort with the sector",
+        "Critical minerals infrastructure plays are gaining traction as strategic alternatives to China-dependent supply chains, with deep-sea mining now positioned as a national security priority worth $1 billion+ valuations",
+        "Life sciences funding remains robust across ADC therapeutics, anti-aging gene therapy, and AI-enabled patent law platforms, indicating continued investor confidence in healthcare innovation despite macro uncertainty"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Crisis averted"
+    },
+    {
+      "id": "d7278cf5",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major hyperscalers Google and Microsoft are increasingly turning to natural gas infrastructure to power their massive AI data centers, despite public commitments to clean energy\u2014raising questions about whether gas is a temporary bridge or a permanent foundation for their power strategies. Google is negotiating gas partnerships for its 933-MW Goodnight data center campus in Texas with Crusoe Energy, while also pursuing 400-MW and utility-scale gas plants in Illinois and Nebraska, similar to Microsoft's 1.4 GW behind-the-meter generation deal in West Virginia. The shift creates a critical strategic uncertainty: as permits are filed and sunk costs accumulate, the industry risks locking in fossil fuel infrastructure long-term despite renewable energy announcements.",
+      "keyTakeaways": [
+        "Google and Microsoft's pivot toward gas-powered data centers signals a fundamental constraint in clean energy scaling\u2014the grid cannot yet deliver reliable firm power at the speed and scale AI infrastructure requires, creating a 3-5 year window where gas becomes economically rational despite reputational risks.",
+        "This infrastructure buildout represents significant capital allocation toward gas turbines and long-duration assets with 20-30 year lifespans; investors should track whether regulatory changes (like Texas SB 6 co-location rules) improve clean alternatives faster than gas becomes economically entrenched.",
+        "The precedent of co-located renewable generation at sites like Goodnight will likely reshape utility economics and grid planning nationwide\u2014companies that can solve firm power delivery without gas will capture substantial value in the next generation of data center development."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "Gas for data centers: Bridge or foundation?\u00a0"
+    },
+    {
+      "id": "545fdcec",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A ceasefire in the U.S.-Israel-Iran conflict is reshaping energy markets, with China emerging as the primary beneficiary as Asian nations reduce fossil fuel dependence and turn to Chinese solar panels, batteries, and electric vehicles. The crisis has also revived nuclear power expansion across Asia, with Taiwan, Vietnam, South Korea, and Russia all accelerating nuclear projects, while Gulf oil producers face significant long-term headwinds from shifting energy demand.",
+      "keyTakeaways": [
+        "Chinese companies are positioned to dominate Asia's renewable energy transition, capturing massive market share in solar, battery storage, and EV manufacturing as neighboring countries reduce Persian Gulf oil reliance",
+        "Nuclear power is experiencing a major geopolitical comeback\u2014invest in uranium, reactor technology, and nuclear engineering firms as Taiwan, Vietnam, and South Korea accelerate reactor restarts and new builds",
+        "Traditional Gulf oil exporters face structural decline in Asian demand; expect prolonged pressure on oil prices and OPEC producers' revenues as the region pivots to renewables, electrification, and nuclear baseload power"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Winners and Losers of the Ceasefire"
+    },
+    {
       "id": "13137073",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1059,17 +1185,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 6
+      "count": 7
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 22
+      "count": 25
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 17
+      "count": 20
     },
     {
       "name": "Strategy & Thesis",
@@ -1087,5 +1213,5 @@
       "count": 2
     }
   ],
-  "lastUpdated": "2026-04-08T10:41:21.996618Z"
+  "lastUpdated": "2026-04-09T10:45:38.624501Z"
 }
