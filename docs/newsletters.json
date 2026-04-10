@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "0f1b4353",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "This European VC newsletter covers six investment stories including EuraTechnologies' new acceleration program under new leadership, MWM's acquisition of London-based Picnic to expand its mobile apps portfolio, Plume's AI platform for renewable energy backed by Kima and Y Combinator, Qonto's strategic partnership with Adyen to enhance professional payment solutions, Expansi's networking initiatives for French startups, and Nanocorp's vision for autonomous AI-driven companies.",
+      "keyTakeaways": [
+        "French tech continues consolidating through cross-border M&A: MWM's acquisition of Picnic demonstrates European tech companies' appetite to build integrated ecosystems across geographies, suggesting investor focus on roll-up strategies in consumer tech.",
+        "AI-powered vertical solutions attracting top-tier backing: Plume's renewable energy AI platform passing through Y Combinator and securing Kima investment signals investor confidence in specialized AI applications beyond consumer tech, with international expansion potential.",
+        "Strategic fintech partnerships indicate market maturation: Qonto and Adyen's alliance demonstrates how European fintech players are moving beyond standalone solutions toward integrated payment infrastructure, suggesting consolidation and margin improvement as key investment themes."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "10.04 - EuraTechnologies veut entrer dans une nouvelle \u00e8re"
+    },
+    {
+      "id": "ab8358e8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "European PE dealmaking contracted sharply in Q1 2026 following geopolitical tensions, with deal value dropping 22.5% to \u20ac140 billion across 2,187 transactions. Investors are shifting toward lower-risk strategies, with add-ons hitting a decade-high of 71.4% of buyout deal count and club deals rising to 43.3% of total deal value, indicating a defensive market posture. Meanwhile, AI infrastructure costs are surging, creating opportunities for LLM observability startups and competitive pressures in cybersecurity as Anthropic's Mythos model advances.",
+      "keyTakeaways": [
+        "PE sponsors are avoiding new platform investments and concentrating capital on add-on deals within existing portfolios\u2014a clear signal that risk appetite has contracted significantly due to macroeconomic uncertainty",
+        "Club deal participation among European PE firms is at elevated levels, suggesting sponsors expect extended market volatility and are prioritizing deal syndication to distribute downside risk across multiple partners",
+        "AI spending by enterprises is accelerating faster than anticipated, creating a new market for cost-monitoring tools while also intensifying competition among cybersecurity vendors facing disruption from AI-powered vulnerability detection"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Wartime hedging"
+    },
+    {
+      "id": "1718373c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Irish drone delivery startup Manna closed a $50 million Series B led by ARK Invest, bringing total funding to $110 million, as the company targets the underserved last-mile delivery market with unit economics of pennies per delivery versus $10 for road-based alternatives. With 250,000+ completed deliveries and partnerships with Uber, DoorDash, and Deliveroo, Manna is positioned to capitalize on regulatory tailwinds from the FAA's proposed Part 108 rules and compete in a projected $300-400 billion U.S. opportunity against Google Wing, Zipline, and Amazon Prime Air.",
+      "keyTakeaways": [
+        "Manna's unit economics (pennies per delivery vs. $10 industry cost) and 8 deliveries per aircraft per hour versus 1.2 industry average suggest a scalable business model that addresses real merchant pain in drone delivery\u2014a contrarian bet that makes ARK's participation meaningful signal of operational maturity beyond hype",
+        "Regulatory unlock via FAA Part 108 rules (due mid-2026) is the catalyst unlocking VC deployment now; Manna's aggressive U.S. expansion plans (40-50 locations in 12 months) suggest conviction that regulatory barriers will lift, making timing critical for capital deployment in the next 12-18 months",
+        "The competitive landscape has consolidated to four players with Manna as the only profitable-per-delivery operator; Zipline's $600M raise at $7.6B valuation but $60+ burn per order indicates unit economics matter more than valuation in this space, favoring Manna's low-cost positioning long-term"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Dinner via drone"
+    },
+    {
+      "id": "f0d63ede",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New Jersey became the sixth state in a decade to repeal its nuclear moratorium, with Governor Mikie Sherrill signing legislation to authorize new reactor permits after decades of restrictions tied to federal waste solutions. The move reflects growing pressure from soaring electricity demand and underperforming offshore wind buildout, positioning nuclear as a critical component of America's energy transition alongside emerging concerns about grid security from Iranian-linked cyber attacks targeting industrial control systems.",
+      "keyTakeaways": [
+        "Nuclear energy is re-entering mainstream U.S. policy after three decades of stagnation, creating investment opportunities in reactor construction, waste management, and grid modernization as six states now permit new builds",
+        "State-level policy shifts are outpacing federal action on energy infrastructure, suggesting investors should monitor individual state legislation and utility partnerships rather than waiting for uniform national frameworks",
+        "Critical infrastructure vulnerabilities in power grids are escalating geopolitical risks, particularly around cyber threats to programmable logic controllers, making grid hardening and cybersecurity solutions investable defensive plays"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Garden State Legalizes Nuclear"
+    },
+    {
+      "id": "58d4c962",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kalshi, a regulated prediction market platform, is raising at a $22 billion valuation after processing $13 billion in monthly bets, primarily from sports. The founders emphasized regulatory compliance and differentiation from unregulated competitors like Polymarket, while facing legal battles over state versus federal jurisdiction that could ultimately reach the Supreme Court. Meanwhile, Seven & i Holdings delayed its 7-Eleven North American IPO to April 2027 due to macro headwinds including high gas prices and persistent inflation pressuring retail foot traffic.",
+      "keyTakeaways": [
+        "Kalshi's $22 billion valuation reflects strong unit economics and user engagement, but regulatory uncertainty remains the primary risk\u2014jurisdictional disputes could end at SCOTUS, potentially requiring Congressional action that may favor the company given its political positioning.",
+        "The prediction market sector shows significant venture capital opportunity, but investor returns depend heavily on regulatory outcomes; Kalshi's legal wins in some states balanced against losses in others suggest the regulatory landscape remains fragmented and unpredictable.",
+        "Broader macro weakness is impacting even fundamentally strong businesses\u20147-Eleven's IPO delay signals that consumer spending pressure and inflation are affecting retail assets across the board, suggesting caution on consumer-facing exit timelines."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Kalshi conversation"
+    },
+    {
+      "id": "8d66ea6d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kalshi co-founders Tarek Mansour and Luana Lopes Lara appeared on \"The Axios Show\" to discuss prediction markets and their regulatory positioning, arguing that their platform should not be classified as gambling. The episode features the founders making a case for why prediction markets could become more integrated into mainstream American society, touching on both regulatory and market adoption challenges.",
+      "keyTakeaways": [
+        "Prediction markets are entering the mainstream media and investor consciousness as a legitimate asset class\u2014Kalshi's appearance on a high-profile show signals increasing institutional acceptance and potential for regulatory clarification that could unlock broader adoption.",
+        "The regulatory framing is critical to market expansion: how prediction markets are legally classified (betting vs. financial instruments) will determine their addressable market and capital requirements for platforms like Kalshi.",
+        "This represents a test case for fintech/betting platforms navigating regulatory hurdles\u2014success here could validate a broader category of alternative trading venues and inform how other emerging financial products achieve legitimacy."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 3,
+      "originalTitle": "\ud83d\udd2e Kalshi Co-Founders on \u201cThe Axios Show\u201d"
+    },
+    {
+      "id": "39b45ae8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Illinois and Michigan are advancing major zoning reform packages that legalize duplexes, accessory dwelling units, and reduce parking requirements in historically single-family zones, positioning denser housing as a climate and affordability solution. The policy shift reflects growing recognition that compact urban development reduces energy consumption per unit by up to 41% compared to single-family homes and can prevent emissions from land-use conversion while lowering housing costs.",
+      "keyTakeaways": [
+        "Multifamily and infill housing developers should monitor Illinois's BUILD package and Michigan's housing reforms as regulatory tailwinds that could accelerate project approvals and reduce zoning-related permitting delays in Midwest markets.",
+        "Real estate investors focused on climate-aligned assets should view zoning liberalization as a capital allocation opportunity, as denser developments command better per-unit economics and appeal to ESG-focused institutional capital.",
+        "The intersection of housing affordability and climate policy is creating bipartisan momentum for land-use reform, suggesting this regulatory trend could expand beyond Illinois and Michigan, opening new development opportunities across underutilized Rust Belt markets."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Two Big New Zoning Laws in the Midwest"
+    },
+    {
+      "id": "4eded9c6",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "S&P Global has launched a new monthly North American PPA Market Report designed to reduce uncertainty in power purchase agreement markets by combining Platts price assessments, market commentary, and forward-looking forecasts. The report leverages real-time transaction data from REsurety's Clean Trade platform, the only CFTC-registered trading venue for clean energy contracts, to provide transparent pricing and market insights for clean energy investors and project developers.",
+      "keyTakeaways": [
+        "A new data-driven intelligence product is addressing a major gap in PPA market transparency\u2014investors can now access verified transaction data and pricing benchmarks to make more informed decisions on project viability and contract negotiation rather than relying on incomplete market information.",
+        "REsurety's CFTC-registered Clean Trade platform is becoming a critical infrastructure asset in the clean energy market by providing the authoritative transaction data that institutional investors depend on for price discovery and risk management.",
+        "The launch signals growing institutional demand for standardized PPA market intelligence as corporate decarbonization commitments and renewable energy investments scale\u2014this creates opportunities for data and analytics providers in the energy transition space."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Bring clarity to North America's PPA market"
+    },
+    {
+      "id": "aef488c7",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Q1 2026 set a venture funding record driven primarily by mega-rounds in AI, with OpenAI's $122B raise accounting for 43% of quarterly activity. Private-market secondaries surged to 134 deals on pace to match last year's record, while exit activity declined 15% to near two-year lows despite elevated AI M&A and IPO activity. Aerospace and defense technology emerged as a leading sector by hiring momentum, supported by government contracts.",
+      "keyTakeaways": [
+        "AI mega-rounds are concentrating capital: OpenAI, Anthropic ($30B), Waymo ($16B), and xAI ($7.5B) dominated Q1'26 funding. For investors missing these rounds, secondary markets offer alternative entry points, as evidenced by Stripe's $159B secondaries and Anthropic's shareholder sell-down.",
+        "The secondary market boom (134 Q1 deals, 536 annualized pace) provides liquidity for early-stage investors before exit, reducing pressure to take extreme valuations in primary rounds or wait for traditional exits\u2014a structural shift in how venture capital cycles.",
+        "Exit activity dropped 15% globally despite record funding, signaling a valuation disconnect: companies raising at record highs but struggling to exit profitably. Aerospace/defense is the exception, driven by government contracts, suggesting geopolitical factors and hard tech infrastructure are reshaping sector leadership."
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "state of venture q1\u201926"
+    },
+    {
       "id": "fa3fcc8e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1185,17 +1347,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 7
+      "count": 8
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 25
+      "count": 30
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 20
+      "count": 23
     },
     {
       "name": "Strategy & Thesis",
@@ -1213,5 +1375,5 @@
       "count": 2
     }
   ],
-  "lastUpdated": "2026-04-09T10:45:38.624501Z"
+  "lastUpdated": "2026-04-10T10:36:20.152111Z"
 }
