@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "6e136b09",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Agentic AI startups have raised over $24 billion across 1,300+ deals since 2015, representing 73% of all AI investment, driven by a fundamental shift in software business models from selling tools to selling end-to-end workflows with measurable ROI. The capital concentration is heavy in IT services (85% of agentic AI companies), particularly in cybersecurity, developer tooling, and enterprise productivity where deployment is fast and returns are clear. Success increasingly depends on workflow orchestration, organizational integration depth, and proprietary context rather than underlying model performance, which investors expect to commoditize.",
+      "keyTakeaways": [
+        "Model performance is becoming a commodity\u2014investors should focus on companies that can deeply embed workflows into enterprise systems and create switching costs through organizational integration, not those betting on superior AI models alone.",
+        "The real defensibility moat in agentic AI is orchestration and integration capability across legacy systems at scale; companies that can't achieve this are likely acquisition targets for larger platforms.",
+        "Capital is concentrating in domains where agent mistakes are recoverable and ROI is quantifiable; agentic AI deployment will stall in high-stakes domains (healthcare, finance) until trust becomes an engineering solution with explainability and audit trails built in."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Software's new model"
+    },
+    {
+      "id": "495514a9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy-focused newsletter highlights three major investment developments: clean energy advocates gained control of Arizona's Salt River Project utility board in a nationally watched election, signaling growing investor confidence in renewable energy profitability; the Iran War has cost American consumers $17 billion in fuel price increases alone, demonstrating macroeconomic vulnerabilities in energy markets; and Trump administration's quasi-nationalization of rare earth producer MP Materials drew criticism from Biden officials as simultaneously excessive and insufficient for long-term supply chain resilience.",
+      "keyTakeaways": [
+        "Utility board control is shifting toward clean energy advocates\u2014the Salt River Project election proves renewable energy operators can be profitable, creating investment opportunity in climate-aligned utility companies and potentially pressuring legacy utilities to accelerate transition strategies.",
+        "Geopolitical energy shocks carry massive hidden costs ($17 billion for Iran War fuel impacts alone), suggesting investors should price in higher volatility and incorporate energy security into portfolio risk assessments, particularly for consumer-facing companies sensitive to fuel costs.",
+        "Government intervention in critical minerals (rare earths) is escalating\u2014the MP Materials deal's mixed reception indicates policy uncertainty around quasi-nationalization approaches, creating both risk and opportunity for companies positioned in strategic materials supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "$17 Billion"
+    },
+    {
+      "id": "6bdb768c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Google's fifth season of its 'Where the Internet Lives' podcast focuses on the intersection of AI innovation and energy infrastructure, featuring industry experts discussing how hyperscalers are adapting to AI's power demands and building sustainable data centers. The series explores whether high-performance computing and sustainability can coexist, with Google executives arguing that modern data centers need not be energy huzzlers and highlighting the role of AI itself in optimizing grid efficiency.",
+      "keyTakeaways": [
+        "The AI buildout is creating unprecedented demand for digital infrastructure and clean power, positioning companies that solve the energy-grid challenge as critical infrastructure winners in the next computing era.",
+        "Major hyperscalers like Google are investing in advanced energy solutions and grid partnerships, signaling that energy efficiency and grid integration are now core competitive advantages\u2014not afterthoughts\u2014for cloud infrastructure providers.",
+        "AI is being deployed to solve the energy problem it creates, suggesting a feedback loop where computational advances can offset sustainability concerns and reduce the total cost of ownership for data center operations."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Where the Internet Lives: Inside the era of AI innovation with\r\n Google"
+    },
+    {
+      "id": "0fdf2001",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity's growth over the past two decades has been deeply dependent on private credit availability, but rising redemption requests at major credit funds like Carlyle (15.7%), Blue Owl, and BlackRock suggest a potential contraction that could significantly constrain PE deal-making. Meanwhile, Sazerac has launched a competing bid for Brown-Forman against Pernod Ricard, highlighting consolidation trends in spirits as consumer preferences shift toward sobriety, particularly among Gen Z.",
+      "keyTakeaways": [
+        "Private credit redemption pressures are now a material risk signal for PE portfolios\u2014managers should stress-test their pipeline against a credit contraction scenario and consider hedging reliance on non-bank lenders.",
+        "The Brown-Forman bidding war demonstrates that strategic consolidation in mature consumer sectors can still attract competitive offers, but the underlying thesis (scale to offset declining demand) may prove insufficient without structural category fixes.",
+        "AI and healthcare software continue attracting robust capital flows (ShengShu $293M, Chapter $100M, Luminai $38M), suggesting investors remain confident in these sectors despite broader macro concerns about credit tightening."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Ties that bind"
+    },
+    {
+      "id": "20c18c1f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Advanced Energy United and Heatmap News are hosting a virtual event on April 30, 2026 featuring state policymakers and industry leaders including executives from RWE and Sunrun to discuss how advanced energy technologies are being deployed to address affordability, reliability, and rising demand pressures. The event highlights state-level policy wins and market opportunities emerging from grid-scale and distributed energy solutions that state regulators increasingly view as credible paths to lower energy costs.",
+      "keyTakeaways": [
+        "State-level energy policy is shifting decisively toward advanced energy technologies as the primary mechanism for cost reduction, signaling substantial near-term commercial opportunities for grid-scale and distributed energy providers in state markets.",
+        "Major incumbents like RWE and distributed solar leaders like Sunrun are actively shaping state policy conversations, indicating consolidation of market influence and potential competitive positioning shifts in advanced energy deployment.",
+        "The framing of advanced energy as an affordability solution\u2014not just a climate imperative\u2014suggests a fundamental rebranding of the sector that could unlock bipartisan policy support and accelerate capital deployment cycles across state-level energy infrastructure projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Upcoming Virtual Event: How States Are Turning to Advanced Energy\r\n to Lower Costs"
+    },
+    {
+      "id": "ae3d72f0",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-04-10",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A deep tech newsletter covering quantum computing breakthroughs where recent advances have dramatically reduced the qubit requirements for breaking encryption from billions to around one million, suggesting practical quantum computers may arrive within years rather than decades. The issue also highlights investments and regulatory milestones across nuclear energy (Antares' DOE-approved demo reactor), AI/biotech (Anthropic's $400M acquisition of Coefficient Bio), space infrastructure (NASA's lunar rover race and satellite security concerns), and emerging technologies like neural data commercialization and long-duration batteries for AI applications.",
+      "keyTakeaways": [
+        "Quantum computing timelines are compressing faster than previously modeled\u2014recent advances in reducing qubit requirements represent a material de-risking event for quantum-focused investors, suggesting earlier-than-expected commercial viability windows",
+        "Deep tech infrastructure plays are accelerating across multiple vectors: nuclear energy (Antares), space/satellites (lunar programs, satellite security), and AI compute hardware (Intel-Musk Terafab partnership), indicating sustained capital deployment opportunities in hard tech",
+        "Biotech VCs are facing disruption from AI-driven discovery methods and alternative approaches, while simultaneously new frontier markets (neural data commercialization, quantum sensors, soft robotics) are creating novel investment categories outside traditional drug development"
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 12,
+      "originalTitle": "DTN 157: The Era of Quantum Computers is Nigh"
+    },
+    {
+      "id": "26e28a33",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Microsoft, which has dominated the carbon removal market by accounting for 80-90% of all historic purchases and over 90% of industry volume last year, has begun pausing its carbon removal buying according to sources informed of the decision. The pause represents a potentially significant setback for the fledgling carbon removal industry, which has depended heavily on Microsoft's voluntary corporate purchasing as a critical early demand anchor, though Microsoft's statement suggests the pause may not be indefinite and the company continues to assess its portfolio.",
+      "keyTakeaways": [
+        "Concentration risk in emerging climate tech: A single buyer (Microsoft) representing 80-90% of carbon removal purchases reveals dangerous market dependency. CDR startups and investors should expect significant revenue volatility and reassess business models reliant on large corporate buyers.",
+        "Early-stage climate tech funding thesis challenged: Microsoft's pause signals potential skepticism about carbon removal economics, scalability, or pricing. Investors should scrutinize whether CDR companies can achieve cost competitiveness and practical deployment or if the sector requires policy intervention rather than voluntary corporate demand.",
+        "Market maturation inflection point: The pause may indicate the carbon removal industry has reached a critical juncture where early subsidy-dependent demand models are insufficient. Future growth likely depends on regulatory mandates, carbon pricing mechanisms, or new anchor customers rather than relying on voluntary tech sector commitments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Scoop: Microsoft Pauses CDR Buying"
+    },
+    {
       "id": "0f1b4353",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1345,19 +1471,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 8
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 30
+      "count": 32
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 23
+      "count": 27
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 3
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 8
     },
     {
       "name": "Strategy & Thesis",
@@ -1368,12 +1499,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 4
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 2
     }
   ],
-  "lastUpdated": "2026-04-10T10:36:20.152111Z"
+  "lastUpdated": "2026-04-11T09:10:02.255892Z"
 }
