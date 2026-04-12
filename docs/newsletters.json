@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "c8d5d684",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Defense technology venture funding reached $17.8 billion in Q1 2026, near record highs and demonstrating that the sector has evolved from cyclical interest into a durable institutional investment category. Major rounds including Shield AI's $2 billion raise and Saronic Technologies' $1.75 billion Series D highlight concentrated capital flowing toward scaled autonomy platforms with strong production narratives and clear demand signals. The sustained elevation of quarterly funding levels since 2025 suggests defense tech is now being treated as a strategic long-term allocation theme rather than a narrow thematic trade.",
+      "keyTakeaways": [
+        "Defense tech quarterly funding has stabilized at elevated levels ($11-18B range) after jumping from the $5-9B range in 2024, signaling institutional investors have shifted from opportunistic bets to committed strategic allocations in the sector.",
+        "Capital concentration in autonomy platforms for air and maritime environments with proven production narratives creates potential selection risk\u2014investors should assess whether valuations (Shield AI at $12.7B, Saronic at $9.25B) reflect justified scarcity premiums or market froth.",
+        "If Q1 2026 pacing continues, defense tech could become one of the most durable venture categories, reshaping portfolio construction for growth investors and challenging the traditional cyclicality assumptions about government-adjacent spending."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Defense tech's hot streak"
+    },
+    {
+      "id": "1db2b9f5",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "CB Insights' Q1 2026 State of Venture report reveals venture funding hit a record $286 billion while exits declined to a two-year low, signaling a contracting investor market despite high capital deployment. The report highlights enterprise AI as the dominant trend, with companies like Inception Labs showing strongest momentum, while identifying AI agent infrastructure and ROI measurement as critical emerging markets as adoption shifts from experimentation to production.",
+      "keyTakeaways": [
+        "Record funding levels ($286B in Q1 2026) combined with declining exits suggests capital is concentrating in fewer deals and later-stage companies, creating a challenging environment for early-stage founders and signaling potential correction ahead",
+        "AI agent infrastructure focused on performance visibility, cost attribution, and deployment management represents the next venture capital opportunity as enterprises move from pilot programs to production\u2014the bottleneck is shifting from building to scaling",
+        "Enterprise AI strategy is fragmenting across partnerships, M&A, and direct hiring, meaning B2B AI startups must compete against well-capitalized S&P 500 players building in-house solutions, favoring specialized infrastructure and ROI measurement tools"
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 45,
+      "originalTitle": "242-page state of venture report"
+    },
+    {
       "id": "6e136b09",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -1473,7 +1509,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 32
+      "count": 34
     },
     {
       "name": "Climate & Energy",
@@ -1501,5 +1537,5 @@
       "count": 4
     }
   ],
-  "lastUpdated": "2026-04-11T09:10:02.255892Z"
+  "lastUpdated": "2026-04-12T09:33:03.896556Z"
 }
