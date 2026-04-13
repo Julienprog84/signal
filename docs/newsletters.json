@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "55e60cce",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-13",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac67 million this week, marking a significant 37% decline from the previous week's \u20ac107 million, with an average ticket size of \u20ac9.5 million. The newsletter highlights the Margaret Awards 2026 ceremony recognizing three female entrepreneurs, alongside emerging trends of founder pragmatism and the growing importance of repreneurship as a strategic alternative to traditional startup founding in addressing SME succession challenges.",
+      "keyTakeaways": [
+        "French tech funding momentum is decelerating sharply week-over-week, suggesting either seasonal weakness or market contraction that warrants monitoring for Q2 2026 trends",
+        "AI-focused startups continue to attract capital (\u20ac9.5 million raised by 2 AI companies), indicating sustained investor interest in the sector despite broader funding headwinds",
+        "Repreneurship is emerging as a viable alternative growth vector for impact-driven entrepreneurs seeking stability with innovation, presenting new M&A and acquisition opportunities for VCs targeting mature SME portfolios"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "13.04 - Margaret Awards 2026 : d\u00e9couvrez les trois laur\u00e9ates"
+    },
+    {
+      "id": "cbfafe8e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Energy transition infrastructure funds raised a record $171.5 billion in 2025 when including dual-sector funds, with exclusive energy transition vehicles raising $47.3 billion, despite a challenging fundraising environment and unfavorable U.S. policy landscape. The surge was driven by durable structural trends including AI datacenter power demand, electric vehicle adoption, and energy security concerns, with investors viewing these assets as offering both strong risk-adjusted returns and positive environmental impact.",
+      "keyTakeaways": [
+        "Energy transition funds shattered capital-raising records in 2025 with $171.5 billion committed despite broader PE/VC fundraising headwinds, signaling robust institutional demand for this sector independent of ESG sentiment shifts",
+        "AI datacenter power consumption is emerging as a primary driver of energy transition investment demand, creating a strategic overlap between the AI boom and clean energy infrastructure that investors should monitor for deal flow opportunities",
+        "Impact funds nearly doubled their capital raises year-over-year in 2025, suggesting a structural shift in how LPs are allocating to sustainable investing alongside return expectations, with implications for fund strategy and positioning"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Energy funds beat the odds"
+    },
+    {
+      "id": "7c76d3e7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Trump has threatened a naval blockade of the Strait of Hormuz after Iran negotiations collapsed, reversing a recent ceasefire deal and risking further oil price spikes that have already cost Americans $17 billion at the pump. Meanwhile, Viktor Orb\u00e1n's electoral defeat in Hungary by rival P\u00e9ter Magyar threatens to derail the Paks II nuclear project, a major Russian state-owned Rosatom construction initiative that could lose EU and NATO support under the new administration's pro-Western pivot.",
+      "keyTakeaways": [
+        "Energy market volatility will likely intensify: Oil prices have already spiked following Trump's blockade announcement, and the Strait of Hormuz remains the world's most critical oil chokepoint\u2014investors should monitor energy hedges and expect continued commodity price instability.",
+        "Major infrastructure projects face political reversals: Paks II's fate illustrates how geopolitical shifts can upend long-term capital commitments; investors with exposure to Russia-aligned energy or infrastructure deals in Central Europe face execution risk.",
+        "U.S.-NATO alignment reshaping European investment landscape: Magyar's pro-EU, anti-Russian platform signals a broader realignment in Central European politics that could redirect billions in energy and infrastructure spending away from Russian state enterprises toward Western partners."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Trump\u2019s Blockade"
+    },
+    {
+      "id": "8022aa67",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The AI industry is seeing emerging competition around memory and context layers\u2014infrastructure that allows AI systems to retain information across sessions and deliver more personalized responses. While startups are gaining investor attention in this space, uncertainty remains whether these will become sustainable businesses or be absorbed by large language model companies building similar capabilities internally.",
+      "keyTakeaways": [
+        "Memory and context layer startups are attracting capital, but face existential risk from incumbent LLM providers who may build equivalent features, making it critical to assess whether these startups can achieve defensibility beyond first-mover advantage.",
+        "Enterprises are highly protective of their contextual data and want to own it internally, suggesting successful memory solutions must address data sovereignty concerns rather than centralizing customer information.",
+        "The shift of AI value toward context rather than raw model capability represents a significant market opportunity, but investors should distinguish between infrastructure plays that become table stakes versus those that create lasting competitive moats."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Who will own AI's memory?"
+    },
+    {
+      "id": "ef4a97ce",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-04-12",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A retrospective analysis of the Buy Now, Pay Later sector's evolution since November 2020, when BNPL excitement peaked amid pandemic-driven ecommerce growth. The author examines how category leaders Affirm and Klarna have matured beyond simple pay-in-four products, expanding into bank-like offerings with cards and positioning themselves as shopping destinations rather than pure lending providers. Key developments include Klarna's established banking status in Sweden, Affirm's 2024 filing for an ILC charter in Nevada, and Afterpay's integration into Block's Cash App ecosystem.",
+      "keyTakeaways": [
+        "BNPL leaders have shifted from a single product focus to full financial platforms with cards and accounts, reducing customer acquisition dependency on merchant relationships and improving retention through direct engagement as shopping destinations.",
+        "Regulatory moves toward banking charters signal industry maturation and consolidation risk; Affirm's ILC application and Klarna's existing banking operations suggest winners are those capturing deposit relationships and full financial service capabilities, not just lending.",
+        "The market has evolved from 'revolution' to 'evolution'\u2014unbridled pandemic-era growth narratives have given way to sustainable business model building, implying future returns depend on profitability metrics and network effects rather than pure user growth."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 6,
+      "originalTitle": "Revisiting the Explosive Growth of Buy Now, Pay Later"
+    },
+    {
+      "id": "938a253e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week's climate and energy newsletter covers Trump's surprising embrace of carbon taxation, a surge in transformer startup formation driven by grid modernization needs, Microsoft's pause on carbon removal purchases signaling market challenges, Energy Vault's expansion into Japan's energy storage sector, and progress in EV range anxiety reduction. The coverage spans policy shifts, infrastructure bottlenecks creating venture opportunities, corporate sustainability strategy changes, and evolving transportation technology.",
+      "keyTakeaways": [
+        "The transformer startup wave represents a capital-intensive infrastructure play tied to grid modernization\u2014investors should evaluate whether these ventures address genuine bottlenecks in power distribution or are riding temporary hype cycles.",
+        "Microsoft's carbon removal purchase pause suggests buyer skepticism about carbon credit markets and removal technology maturity, indicating selective investment opportunities in verification-backed and near-term viable removal methods rather than speculative approaches.",
+        "Policy volatility around carbon pricing and energy infrastructure creates both risk and opportunity; companies positioned to serve multiple regulatory regimes (like Energy Vault entering Japan) may outperform single-market players."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Trump\u2019s Carbon Tax, a Wave of Transformer Startups, and More"
+    },
+    {
       "id": "c8d5d684",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -1507,14 +1615,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 9
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 34
+      "count": 36
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 27
+      "count": 29
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 5
     },
     {
       "name": "Deep Tech & Science",
@@ -1522,20 +1640,10 @@
       "count": 3
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 8
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 9
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 4
     }
   ],
-  "lastUpdated": "2026-04-12T09:33:03.896556Z"
+  "lastUpdated": "2026-04-13T11:52:57.222208Z"
 }
