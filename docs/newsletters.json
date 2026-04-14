@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "072f0625",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-14",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startup WeMaintain has been acquired by American elevator giant Otis in an all-cash deal valuing the company at several hundred million euros for an 80% stake, signaling strong M&A activity in European tech. The newsletter also highlights growth momentum across French fintechs and insurtechs, including Neat's partnership with Visa reaching 25 million cardholders and Seyna surpassing \u20ac100 million in annual revenues while expanding across Europe.",
+      "keyTakeaways": [
+        "Strategic consolidation in vertical SaaS: Otis's acquisition of WeMaintain demonstrates how large industrial corporations are actively acquiring specialized European software platforms to modernize operations, presenting exit opportunities for VC-backed B2B startups in the maintenance and IoT space.",
+        "Fintech-payments convergence accelerating: Neat's integration into Visa's card infrastructure across 25 million French cardholders shows embedded finance partnerships are scaling rapidly, potentially multiplying user acquisition by 4x\u2014a validation of the embedded insurance and fintech-as-a-service model.",
+        "European insurtechs reaching scale: Seyna's \u20ac100M+ revenue milestone and cross-border European expansion signals that health insurtech has moved from early-stage to sustainable growth phase, attracting strategic interest from both corporates and likely larger financial services acquirers."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "14.04 - WeMaintain rachet\u00e9 par le g\u00e9ant am\u00e9ricain Otis"
+    },
+    {
+      "id": "424202c4",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Hong Kong's IPO market surged 490% year-on-year in Q1 2026, raising nearly $14 billion and reclaiming its position atop global IPO rankings, driven primarily by Chinese AI companies rather than secondary listings. Frontier AI labs like MiniMax and Z.ai have seen share prices soar 500-700% despite generating under $100 million in revenue and substantial losses, reflecting investor optimism about China's competitive position in AI following the DeepSeek breakthrough.",
+      "keyTakeaways": [
+        "Hong Kong is becoming the primary listing venue for Chinese AI startups with exceptional early returns (40% average first-day gains in 2025, with winners reaching 500%+ gains), offering capital allocation opportunities in a high-growth sector previously undervalued due to geopolitical concerns.",
+        "The shift from secondary listings of established Chinese companies to primary IPOs of early-stage AI firms signals a fundamental market recalibration\u2014investor appetite for Chinese tech has recovered substantially, even for pre-revenue or loss-making companies, suggesting reduced execution risk around regulatory barriers.",
+        "While Hong Kong cannot fully replicate U.S. capital market depth, it has emerged as the preferred alternative for Chinese AI companies unable or unwilling to list in New York due to geopolitics, positioning it as a critical hub for Asia-focused venture and growth-stage investors seeking exposure to China's AI sector."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Hong Kong\u2019s IPO renaissance"
+    },
+    {
+      "id": "6094083b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic has achieved unprecedented organic revenue growth, reaching $30 billion run-rate (up from $9 billion at end of 2025), surpassing OpenAI's $25 billion with fewer users and crushing historical growth benchmarks of companies like Google, Snowflake, and Zoom. PopUp Bagels, a viral bagel chain with a capital-efficient model, raised funding at a $300 million valuation led by Tiger Global, highlighting investor appetite for consumer brands with strong unit economics and social media appeal.",
+      "keyTakeaways": [
+        "Anthropic's revenue growth trajectory is historically anomalous\u2014it added $29 billion in run-rate revenue in just over a year on an already substantial base, exceeding the fastest organic growth rates in American business history and suggesting AI infrastructure/applications may represent a genuinely transformative market opportunity rather than speculative hype.",
+        "PopUp Bagels' $300 million valuation demonstrates continued VC appetite for consumer discretionary plays with favorable unit economics (limited SKUs, low labor costs, small footprints), though the model's dependence on social media virality and weekend traffic presents concentration risk for investors.",
+        "The divergence between Anthropic's B2B AI infrastructure dominance (1,000+ customers spending $1M+ annually) and PopUp's consumer-facing viral growth suggests the most attractive current investment thesis involves either enterprise AI adoption or consumer brands with structural cost advantages and viral distribution mechanisms."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Unprecedented growth"
+    },
+    {
+      "id": "6a9c390f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. has implemented a blockade of Iranian maritime traffic following failed negotiations, attempting to reopen the Strait of Hormuz which has been largely closed since March due to Iranian threats against shipping. The blockade affects critical global energy flows including oil, liquified natural gas, and fertilizer, with pre-blockade traffic at only 10-12 ships daily compared to normal levels, and represents a strategic escalation that could significantly impact energy prices and geopolitical stability.",
+      "keyTakeaways": [
+        "Energy market volatility is likely to persist or intensify: the Strait of Hormuz handles a critical share of global oil and LNG trade, and sustained restrictions directly impact commodity prices\u2014Johns Hopkins research already attributed $17 billion in higher U.S. gasoline and diesel costs to the Iran war alone.",
+        "Infrastructure and logistics providers serving Middle Eastern energy corridors face both risk and opportunity: shipping companies, port operators, and alternative supply chain routes (like those through non-Iranian channels) will see margin compression or expansion depending on blockade duration and enforcement.",
+        "Energy transition investments may face headwinds as higher fossil fuel costs reduce capital available for climate tech: Microsoft's pause on carbon removal purchases signals that elevated energy costs can constrain funding for climate solutions, creating a potential tactical opportunity for investors in energy security and resilience."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "What\u2019s Going on With the Hormuz Blockade?"
+    },
+    {
       "id": "55e60cce",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1617,17 +1689,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 9
+      "count": 10
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 36
+      "count": 38
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Fintech",
@@ -1645,5 +1717,5 @@
       "count": 9
     }
   ],
-  "lastUpdated": "2026-04-13T11:52:57.222208Z"
+  "lastUpdated": "2026-04-14T10:50:54.674867Z"
 }
