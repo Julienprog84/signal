@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "a7497d46",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-15",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French VC-focused newsletter highlighting several key trends: 40 French entrepreneurs are launching a coordinated campaign to improve the public perception of entrepreneurship ahead of the presidential election; VivaTech celebrates its 10th edition with major activations including takeover of the Champs-\u00c9lys\u00e9es; Le Fourgon expands internationally to Belgium and Spain following its acquisition of La Tourn\u00e9e; Newfund closes a \u20ac60 million fund for digital brain health startups targeting European ecosystem development; and France's fintech sector shows maturation with over 50% of the top 100 fintechs now profitable, signaling a shift toward consolidation and reduced VC dependency.",
+      "keyTakeaways": [
+        "French fintech profitability inflection point: over 50% of the 100 largest French fintechs are now profitable, indicating the sector is moving beyond growth-at-all-costs and entering consolidation phase\u2014a signal for investors to shift from early-stage funding to later-stage acquisition opportunities.",
+        "London remains the preferred scaling hub for French tech scale-ups due to mature ecosystem, pro-innovation regulation, and access to global finance-tech talent\u2014French founders seeking international growth will continue gravitating there despite post-Brexit friction, limiting domestic capital deployment opportunities.",
+        "Specialized vertical funds gaining traction: Newfund's \u20ac60M brain health tech fund reflects investor appetite for thematic, sector-specific vehicles focused on emerging categories like digital health, suggesting fragmentation of general VC into more targeted strategies."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "15.04 - \u00c0 un an de la pr\u00e9sidentielle, 40 entrepreneurs s'engagent"
+    },
+    {
+      "id": "f8352720",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity delivered solid Q1 2026 deal and exit activity despite macroeconomic headwinds including tariff uncertainty, private credit concerns, and geopolitical risks, with deal volume pacing ahead of Q2 2025 lows. However, PE fundraising remains severely constrained with only 84 funds raising $54.2 billion in Q1\u2014significantly behind 2025's $286 billion pace\u2014suggesting another challenging year for capital formation despite optimism about potential H2 2026 recovery.",
+      "keyTakeaways": [
+        "PE deal activity proved resilient in Q1 despite recession odds rising to 45%, outpacing the depressed Q2 2025 baseline, indicating underlying market strength if macroeconomic clarity improves in coming quarters.",
+        "The massive fundraising drought\u20142026 tracking 81% below last year's inflows\u2014creates a significant bottleneck for deal flow and suggests smaller, newer PE firms will face severe capital constraints while established players like Apollo's 26North ($6B debut fund) can still access capital.",
+        "Private credit sector health concerns traced to loose deployment standards by PE firms represent a systemic risk that could further constrain leverage availability and deal structuring flexibility if problems escalate beyond software sector exposure."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE's Q1 was better than you think"
+    },
+    {
+      "id": "a08b1902",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Chad Rigetti's quantum computing startup Sygaldry has raised $139 million ($105M Series A from Breakthrough Energy Ventures, $34M seed from Initialized Capital) to develop quantum hardware integrated into AI data center servers. The company aims to address AI's escalating power consumption problem by combining quantum processors with classical chips to accelerate AI workloads more efficiently than current GPU-based solutions, targeting commercial production by 2030.",
+      "keyTakeaways": [
+        "Quantum computing is attracting serious venture capital as a potential solution to AI's unsustainable energy demands\u2014Breakthrough Energy Ventures' backing signals institutional confidence that this is more than speculative, despite quantum's historical 'always 50 years away' reputation.",
+        "Sygaldry's hybrid approach (quantum + classical chips in unified servers) represents a pragmatic commercialization strategy different from pure-play quantum computing plays, positioning it for near-term enterprise adoption if technical milestones are met.",
+        "The convergence of AI infrastructure bottlenecks and quantum hardware maturation may be creating a genuine market inflection point\u2014investors should monitor whether other well-funded quantum startups meet similar 2030 commercialization timelines, as this could indicate broader sector viability."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Quantumania"
+    },
+    {
+      "id": "9a873a12",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is withholding NOAA grants and threatening to dismantle the National Center for Atmospheric Research, jeopardizing climate and weather research infrastructure. Energy Secretary Chris Wright and other federal officials face congressional budget hearings this week, while U.S. Customs and Border Protection prepares to process refunds for companies affected by Trump's tariffs, particularly benefiting solar companies that filed complaints with the Court of International Trade.",
+      "keyTakeaways": [
+        "Federal funding freezes on NOAA grants create immediate risk for climate tech and atmospheric research investments, with scientists potentially losing funding within 30 days, signaling policy headwinds for climate-dependent business models",
+        "The administration's push to dismantle major research institutions like NCAR could disrupt the scientific foundation supporting renewable energy development and climate modeling that informs corporate strategy",
+        "Tariff refund processing for solar companies represents near-term cash recovery but highlights ongoing regulatory uncertainty for clean energy manufacturers\u2014investors should monitor congressional testimonies from Energy Secretary Wright for clarity on long-term energy policy direction"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "NOAA Money"
+    },
+    {
+      "id": "070a9ef2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Apple is positioning itself as a strategic beneficiary of AI advancement without heavy capital investment in frontier models or GPUs, instead leveraging its hardware ecosystem and App Store to capture value from competing AI labs. Meanwhile, the Paramount-Skydance merger faces U.K. antitrust scrutiny and opposition from over 1,400 Hollywood professionals, threatening deal closure despite initial victory over Netflix.",
+      "keyTakeaways": [
+        "Apple's AI strategy diverges from Microsoft and Amazon's direct frontier lab investments\u2014it's betting on hardware primacy and App Store monetization of third-party AI services, reducing capex risk while maintaining upside exposure to AI adoption",
+        "The Paramount-Skydance deal remains in regulatory jeopardy despite winning the bidding war; state attorneys general and foreign regulators signal readiness to challenge, making this a less certain outcome than initially assumed",
+        "Emerging AI hardware platforms (agents, specialized devices) could disrupt traditional smartphone primacy, but Apple's ecosystem advantages and brand positioning likely insulate it better than mobile-only competitors"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Apple AI"
+    },
+    {
+      "id": "46514f75",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-04-14",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic announced its Mythos security model, which can automatically discover complex security exploits across systems by analyzing multiple interconnected weak points\u2014finding vulnerabilities like a 27-year-old FreeBSD flaw that could crash systems. The company reported annualized revenue of $30 billion (up from $9 billion in December 2025), driven almost entirely by software development applications, while also securing TPU capacity from Google and committing to custom chip purchases from Broadcom.",
+      "keyTakeaways": [
+        "Anthropic's Mythos represents a significant competitive moat in enterprise security\u2014the ability to automatically identify zero-days and chained exploits across complex systems creates immediate demand from major tech companies through Project Glasswing partnership, opening a new high-margin revenue stream.",
+        "The $30 billion annualized revenue milestone signals explosive growth in AI-powered software development tools, growing from $75 million monthly revenue a year ago to $2.5 billion monthly\u2014indicating market inflection and potential margin expansion for investors exposed to enterprise AI developer tools.",
+        "OpenAI's competitive position is weakening against incumbents who have matched technology while maintaining superior distribution and product integration, suggesting capital may need to reallocate toward specialized AI models (like Anthropic's security focus) rather than generalist platforms without defensible advantages."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 638"
+    },
+    {
+      "id": "255bd467",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter examining the rise of anti-tech extremism and violence targeting AI infrastructure, including a Molotov cocktail attack on OpenAI CEO Sam Altman's house and shootings at his residence. The piece interviews anti-tech extremism researcher Mauro Lubrano, who argues that climate anxiety, AI acceleration, and economic inequality are driving a decentralized global movement against tech infrastructure, with expectations for more attacks on electricity-linked systems.",
+      "keyTakeaways": [
+        "Physical security risks for AI infrastructure and tech executives are escalating from theoretical concerns to realized threats, creating new operational and liability costs for companies building data centers and AI systems.",
+        "Data center expansion faces growing opposition rooted in climate and energy concerns rather than purely technological objections, suggesting regulatory and community approval challenges will intensify for energy-intensive AI buildouts.",
+        "The emergence of organized anti-tech extremism as a material business risk indicates that AI and infrastructure investors must model geopolitical and activist threats alongside traditional financial metrics when evaluating deployment locations and executive safety protocols."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Data Center Hate Turns Violent"
+    },
+    {
       "id": "072f0625",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1689,17 +1815,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 10
+      "count": 11
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 38
+      "count": 41
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 30
+      "count": 32
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 10
     },
     {
       "name": "Fintech",
@@ -1710,12 +1841,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 3
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 9
     }
   ],
-  "lastUpdated": "2026-04-14T10:50:54.674867Z"
+  "lastUpdated": "2026-04-15T10:45:43.307222Z"
 }
