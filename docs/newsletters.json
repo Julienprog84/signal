@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "8015a51c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "This European VC newsletter highlights several investment-relevant developments: Ledger announces its 2026 AI strategy under new Chief Human Agency Officer Ian Rogers; Welcome to the Jungle pivots to an AI-native recruitment platform to address market disruption; Donecle, a Toulouse-based autonomous drone company, raises \u20ac10 million for aircraft inspection and predictive maintenance; and Arterya launches crowdfunding for Blood'Up, a medical device for arterial localization ahead of CE marking. The newsletter also analyzes structural failures in European pre-seed and seed funding rounds across 500 startups.",
+      "keyTakeaways": [
+        "Established tech companies like Ledger are formalizing AI agent strategies and creating dedicated C-suite roles, signaling that agentic AI is moving from R&D to core business planning in 2026.",
+        "Legacy business models face existential pressure: job boards and traditional recruitment are being disrupted by AI-native platforms, indicating venture capital should favor companies that embrace native AI architectures over those attempting digital transformation of old models.",
+        "Hardware-software convergence and deep tech are attracting capital: autonomous drone inspection and AI-powered medical diagnostics suggest investor appetite remains strong for B2B applications solving operational pain points, particularly in regulated industries like aviation and healthcare."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "16.04 - Ledger d\u00e9voile sa feuille de route pour acc\u00e9l\u00e9rer dans l\u2019IA agentique"
+    },
+    {
+      "id": "c3cee94a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The US VC market in Q1 2026 is experiencing extreme concentration, with AI deals commanding 45% of total market value and the five largest transactions alone representing eight times the value of all sub-$100M deals combined. OpenAI's $122 billion financing and overall Q1 deal value exceeding $267 billion is masking a bifurcated market where AI startups raise at median Series A valuations of $78 million versus just $42.4 million for non-AI companies, driven by FOMO on the next breakout success. Meanwhile, Carlyle Group CEO Harvey Schwartz warned that investors are dangerously complacent about geopolitical risks, citing the SVB collapse as having triggered seven times the market reaction of Russia's Ukraine invasion.",
+      "keyTakeaways": [
+        "AI FOMO is creating a two-tier market: investors are raising AI company rounds 6+ months faster with 2.2x valuation step-ups, while non-AI startups face capital scarcity and uncertain paths forward despite record overall deal volume.",
+        "Series A valuations have tripled since 2020 ($62M median vs $21M), but this headline masks that 56% of gains are concentrated in AI; non-AI median valuations remain subdued at $42.4M, signaling potential overheating in one vertical.",
+        "Geopolitical risk mispricing presents a blind spot: with investors accustomed to unsettling events 'sorting themselves out,' portfolio companies exposed to geopolitical volatility may be valued without adequate risk premiums."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "FOMO fuels VC valuations"
+    },
+    {
+      "id": "c2f06c0c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A U.S. naval blockade is effectively halting shipping through the Strait of Hormuz, creating significant disruptions to global energy flows as both Iranian and American forces restrict vessel passage. Tactical Resources Corp is accelerating rare earth mineral production by pivoting to extract metals from 1.5 million tons of mining waste near El Paso, Texas, positioning itself to meet surging domestic demand for rare earths critical to energy and defense technologies.",
+      "keyTakeaways": [
+        "Tactical Resources has found a faster path to market by securing mining waste feedstock rather than waiting for traditional mine development, reducing typical project timelines\u2014this model could be attractive to investors seeking near-term revenue generation in critical minerals.",
+        "The rare earth supply strategy addresses geopolitical risk: as U.S.-China tensions rise and supply chains are disrupted by the Iran blockade, domestic rare earth production becomes a strategic asset with potential government support and premium valuations.",
+        "The Strait of Hormuz blockade creates a dual impact: it pressures energy prices and supply chains globally while simultaneously increasing demand for domestic alternatives in rare earths, battery technology, and renewable energy infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Trump\u2019s Blockade in Force"
+    },
+    {
+      "id": "03dacc41",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Hyfix Spatial Intelligence, backed by Craft Ventures and other VCs, raised $15 million to develop an American-made autonomous systems chip that consolidates drone flight control, positioning, communications, and compute into a single system-on-chip. The startup is positioned to capitalize on FCC regulatory tailwinds that have blocked certain Chinese drone imports, addressing the current lack of an end-to-end U.S. drone supply chain as DJI controls roughly 80% of the global civilian market.",
+      "keyTakeaways": [
+        "Regulatory policy (FCC drone import restrictions) is creating immediate market demand for domestic drone alternatives, reducing typical commercialization risk for hardware startups in this space",
+        "The global commercial drone market is projected to grow from $30 billion (2024) to $55 billion by 2030 with production already at tens of millions of units annually, making the semiconductor layer a critical chokepoint for building competitive U.S. alternatives",
+        "CEO Mike Horton's parallel project, Geodnet (21,000 ground reference stations), provides Hyfix with differentiated positioning technology that works when GPS is jammed\u2014a defensible moat in a market where supply chain localization alone won't sustain competitive advantage"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The real drone war"
+    },
+    {
+      "id": "fa08ac9f",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. venture capital hit an all-time record in Q1 2026, but the milestone masks a troubling concentration trend: removing just five mega-deals would show quarter-over-quarter decline. The industry is increasingly dominated by massive tranched rounds to a handful of mega-cap companies like OpenAI, fundamentally shifting VC from a diversified moonshot business to front-running capital for established logos, while smaller startups face a widening funding gap.",
+      "keyTakeaways": [
+        "Traditional VC metrics are becoming meaningless as measurement tools\u2014Q1 2026's record was driven by five outsized deals with tranched capital structures more akin to project finance, suggesting headline numbers no longer reflect actual startup ecosystem health",
+        "LP concentration risk is accelerating: mega-allocations to a small number of names (OpenAI, etc.) is flattening performance benchmarks across portfolios and may force LPs to choose between safe IBM-like bets on mega-caps or seek contrarian managers chasing IRR in underserved segments",
+        "The venture industry is experiencing a structural pivot from underdogs-and-moonshots model to front-running strategy, which could compress returns across the mid-market and create opportunity for managers willing to pursue smaller, higher-IRR opportunities in overlooked sectors like pancreatic cancer therapeutics"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Broken record"
+    },
+    {
+      "id": "550559f6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration cancelled two offshore wind leases held by TotalEnergies and approved nearly $1 billion in reimbursement through Interior Secretary Doug Burgum, raising legal and procedural questions about the administration's authority and funding sources. A newly released lease cancellation document provides clarity on how the government justified the decision, with implications for the future viability of the U.S. offshore wind industry.",
+      "keyTakeaways": [
+        "The Trump administration is using government buyouts as a tool to dismantle renewable energy projects, potentially establishing a precedent for paying companies to exit clean energy contracts\u2014a strategy that could become a significant hidden cost to taxpayers if applied systematically across the sector.",
+        "TotalEnergies' willingness to accept a $1 billion buyout suggests the offshore wind leases were economically marginal or strategically unimportant to the company, signaling broader challenges in offshore wind project economics that investors should scrutinize.",
+        "This cancellation mechanism represents a major policy risk for offshore wind developers and investors: rather than changing regulations, the government can simply pay companies to exit, creating uncertainty around long-term project viability and threatening the bankability of future offshore wind investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Scoop: How Trump Is Paying Off TotalEnergies"
+    },
+    {
+      "id": "d23a8cb1",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "PJM has released its framework for a 14.9 gigawatt emergency auction designed to address grid strain from data center load growth, proposing a two-phase approach with bilateral contracting followed by central procurement if needed. The proposal allocates costs to utilities based on their pro-rata share rather than directly to data centers as the White House requested, maintains technology neutrality to include storage and demand response, and declines to bypass standard interconnection timelines despite White House pressure for 150-day expedited reviews.",
+      "keyTakeaways": [
+        "Cost allocation to utilities rather than data centers creates financial risk for ratepayers and incentivizes utilities to lower load forecasts to avoid over-procurement, creating potential investment opportunities in demand-side management and distributed energy resources that can address capacity needs more cost-effectively.",
+        "Technology-neutral design with eligibility for storage, VPPs, and demand response (not just new gas baseload) signals regulatory support for flexible capacity solutions and creates a competitive landscape favoring battery storage and virtual power plant providers over traditional generation.",
+        "PJM's refusal to expedite interconnection studies to 150 days creates a bottleneck that could delay projects until 2031, suggesting longer development timelines and increased risk for generation developers but potential advantages for firms with pre-developed interconnection pathways or regulatory expertise."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "What PJM wants for its emergency auction\u00a0"
+    },
+    {
+      "id": "1f60e920",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new report from three former Biden administration officials provides insider analysis of the Inflation Reduction Act's implementation, examining the challenges of rolling out nearly 30 clean energy tax credits before the law was dismantled by the Trump administration less than three years after enactment. The report draws on over 70 interviews with implementers and offers lessons for future climate policymakers on effective policy execution.",
+      "keyTakeaways": [
+        "Policy implementation failures in climate legislation may be as important as legislative design\u2014understanding what went wrong with the IRA could inform future clean energy incentive structures and tax credit mechanisms that investors rely on for project viability.",
+        "The rapid dismantling of the IRA demonstrates policy risk in climate investing; institutional investors need to assess which clean energy assets and tax credit benefits have structural resilience versus exposure to political reversal.",
+        "The gap between policy intent and execution suggests opportunities in advisory services, compliance infrastructure, and clean energy finance that help companies navigate complex incentive programs\u2014a lesson relevant regardless of which administration's policies prevail."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "What Went Wrong With Biden's Climate Law"
+    },
+    {
+      "id": "941b2485",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new report by three former Biden administration officials draws on interviews with over 70 government implementers to analyze what worked and failed in rolling out the Inflation Reduction Act's nearly 30 clean energy tax credits before the law was dismantled by the Trump administration. The analysis focuses on the mechanics of policy implementation\u2014how tax credits were written, administered, and their relative effectiveness\u2014rather than political coalition-building, offering a blueprint for future administrations to rebuild capacity and avoid repeating implementation mistakes.",
+      "keyTakeaways": [
+        "The IRA's implementation required extraordinary interagency coordination and institutional knowledge that was lost after policy dismantling; future climate legislation will need to account for rapid turnover and staff capacity constraints when designing tax credit mechanisms",
+        "Differential effectiveness among the 30 tax credits suggests that policy design choices\u2014not just funding levels\u2014determine clean energy investment outcomes; investors should scrutinize how subsidies are structured rather than assuming all incentives are equally impactful",
+        "The collapse of major climate legislation within three years indicates political risk for long-cycle clean energy investments; forward-looking capital allocation should factor in policy reversibility and build hedging strategies against regulatory discontinuity"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "An IRA Autopsy"
+    },
+    {
+      "id": "6be8d2a5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Microsoft, which has single-handedly financed 72 million tons of carbon removal\u2014more than 40 times any other organization\u2014has paused new purchases in its carbon removal program, signaling a potential turning point for the nascent industry. While Microsoft claims the program \"has not ended,\" even a temporary pullback carries significant implications for carbon removal companies that have relied heavily on the tech giant's demand.",
+      "keyTakeaways": [
+        "Microsoft's carbon removal purchases represented over 97% of major organizational demand in this sector; any reduction in their procurement directly threatens the financial viability of carbon removal startups and their ability to scale operations.",
+        "The pullback suggests potential cracks in corporate carbon removal commitments and raises questions about the sustainability of business models built on voluntary corporate carbon markets, which could signal trouble for investors betting on this sector's near-term growth.",
+        "A Microsoft pause could trigger a cascading effect across the carbon removal industry\u2014potentially wiping out companies dependent on their purchasing power and deterring new venture capital investment until demand stabilizes from other sources."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Why Microsoft's Carbon Removal Pullback is Such a Big Deal"
+    },
+    {
       "id": "a7497d46",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1815,17 +1995,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 11
+      "count": 12
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 41
+      "count": 44
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 32
+      "count": 38
     },
     {
       "name": "Strategy & Thesis",
@@ -1843,5 +2023,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-15T10:45:43.307222Z"
+  "lastUpdated": "2026-04-16T10:49:38.399618Z"
 }
