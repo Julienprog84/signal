@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "04488683",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "GPU computing has become so scarce that neocloud providers like TensorWave are auctioning access to future capacity through competitive bidding, with customers increasingly willing to sign multi-year contracts (up to six years) to secure resources. Despite concerns about high debt levels among neocloud operators, sophisticated investors argue that debt backed by these long-term contracts is safer than perceived, as contract terms now include strong protections for lenders even if providers fail. However, the scarcity-driven shift toward longer commitments with major customers is disadvantaging smaller startups seeking compute access.",
+      "keyTakeaways": [
+        "GPU scarcity has flipped contract dynamics in neocloud operators' favor\u2014buyers are now bidding competitively for future access and accepting six-year commitments that would have been rejected two years ago, creating a more stable revenue foundation for debt financing.",
+        "Debt underwriting for neocloud providers is improving despite high leverage ratios, because lenders now rely on contract backlogs as collateral rather than physical assets, with force majeure being the primary cancellation clause, reducing default risk for creditors.",
+        "Market consolidation risk: smaller AI startups face shrinking access to affordable compute as major players lock in long-term, favorable deals with providers, potentially widening the competitive moat for well-capitalized AI companies over bootstrapped competitors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The business of GPU preorders"
+    },
+    {
+      "id": "02d92264",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "SunZia Wind, the largest U.S. renewable energy project, has begun operations with 916 turbines generating 3.5 gigawatts of capacity and 550 miles of transmission lines delivering New Mexico wind power to California, which has already set wind generation records eight times in four weeks. The Senate voted 50-49 to repeal mining protections near Minnesota's Boundary Waters Wilderness to benefit Twin Metals Minnesota (owned by Chilean conglomerate Antofagasta) for copper-nickel extraction, reflecting growing tension between environmental protection and metal demand needed for electrification. The Biden-era Direct Air Capture hub program received Department of Energy approval for up to $1.2 billion in funding, signaling continued federal support for carbon removal technology despite political headwinds.",
+      "keyTakeaways": [
+        "SunZia's full operational capacity will generate approximately 1% of U.S. electricity needs and demonstrates a viable model for large-scale renewable infrastructure, suggesting significant investment opportunities in transmission infrastructure and wind farm development across the Southwest corridor.",
+        "The Minnesota mining vote reveals capital opportunities in critical mineral extraction for EV and battery supply chains, though investors should anticipate regulatory volatility and political risk; foreign-owned operations like Twin Metals face elevated geopolitical and reputational scrutiny.",
+        "The DAC program's continuation signals a $1.2 billion federal commitment to carbon removal technology, creating venture and growth equity opportunities in climate tech, but the sector remains contentious politically and technically unproven at commercial scale."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "SunZia Rises"
+    },
+    {
+      "id": "091e97cf",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "TextQL, an AI analytics startup founded in 2022, closed $17 million in strategic funding led by Blackstone Innovations Investments. The company uses AI agents to democratize enterprise data analytics by replacing time-intensive, consultant-driven processes with plain language interfaces. CEO Ethan Ding believes the startup can scale in regulated industries like financial services and healthcare before larger AI labs like Anthropic pose competitive threats.",
+      "keyTakeaways": [
+        "Enterprise data wrangling remains a defensible vertical despite large AI lab competition; TextQL's moat lies in handling messy internal data securely within regulated industries, not in AI model capability itself.",
+        "The Jevons paradox is accelerating enterprise software economics\u2014as analytics becomes cheaper and faster, demand will increase dramatically, creating a multi-billion dollar market for specialized analytics platforms before consolidation risk materializes.",
+        "Blackstone's strategic investment signals that alternative asset managers see enterprise AI infrastructure (particularly around data governance and cost control) as a cornerstone bet, potentially indicating broader PE interest in vertical AI SaaS solutions that serve high-value, low-liquidity sectors."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Blackstone\u2019s data bet"
+    },
+    {
+      "id": "fcd9ba27",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kailera Therapeutics completed the largest biotech IPO on record at $625 million, surpassing Moderna's 2018 benchmark, capitalizing on surging investor appetite for GLP-1 obesity treatments. The newsletter also covered executive moves in venture including Jonathan Tower's departure from Prosperity7 to launch an AI-native fund, and emerging opportunities in 'stranded' startups that outgrew their Series A/B valuations but lost growth momentum.",
+      "keyTakeaways": [
+        "Obesity drug IPOs are creating acquisition targets: Metsera raised $289 million in January 2025 and was acquired by Pfizer for $10 billion, signaling that late-stage biotech obesity players should expect acquisition interest from pharma majors seeking to build or complete obesity portfolios.",
+        "Structural inefficiencies in venture capital are spawning new fund strategies: Alex Shtarkman's Antithesis Ventures ($20 million pilot fund) is explicitly targeting 'stranded' startups\u2014those stuck between Series A/B growth expectations and current market realities\u2014representing a potential allocation opportunity in overlooked, undervalued companies.",
+        "Veteran operators from mega-funds are fragmenting into specialized, AI-focused vehicles: Jonathan Tower's departure from Prosperity7 (which manages $3 billion) to launch a smaller, 'AI-native' firm reflects broader consolidation of capital around AI infrastructure, following similar patterns from other tier-1 operators shifting to niche thesis investing."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 3,
+      "originalTitle": "Axios Pro Rata: Biotech record-breaker"
+    },
+    {
+      "id": "c04d2557",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week saw major climate tech funding activity including Slate Auto's $650 million raise for electric trucks and Rivian's battery repurposing partnership with Redwood Materials. Most notably, quantum computing startup Sygaldry raised $139 million led by Breakthrough Energy Ventures, raising questions about how climate tech funding is expanding beyond traditional decarbonization plays into emerging infrastructure technologies.",
+      "keyTakeaways": [
+        "Breakthrough Energy Ventures is betting on quantum computing as climate tech infrastructure, signaling that major climate investors are backing emerging technologies that could enable decarbonization solutions rather than just direct emissions reduction.",
+        "The newsletter highlights a portfolio diversification trend where climate-focused capital is flowing into AI and quantum computing startups alongside traditional clean energy plays, suggesting a shift in how the sector defines climate tech investment.",
+        "Battery second-life and repurposing markets are gaining traction (Redwood Materials deal), indicating grid-scale storage and circular economy solutions are becoming prioritized by major clean tech companies and their partners."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Funding Friday: Stretching the Limits of Climate Tech"
+    },
+    {
+      "id": "75298cdc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter preview discussing potential geopolitical shifts around the Iran conflict and opening of the Strait of Hormuz, with claims that China may be the ultimate beneficiary as oil prices collapse. The full article is behind a paywall, but the premise suggests major implications for global energy markets and commodity prices.",
+      "keyTakeaways": [
+        "Strait of Hormuz opening could trigger significant oil price deflation \u2014 investors should monitor energy sector valuations and renewable energy competitiveness as traditional oil becomes less economically attractive",
+        "China's potential strategic positioning as conflict winner suggests capital flows may shift toward Chinese energy infrastructure and supply chain dominance in post-conflict reconstruction",
+        "Oil price collapse could accelerate energy transition investments by making clean energy more cost-competitive on a levelized basis, potentially reshaping climate tech funding priorities"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Who Won the Iran War?"
+    },
+    {
       "id": "8015a51c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -1993,19 +2101,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 12
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 44
+      "count": 47
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 38
+      "count": 41
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 12
     },
     {
       "name": "Strategy & Thesis",
@@ -2023,5 +2131,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-17T10:39:50.207998Z"
+  "lastUpdated": "2026-04-18T09:35:08.703616Z"
 }
