@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "e045a034",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Q1 2026 showed private markets facing a critical liquidity crunch as traditional exit routes remain closed or unreliable, forcing investors to improvise while portfolio company backlogs grow and fundraising figures decline globally. AI has shifted from speculative bet to baseline expectation, now driving deal values in both US and European venture while concentrating capital gains among fewer winners, even as dealmakers remain selective but not absent.",
+      "keyTakeaways": [
+        "Liquidity is the unresolved bottleneck: secondaries and semi-liquid funds cannot adequately address the growing backlog of aging portfolio companies, creating urgency for alternative exit strategies and potentially forcing deployment behavior changes by mid-2026.",
+        "AI concentration is widening the investor gap: capital is clustering around AI-enabled deals while non-AI opportunities face headwinds, meaning selective conviction about macro clarity could trigger rapid deal activity once tariff and geopolitical uncertainty resolves.",
+        "The 401(k) private markets expansion faces regulatory friction: despite DOL's six-factor framework intended to shield employers from fiduciary lawsuits, satisfying these criteria may prove far harder than anticipated, limiting near-term retail access to alternative assets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Different maps, same terrain"
+    },
+    {
+      "id": "cd7c597f",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Digital health funding and deal sizes accelerated in Q1'26, with capital concentrating in fewer, larger bets, while broader venture markets saw record quarterly funding of $286B but declining exits. CB Insights identified surgical robotics as reaching an inflection point with acquisition signals, and highlighted AI agent infrastructure as the next growth market as enterprises shift from experimentation to production deployment.",
+      "keyTakeaways": [
+        "Surgical robotics companies are at an M&A inflection point\u2014CB Insights identified 6 of 40+ analyzed companies as best positioned for acquisition based on Mosaic scores and predictive signals, presenting targeted entry opportunities for strategic buyers.",
+        "AI agent infrastructure is emerging as a critical market gap; enterprises struggling to measure ROI on AI agents are creating demand for performance visibility, cost attribution, and context management tools as adoption moves from proof-of-concept to production.",
+        "Digital health capital is consolidating around larger rounds, signaling a shift toward mature, well-funded companies and away from early-stage fragmentation; simultaneously, overall venture exit volume hit a two-year low despite record funding, suggesting potential portfolio pressure and extended holding periods."
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 5,
+      "originalTitle": "state of digital health q1'26"
+    },
+    {
       "id": "04488683",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -2103,7 +2139,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 47
+      "count": 49
     },
     {
       "name": "Climate & Energy",
@@ -2131,5 +2167,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-18T09:35:08.703616Z"
+  "lastUpdated": "2026-04-19T09:34:42.288993Z"
 }
