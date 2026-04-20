@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "9fafe45d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-20",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Morpho, a French decentralized finance startup specializing in crypto lending and borrowing, has achieved unicorn status through an atypical process, marking a symbolic milestone for French fintech innovation. This week, French startups raised \u20ac42 million across deals with an average check size of \u20ac6 million, down from \u20ac67 million the previous week, with AI-focused startups capturing \u20ac9 million of that total. Additionally, Doctolib launched an accelerator program at Station F in partnership with Sanofi, Roche, and AP-HP to support European health tech startups.",
+      "keyTakeaways": [
+        "Morpho's unicorn status demonstrates growing investor appetite for European crypto infrastructure plays, particularly in DeFi lending, signaling a shift in institutional risk tolerance for blockchain-based financial services.",
+        "The sharp week-over-week decline in French startup fundraising (from \u20ac67M to \u20ac42M) suggests potential market volatility or seasonal fluctuations in European VC deployment that warrant monitoring for broader capital allocation trends.",
+        "Corporate-backed accelerator programs (Doctolib, Sanofi, Roche at Station F) indicate strategic pivot by established players to source innovation in healthcare tech, creating both competition and partnership opportunities for early-stage European health startups."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "20.04 - Crypto : Morpho, nouvelle licorne tr\u00e8s particuli\u00e8re de la French Tech"
+    },
+    {
+      "id": "a1700a8b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity is increasingly targeting garage door installation and repair businesses as a new consolidation opportunity similar to successful HVAC rollups, with 26 PE-backed deals in 2025. Oak Hill Capital's $800 million acquisition of Guild Garage Group at a 16x EBITDA multiple signals PE's growing interest in fragmented blue-collar service sectors as a hedge against AI disruption, though finding quality platform targets remains challenging.",
+      "keyTakeaways": [
+        "Garage door services are becoming a PE consolidation play due to similar market dynamics as HVAC: fragmentation, recurring revenue, essential services, and abundant targets ripe for rollups.",
+        "PE firms are actively pivoting toward blue-collar trades and construction services as perceived AI-resistant investments, signaling a strategic shift away from historical sector biases in private capital allocation.",
+        "The 16x EBITDA valuation on Guild Garage Group suggests investor confidence in residential services businesses is approaching tech-sector multiples, but fragmentation and increased competition from PE inflows may pressure future deal economics."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE found its new HVAC"
+    },
+    {
+      "id": "fd485c50",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Employees at mega-valued private companies like Anthropic, OpenAI, and SpaceX are increasingly refusing to sell shares in pre-IPO tender offers, despite massive investor demand. Anthropic's recent tender fell short of its $6 billion target as employees held shares expecting an imminent IPO, while OpenAI saw $4 billion in unfulfilled buyer interest after employees sold only $6.6 billion of a $10.3 billion offering.",
+      "keyTakeaways": [
+        "Employee liquidity expectations are shifting: as IPO timelines become clearer, insiders prefer to hold rather than sell into tenders, creating artificial constraints on secondary market supply despite strong institutional demand",
+        "This structural change is reshaping pre-IPO capital allocation strategies\u2014investors must now compete harder for limited share availability or wait for public markets, potentially extending the duration and complexity of the pre-IPO stage",
+        "The mega-unicorn tier (Anthropic at $350B, SpaceX targeting $1.5T) is experiencing a bifurcated secondary market where employee confidence in near-term IPOs is reducing tender offer participation and increasing information asymmetries between insiders and institutional buyers"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "When tender offers fall short"
+    },
+    {
+      "id": "d3a0f72b",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-04-19",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Jason Mikula, a fintech analyst and newsletter writer, is defending himself pro se against a lawsuit filed by TomoCredit, a lending fintech company. Mikula has filed a motion to dismiss, arguing the court lacks personal jurisdiction and that TomoCredit has a demonstrated pattern of abusing legal process and refusing to honor legal obligations. The motion challenges the complaint on multiple grounds including lack of personal jurisdiction under Federal Rules of Civil Procedure.",
+      "keyTakeaways": [
+        "TomoCredit's litigation strategy against a critical observer raises governance and reputational red flags for investors; companies that aggressively sue journalists and analysts often face heightened regulatory and investor scrutiny.",
+        "The alleged pattern of legal abuse and non-compliance with obligations suggests potential operational or compliance issues within TomoCredit that could expose investors to regulatory risk and legal liability.",
+        "Fintech lenders face increasing accountability for their business practices, with critics and media scrutiny playing a meaningful role in exposing potential misconduct\u2014litigation against such critics may indicate defensive corporate posture rather than confidence in business practices."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "TomoCredit v. Mikula: Motion to Dismiss"
+    },
+    {
+      "id": "e29421ee",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter highlights major shifts in the global energy economy over a six-week period, includes an analysis of Biden's climate law implementation, reports on Trump's relationship with TotalEnergies, and discusses the revival of direct air capture hub initiatives. Key stories examine policy impacts on energy markets, fossil fuel relationships with the new administration, and emerging climate tech opportunities.",
+      "keyTakeaways": [
+        "Direct air capture (DAC) hubs are re-emerging as a policy priority under the Trump administration, signaling potential capital flow toward carbon removal infrastructure despite policy uncertainty.",
+        "Biden's climate law implementation analysis suggests investors need to reassess which provisions will survive policy transitions and which companies have durable competitive advantages independent of regulatory support.",
+        "Energy policy is becoming increasingly transactional and deal-based (as evidenced by Trump-TotalEnergies coverage), meaning investors should track corporate relationships with political leadership as a material business factor alongside traditional market fundamentals."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Six Weeks that Changed Energy, Autopsy of a Climate Law, and More"
+    },
+    {
+      "id": "a8f078d2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New documents reveal that the Trump administration's $1 billion deal to pay TotalEnergies to cancel offshore wind leases may deliver little value to U.S. taxpayers. While the government reimbursed the company for all acquisition costs, TotalEnergies' promised redirection of funds to U.S. oil and gas development appears to lack enforceable terms, raising questions about deal accountability and government negotiation effectiveness.",
+      "keyTakeaways": [
+        "Government subsidies to energy companies carry significant execution risk\u2014even large-scale deals ($1B+) can lack binding enforcement mechanisms, creating potential write-downs on taxpayer capital",
+        "Renewable energy policy reversals create deal termination opportunities that companies can exploit; investors should monitor government policy swings as catalysts for asset revaluations and contingent payments",
+        "Energy transition deals warrant deeper diligence on contract terms and enforcement provisions\u2014headline figures often obscure weak underlying commitments, relevant for infrastructure and energy-focused funds"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "New Documents Undermine Trump Administration\u2019s Claims About Offshore Wind Deal"
+    },
+    {
       "id": "e045a034",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -2137,19 +2245,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 13
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 49
+      "count": 51
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 6
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 41
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 12
+      "count": 43
     },
     {
       "name": "Strategy & Thesis",
@@ -2157,15 +2270,10 @@
       "count": 10
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 5
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-19T09:34:42.288993Z"
+  "lastUpdated": "2026-04-20T11:54:05.021349Z"
 }
