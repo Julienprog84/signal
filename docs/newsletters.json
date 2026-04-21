@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e3138d52",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-21",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "OpenAI has partnered with Hexa, a European startup studio, to support its portfolio entrepreneurs through credits, technical sessions, roadmap presentations, and co-organized events. The newsletter also covers Nicolas Bustamante's exit of Fintool to Microsoft after three years, reinforcing France's track record in AI/fintech exits, alongside announcements on leadership insights from UK commerce officials and the Cartier Women's Initiative's 2027 application cycle.",
+      "keyTakeaways": [
+        "OpenAI's direct engagement with European startup studios signals a shift toward regional ecosystem building beyond the US, creating potential competitive advantages for startups in Hexa's portfolio and similar networks seeking AI infrastructure partners.",
+        "Nicolas Bustamante's three-year exit to Microsoft demonstrates strong acquirer appetite for French AI talent and technical founders, suggesting continued M&A momentum in European AI/fintech despite broader VC funding constraints.",
+        "The partnership model combining credits, technical support, and co-marketing reflects how AI infrastructure companies are bypassing traditional venture channels to build direct relationships with early-stage founders, potentially reshaping deal flow dynamics."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "21.04 - IA : pourquoi Hexa s\u2019associe \u00e0 OpenAI"
+    },
+    {
+      "id": "d5a09c42",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private markets have reached $10 trillion in assets under management, yet have underperformed the S&P 500 by approximately 200 basis points over the past decade (S&P 500 at 15.3% versus private equity at 13.2% as of September). The sector shows extreme concentration, with venture dealmaking's top five deals accounting for 73.2% of Q1's record $267.2 billion in deal value, raising questions about market rationality and potential instability as mega-exits like SpaceX (seeking up to $75 billion), Anthropic, and OpenAI approach potential IPOs.",
+      "keyTakeaways": [
+        "Private equity is failing to deliver the outsized returns that justify its illiquidity premium\u2014investors may be better served buying public market equivalents, as demonstrated by Uber's post-IPO performance being stronger than pre-IPO secondary market pricing.",
+        "Extreme deal concentration in venture suggests capital is being poorly deployed across the broader market; cutting out just five mega-deals in Q1 would have reduced deal value by 73%, indicating a potential valuation bubble in AI-adjacent companies disconnected from fundamentals.",
+        "A potential public-private market collision looms: if SpaceX, Anthropic, and OpenAI all IPO simultaneously while seeking $75+ billion combined, the market may lack sufficient capital liquidity, creating dislocation risks in secondary markets and exposing pre-IPO valuations as potentially irrational."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Private market underperformance"
+    },
+    {
+      "id": "987d2a62",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy newsletter covering major geopolitical and clean energy developments: crude oil prices spiked 7% as Iran-U.S. tensions escalated around the Strait of Hormuz, with gas prices expected to stay above $3/gallon through 2027; the Trump administration's $1 billion TotalEnergies deal to cancel offshore wind leases is deemed ineffective since the company wasn't required to make new investments; and Danish developer Orsted has installed the first turbine at its Sunrise Wind project off New York, marking progress toward 84 turbines with nearly 1 gigawatt capacity.",
+      "keyTakeaways": [
+        "The Iran-Hormuz crisis is accelerating capital reallocation away from traditional oil/gas toward Chinese renewable and storage technology, creating a structural shift in global energy investment patterns that favors clean energy developers like Orsted.",
+        "The $1 billion TotalEnergies settlement appears to be a poor use of government capital\u2014the company received full reimbursement without incremental U.S. oil/gas commitments, suggesting inefficient policy execution that may embolden further offshore wind project advances.",
+        "Offshore wind developers face a bifurcated regulatory environment: subsidy cancellations on one hand, but actual project deployment (Sunrise Wind, Revolution Wind) accelerating on the other, creating execution risk but also signaling persistent market demand despite policy headwinds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "Total Waste"
+    },
+    {
+      "id": "27ddfccf",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Cerebras, a $23 billion inference chipmaker, filed for an IPO targeting a $35 billion valuation with ambitions to reach $250 billion, marking what could be the first major venture-backed AI IPO of the generative era. The company has secured significant contracts with OpenAI ($20 billion deal) and AWS to diversify revenue beyond its previous Abu Dhabi concentration, while OpenAI's deal structure gives it potential equity upside of up to 10% depending on valuation milestones. Separately, QXO announced its largest acquisition yet\u2014a $17 billion deal for insulation company TopBuild\u2014as construction materials M&A accelerates driven by data center buildouts, with several high-valuation AI funding rounds announced including Cursor at $50+ billion pre-money and Recursive Superintelligence at $4 billion.",
+      "keyTakeaways": [
+        "Cerebras' IPO filing demonstrates how major AI infrastructure plays are using creative equity structures with customers (OpenAI's staged 10% stake vesting on valuation milestones) to secure large procurement commitments\u2014a model that reduces capital requirements while aligning incentives between suppliers and customers.",
+        "The concentration of mega-rounds in AI coding (Cursor at $50B+) and foundational models (Recursive at $4B, DeepSeek at $10B) shows capital is flowing aggressively to inference compute and software layers, signaling investor confidence that these categories can achieve massive scales despite competitive pressures.",
+        "Data center and construction materials M&A is accelerating as infrastructure underpinning AI deployment becomes a bottleneck; QXO's $17 billion TopBuild acquisition signals that strategic buyers see durable value in owning the physical supply chains required to build out AI infrastructure at scale."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: \ud83e\udd16 AI-PO"
+    },
+    {
+      "id": "eced8f8c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "John Doerr, Kleiner Perkins chairman and climate philanthropist, is updating his \"Speed & Scale\" decarbonization framework five years after its initial publication. The refresh includes revised sectoral targets for electrification and cross-cutting execution goals around policy, politics, and investment, reflecting significant shifts in both global conditions and climate outlook since the original 2021 tracker launch.",
+      "keyTakeaways": [
+        "Climate action frameworks and metrics require regular recalibration as market conditions, technology deployment, and policy landscapes evolve\u2014investors should scrutinize whether their climate investment theses remain aligned with updated benchmarks.",
+        "A prominent VC and philanthropist publicly acknowledging that both climate targets and measurement tools need major revision signals potential gaps in existing climate investment strategies and may indicate reallocation opportunities across energy, transportation, and policy-focused ventures.",
+        "The refresh suggests macroeconomic and geopolitical shifts since 2021 have materially impacted decarbonization trajectories, creating both headwinds and tailwinds that sophisticated climate investors need to monitor through updated sector-specific metrics."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Exclusive: Where We\u2019re At in the Race to Save the Planet"
+    },
+    {
+      "id": "2ee5b8b2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "John Doerr has released an updated version of his Speed & Scale climate action tracker, originally published five years ago, with recalibrated targets and revised measurement methodologies to reflect current global conditions and the shifted climate outlook. The tracker is designed to guide entrepreneurs, business leaders, and policymakers on climate capital deployment and progress toward net-zero objectives across sectors like transportation electrification, policy, and investment. The refresh comes ahead of San Francisco Climate Week and represents a significant evolution in how global decarbonization progress is measured and assessed.",
+      "keyTakeaways": [
+        "Climate action frameworks require regular recalibration\u2014Doerr's refresh signals that five-year-old targets and metrics are becoming obsolete, suggesting investors should scrutinize the assumptions underlying their climate tech bets and portfolio company roadmaps.",
+        "Measurement methodologies matter for capital allocation\u2014the tracker's updated analytical framework is explicitly designed to help stakeholders decide where to deploy attention and capital, indicating that standardized, credible climate metrics are becoming a competitive advantage in deal sourcing and due diligence.",
+        "Macro shift in climate outlook is reshaping the investment landscape\u2014the significant changes in underlying targets reflect altered global conditions, which likely means emerging opportunities in previously underestimated or newly critical decarbonization sectors warrant fresh analysis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A Climate Action Refresh"
+    },
+    {
+      "id": "2c472d0b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Heatmap News article examines how persistent anti-mask sentiment from the COVID-19 pandemic is undermining public health efforts to protect communities from wildfire smoke exposure. The piece highlights the ongoing politicization of respiratory protective equipment six years after initial CDC mask guidance, creating barriers to effective air quality mitigation strategies in affected regions.",
+      "keyTakeaways": [
+        "There is a significant market opportunity for alternative respiratory protection solutions (non-traditional masks, air filtration systems, indoor air quality tech) that can bypass political stigma associated with face coverings during wildfire smoke events.",
+        "Companies in climate adaptation, air filtration, and environmental health sectors should anticipate regulatory and consumer behavior challenges driven by politicized public health responses, affecting product adoption and market expansion strategies.",
+        "The persistence of COVID-era political divisions into climate-related health crises suggests that future climate adaptation investments must account for behavioral/political barriers to technology adoption, not just technical feasibility."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Anti-Mask Sentiment Is Making It Hard to Protect People From\r\n Wildfire Smoke"
+    },
+    {
       "id": "9fafe45d",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -2247,22 +2373,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 13
+      "count": 14
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 51
+      "count": 53
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 47
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 6
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 43
     },
     {
       "name": "Strategy & Thesis",
@@ -2275,5 +2401,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-20T11:54:05.021349Z"
+  "lastUpdated": "2026-04-21T10:55:15.490031Z"
 }
