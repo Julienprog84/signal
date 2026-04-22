@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "bd6be473",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-22",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French tech-focused investment newsletter covering several European ventures and exits: BlaBlaCar is shutting down its long-distance bus service by January 2027 after persistent losses, while Airbus continues acquiring European cybersecurity talent through its purchase of French firm Quarkslab. Key growth areas include autonomous underwater robotics (\u20ac4.5M funding round), AI maturation driven by data and sovereignty concerns rather than technology alone, and AI health agents being deployed by platforms like Alan and Doctolib.",
+      "keyTakeaways": [
+        "BlaBlaCar's bus division shutdown signals that successful mobility platforms may struggle in capital-intensive, low-margin transportation segments\u2014a cautionary tale for multi-service expansion strategies in the sharing economy",
+        "Airbus's aggressive M&A activity in European cybersecurity (Ultra Cyber Ltd and Quarkslab acquisitions within one month) indicates large industrial players are consolidating deep-tech talent, potentially reducing exit opportunities for specialized VC-backed security startups",
+        "AI deployment is shifting from pure technology development to integration layers around data management and regulatory compliance, suggesting investor focus should move toward enterprise SaaS enablement and vertical AI solutions rather than foundational model companies"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "22.04 - BlaBlaCar stoppe ses bus longue-distance"
+    },
+    {
+      "id": "b1809f44",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Humble, a San Francisco autonomous trucking startup, debuted from stealth with a $24 million seed round led by Eclipse and Energy Impact Partners to commercialize the Humble Hauler, a cabless electric autonomous freight vehicle designed for dock-to-dock operations. The company's differentiated approach removes the cab entirely to enable 360-degree sensor coverage and increase payload capacity, while its founding team brings deep expertise from Otto, Tesla, Waymo, and Cruise, positioning it to capture share of the $906 billion U.S. truck freight market.",
+      "keyTakeaways": [
+        "Humble's cabless design is a material competitive differentiator versus hub-to-hub models (Aurora) or fixed-zone operations (Kodiak), potentially unlocking 30-50% efficiency gains that could drive rapid adoption among logistics operators seeking operational cost reduction.",
+        "The $24 million seed round at this stage is notably capital-efficient relative to competitive positioning; Eclipse board member Jiten Behl signals billion-dollar scale may not be required, suggesting favorable unit economics and a clearer path to profitability than typical AV infrastructure plays.",
+        "Federal tailwinds via the Self Drive Act of 2026 and NHTSA engagement create a narrow regulatory window; the $906 billion addressable market combined with projected autonomous freight segment growth from $575.7M (2026) to $3.25B (2035) indicates first-mover advantage in validated dock-to-dock operations could command significant market share."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Who needs a driver anyway?"
+    },
+    {
+      "id": "bc8cd1f4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Digital infrastructure specialist funds investing in datacenters and telecom raised a record $26 billion in 2025, nearly quadrupling their 2021-2024 average, driven by surging AI and cloud computing demand. These specialist funds delivered 8.7% returns in the 12 months ending Q2 2025, outperforming all major private capital strategies despite headwinds including elevated interest rates and supply chain challenges. However, analysts warn that future outcomes may diverge significantly due to uncertainty around the durability of AI-driven demand and unproven enterprise ROI on AI investments.",
+      "keyTakeaways": [
+        "Specialist digital infrastructure funds have become the highest-performing private capital strategy (8.7% returns), attracting LP capital away from generalist vehicles and signaling a shift toward concentrated sector expertise in infrastructure investing.",
+        "Fund sizes are rapidly expanding in digital infrastructure, enabling GPs to compete for multibillion-dollar datacenter deals, but this concentration of capital creates execution risk if AI demand proves cyclical or efficiency gains reduce computing needs.",
+        "The $157.6 billion total digital infrastructure fundraising in 2025 (including generalist commitments) reflects macro structural tailwinds, but investor due diligence should intensify around demand durability given acknowledged headwinds in interest rates, construction costs, and power grid constraints."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Datacenter demand drives $26B fundraising haul"
+    },
+    {
+      "id": "b89132c3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A U.S. court has ordered GE Vernova to complete work on the Vineyard Wind offshore project off Massachusetts, rejecting the industrial giant's attempt to exit despite a $300 million dispute over a 2024 turbine blade collapse. Meanwhile, a new nonprofit called the Arctic Stabilization Initiative is launching to explore mixed-phase cloud thinning as a geoengineering approach, positioning an alternative to stratospheric aerosol injection technologies for climate intervention.",
+      "keyTakeaways": [
+        "The Vineyard Wind ruling signals judicial enforcement of long-term energy infrastructure commitments even amid supplier disputes, reducing execution risk for major offshore wind projects but potentially increasing contractor liability exposure in this sector.",
+        "GE Vernova's forced continuation on Vineyard Wind despite significant financial disagreements suggests that exit clauses in renewable energy contracts may be weaker than suppliers anticipated, affecting risk premiums and capital allocation decisions for equipment manufacturers.",
+        "The emergence of alternative geoengineering approaches like Arctic cloud thinning could fragment the climate tech investment landscape, with mixed-phase cloud thinning potentially attracting venture capital if early Arctic modeling validates efficacy, creating a new subsector competing with carbon removal and traditional renewables for climate-focused funding."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "\u2018A Critical Phase\u2019"
+    },
+    {
+      "id": "a0d330f1",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-04-21",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic faces a critical capacity and pricing crisis as AI agent adoption\u2014particularly in agentic coding\u2014has created demand 1000x higher than anticipated, forcing surge pricing and service limitations across its platform. Meanwhile, OpenAI confronts existential competitive threats with no differentiated technology and poor user stickiness, while the broader AI infrastructure market sees speculative froth exemplified by Allbirds' 5x stock surge on vague AI datacenter pivots, and geopolitical risks intensify as China cracks down on Meta's acquisition of AI platform Manus.",
+      "keyTakeaways": [
+        "Anthropic's underinvestment in capacity relative to competitors creates a near-term moat but long-term vulnerability\u2014the company that solves the pricing/access problem first (likely through flat-rate bundles similar to mobile data evolution) will capture disproportionate value in enterprise AI agents",
+        "OpenAI's lack of differentiated technology and limited network effects make it vulnerable to entrenched incumbents; the company's future depends on inventing new use cases and experiences it cannot execute alone, suggesting a potential acquisition target rather than independent winner",
+        "The scarcity of pure-play public AI investments is driving speculative bubbles and mispricings, but also reveals genuine infrastructure constraints\u2014investors should focus on capacity providers (Nvidia, TSMC, ASML) and emerging bottlenecks rather than narrative-driven pivots by distressed companies"
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 639"
+    },
+    {
+      "id": "02afbcc4",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Fed Chair nominee Kevin Warsh, a tech-friendly candidate with extensive venture capital holdings in companies like SpaceX, Replit, and Polymarket, faces confirmation scrutiny over potential conflicts of interest but plans to divest several stakes if confirmed. Meanwhile, U.K. neobank Revolut is preparing a secondary share sale that could value it over $100 billion, with plans to delay its IPO until 2028 or later while pursuing annual secondary rounds similar to Stripe's model.",
+      "keyTakeaways": [
+        "Warsh's confirmation could reshape Federal Reserve policy toward AI and inflation with a pro-technology stance favoring lower rates, directly benefiting the venture and technology sectors he's heavily invested in before divestment.",
+        "Revolut's strategy of multiple secondary sales before IPO signals a shift in late-stage funding dynamics, where profitable unicorns can sustain growth without public markets, potentially extending the private capital deployment window.",
+        "Mega-rounds continue accelerating across AI infrastructure (Anthropic's $5B from Amazon, Project Prometheus's $38B valuation) and alternative energy (Blue Energy's $380M), indicating investor appetite remains strong despite market timing concerns around IPO windows."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\ud83d\udc40 Axios Pro Rata: Warsh Watch"
+    },
+    {
+      "id": "3cf005be",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center projects have surpassed wind farms as the most controversial energy infrastructure in the U.S., with over 270 data centers facing local opposition compared to 258 wind projects, according to Heatmap Pro's database. This shift reflects a dramatic recent surge in backlash against data center development, driven largely by concerns over AI-related infrastructure expansion and its local impacts.",
+      "keyTakeaways": [
+        "Data center developers now face greater permitting and community opposition risk than renewable energy projects, signaling a critical bottleneck for AI infrastructure scaling that investors must factor into deployment timelines and site selection strategies.",
+        "The rapid inversion of controversy rankings\u2014with data centers only recently overtaking wind farms\u2014suggests regulatory and public sentiment around AI infrastructure is shifting faster than policy frameworks can adapt, creating both investment risks and opportunities for companies solving community concerns.",
+        "As big tech infrastructure faces mounting resistance comparable to or exceeding renewable energy opposition, capital allocation in AI compute infrastructure must increasingly account for extended project timelines, litigation risk, and the need for community engagement strategies previously associated with energy transition projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Data Centers Are Now More Controversial Than Wind Farms"
+    },
+    {
+      "id": "7eac337d",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is launching Flex Summit 2026, a new conference focused on distributed energy resources (DER) and grid flexibility scheduled for October 14-15 in Austin. The conference addresses a critical infrastructure bottleneck: U.S. peak load is projected to reach 166 GW by 2030, making customer-sited batteries, rooftop solar, EV solutions, and flexible loads essential grid infrastructure. The event brings together aggregators, utilities, grid operators, regulators, and technology providers as wholesale markets increasingly open to DER aggregations and hyperscalers drive demand for distributed capacity.",
+      "keyTakeaways": [
+        "The distributed energy resource market is reaching a maturation inflection point, with wholesale market access expanding and state regulatory approvals (California, New York, Minnesota) now treating distributed assets as legitimate planning resources, creating immediate commercial opportunities for aggregators and technology providers.",
+        "Peak load capacity constraints are becoming the primary bottleneck to grid modernization and AI infrastructure expansion, suggesting significant capital deployment potential in distributed flexibility solutions as an alternative to traditional generation buildout.",
+        "Hyperscaler and data center demand for distributed edge computing power is creating new economic drivers for DER adoption beyond traditional utility economics, indicating a structural shift where tech infrastructure needs are pulling energy infrastructure innovation."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Announcing: Flex Summit 2026"
+    },
+    {
+      "id": "8e0bc7c0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A federal judge has struck down Trump administration policies designed to delay solar and wind energy permits, ruling that the administrative actions violated the Administrative Procedures Act. U.S. District Judge Denise Casper issued a 73-page opinion granting an injunction requested by regional renewable energy trade groups, finding that the executive branch's stalling tactics were likely unlawful.",
+      "keyTakeaways": [
+        "Legal victory for renewable energy developers: The court ruling removes regulatory obstacles to permit approvals, potentially unlocking delayed solar and wind projects and accelerating capital deployment in the renewables sector.",
+        "Policy reversal creates investment opportunity: Companies in wind and solar development face reduced permitting risk going forward, improving project economics and making equity/debt financing more attractive for renewable energy infrastructure.",
+        "Regulatory uncertainty remains high: While this ruling is significant, ongoing political opposition to renewables could lead to further legal battles, making policy-dependent clean energy investments riskier and favoring diversified energy portfolios."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Federal Judge Breaks Trump\u2019s Permitting Blockade"
+    },
+    {
+      "id": "de2a8e6e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The closure of the Strait of Hormuz is disrupting not just oil and gas supplies, but also critical battery manufacturing inputs, with sulfuric acid\u2014essential for processing copper, cobalt, nickel, and lithium\u2014experiencing price hikes and supply reductions. This supply chain vulnerability threatens to increase EV and battery costs just as consumers are turning to these technologies to hedge against volatile fossil fuel prices, creating an ironic situation where the clean energy transition is being undermined by the same geopolitical pressures affecting conventional energy markets.",
+      "keyTakeaways": [
+        "Battery and EV manufacturers face near-term cost pressures from sulfuric acid shortages; investors should monitor supply chain hedging strategies and alternative refining partnerships for companies dependent on Middle Eastern chemical processing capacity.",
+        "The Hormuz crisis reveals that clean energy transition plays are not insulated from commodity shocks and geopolitical risk\u2014battery costs could spike precisely when consumer demand peaks, threatening margin expansion in the EV sector.",
+        "This supply disruption highlights a critical infrastructure vulnerability in the energy transition: overconcentration of refining capacity for battery minerals in energy-abundant but geopolitically unstable regions creates systemic risk for the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Battery Blockage"
+    },
+    {
       "id": "e3138d52",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -2373,17 +2553,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 14
+      "count": 15
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 53
+      "count": 56
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 47
+      "count": 52
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 11
     },
     {
       "name": "Fintech",
@@ -2391,15 +2576,10 @@
       "count": 6
     },
     {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 10
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-21T10:55:15.490031Z"
+  "lastUpdated": "2026-04-22T10:52:25.450964Z"
 }
