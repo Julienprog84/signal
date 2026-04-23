@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "aaff87b8",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "OpenAI recruits Emmanuel Marille, former head of Airbnb's European operations, as EMEA managing director based in Paris, signaling the company's strategic push into European markets. The newsletter also highlights emerging investment trends in European tech, including Uber's first French investment in hydrogen mobility company HysetCo, and Axomove's \u20ac4 million Series A for medical telehealth solutions, alongside broader insights on AI's evolution from optimization tool to core operational infrastructure.",
+      "keyTakeaways": [
+        "OpenAI's appointment of a seasoned European operator signals aggressive market expansion in EMEA, suggesting established AI players are moving beyond US-centric strategies and investing in regional talent acquisition and localization.",
+        "Corporate venture by Uber into French clean tech (HysetCo) indicates major tech giants are diversifying capital deployment beyond core businesses, creating mid-market opportunities in adjacent sectors like sustainable mobility.",
+        "AI is transitioning from a cost-optimization lever to a fundamental business model transformer, meaning investors should focus on companies solving data sovereignty, interface design, and operational integration rather than pure algorithmic advancement."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "23.04 - OpenAI s'offre l\u2019ancien patron Europe d\u2019Airbnb"
+    },
+    {
+      "id": "579638c4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "IPO activity is rebounding in 2026 with 79 US filings and 41 pricings of $50M+ market cap, but gains are concentrated in biotech and defense rather than VC-backed tech startups. While macro conditions and lower volatility have stabilized markets, tech companies face headwinds with valuations too high relative to profitability concerns, suggesting smaller issuers may rush to go public before mega-IPOs like SpaceX, Anthropic, and OpenAI crowd the market.",
+      "keyTakeaways": [
+        "Tech IPO timing is critical: smaller VC-backed companies should consider going public soon to avoid competing with SpaceX, Anthropic, and OpenAI, which are projected to deliver the largest IPO year on record in terms of proceeds.",
+        "Profitability matters more than hype: even profitable tech companies haven't fared well post-IPO recently, signaling that investors are skeptical of money-losing business models regardless of sector momentum or CEO visibility.",
+        "Sector divergence is widening: biotech, defense, and healthcare are leading the IPO rebound while VC-backed tech lags, indicating structural demand shifts and selective investor appetite across industries."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Clean energy grows up"
+    },
+    {
+      "id": "ab666ca1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new whistleblower report alleges the Greenhouse Gas Protocol, which sets emissions standards for tens of thousands of companies worldwide, operates secretively with industry bias and insufficient scientific rigor, potentially allowing companies to appear cleaner than their actual atmospheric impact. A federal court has blocked the Trump administration's renewable energy permitting embargo, dealing a significant blow to efforts to stymie wind and solar approvals. GE Vernova's small modular reactor project in Ontario is 38% complete and on track to generate electricity by 2030, positioning it as North America's leading SMR deployment.",
+      "keyTakeaways": [
+        "Carbon accounting standards may be systematically inflated, creating investment risk for companies and funds relying on ESG metrics tied to the Greenhouse Gas Protocol\u2014due diligence on actual emissions measurement is critical.",
+        "Court victory for renewable energy permitting removes a major regulatory headwind, likely accelerating project timelines and reducing execution risk for wind, solar, and transmission developers in the near term.",
+        "The SMR sector is advancing with GE Vernova's deployment on schedule, signaling potential inflection point for nuclear technology investors, though 2030 completion still carries execution risk in an uncertain regulatory environment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Blowing the Whistle"
+    },
+    {
+      "id": "1ba91d16",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Esther Wojcicki, the influential Stanford-adjacent educator known as the \"Godmother of Silicon Valley,\" has launched Treehub with former student Mary Minno, a residency program backed by the AI Health Fund deploying $10 million over 18 months to commercialize biotech and healthcare startups directly from academia. The program has already invested in 12 companies including Clair Health (continuous hormone monitoring) and Nestwell (home health assessment), with backing from venture legend Tim Draper and Anne Wojcicki (23andMe founder), who emphasized the critical window for AI to reshape healthcare if academic founders receive proper capital and mentorship.",
+      "keyTakeaways": [
+        "A new $10M fund specifically targeting academic biotech founders is addressing the lab-to-launch gap, suggesting institutional recognition that venture capital's traditional go-to-market playbook may be suboptimal for deep-tech healthcare; investors should monitor whether this model outperforms traditional healthcare VC in time-to-commercialization and exit multiples.",
+        "The presence of Tim Draper and Anne Wojcicki as backers signals elite-tier validation for the academic founder thesis in healthcare AI, potentially shifting deal flow dynamics where top academic researchers now have alternative capital sources beyond university tech transfer offices and traditional life sciences VCs.",
+        "The macro signal is that healthcare AI commercialization may accelerate significantly if the perceived bottleneck\u2014academic researchers lacking business acumen and mentorship\u2014is systematically addressed; this could reshape the competitive landscape for established healthcare AI companies if academic-origin startups compress their time-to-market."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The Godmother of Silicon Valley\u2019s next big bet"
+    },
+    {
+      "id": "3b99977a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Android creator Andy Rubin raised a Series A for Genki Robotics at a $1 billion valuation, joining Meta and Tesla in betting heavily on humanoid robots despite significant technical hurdles. The newsletter also reports Deutsche Telekom's plans to merge with T-Mobile in what would be the largest public M&A deal ever, along with a robust week of venture funding across robotics, biotech, and medtech sectors.",
+      "keyTakeaways": [
+        "Humanoid robotics is attracting major capital despite being in early stages\u2014investors see a once-in-a-generation market opportunity comparable to smartphones, but fundamental engineering challenges like pressure sensitivity and object manipulation remain unsolved.",
+        "Tier-1 VCs including Andreessen Horowitz and strategic players like AMD are co-investing in robotics, suggesting this sector is being treated as infrastructure-level opportunity rather than a speculative bet.",
+        "The week's deal flow ($615M+ across visible robotics, biotech, and medtech rounds) reflects sustained institutional appetite for frontier tech and life sciences, even as macro conditions remain uncertain\u2014humanoids represent the boldest allocation to unproven hardware-software ecosystems."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: \ud83e\udd16 Betting on robots"
+    },
+    {
+      "id": "ce1bb0a4",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "State-level data center policy has fundamentally shifted from tax incentive competition to regulatory oversight, with 533 bills tracked since 2021 showing that energy, environmental, water, and siting restrictions now comprise over 75% of legislative activity compared to barely noticeable presence in 2021. While off-grid AI data centers powered by fossil gas are attracting headlines\u2014including Microsoft's deal with Nscale in West Virginia and projects by Fermi and Joule in Texas and Utah\u2014industry experts including Joule CEO Brock Andrus acknowledge these behind-the-meter facilities will remain a small fraction of total AI infrastructure, with most customers still viewing grid connections as essential safety nets.",
+      "keyTakeaways": [
+        "The data center tax incentive era is ending as states pivot to regulatory frameworks addressing grid strain, environmental impact, and water consumption\u2014investors should expect capex requirements to increase as developers lose historical subsidies and face stricter compliance costs.",
+        "Off-grid data center projects are strategic outliers rather than the market direction; grid interconnection remains the dominant path despite lengthy queue times, meaning infrastructure plays connecting data centers to existing power systems have durable competitive moats.",
+        "The 8-fold increase in data center legislation since 2021 signals that AI infrastructure buildout is outpacing regulatory capacity, creating ongoing policy risk and opportunity for investors who can navigate or influence state-level permitting and environmental compliance regimes."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Is this the end of the data center tax incentive?\u00a0"
+    },
+    {
+      "id": "6788d2b5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A whistleblower report alleges that the Greenhouse Gas Protocol, the leading global standard for corporate emissions reporting used by over 22,100 companies worth more than half the global stock market, suffers from significant transparency and governance failures. The report documents systemic bias and secrecy within the standards-setting organization, while many companies' emissions calculations are acknowledged to be substantially inaccurate, raising questions about the reliability of ESG disclosures that increasingly influence capital allocation decisions.",
+      "keyTakeaways": [
+        "ESG and climate disclosure data underpinning trillions in capital allocation decisions may be systematically unreliable due to governance failures at the standard-setting body, creating material risk for investors relying on emissions reporting for portfolio decisions.",
+        "Companies using GHG Protocol standards may face credibility and regulatory risk if the standards body is found to lack independence and transparency, potentially triggering restatements or enforcement actions that could impact valuations.",
+        "The broader climate investing thesis faces headwinds if the foundational measurement infrastructure for carbon accounting is compromised, potentially accelerating regulatory intervention and the development of alternative, government-mandated reporting standards."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Leading Climate Standards Group Fraught With Secrecy and Bias,\r\n Whistleblowers Say"
+    },
+    {
+      "id": "8341200e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Octopus Energy and Lunar Energy announced a partnership offering Texas electricity customers a bundled package comprising a three-year fixed-rate contract, a 30-kilowatt-hour home battery, and automatic enrollment in a virtual power plant network. This integrated offering aims to streamline the complexity of sourcing electricity, battery storage, and distributed energy resource participation in Texas' deregulated market.",
+      "keyTakeaways": [
+        "The partnership targets a significant market pain point in deregulated electricity markets where customers must coordinate separately with utilities, battery installers, and service providers. Bundled offerings like this could drive adoption of residential battery systems and VPP participation by reducing friction and coordination costs.",
+        "This represents a competitive strategy by both companies to capture residential energy customers at scale in Texas\u2014a high-growth deregulated market. The three-year fixed contract creates revenue visibility while the battery and VPP integration creates customer lock-in and recurring engagement opportunities.",
+        "The trend toward bundled energy + storage + VPP services signals consolidation around integrated energy platform models rather than point solutions. This favors companies with multi-capability offerings and positions VPPs as increasingly central to grid infrastructure and residential energy economics."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Exclusive: Octopus Energy Launches Battery-Powered Electricity Plan\r\n With Lunar"
+    },
+    {
+      "id": "ea4258bd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Republicans attempted to advance H.R. 1897, a bill to weaken the 50-year-old Endangered Species Act, but House leadership withdrew it due to insufficient GOP support. The Endangered Species Act remains overwhelmingly popular with 90% of Americans supporting it, though industry groups and conservative think tanks argue the law impedes infrastructure and clean energy development, claiming it has been weaponized to block projects despite evidence that most species-energy conflicts are resolvable.",
+      "keyTakeaways": [
+        "ESA reform remains a persistent legislative threat: Republicans have introduced 30+ bills to alter the Act since 2011, averaging 40 per year through 2016, signaling regulatory risk for developers in energy, infrastructure, and land-use sectors.",
+        "Clean energy projects face a false conflict narrative: While critics claim the ESA blocks renewable development, environmental attorneys argue most species-energy project collisions are workable, suggesting investment thesis for companies developing mitigation technologies or ESA-compliant project solutions.",
+        "Political leverage exists despite public opposition: Industry lobbying continues despite 90% public support for ESA protection, indicating persistent regulatory uncertainty for capital-intensive projects in conservation-sensitive areas\u2014key due diligence factor for infrastructure and renewables investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "An Earth Day Miracle"
+    },
+    {
       "id": "bd6be473",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -2553,17 +2715,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 15
+      "count": 16
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 56
+      "count": 59
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 52
+      "count": 57
     },
     {
       "name": "Strategy & Thesis",
@@ -2581,5 +2743,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-22T10:52:25.450964Z"
+  "lastUpdated": "2026-04-23T10:58:19.181841Z"
 }
