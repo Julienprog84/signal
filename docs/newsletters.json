@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "924a7914",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French cloud specialist Scaleway has replaced Microsoft as the government's chosen provider to host health data for research initiatives, signaling a shift toward European digital sovereignty. The newsletter covers three other significant European tech developments: Ubisoft implementing stricter telework policies, satellite constellation startup Univity raising \u20ac27 million to deploy 1,600-3,400 satellites for telecom operators with a \u20ac31 million CNES contract already secured, and broader discussions on financial sovereignty challenges for European banks and startups amid technological transformation.",
+      "keyTakeaways": [
+        "European governments are actively favoring domestic cloud providers over US tech giants for sensitive data infrastructure\u2014Scaleway's selection demonstrates growing state-backed demand for sovereign technology solutions, creating competitive advantages for EU-based infrastructure plays.",
+        "Space tech and satellite constellations are emerging as critical infrastructure for European telecom independence, with Univity's secured government contracts indicating strong public sector capital backing this sector as a strategic priority.",
+        "Financial and digital sovereignty is becoming a central organizing principle for European tech investment, creating a macro tailwind for European champions across cloud, telecom, and fintech\u2014but also highlighting the need for significant capital consolidation to compete globally."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "24.04 - Health Data Hub : Scaleway remplace (enfin) Microsoft"
+    },
+    {
+      "id": "b29ed8c4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Software companies now represent 27 of the top 30 take-private candidates in the US as valuations have been hammered by AI disruption fears, with take-private deal value reaching $64.3 billion in Q1 2026\u2014up 53% year-over-year despite declining deal count. PE firms with over $1.1 trillion in dry powder are positioning to acquire software targets at steep discounts, with Thoma Bravo's $183 billion fund arguing this is an opportune moment to execute on established software theses, though sponsors must carefully underwrite AI's impact on SaaS business models.",
+      "keyTakeaways": [
+        "Software is in the PE strike zone: 40% of take-privates since 2021 were software deals, but current concentration is unprecedented, signaling PE sponsors view this as a rare window to deploy capital at significant discounts to historical valuations.",
+        "Dry powder availability ($1.1T+) combined with declining deal count but rising deal values suggests sponsors are moving toward fewer, larger transactions with higher conviction\u2014the opportunistic playbook is intact if macro conditions hold.",
+        "The AI disruption overhang creates a bifurcated market where PE investors backing proprietary-data-driven software with embedded customer relationships see stronger fundamentals, but broader SaaS exposure remains a key underwriting risk that may prevent aggressive market-wide deployment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Software in the strike zone"
+    },
+    {
+      "id": "7dbd195e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is negotiating buyouts with major European energy companies to abandon U.S. offshore wind projects, following a $1 billion deal with TotalEnergies; meanwhile, Chinese solar exports surged to record 68 gigawatts in March 2026\u2014double February's output\u2014driven by energy demands following the Iran War's closure of the Strait of Hormuz, with 50+ countries setting import records.",
+      "keyTakeaways": [
+        "Offshore wind projects face existential headwinds in the U.S. market as the Trump administration systematically negotiates exit packages for major developers, potentially opening opportunities for distressed asset acquisition or pivots to European/Asian markets where solar and wind are accelerating.",
+        "Chinese solar manufacturing dominance is intensifying; the 141-519% month-over-month export growth to emerging markets signals a structural shift in global energy infrastructure investment\u2014companies with supply chain exposure to China or competing solar manufacturers face margin pressure.",
+        "Geopolitical energy shocks (Iran War closing Hormuz Strait) are creating a permanent acceleration in renewable energy adoption, particularly in Asia and Africa, suggesting long-term capital reallocation away from oil/gas infrastructure and toward distributed solar and battery storage projects in these regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Et Moi?"
+    },
+    {
+      "id": "3f4b5fc7",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Omni, a semantic layer startup founded by former Looker executives, raised $120 million in Series C funding at a $1.51 billion valuation led by Iconiq Capital. The company addresses enterprise data translation problems by creating a governed layer between raw data and users, serving customers like BambooHR and Guitar Center, with ARR growing nearly fourfold year-over-year and recently achieving profitability. The semantic layer market is projected to grow 30% annually through 2031, positioning Omni to capitalize on enterprise AI adoption requiring data governance infrastructure.",
+      "keyTakeaways": [
+        "Semantic layer infrastructure is emerging as a critical enterprise software category with $1.51B+ valuations justified by 4x ARR growth and profitability, suggesting investors should examine data governance and translation tools as a distinct investment thesis separate from legacy BI platforms.",
+        "Architectural moat matters: Omni's ground-up design advantage over bundled offerings from Snowflake and Databricks mirrors Snowflake's early competitive position against legacy data warehouse providers, indicating that specialized, purpose-built infrastructure can command premium valuations despite well-capitalized competitors.",
+        "AI adoption is rapidly accelerating enterprise demand for data governance\u2014Jacobson notes adoption timelines compressed from months/quarters to days/weeks\u2014signaling that infrastructure plays supporting AI agents (not AI itself) may offer better risk-adjusted returns in the current market."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Talk data to me"
+    },
+    {
+      "id": "16ad3f65",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Cursor, an AI coding startup, attracted multiple suitors including Elon Musk and Microsoft before being acquired, with its valuation surging from $9.9 billion to $29.3 billion in 2025, highlighting the strategic value of AI coding tools and the attractiveness of combining with hyperscalers for compute access. Meanwhile, Thoma Bravo's $6.1 billion acquisition of customer feedback company Medallia is heading toward a $5.1 billion equity wipeout, exemplifying private equity's software struggles driven by 2021-era financing and execution issues rather than AI disruption. The week also saw strong venture funding across diverse sectors, including Vast Data hitting a $30 billion valuation and Omni raising $90 million at a $1.5 billion valuation.",
+      "keyTakeaways": [
+        "AI coding tools command premium valuations and multiple strategic bidders; standalone software companies in AI-adjacent spaces face pressure to combine with hyperscalers (cloud providers with compute resources) or risk competitive disadvantage.",
+        "The Medallia collapse demonstrates that 2021-era software acquisitions financed with heavy debt are imploding due to execution and market fundamentals, not AI, signaling continued distress in the private equity software portfolio despite some optimism about AI's enterprise impact.",
+        "Enterprise software and infrastructure (Vast Data, Omni, Orkes, Cloudsmith) continue attracting significant capital at high valuations, suggesting investor confidence in AI-enabled analytics, deployment, and storage solutions remains strong despite broader software sector headwinds."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Cursor trackers"
+    },
+    {
+      "id": "a21cd10b",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza is hosting a webinar addressing critical challenges in the solar supply chain for Q2 2026, focusing on tariffs, trade investigations, and Federal Energy Regulatory Commission (FERC) rules that simultaneously impact project economics. The session will guide solar developers on domestic content bonus strategies, safe harbor decisions, and procurement approaches to secure Investment Tax Credits while avoiding costly timeline delays and trade risk exposure.",
+      "keyTakeaways": [
+        "Solar project economics are now heavily dependent on navigating overlapping policy mechanisms (tariffs, trade investigations, FERC rules) that create material risk to project IRRs\u2014investors should prioritize supply chain visibility as a core operational capability",
+        "Domestic content bonuses and ITC optimization represent significant value-capture opportunities, but require sophisticated risk modeling and supply chain intelligence to execute effectively without procurement delays",
+        "The complexity of solar supply chain policy exposure suggests consolidation potential around platforms providing real-time trade/policy intelligence\u2014a potential venture capital or infrastructure investment thesis"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Q2 2026 Solar Supply Chain Survival Guide | Webinar"
+    },
+    {
+      "id": "ad45f465",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Healthcare AI model developers are experiencing significant headcount growth, with Tennr, Hippocratic AI, and Anthropic leading expansion into clinical verticals and pharma R&D. Digital health M&A surged 47% in Q1 2026, with major acquisitions like Abbott's $23B Exact Sciences deal and DeepHealth's $269M Gleamer acquisition driven by commercial adoption metrics. However, enterprise AI adoption remains nascent, with just five S&P 500 companies accounting for 32% of all AI activity and nearly 30% of the index showing no documented AI strategy over the past two years.",
+      "keyTakeaways": [
+        "Healthcare AI model developers are consolidating market opportunity\u2014focus investment thesis on companies with proven traction in clinical workflows (20M+ screening volumes, 700+ hospital contracts) rather than early-stage AI labs, as valuations now reward commercial deployment",
+        "Big Tech is fragmenting AI agent partnerships by use case rather than consolidating\u2014Microsoft's compliance moat dominates healthcare/legal (77%), Google leads software development (57%), Amazon owns customer service (64%). Startups should optimize for hyperscaler partnerships aligned with their vertical, not pursue multi-cloud strategies",
+        "Enterprise AI adoption is 10+ years behind hype cycle expectations. The median S&P 500 company has under 4 AI partnerships and remains in pilots. This represents a $5-10T runway for B2B AI vendors, but signals a 5-7 year sales cycle for complex enterprise solutions"
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "AI in the S&P 500"
+    },
+    {
+      "id": "365ad136",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A strong El Ni\u00f1o event in 2026-2027 could paradoxically undermine climate change urgency in the U.S. by temporarily masking the true severity of global warming through ocean-heating effects. Climate scientists warn that even a moderate super El Ni\u00f1o forming this year would compound existing warming, with some models predicting sea surface temperature anomalies exceeding 3 degrees Celsius, making historical comparable events like 2016 seem cold by today's standards.",
+      "keyTakeaways": [
+        "El Ni\u00f1o-driven weather patterns could create a false sense of climate stability in U.S. public perception, potentially weakening political and consumer support for climate-related investments and clean energy transitions despite underlying warming acceleration.",
+        "The confluence of baseline warming and a potential super El Ni\u00f1o increases severity risk across climate-vulnerable sectors\u2014insurance, agriculture, renewable energy infrastructure\u2014creating hedging opportunities and demand for climate adaptation technologies.",
+        "Grid-scale energy storage solutions (like compressed air systems) become increasingly critical infrastructure as extreme weather volatility from El Ni\u00f1o compounds electricity demand surges, creating investment opportunities in firm, dispatchable power resources."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Oh No, El Ni\u00f1o"
+    },
+    {
       "id": "aaff87b8",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -2715,17 +2859,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 16
+      "count": 17
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 59
+      "count": 63
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 57
+      "count": 60
     },
     {
       "name": "Strategy & Thesis",
@@ -2743,5 +2887,5 @@
       "count": 3
     }
   ],
-  "lastUpdated": "2026-04-23T10:58:19.181841Z"
+  "lastUpdated": "2026-04-24T10:56:33.494584Z"
 }
