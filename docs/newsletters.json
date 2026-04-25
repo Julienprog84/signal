@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "eab94c39",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. nuclear sector is accelerating with Kairos Power and TerraPower breaking ground on demonstration reactors in Tennessee and Wyoming respectively, marking the first major new reactor construction in over a decade. The Department of Energy is mobilizing over 90 companies through the Defense Production Act to address nuclear fuel supply chain gaps ahead of a 2028 ban on Russian imports. Extended operation of California's Diablo Canyon could generate $20 billion in net savings through 2045 compared to renewable alternatives mandated by state policy.",
+      "keyTakeaways": [
+        "Next-generation reactor startups are moving from development to grid-scale deployment, with TerraPower targeting 42-month construction timelines\u2014this represents a significant capital allocation opportunity for investors backing advanced nuclear supply chains and manufacturing partners.",
+        "Federal use of the Defense Production Act to coordinate 90+ nuclear industry firms signals sustained government commitment to build domestic fuel enrichment capacity, creating long-term revenue opportunities for suppliers and manufacturers in the nuclear fuel cycle.",
+        "Economic analysis showing $20 billion in savings from extending existing nuclear plant operations versus new renewable buildouts may influence state-level energy policy and investor sentiment toward existing nuclear assets as climate policy tools."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Nuclear Anew"
+    },
+    {
+      "id": "ec437ed5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Mid-market private equity fundraising collapsed 43% to $94.8 billion in 2025, but specialized managers focused on unglamorous sectors like industrial services and blue-collar businesses are closing oversubscribed funds. Firms like Good Springs Capital and Holleway Capital Partners are succeeding by concentrating on specific geographies and subsectors\u2014such as heating, plumbing, and industrial manufacturing in the Heartland\u2014where LPs can clearly identify competitive edges and value creation strategies.",
+      "keyTakeaways": [
+        "Generalist lower middle-market managers are losing LP capital; specialization and clear differentiation are now table stakes. Managers without scale must demonstrate sector expertise, specific geography focus, or subsector precision to attract funding.",
+        "Blue-collar and industrial businesses in middle America represent an underserved opportunity where smaller, regional managers are winning oversubscribed closes. LPs are rotating toward unglamorous but defensible businesses with clear value creation paths rather than chasing scale.",
+        "The barbell effect in PE fundraising is accelerating: mega-funds capture most capital while only highly differentiated niche managers succeed at smaller fund sizes. This creates both risk (fewer competitors for specific sectors) and opportunity (LPs seeking alpha in overlooked subsectors)."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "LPs swarm blue collar funds"
+    },
+    {
+      "id": "e321e977",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Aditi Maliwal, a general partner at Upfront Ventures, discusses her disciplined approach to venture investing, making only 2-3 deals per year while focusing on founder quality over hype. Her portfolio includes Clair (earned wage access), General Translation (dev tools), and Arcade (generative demo software), and she is actively exploring information markets\u2014proprietary datasets with time-bounded access that command premiums from AI labs and hedge funds.",
+      "keyTakeaways": [
+        "Founder selection matters more than deal volume: Maliwal backs 'n of one' founders driven by determination to survive and excel, not checkbooks or ideas alone, which explains her selective 2-3 deals per year despite market pressure.",
+        "Skepticism of AI valuations is warranted: Despite backing AI-adjacent companies, Maliwal questions unit economics in the AI bubble, noting that companies like Cursor may lose significant money per dollar earned, signaling a need for fundamental profitability analysis.",
+        "Information markets represent an underexplored opportunity: Proprietary datasets with time-bounded access (like Neon Mobile's voice data for AI training) represent a frontier where hedge funds, betting markets, and model builders will pay premiums, offering venture investors a differentiated thesis beyond crowded software categories."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Not another VC hot take"
+    },
+    {
+      "id": "514109a5",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-04-24",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A new generation of defense contractors\u2014Palantir, SpaceX, and Anduril, dubbed \"neo-primes\"\u2014are disrupting America's military-industrial complex with advanced software, satellite networks, and autonomous systems, positioning themselves as alternatives to legacy defense giants. The newsletter also highlights significant deep-tech funding activity, including $380M for hydrogen fuel cells (Blue Energy), $160M for autonomous aircraft systems (Reliable Robotics), and emerging breakthroughs in robotics, fusion energy, and synthetic biology, while noting early cracks in fusion's funding boom.",
+      "keyTakeaways": [
+        "Defense-tech startups with Trump administration connections are capturing Pentagon budgets away from traditional primes\u2014investors should monitor Palantir, SpaceX Starshield, and Anduril as potential unicorn/IPO candidates and track which legacy contractors adapt versus decline.",
+        "Deep-tech capital remains robust despite selective pullback in fusion: $380M+ in disclosed raises across hydrogen, robotics, and neuroscience suggest institutional LPs are rotating from speculative fusion into nearer-term commercializable technologies with clear military/industrial applications.",
+        "Chinese robotics and satellite manufacturing capabilities are advancing faster than U.S. counterparts (autonomous marathon robot beat human record; satellite constellation ramp-up)\u2014U.S. defense-tech startups have structural advantages but face accelerating competition requiring sustained venture capital and government contracts."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 159: Neo-primes are changing how America wages war"
+    },
+    {
+      "id": "4e1e82cc",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Chicken is emerging as a major protein investment opportunity as private equity firms capitalize on rising beef prices, GLP-driven calorie consciousness, and the success of chicken-focused QSRs like Raising Canes and Dave's Hot Chicken. Separately, Canadian AI company Cohere is merging with Germany's Aleph Alpha in a deal valuing the combined entity at $20 billion, with a $600 million investment from Schwarz Group positioning the startup to capture European digital sovereignty demand.",
+      "keyTakeaways": [
+        "Chicken processing and poultry companies are attracting significant PE capital as beef price inflation and health trends shift protein consumption patterns, with deals including Kingswood's Soulshine Farms investment and KKR's $856 million ProTen acquisition establishing a new sector focus.",
+        "Direct commodity exposure remains a barrier to PE investment in poultry despite strong fundamentals\u2014the space is heavily concentrated and farms are difficult to scale, meaning the real capital flows target downstream processors and QSR operators rather than producers.",
+        "European digital sovereignty is becoming a material capital allocation driver in AI, with Cohere's Aleph Alpha merger explicitly targeting EU government regulations and on-premise data center requirements that create regulatory moats unavailable in the U.S. market."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: \ud83c\udf57 Chicken dinner"
+    },
+    {
+      "id": "16aae20b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "San Francisco Climate Week 2026 saw major industry focus on data center buildout and AI infrastructure as the primary climate solution, with attendance doubling year-over-year to 60,000 participants across 700+ events. Beyond data centers, critical minerals, grid resilience, and emerging technologies like solar radiation management and advanced compressed air energy storage gained significant attention. The newsletter highlights that AI's role in sustaining the U.S. economy during economic turbulence has made data center expansion a compelling investment thesis for climate tech capital.",
+      "keyTakeaways": [
+        "Data center infrastructure and AI-driven power demand are now the dominant investment narrative at major climate convenings, suggesting significant capital reallocation toward grid modernization and energy storage solutions to support AI workloads.",
+        "Emerging alternative technologies like Hydrostor's compressed air energy storage (7-gigawatt pipeline) and solar radiation management companies like Stardust Solutions represent contrarian bets gaining institutional attention, though regulatory and deployment timelines remain uncertain.",
+        "The shift from Biden-era climate incentive dependency (which collapsed under Trump administration policy reversals) toward AI-anchored infrastructure investment represents a fundamental recalibration of climate tech funding away from traditional renewable deployment toward grid flexibility and capacity solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Data Centers to the Rescue"
+    },
+    {
       "id": "924a7914",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -2857,19 +2965,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 17
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 62
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 63
+      "count": 66
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 60
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 4
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 17
     },
     {
       "name": "Strategy & Thesis",
@@ -2880,12 +2993,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 6
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 3
     }
   ],
-  "lastUpdated": "2026-04-24T10:56:33.494584Z"
+  "lastUpdated": "2026-04-25T09:39:19.330155Z"
 }
