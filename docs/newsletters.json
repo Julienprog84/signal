@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "9252eaf5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private digital infrastructure funds raised a record $26 billion in 2025, driven by datacenter demand, while venture capital is becoming increasingly concentrated with AI companies capturing a disproportionate share of funding. The newsletter argues that durable competitive advantages in agentic AI won't come from superior models\u2014which commoditize in 6-12 months\u2014but rather from deep workflow integration, governance frameworks, and organizational context that create structural switching costs favoring early movers.",
+      "keyTakeaways": [
+        "The agentic AI investment window is closing for new entrants: $24.2 billion flowed into enterprise agentic AI last year, and early movers have already locked in switching costs through governance certifications (12-18 months) and workflow embedding that latecomers must now pay a premium to compete against.",
+        "Model performance is no longer the primary moat in enterprise AI\u2014investors backing companies based solely on model superiority are missing where real defensibility accumulates: in audit trails, explainability systems, and the organizational intelligence each deployment generates that doesn't transfer to competitors.",
+        "The venture market is consolidating around AI with fewer, larger checks being deployed, while non-AI companies face valuation pressure and acquisition pressure as their features get absorbed into broader platform stacks\u2014a bifurcated market where platform-scale companies with workflow ownership have structurally different return profiles than point solutions."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Catching up on the AI frontier"
+    },
+    {
+      "id": "66a28179",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "CB Insights' Q1'26 fintech report reveals major consolidation trends across digital health and surgical robotics, with funding concentrating in fewer, larger deals. Hyperscalers are dominating the AI agent market with specialized wins: Google leading in coding, Microsoft in compliance, and Amazon in customer service. Black Forest Labs emerges as a standout generative AI startup with a Mosaic score of 939/1000, signaling strong momentum in visual model development.",
+      "keyTakeaways": [
+        "Hyperscaler AI agent specialization creates acquisition targets: investors should identify fintech and enterprise software companies aligned with Google's coding, Microsoft's compliance, or Amazon's customer service verticals for potential exit opportunities",
+        "Digital health and surgical robotics show strong M&A activity with predictable acquirer patterns; CB Insights' analysis of 40+ surgical robotics firms identifies 6 acquisition-ready targets, suggesting LP capital should focus on earlier-stage companies in these spaces before consolidation winners emerge",
+        "Macro shift toward concentration in fewer, larger rounds means smaller fintech and health-tech startups face increased fundraising pressure; the generative AI sector remains fragmented with emerging winners like Black Forest Labs, creating both risk and opportunity for early-stage investors"
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "state of fintech q1'26"
+    },
+    {
       "id": "eab94c39",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -2965,14 +3001,14 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 68
+    },
+    {
       "name": "Climate & Energy",
       "color": "#D97706",
       "count": 62
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 66
     },
     {
       "name": "Deep Tech & Science",
@@ -2995,5 +3031,5 @@
       "count": 6
     }
   ],
-  "lastUpdated": "2026-04-25T09:39:19.330155Z"
+  "lastUpdated": "2026-04-26T10:06:08.768962Z"
 }
