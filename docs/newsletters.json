@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "78b221d8",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Otrera, a CEA spin-off, announced a \u20ac40+ million factory investment in Cherbourg, exemplifying how nuclear startups advancing in Europe are abandoning traditional startup playbooks in favor of heavy industrialization. French startups raised \u20ac51 million this week with an average ticket of \u20ac5 million, while AI-focused startups captured \u20ac7 million of that total, signaling continued institutional interest in AI infrastructure alongside nuclear energy transitions.",
+      "keyTakeaways": [
+        "Nuclear tech ventures require industrial-scale capital deployment and manufacturing infrastructure rather than asset-light SaaS models, fundamentally reshaping VC expectations for deep tech exits in the energy sector",
+        "France 2030 stimulus is driving consolidation around companies willing to transition from startup to industrial operator status\u2014capital will concentrate with founders accepting longer timelines and regulated environments",
+        "AI remains the secondary growth engine in French tech fundraising, but nuclear and energy infrastructure represent the largest single capital commitments, suggesting VCs are rebalancing toward climate/decarbonization alongside software innovation"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "27.04 - Nucl\u00e9aire : les startups qui avancent sont celles qui ont renonc\u00e9 \u00e0 \u00eatre des startups"
+    },
+    {
+      "id": "259a52b3",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Enterprise IT spending is forecast to hit $5.4 trillion in 2026 as companies transition from AI pilot projects to full agentic deployments, marking the beginning of a 20-year AI supercycle. PitchBook's analysis identifies a 25-layer technology investment stack across eight core segments, with the long-term winner being platforms enabling 'Work-as-a-Service' that replace billable hours with guaranteed outcomes. Late-stage venture debt hit decade highs in Q1 with median deals of $10.8 million as AI startups increasingly tap lending markets.",
+      "keyTakeaways": [
+        "Investors should map capital allocation across all eight segments of the AI stack (edge, application, intelligence, infrastructure, data center, semiconductor, physical infrastructure, and services) rather than concentrating bets on infrastructure alone.",
+        "The transition to Work-as-a-Service fundamentally changes unit economics\u2014companies that build platforms orchestrating AI agent fleets to deliver guaranteed outcomes will capture more enterprise value than traditional hourly-billing models.",
+        "Management teams that fail to embrace the WaaS economy face replacement risk; this structural shift will accelerate M&A and leadership transitions across enterprise software and services over the next decade."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The end of the billable hour"
+    },
+    {
+      "id": "d104cae4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has dismissed the entire 25-member National Science Board, intensifying its control over federal research funding as part of a broader effort to curtail climate and scientific infrastructure. Simultaneously, China announced stricter fossil fuel controls and emissions oversight, framing decarbonization as part of broader industrial strategy rather than climate experimentation, signaling the country's pivot toward clean technology as competitive advantage.",
+      "keyTakeaways": [
+        "U.S. scientific advisory infrastructure is being systematically dismantled, reducing independent oversight of NSF funding and creating regulatory uncertainty for climate tech and clean energy ventures dependent on federal research support and grants.",
+        "China's policy shift integrating decarbonization with industrial development suggests major state backing for clean tech manufacturing\u2014a potential headwind for U.S. companies competing in renewable energy, battery technology, and related sectors.",
+        "The divergence between U.S. regulatory rollback and China's tightening fossil fuel controls represents a geopolitical realignment in climate tech investment, likely favoring international expansion for U.S. clean energy companies and signaling attractive opportunities in Chinese industrial policy beneficiaries."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Science Experiments"
+    },
+    {
+      "id": "dfebbf39",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Avoca, an AI startup founded by MIT engineers Tyson Chen and Apurva Shrivastava, has reached a $1 billion valuation after raising over $125 million across three rounds, including backing from Kleiner Perkins, Meritech, and General Catalyst. The company pivoted from targeting restaurants to serving home services businesses (HVAC, plumbing, electrical, roofing) after discovering that missed calls represent $30,000-$40,000 revenue losses rather than $30-$40 orders, and now serves over 800 customers through industry conferences and network effects. The home services market, valued at $50 billion in 2025 with projections to $75 billion by 2032, represents a significant untapped opportunity for AI automation that Silicon Valley has largely overlooked.",
+      "keyTakeaways": [
+        "Venture capitalists should prioritize overlooked, non-tech industries with large addressable markets and low digital penetration\u2014the $50-75 billion home services sector demonstrates how AI infrastructure startups can achieve billion-dollar valuations by solving acute pain points (missed calls = lost jobs) in underserved markets.",
+        "Sales-intensive, offline industries require different go-to-market strategies than traditional tech; Avoca's success through trade shows and conferences rather than digital marketing suggests that syndicated deal flow opportunities exist in fragmented, relationship-driven sectors that reward early movers with distribution advantages.",
+        "The macro trend of AI augmentation (rather than replacement) for skilled trades is creating a new category of software infrastructure\u2014as technician demand outpaces supply, software that makes existing workers more efficient and responsive has significant defensibility and pricing power in mission-critical operations."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Wrong industry. Right idea"
+    },
+    {
+      "id": "97468ded",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The secondaries market has grown so large that investors now need liquidity from their secondary fund stakes, spawning a new tertiary fund layer that acquires interests in secondary PE funds. Netley Capital has more than doubled its capital to $825 million since September, while Bex Capital and Sturbridge Capital have also closed substantial tertiary funds, but the strategy faces familiar concerns: multiple layers of management fees and carry eating into returns on the same underlying assets.",
+      "keyTakeaways": [
+        "Tertiary funds are rapidly scaling\u2014Netley Capital grew from $315M to $825M in seven months\u2014signaling that PE's liquidity crunch extends deeper than primary fund performance, requiring new intermediaries to serve secondary fund LPs seeking exits.",
+        "Investors in tertiary funds will bear two additional layers of fees and carry on top of primary PE fund costs, substantially reducing net returns unless underlying asset performance significantly outpaces fee drag.",
+        "The emergence of tertiary funds as a normalized strategy suggests the PE industry's exit environment remains structurally challenged, with capital unable to cycle naturally and requiring increasingly nested financial structures to unlock liquidity."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Secondaries\u2019  next layer raises old questions"
+    },
+    {
+      "id": "863ab22a",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-04-26",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Sankaet Pathak, former CEO of now-bankrupt fintech platform Synapse, has co-founded Foundation, a robotics company that secured Eric Trump as an investor and $24 million in U.S. military contracts. The company has faced immediate credibility issues, including false claims about General Motors partnerships, while Pathak remains personally implicated in a new RICO lawsuit and has failed to repay $320,000 in loans he took from Synapse before its collapse left $95 million unaccounted for.",
+      "keyTakeaways": [
+        "Founders with significant unresolved legal and financial liabilities from failed ventures are securing major institutional backing and government contracts, raising serious due diligence red flags for investors evaluating leadership teams.",
+        "False representations to investors and partners (like the fabricated GM deal claims) suggest potential systemic issues with Foundation's fundraising practices and governance, warranting scrutiny of other startup claims in the defense tech space.",
+        "The regulatory arbitrage between fintech (where Synapse collapsed under scrutiny) and defense robotics (where contracts flow without equivalent oversight) may be enabling problematic founders to restart with minimal accountability."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 6,
+      "originalTitle": "The $100B+ Missing Connectivity Layer"
+    },
+    {
       "id": "9252eaf5",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -3001,14 +3109,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 18
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 68
+      "count": 71
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 62
+      "count": 63
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 7
     },
     {
       "name": "Deep Tech & Science",
@@ -3016,20 +3134,10 @@
       "count": 4
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 17
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 11
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 6
     }
   ],
-  "lastUpdated": "2026-04-26T10:06:08.768962Z"
+  "lastUpdated": "2026-04-27T12:11:46.339412Z"
 }
