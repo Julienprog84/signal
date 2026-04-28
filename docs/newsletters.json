@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "71b9a1b1",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-28",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "SquareMind raised $18 million for Swan, a robotic dermatology system with an articulated arm that digitally scans and maps skin surfaces to improve cancer detection precision and efficiency for doctors. The newsletter also covers Audion's $15 million funding round to expand its audio advertising technology into the US market, and highlights the UK's emergence as an innovation hub where major European corporates like Sodexo test new AI-driven service models before global deployment.",
+      "keyTakeaways": [
+        "Medical robotics and AI-driven diagnostic tools continue attracting significant capital, with SquareMind's $18M raise demonstrating strong investor confidence in automation solutions that enhance clinician productivity in healthcare.",
+        "European adtech companies are securing substantial funding to compete globally, with Audion's US expansion strategy indicating ongoing capital flows toward audio/digital advertising despite broader market consolidation.",
+        "The UK is functioning as a strategic testing ground for European enterprises to validate AI and service innovation models before scaling internationally, suggesting investors should watch for successful UK pilots as leading indicators of future revenue expansion."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "28.04 - Cette startup d\u00e9veloppe un robot pour mieux d\u00e9tecter les cancers de la peau"
+    },
+    {
+      "id": "f0434528",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Lincoln International filed for an IPO, potentially becoming the first U.S. boutique investment bank to go public since 2021, capitalizing on record M&A activity that generated $5 trillion in deal value and 50,810 transactions in 2025. The Chicago-based firm's net income surged 31% to $214.1 million, driven by strong sell-side advisory work for PE sponsors seeking portfolio exits, suggesting boutique banks may have a favorable window for public offerings as independent advisers capture growing market share.",
+      "keyTakeaways": [
+        "Lincoln International's strong 2025 financials ($214.1M net income, up 31% YoY) demonstrate that boutique investment banks focused on sponsor-led M&A can achieve venture-scale profitability, making the IPO window viable for similarly positioned firms with solid deal flow.",
+        "The independent advisory market has nearly tripled its share to 37% since 2000, signaling structural market shift favoring specialized boutiques over bulge-bracket banks\u2014a secular tailwind for Lincoln and comparable firms targeting the $250M-$2B deal sweet spot.",
+        "Mounting unrealized PE assets, abundant dry powder, and liquidity pressure on sponsors are expected to sustain elevated M&A activity and advisory fee pools, providing a durable revenue foundation for boutique banks pursuing IPOs through 2026 and beyond."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Prime time for boutique bank IPOs"
+    },
+    {
+      "id": "8f6ddfee",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Spanish founder Joaqu\u00edn Cuenca Abela has transformed Freepik, a profitable stock image platform founded in 2010, into Magnific, an AI-powered video and image generation business now generating $230 million in annual recurring revenue with no venture capital backing. The company pivoted aggressively after DALL-E 2's 2022 launch, moving into generative AI tools and then video generation, which now represents roughly half of revenue, while reducing headcount from 550 to 400 employees during the transformation.",
+      "keyTakeaways": [
+        "Bootstrapped profitability and revenue scale ($230M ARR) can compete effectively in AI without VC funding or frontier model development; the opportunity lies in combining existing AI models with specialized tools and workflows that solve specific user problems.",
+        "Platform pivots from legacy business to AI require significant restructuring (Freepik shed 100+ employees) but can unlock substantially larger addressable markets\u2014Cuenca believes Magnific will ultimately exceed Freepik's peak size despite near-term headcount reduction.",
+        "AI-powered creative tools are consolidating around workflows and asset generation rather than model competition; Magnific's strategy of integrating third-party models (Google Veo, ByteDance Seeddance) with proprietary pre-production tools suggests sustainable defensibility isn't tied to model ownership."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "How AI transformed Spain\u2019s Freepik into Magnific"
+    },
+    {
+      "id": "031d9d70",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is paying offshore wind developers over $1 billion to abandon U.S. projects and redirect capital toward oil, gas, and LNG infrastructure. TotalEnergies received $1 billion to cancel two wind farms, while Global Infrastructure Partners and Golden State Wind together received $885 million and $120 million respectively to exit their leases and reinvest in fossil fuel assets, marking a systematic effort to reverse renewable energy development through financial incentives rather than regulation.",
+      "keyTakeaways": [
+        "Government-backed capital reallocation is creating immediate opportunities in LNG and Gulf Coast energy infrastructure as developers redirect billions from renewable projects\u2014investors should track which firms win these redirected capital commitments.",
+        "Offshore wind developers face existential pressure; companies like Ocean Winds North America are signaling acceptance of this policy shift, suggesting the sector may consolidate or pivot away from U.S. offshore expansion entirely.",
+        "This represents a major reversal of clean energy policy with long-term implications for the U.S. renewable energy supply chain and climate commitments, potentially benefiting traditional energy firms and LNG exporters while reducing institutional investor appetite for offshore wind in America."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Trump\u2019s Tailwinds"
+    },
+    {
+      "id": "9332a154",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Joshua Kushner's Thrive Capital is diversifying beyond venture capital by launching Thrive Eternal, a permanent capital vehicle that acquired a minority stake in the San Francisco Giants as part of a broader strategy to invest in non-replicable assets like sports franchises and live events. This move signals Thrive's preparation for a potential IPO, following similar strategies by General Catalyst and Andreessen Horowitz to reduce volatility through alternative assets. Meanwhile, Chinese regulators ordered Meta to unwind its $2.5 billion acquisition of Manus AI, signaling an escalation in U.S.-China tech tensions and potentially ending the practice of \"Singapore washing\" used by Chinese startups to circumvent investment restrictions.",
+      "keyTakeaways": [
+        "Major VC firms are building diversified asset portfolios beyond traditional venture to position for public markets\u2014Thrive's Giants investment is a deliberate IPO preparation move, not a core business play, suggesting this trend will accelerate among mega-funds seeking liquidity",
+        "The Manus AI forced divestiture demonstrates increased regulatory scrutiny of Chinese tech company acquisitions by U.S. firms, making due diligence on company jurisdiction and employee location critical for future international deal-making",
+        "Evergreen capital structures with permanent investor bases are becoming standard infrastructure for top-tier PE/VC firms seeking to de-risk portfolios and justify premium valuations in advance of public market debuts"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Kushner plays ball"
+    },
+    {
+      "id": "875414d7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Despite oil prices spiking with approximately 11 million barrels per day removed from global markets, U.S. drivers are maintaining relatively stable consumption patterns, unlike the demand destruction seen during the 1979 oil crisis. This muted consumer response is attributed to the modern vehicle fleet's significantly improved fuel efficiency, suggesting that current gas price levels may not yet be high enough to trigger meaningful demand reduction and could have further room to rise before market equilibrium is restored.",
+      "keyTakeaways": [
+        "Vehicle fuel efficiency gains over the past 50 years have fundamentally altered the price elasticity of gasoline demand, creating a potential gap between current prices and the level needed to balance supply disruptions\u2014this could signal extended upside volatility in energy markets.",
+        "The stability in U.S. driving behavior despite high prices presents headwinds for transportation electrification adoption rates, as EVs lack the current price-to-benefit conversion that would normally accelerate fleet turnover during gas crises.",
+        "Energy transition investments should focus on non-consumer-driven demand destruction (petrochemicals, industrial operations) and alternative mobility solutions like robotaxis and data centers, rather than relying on traditional price-driven consumer behavior to reduce hydrocarbon consumption."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Where $4 Will Get You"
+    },
+    {
       "id": "78b221d8",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3111,17 +3219,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 18
+      "count": 19
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 71
+      "count": 74
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 63
+      "count": 65
     },
     {
       "name": "Fintech",
@@ -3139,5 +3247,5 @@
       "count": 11
     }
   ],
-  "lastUpdated": "2026-04-27T12:11:46.339412Z"
+  "lastUpdated": "2026-04-28T12:17:01.682123Z"
 }
