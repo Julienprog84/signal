@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "72f148b5",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-29",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French legaltech startup Doctrine has entered exclusive negotiations to be acquired by RELX, the parent company of its direct competitor LexisNexis, marking a significant consolidation in European legal technology. The newsletter also covers Fragment, a French AI startup founded by Guillaume Genthial and Olivier Moindrot, being acquired by Sierra (backed by OpenAI board president Bret Taylor) to develop enterprise AI agents. Additionally, the edition explores how agentic AI is fundamentally disrupting traditional SaaS business models and software monetization strategies.",
+      "keyTakeaways": [
+        "Major consolidation signal: Doctrine's acquisition by RELX suggests larger tech players are acquiring best-in-class legaltech innovators to strengthen competitive moats against emerging alternatives, relevant for LegalTech investors tracking M&A patterns.",
+        "AI talent and funding momentum: Fragment's acquisition by a Sierra-backed entity with OpenAI board leadership involvement shows continued capital concentration around founders with proven AI expertise and access to institutional networks.",
+        "SaaS model under pressure: Agentic AI is forcing a fundamental rethink of recurring subscription monetization; investors must reassess software valuations and unit economics as inference costs and hybrid pricing models reshape margin profiles across enterprise software."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "29.04 - Doctrine passe sous pavillon britannique"
+    },
+    {
+      "id": "3ddc13bf",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Elon Musk's lawsuit against Sam Altman centers on OpenAI's pivot to for-profit status, but the real stakes involve potential damaging disclosures that could affect both executives' credibility as the jury trial begins in Oakland. OpenAI faces additional pressure from missed user and revenue targets plus shareholder questions about Altman's leadership ahead of a planned IPO, whereas Musk's SpaceX IPO plans appear less vulnerable despite known controversies. True Anomaly secured $650 million in Series D funding at a $2.2 billion valuation following a $3.2 billion Golden Dome missile interceptor contract win, signaling robust defense-tech investment momentum.",
+      "keyTakeaways": [
+        "The Altman-Musk litigation could materially impact both founders' ability to raise capital and command investor confidence regardless of jury verdict; OpenAI faces higher reputational risk given its upcoming IPO and recent operational shortfalls.",
+        "Defense-tech continues attracting massive capital flows\u2014True Anomaly's $650M raise demonstrates institutional confidence in space security infrastructure despite geopolitical tensions and regulatory scrutiny.",
+        "VC capital allocation increasingly bets on founder pedigree and personal credibility over product merit; negative trial outcomes or damaging testimony could reset valuations across both OpenAI and SpaceX portfolios."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Sam at stake"
+    },
+    {
+      "id": "33f89243",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-04-28",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Major infrastructure consolidation is reshaping AI competition as Anthropic secures $100bn+ in compute commitments from Amazon and Google, while Elon Musk's xAI pursues a $10bn partnership with struggling AI coding platform Cursor ahead of SpaceX's anticipated IPO at a $1.75 trillion valuation. OpenAI faces mounting competitive pressure from entrenched incumbents who have matched its technology while leveraging superior product distribution and user bases, raising questions about its long-term differentiation strategy.",
+      "keyTakeaways": [
+        "Infrastructure is becoming the primary competitive moat in frontier AI\u2014companies are now buying compute capacity with equity rather than cash, signaling capital intensity that favors well-capitalized players and vertically integrated behemoths like Amazon, Google, and SpaceX over pure-play AI labs",
+        "Cursor's valuation collapse (from super-hot status to struggling fundraising with negative margins) demonstrates that consumer-facing AI tools without proprietary models or massive compute resources face existential viability challenges, creating consolidation pressure toward acquirers with infrastructure advantages",
+        "SpaceX's xAI integration and rumored $1.75 trillion valuation suggest the next wave of AI competition may be driven by companies combining satellite infrastructure, compute capacity, and frontier models\u2014a playbook that could shift competitive dynamics away from traditional AI labs toward infrastructure-first conglomerates"
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 640"
+    },
+    {
+      "id": "e93aec69",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has executed multiple agreements to cancel U.S. offshore wind leases and compensate former leaseholders with nearly $1 billion in combined payouts, signaling a systematic strategy rather than isolated settlements. The newsletter identifies at least two additional developers positioned to negotiate similar deals, raising questions about the total cost to eliminate the offshore wind pipeline and potential legal challenges to these arrangements.",
+      "keyTakeaways": [
+        "Offshore wind lease cancellations are becoming a repeatable playbook with $1B+ in government payouts, creating investment opportunities for fossil fuel companies to acquire renewable energy assets at subsidized rates",
+        "The existence of multiple developers in negotiating positions suggests the offshore wind sector faces existential policy risk that could reshape energy transition capital allocation and project valuations",
+        "This strategy's viability depends on legal defensibility\u2014investors should monitor litigation risk and regulatory challenges that could establish precedent for future lease cancellations or force policy reversals"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Next on the List"
+    },
+    {
       "id": "71b9a1b1",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3219,17 +3291,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 19
+      "count": 20
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 74
+      "count": 75
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 12
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 65
+      "count": 66
     },
     {
       "name": "Fintech",
@@ -3240,12 +3317,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 4
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 11
     }
   ],
-  "lastUpdated": "2026-04-28T12:17:01.682123Z"
+  "lastUpdated": "2026-04-29T09:05:36.642247Z"
 }
