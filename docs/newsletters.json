@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "dea9ab30",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-04-30",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Boris Lecoeur, former AWS France executive, will become CEO of Qwant and Shadow (via holding company Synfonium) effective May 11, 2026, replacing Olivier Abecassis. The newsletter also covers broader trends including AI's disruption of tech employment markets, the transformation of CFO roles through AI automation, and the inaugural SportGen Summit bringing together sports business leaders in Paris during Roland-Garros.",
+      "keyTakeaways": [
+        "Leadership transition at Qwant/Shadow signals potential strategic repositioning\u2014AWS experience suggests focus on cloud infrastructure and enterprise partnerships for the European search/AI company",
+        "AI-driven automation is restructuring tech employment and finance operations, creating new opportunities for workforce transformation tools and financial automation platforms rather than traditional execution-focused roles",
+        "Growing European events ecosystem (SportGen Summit) and talent networks indicate maturing venture markets with specialized community-building around emerging sectors like sports tech and AI applications"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "30.04 - Un nouveau patron pour Qwant et Shadow !"
+    },
+    {
+      "id": "3584d2d8",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "S&P Global Energy has launched a new monthly report providing comprehensive coverage of the North American power purchase agreement (PPA) market, combining real-time price assessments from Platts with market forecasts and analysis. The report leverages exclusive access to transaction data from REsurety's CleanTrade, a CFTC-registered platform for clean energy trading, to help energy market participants navigate uncertainty and inform clean energy investment strategies.",
+      "keyTakeaways": [
+        "Real-time PPA pricing data and forecasts are now more accessible to institutional investors, enabling better project viability assessments and competitive contract negotiations in a market previously characterized by information opacity",
+        "The integration of CFTC-registered trade data from CleanTrade creates a new intelligence advantage for firms making capital allocation decisions in renewable energy PPAs, reducing due diligence uncertainty",
+        "Increased transparency in North American PPA markets signals growing institutional maturation of clean energy financing, likely to accelerate corporate and utility decarbonization commitments while creating competitive dynamics for energy service providers"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Get granular insights on the North American PPA market"
+    },
+    {
+      "id": "8a00d00d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI faces a critical cash flow challenge with over $1.15 trillion in fixed infrastructure commitments to Oracle, Microsoft, and Amazon while missing internal revenue growth targets, raising questions about its ability to meet these obligations and pushing its IPO timeline from Q4 2026 to mid-late 2027. The company's circular dealmaking model\u2014where corporate investors fund operations in exchange for future computing contracts\u2014assumes OpenAI will grow large enough to meet those obligations, but recent competitive losses to Anthropic and Google in coding and enterprise suggest this assumption may not hold. This infrastructure obligation crisis threatens not just OpenAI but the entire venture ecosystem of AI infrastructure startups and could force expensive contract renegotiations similar to what happened with major customers in past downturns.",
+      "keyTakeaways": [
+        "OpenAI's $1.15 trillion in non-cancellable infrastructure contracts represent fixed costs that grow more problematic if revenue growth slows\u2014investors should closely monitor quarterly revenue acceleration metrics as indicators of IPO readiness and financial viability",
+        "BDCs and portfolio companies with software exposure face significant valuation risk; Blue Owl and similar investors have software representing 25% of portfolio fair value, making them vulnerable to AI-driven displacement and contract renegotiation precedents set by major tech players",
+        "AI infrastructure startups (Lambda Labs, Nscale, CoreWeave) and GPU makers like Nvidia face downstream risk if OpenAI renegotiates contracts; historically, even 'non-cancellable' agreements get reworked when major customers face financial stress, suggesting venture returns in this sector depend heavily on OpenAI's execution"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Betting retiree income on AI"
+    },
+    {
+      "id": "62f153d1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Vineyard Wind, the third major U.S. offshore wind project, has activated its power purchase agreements at $69.50 per megawatt-hour, promising Massachusetts ratepayers $1.4 billion in savings over 20 years. However, the Trump administration continues dismantling offshore wind development, with two more projects (Bluepoint Wind and Golden State Wind) abandoning their bids after being offered refunds totaling nearly $900 million. Meanwhile, the UAE announced its withdrawal from OPEC, signaling potential shifts in global energy markets.",
+      "keyTakeaways": [
+        "Offshore wind is achieving cost competitiveness with fixed long-term contracts, but regulatory uncertainty under the current administration creates significant execution risk for developers and makes project financing increasingly difficult",
+        "The $900 million in combined lease buyouts represents a direct subsidy to abandon clean energy projects, suggesting fossil fuel interests maintain substantial political influence that could reshape energy infrastructure investment for the next decade",
+        "UAE's OPEC exit reflects geopolitical realignment in energy markets and may indicate accelerating divergence between traditional oil producers and those pursuing energy transition strategies, creating both opportunities and volatility for energy investors"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Ripened on the Vine"
+    },
+    {
+      "id": "566a387f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Vanta, a Sequoia-backed security and compliance company, has crossed $300 million in annual recurring revenue with 60% year-over-year customer growth, tripling its ARR in two years. The company's explosive growth is driven by widespread \"shadow AI\" adoption across corporate America\u201470% of companies now have unapproved AI tools on their networks\u2014creating urgent demand for continuous monitoring and risk management solutions.",
+      "keyTakeaways": [
+        "Vanta's accelerating growth metrics (60% YoY, NRR over 100% consistently increasing) signal a massive market inflection around AI governance; the company's $4.15 billion July 2025 valuation may significantly undervalue current trajectory given the shadow AI urgency",
+        "The $65.2 billion GRC market is consolidating around category leaders like Vanta as enterprises face a critical gap between AI adoption velocity and security infrastructure\u2014expect increased M&A activity and margin compression from newer entrants in this space",
+        "Shadow AI data (70% company penetration, 1,000+ tool reinstalls annually per company) reveals a structural misalignment between employee autonomy and corporate risk management that will persist regardless of policy\u2014favors solutions offering visibility and continuous monitoring over prevention"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Something big is happening at Sequoia-backed Vanta"
+    },
+    {
+      "id": "76f17a07",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Soaring jet fuel prices driven by U.S.-Iran conflict are creating distress in the airline industry, potentially triggering a wave of M&A activity as carriers seek capital infusions or acquisitions. Meanwhile, Finnish elevator maker Kone is acquiring Germany's TK Elevator for \u20ac29.4 billion in what represents Europe's largest private equity exit and Finland's largest M&A deal ever, creating the world's largest lift manufacturer by sales.",
+      "keyTakeaways": [
+        "Airlines facing $179-$187 per barrel jet fuel prices are becoming acquisition targets or seeking capital; Delta and United are positioned as likely U.S. buyers, while European budget carriers and Middle Eastern carriers like Emirates could also pursue deals if prices don't fall.",
+        "The Kone-TK Elevator deal signals strong PE exit opportunities in industrial manufacturing, with Advent and Cinven achieving a significant return on their 2020 \u20ac17.2 billion carve-out from Thyssenkrupp just six years later.",
+        "Geopolitical conflicts (U.S.-Iran tensions) are directly triggering M&A waves in capital-intensive industries; investors should monitor commodity-dependent sectors for consolidation opportunities when input costs spike and balance sheets weaken."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\u2708\ufe0f Axios Pro Rata: Takeoff"
+    },
+    {
+      "id": "ddde4820",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-04-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Texas grid operator ERCOT projects peak demand could reach 368 GW by 2032\u2014more than quadruple current levels\u2014driven primarily by hyperscale data center construction, though the agency itself acknowledges this forecast is likely inflated. The U.S. has 780 GW of announced data center projects against current total peak load of 759 GW, but realistic pipeline estimates suggest 277 GW of actual capacity, with newcomers accounting for 145 GW (52%) of planned builds despite most having zero experience constructing data centers.",
+      "keyTakeaways": [
+        "Transmission infrastructure is the binding constraint: Aurora Energy Research modeling shows adding 10 GW of data center load to ERCOT without new transmission would quintuple congestion costs and spike power prices 34%, creating arbitrage opportunities for grid infrastructure investors but severe risks for unprepared data center developers.",
+        "Market consolidation likely ahead: 145 GW from first-time developers requiring ~$6 trillion in capital represents massive execution risk; investors backing inexperienced teams face elevated default risk, while well-capitalized incumbents gain competitive advantage through operational expertise and easier financing.",
+        "Texas will overtake Virginia as world's largest data center hub by 2030, but not all announced projects will materialize due to generation/transmission constraints and developer inexperience\u2014creating a sorting mechanism where capital flows to experienced operators and infrastructure-ready regions."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "Data center pipeline vs. grid realities\u00a0"
+    },
+    {
+      "id": "5d0ef415",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Pennsylvania Governor Josh Shapiro's office is caught between courting major tech companies like Amazon and managing growing public backlash against data center expansion. Leaked emails show Amazon conditioning future Pennsylvania investments on regulatory certainty after facing local permit rejections, illustrating the political and business friction surrounding AI infrastructure deployment in the Northeast.",
+      "keyTakeaways": [
+        "Data center developers face unprecedented permitting headwinds from local opposition\u2014Amazon explicitly told state officials it won't invest until projects already approved can move forward, signaling how anti-AI sentiment is creating investment friction at the subnational level",
+        "State governments are now key deal facilitators for tech infrastructure, with governors personally invested in overcoming local resistance; this creates regulatory risk and suggests investors should monitor political alignment and gubernatorial commitment when evaluating data center/AI infrastructure deployment",
+        "The 'anti-AI fervor' is materializing as real project delays and blocking in blue-state markets\u2014investors betting on Northeast data center growth should factor in sustained local opposition and longer approval timelines as structural headwinds to returns"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "How Josh Shapiro Is Navigating the Data Center Backlash"
+    },
+    {
       "id": "72f148b5",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3291,22 +3435,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 20
+      "count": 21
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 70
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 75
+      "count": 78
     },
     {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 12
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 66
     },
     {
       "name": "Fintech",
@@ -3319,5 +3463,5 @@
       "count": 4
     }
   ],
-  "lastUpdated": "2026-04-29T09:05:36.642247Z"
+  "lastUpdated": "2026-04-30T09:08:17.129965Z"
 }
