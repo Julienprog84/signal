@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "bf98666c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-04-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Global M&A hit a record $1.6 trillion in Q1 2026, but the headline masks underlying weakness: SpaceX's $250 billion acquisition of xAI alone accounts for over 15% of deal value, and stripping it out reveals a far more selective market where lenders are tightening covenants and PE sponsors face compressed valuations relative to corporate buyers. Outside 'A-plus assets,' dealmaking has stalled as buyers struggle to underwrite AI's impact on future earnings, while life sciences saw one of its slowest quarters in five years despite pockets of resilience in Chinese pharma access to US capital.",
+      "keyTakeaways": [
+        "The M&A boom is heavily distorted by a single mega-deal; without SpaceX-xAI, the top 10 North American deals drop from $518.5B to $268.5B, signaling that most mid-market and lower-quality asset buyers should expect continued difficulty accessing capital",
+        "Lenders have shifted the balance of power by requiring tighter covenants and higher equity contributions from borrowers, disproportionately squeezing PE sponsors who rely on leverage\u2014the PE premium over corporate buyers has collapsed from 4x to 2.8x EBITDA",
+        "AI uncertainty is paralyzing software and information services valuations across the board; dealmakers cannot confidently model earnings impact, creating a two-tier market where only proven, mature assets trade while innovation-dependent companies face a prolonged funding freeze"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "M&A boom with an asterisk"
+    },
+    {
+      "id": "55a258f4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A major data center expansion by Brookfield-backed Compass Datacenters in Virginia has been abandoned due to political opposition over tax breaks and public concerns about electricity costs and water usage, exemplifying a broader backlash against server farms that now exceeds opposition to wind farms. Meanwhile, the nuclear sector shows momentum with four startups\u2014TerraPower, X-energy, Holtec International, and GE Vernova\u2014achieving critical commercialization milestones ahead of a July 4 deadline, though federal policy is criticized for rewarding hype over execution readiness. FEMA's Disaster Relief Fund has dropped below $3 billion ahead of hurricane season, signaling potential constraints on disaster spending.",
+      "keyTakeaways": [
+        "Data center infrastructure faces an underestimated political risk: public opposition is now limiting major capital deployment in prime markets like Virginia, suggesting investors should stress-test hyperscaler expansion plans against local zoning and tax incentive volatility.",
+        "Nuclear technology commercialization is consolidating around four proven operators with secured offtakers and financing\u2014a winnowing that could favor concentrated investment in companies demonstrating actual deployment readiness rather than speculative plays.",
+        "Fiscal stress on federal disaster relief mechanisms may create investment opportunities in climate resilience infrastructure and private disaster mitigation services as public funding becomes constrained heading into peak hurricane season."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Delete Virginia"
+    },
+    {
+      "id": "efc2c191",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-04-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Illuminant, a Los Angeles-based surgical tech startup founded in 2021, has raised $8.4 million in seed funding led by Wing 2 Wing Ventures to commercialize Skylight, a smart surgical lamp that projects real-time anatomical imaging directly onto a patient's skin during procedures. The company, co-founded by Stanford classmates James Hu (physician) and Eldrick Millares, is addressing the extreme precision requirements of spinal surgery where millimeter-level errors can cause paralysis or fatal bleeding, with approximately 1.2 million such procedures performed annually in the U.S. and a 20% revision surgery rate. Notably, half of Illuminant's funding comes from federal grants (NSF, NCI, NIA) rather than traditional venture capital, and the company has recruited talent from Disney Imagineering to develop its visualization technology.",
+      "keyTakeaways": [
+        "Hybrid funding model is gaining traction in deep-tech medical startups: Illuminant secured 50% of its $8.4M seed from federal grants (NSF, NCI, NIA), suggesting that non-dilutive capital sources can substantially extend runway and reduce equity burn for high-risk surgical innovation plays.",
+        "Massive TAM in surgical precision markets: With 1.2 million spine surgeries annually in the U.S. alone, a $2B+ market size, and 20% revision rates (indicating significant room for error reduction), this represents a compelling capital allocation opportunity in the surgical visualization category with strong clinical ROI.",
+        "Cross-industry talent arbitrage: Illuminant's strategic recruitment of Disney Imagineering specialists for projection-mapping technology demonstrates that breakthrough medical devices increasingly require non-traditional engineering talent, pointing to potential acquisition targets and talent moats in entertainment-tech companies for surgical innovation."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "X-ray vision for surgeons"
+    },
+    {
+      "id": "0a5a162b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-04-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Autonomous vehicle infrastructure, particularly real estate and depot operations, represents the next major investment wave following billions deployed in AV software and hardware development. Meanwhile, Lazard's $660 million acquisition of Campbell Lutyens signals how private markets advisory has become a lucrative revenue stream for traditional Wall Street firms, with the deal reflecting broader consolidation in the fund placement and secondary advisory space.",
+      "keyTakeaways": [
+        "AV depot infrastructure\u2014charging stations, servicing facilities, and real estate optimization\u2014mirrors historical railroad investment patterns where early speculators lost money but later industrialists who consolidated operations captured major returns; this creates a distinct redeployment opportunity for capital that missed initial EV charging bets.",
+        "Lazard's largest acquisition in 178 years demonstrates that private markets advisory is now core to investment bank strategy and revenue diversification, particularly as M&A and restructuring practices gain leverage with financial sponsors\u2014a signal that consolidation in GP-advisory services will accelerate.",
+        "The AV sector's transition from software/hardware bottleneck to logistics infrastructure bottleneck suggests investor focus should shift from autonomous driving technology companies toward real estate platforms, charging networks, and operational efficiency startups like Rocsys and Moove AV."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: AV's analog bottleneck"
+    },
+    {
+      "id": "46f3ab68",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-04-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "PJM Interconnection, the country's largest electricity market, reopened its generation interconnection queue after a four-year moratorium, but the composition of new applicants has shifted dramatically away from renewables. While solar, storage, and hybrid projects comprise 536 of the 811 new applications by count, natural gas accounts for nearly half the total capacity at 106 gigawatts of the 220-gigawatt pipeline, a significant reversal from the prior queue where renewables represented two-thirds of capacity. The shift reflects headwinds facing renewable developers including extended inflation and interest rates, political uncertainty under the Trump administration, and explosive growth in data center demand that has pushed electricity prices up 50% since 2020.",
+      "keyTakeaways": [
+        "Natural gas is capturing substantially more grid capacity than renewables in the reformed PJM queue despite solar's cost advantages\u2014this signals that financing costs, policy uncertainty, and grid demand drivers now matter more than technology economics, creating investment risk for renewable energy developers and opportunities for gas infrastructure players.",
+        "PJM's new 'first-ready, first-served' model replacing first-come-first-served prioritizes project maturity over queue position, meaning developers with strong balance sheets and advanced stage projects will gain competitive advantage\u2014favoring larger, well-capitalized players over smaller renewable startups.",
+        "Surging data center demand is becoming the dominant driver of grid expansion decisions, not climate policy\u2014this macro shift suggests capital should flow toward companies servicing the data center power boom (natural gas, transmission, grid reliability) rather than betting on renewable deployment mandates that may be politically vulnerable."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Where\u2019s the Solar?"
+    },
+    {
+      "id": "3d22cb2e",
+      "title": "CB Insights",
+      "source": "CB Insights",
+      "date": "2026-04-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Eli Lilly has completed six acquisitions in 2026 across oncology, genetic medicine, neuroscience, and AI-driven drug discovery, signaling aggressive portfolio expansion. Crypto companies are commanding record valuations with minimal headcount, averaging $6.4M per employee in Q1 2026\u2014nearly double fintech averages\u2014driven by blockchain's automation of settlement and custody functions that would require large ops teams elsewhere.",
+      "keyTakeaways": [
+        "Pharma M&A intensity is accelerating: Eli Lilly's six deals in four months indicates large-cap pharma is aggressively acquiring early-stage capabilities rather than building internally, creating exit opportunities for biotech VCs across multiple therapeutic areas.",
+        "Crypto efficiency metrics are reshaping fintech benchmarks: The 2x valuation-per-employee premium for crypto startups is forcing all fintech companies to justify larger headcounts, potentially accelerating automation adoption and consolidation in traditional financial services.",
+        "Autonomous labs remain pre-commercial: Despite pharma industry interest (Lilly-Nvidia partnership), leading startups like Periodic Labs and Lila Sciences are still in testing phases, indicating early-stage investors have a narrow window before incumbents build or acquire solutions in-house."
+      ],
+      "url": "https://www.cbinsights.com/newsletter",
+      "readTime": 3,
+      "originalTitle": "huge crypto valuations"
+    },
+    {
       "id": "dea9ab30",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3433,19 +3541,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 21
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 82
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 70
+      "count": 72
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 78
+      "name": "European VC",
+      "color": "#059669",
+      "count": 21
     },
     {
       "name": "Strategy & Thesis",
@@ -3463,5 +3571,5 @@
       "count": 4
     }
   ],
-  "lastUpdated": "2026-04-30T09:08:17.129965Z"
+  "lastUpdated": "2026-05-01T08:54:18.173072Z"
 }
