@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "208a9df5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Crossover investors concentrated their venture bets into fewer, larger pre-IPO deals in Q1 2026, with deal value surging 11-fold to a record $220.9 billion despite only 178 transactions, signaling a shift toward mega-rounds like OpenAI's $110 billion and Anthropic's $30.6 billion Series G. Meanwhile, healthtech maintained momentum with Q1 deal volume up 35.5% year-over-year, and North American buyers are actively pursuing bargain acquisitions in Europe where valuations remain at their widest discount since 2022.",
+      "keyTakeaways": [
+        "Crossover investors are consolidating capital into a handful of mega-cap private companies rather than diversifying across earlier-stage deals, creating a concentration risk similar to the Magnificent 7 phenomenon in public markets",
+        "The shift reflects a structural change in how late-stage capital is deployed: mega-IPO candidates now require massive follow-on rounds that only large crossover funds can satisfy, favoring dominant players and potentially closing access for smaller investors",
+        "Healthtech and transatlantic M&A represent opportunistic areas\u2014healthtech showing resilience with 35.5% YoY growth while European valuations trading at decade-low multiples relative to US peers present tactical entry points for North American acquirers"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Crossovers bet big before the bell"
+    },
+    {
+      "id": "d2374ee9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Belgium is reversing its 2003 nuclear phaseout decision by halting decommissioning of its last two reactors and nationalizing its nuclear industry through a takeover agreement with French utility Engie, marking a major policy shift toward energy independence and away from fossil fuel imports. In the U.S., a 140-megawatt solar project in Texas called Iron Spur Solar has begun construction, financed by Energea\u2014a solar financing startup allowing fractional investment in solar farm networks across multiple countries\u2014and represents the largest project yet funded through this creative financing model before July tax credit phase-outs.",
+      "keyTakeaways": [
+        "European governments are reversing decades of anti-nuclear policy through strategic nationalizations: Belgium's move mirrors France's 2023 nationalization of EDF and signals growing institutional capital flowing toward nuclear infrastructure as climate-critical baseload power, creating opportunities in reactor maintenance, fuel supply, and grid modernization.",
+        "Non-traditional solar financing platforms like Energea are capturing market share by offering retail-friendly, diversified exposure to solar assets across geographies, enabling developers to front-load projects before regulatory changes\u2014watch for similar structured finance vehicles disrupting renewable energy project development.",
+        "Policy volatility (U.S. tax credit phase-outs, European nuclear reversals) is creating urgency-driven capital deployment windows, rewarding investors and operators with flexible, modular financing structures that can navigate changing regulatory incentives across energy sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Belgian Nuclear Waffling"
+    },
+    {
+      "id": "a8dc009d",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "FlyFast, a biomedical startup founded in 2024 by researcher Ca\u00edque Costa, is automating a tedious but critical bottleneck in fruit fly cancer research: the manual transfer of thousands of flies between vials monthly. The company's prototype device, initially built from lollipop sticks and straws, can now move 10 vials simultaneously using tapping or CO2 mechanisms, potentially saving cancer researchers across 4,000 global labs hundreds of hours annually. This highlights a broader opportunity in the $45 billion lab equipment sector where AI alone cannot address the \"grueling, physical, and mundane\" friction points that plague scientific research.",
+      "keyTakeaways": [
+        "There's significant venture opportunity in automating non-glamorous but labor-intensive tasks in scientific research that consume thousands of researcher hours annually\u2014FlyFast's estimated 800+ hours/year savings per lab suggests strong unit economics and defensible IP protection via patents filed in 2025.",
+        "The lab equipment and life sciences tools sector remains underexploited by venture capital relative to AI hype; founders addressing practical friction points with simple mechanical solutions can build defensible businesses without competing in commoditized AI markets.",
+        "Fruit fly genetics research (with 85% gene overlap to humans in disease contexts) is a validated but understaffed field where automation improvements could accelerate breakthroughs in cancer, Parkinson's, and Alzheimer's research\u2014indicating emerging cross-sector interest from biotech VCs, pharmaceutical companies, and research institutions."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Fruit flies, lollipop sticks, and cancer cures"
+    },
+    {
+      "id": "1f11d2aa",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-05-01",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Commonwealth Fusion Systems has applied to join the PJM Interconnection power grid serving 67 million people across 13 states, marking the first fusion energy company to pursue grid integration and potentially bringing nuclear fusion power to U.S. households in the early 2030s. The company plans to deploy its SPARC demonstration reactor in 2027 and its commercial ARC power plant in Virginia by the early 2030s, though significant technical challenges remain in proving fusion can generate net positive energy at scale. The newsletter also covers major infrastructure and defense tech investments including Pentagon drone spending increasing 24x from $225M to $5.5B annually, Joby's electric air taxi launches in NYC, and a $500M virtual biology initiative from the Zuckerbergs.",
+      "keyTakeaways": [
+        "Commonwealth Fusion Systems' grid application signals that the fusion industry is transitioning from pure R&D to commercialization timelines, with a 2027 demonstration and early 2030s deployment window\u2014a concrete inflection point for investors evaluating fusion energy's viability as an infrastructure asset.",
+        "The massive expansion in Pentagon drone spending (24x increase YoY) and corporate air taxi pilots indicate defense and mobility tech are moving from development to procurement and deployment phases, creating near-term revenue opportunities for mature deep-tech companies.",
+        "The shift toward boring legacy industries (manufacturing, agriculture, logistics) for automation ROI suggests investor capital may flow away from cutting-edge moonshots toward mid-market B2B autonomy plays with faster payoff timelines and lower technical risk."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 5,
+      "originalTitle": "DTN 160: Fusion Company Applies to Join US Power Grid"
+    },
+    {
+      "id": "c59f4ec9",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Global M&A activity surged 42% year-to-date in 2026 compared to 2025, with U.S. PE-backed deals jumping 63%, signaling robust dealmaking momentum across sectors. In a high-profile activist challenge, ADW Capital has offered nearly $3 billion to acquire Driven Brands from majority owner Roark Capital, arguing that Roark's focus on restaurant assets like Arby's and Dunkin' has diverted attention from the car services business. The F1 ecosystem reveals significant capital appreciation and liquidity interest, with Dorilton Capital holding firm on Williams despite offers, while RedBird Capital explores additional team stakes.",
+      "keyTakeaways": [
+        "PE-backed M&A is accelerating faster than overall M&A (63% vs. 42% growth), indicating strong LP deployment and that financial sponsors are aggressively pursuing acquisitions across portfolio diversification",
+        "Activist pressure on portfolio companies suggests tension over management focus when sponsors hold multiple platforms\u2014Roark's restaurant IPO push may be creating opportunity for competitors to challenge operational execution at Driven Brands",
+        "Luxury/exclusive assets (F1 teams) are appreciating rapidly but sponsors are selectively holding rather than liquidating, indicating confidence in long-term value creation and institutional demand exceeding current supply"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: F1  dealmaking"
+    },
+    {
+      "id": "e2ddb257",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A cohort of startups is developing alternative desalination technologies to address growing global water scarcity, with roughly a quarter of the world's population facing extreme water stress. Traditional reverse osmosis plants are costly and energy-intensive, prompting innovation in solutions ranging from subsea facilities to portable devices, as geopolitical instability in the Middle East threatens existing desalination infrastructure.",
+      "keyTakeaways": [
+        "Market expansion opportunity: desalination is shifting from niche water-scarce regions to mainstream necessity across wider geographies, creating larger addressable market for startups offering cost and energy improvements over incumbent reverse osmosis technology",
+        "Capital efficiency play: startups targeting modular, distributed desalination solutions (subsea, portable) may achieve better unit economics and faster deployment than traditional large-scale coastal plants, attracting project finance and impact capital",
+        "Macro tailwind: intersection of climate intensification, geopolitical risk to Middle East infrastructure, and regulatory pressure on water security creates multi-decade structural demand growth for alternative water purification technologies globally"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Desalting the Sea"
+    },
+    {
       "id": "bf98666c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -3543,12 +3651,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 82
+      "count": 85
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 72
+      "count": 74
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 5
     },
     {
       "name": "European VC",
@@ -3564,12 +3677,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 7
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 4
     }
   ],
-  "lastUpdated": "2026-05-01T08:54:18.173072Z"
+  "lastUpdated": "2026-05-02T08:18:25.528403Z"
 }
