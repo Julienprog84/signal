@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "e2d3617b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Global M&A reached an all-time high of $1.6 trillion in Q1 2026, driven by historic deal activity despite geopolitical headwinds, though the figure is heavily skewed by xAI's $250 billion acquisition by SpaceX. Capital flows are rotating toward energy and B2C sectors while tilting toward European targets as cheaper euro financing attracts North American acquirers, though IT deal activity excluding the mega-deal actually fell 52.5% quarter-over-quarter. Separately, AI adoption among physicians has surged to 81%, but could add $5.9 trillion in cumulative excess healthcare costs by the late 2030s before long-term savings materialize.",
+      "keyTakeaways": [
+        "The xAI-SpaceX merger is a statistical outlier masking underlying IT dealmaking weakness\u2014stripping it out reveals IT deal value declined sharply, signaling potential caution ahead for tech M&A despite healthy headline numbers.",
+        "Cross-border capital is flowing decisively toward European targets due to euro currency strength and compressed valuations, suggesting U.S. acquirers see better risk-adjusted returns abroad than domestic alternatives.",
+        "AI-driven healthcare cost inflation may precede efficiency gains, creating a 5-10 year window where healthcare spending accelerates before productivity benefits materialize\u2014critical for healthcare-focused investors to model alternative cost scenarios."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Your roadmap to AI investing"
+    },
+    {
       "id": "208a9df5",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -3651,7 +3669,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 85
+      "count": 86
     },
     {
       "name": "Climate & Energy",
@@ -3679,5 +3697,5 @@
       "count": 7
     }
   ],
-  "lastUpdated": "2026-05-02T08:18:25.528403Z"
+  "lastUpdated": "2026-05-03T08:29:50.226704Z"
 }
