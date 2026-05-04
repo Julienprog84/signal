@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "64c1cc43",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-04",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A new Interpath study reveals European and US venture capital exits have deteriorated further year-over-year, with bankruptcies now exceeding successful exits. Despite this darkening landscape, the report indicates progressive improvement is expected in the current year. The newsletter also covers emerging trends in AI-driven technology platforms and the strategic undervaluation of operational assets like office furniture in corporate financial planning.",
+      "keyTakeaways": [
+        "Bankruptcy rates surpassing exit rates signals prolonged VC market stress in Europe and US; investors should expect extended holding periods and potential write-downs before stabilization occurs",
+        "Gradual improvement expected in 2024+ creates selective entry opportunities for contrarian investors and secondary market players positioned to acquire distressed positions",
+        "AI infrastructure is reshaping technology's operating system paradigm\u2014capital should rotate toward foundational AI platforms rather than mobile-first applications as the next computing cycle takes shape"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "04.05 - Alerte maximale : les faillites d\u00e9passent d\u00e9sormais les exits"
+    },
+    {
+      "id": "bc1c5229",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Limited partners are conducting unprecedented granular due diligence on mid-market fund managers, scrutinizing individual deal entry multiples, exit strategies, and company-level performance rather than relying on headline fund metrics. This shift reflects a broader realization that fund manager ability to generate actual distributions and achieve portfolio exits has become the primary differentiator, with LPs benchmarking specific portfolio company marks across multiple PE funds to validate performance claims.",
+      "keyTakeaways": [
+        "Mid-market PE managers must prepare detailed transaction narratives\u2014LPs are now requesting specific entry multiples, exit mechanics, and return drivers on individual deals, not just headline MOIC figures. This requires robust deal documentation and transparent portfolio management.",
+        "Operational rigor around distributions and realizations has become the primary investment thesis for allocating capital to fund managers. Funds that cannot demonstrate consistent cash returns and clear exit pathways will struggle to attract LP capital regardless of historical performance.",
+        "The shift toward line-by-line LP due diligence suggests a market correction where smaller fund managers without strong operational execution or differentiated exit strategies may face significant capital formation challenges, benefiting only the most disciplined operators."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "How mid-market investors tell a story"
+    },
+    {
+      "id": "78b46c66",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-03",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Bolt, the struggling fintech super app co-founded by Ryan Breslow, has signed term sheets for a $150M funding round ($100M from one investor, $50M from another) that will close within 30-90 days, contingent on the company achieving profitability. The newsletter uses Bolt's situation to illustrate broader challenges in partner banking, questioning whether the business model is fundamentally back, broken, or obsolete.",
+      "keyTakeaways": [
+        "Bolt's significant funding round is conditioned on near-term profitability, signaling investor skepticism about the company's current trajectory and requiring aggressive cost-cutting and revenue acceleration within 30-60 days\u2014a high bar that may not be achievable.",
+        "The newsletter frames partner banking in existential terms through Bolt's example, suggesting structural challenges in the BaaS model that go beyond single company execution issues and may affect the broader fintech ecosystem.",
+        "Bolt is pivoting toward higher-margin adtech revenue ('GCommerce') and merchant cross-selling rather than pure payments processing, indicating that pure-play payment platforms face margin pressure and must diversify or consolidate to survive."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "Partner Banking is: a) Back b) Broken c) Obsolete d) All of the above"
+    },
+    {
+      "id": "188b10ab",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News covers five climate and energy stories highlighting emerging investment opportunities: solar capacity shortfalls in PJM's grid, desalination technology gaining commercial traction, Trump administration wind policy developments, Gen Z's receptiveness to electric vehicles, and space-based solar technology advancement. The newsletter targets investors and policymakers interested in clean energy infrastructure and climate solutions.",
+      "keyTakeaways": [
+        "Solar deployment is lagging grid operator expectations (PJM region), creating supply-side investment gaps for developers and grid modernization companies to capture underserved capacity additions",
+        "Desalination is reaching commercial viability as climate pressures intensify water scarcity, opening capital allocation opportunities in water technology and infrastructure sectors facing regulatory tailwinds",
+        "Space-based solar and EV adoption among younger demographics represent emerging technology bets with long-term structural growth potential, though policy volatility (Trump wind deals) creates near-term sector uncertainty"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "PJM\u2019s Missing Solar, the Desalination Moment, and More\u00a0"
+    },
+    {
       "id": "e2d3617b",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -3667,14 +3739,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 22
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 86
+      "count": 87
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 8
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 74
+      "count": 75
     },
     {
       "name": "Deep Tech & Science",
@@ -3682,20 +3764,10 @@
       "count": 5
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 21
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 12
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 7
     }
   ],
-  "lastUpdated": "2026-05-03T08:29:50.226704Z"
+  "lastUpdated": "2026-05-04T09:12:04.479534Z"
 }
