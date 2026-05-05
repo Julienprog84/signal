@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "7f62cedc",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-05",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "OneFlash, a mobile charging kiosk startup, raised \u20ac3.5 million in Series A funding led by Anthony Bourbon's Blast Club investor community, following Xavier Niel's Kima Ventures investment in 2022. The funding aims to expand OneFlash's European footprint and solidify its market leadership. French tech fundraising showed moderation in April 2026 with 45 deals totaling \u20ac375 million, below the 2025 monthly average of \u20ac410 million, though AI-focused startups captured \u20ac32 million of \u20ac108 million raised in a recent week.",
+      "keyTakeaways": [
+        "Blast Club and angel-led syndicates are becoming viable Series A funding sources for European deeptech, demonstrating that French startups no longer depend solely on institutional VCs for mid-stage rounds",
+        "April 2026 fundraising data signals market normalization after 2025 peaks\u2014expect more selective capital deployment with focus on proven unit economics rather than scale-at-all-costs narratives",
+        "AI startups continue commanding investor attention (31% of weekly capital) while consumer hardware (mobile charging infrastructure) attracts established angels, indicating bifurcated market dynamics between hot sectors and infrastructure plays"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "05.05 - Apr\u00e8s Xavier Niel, OneFlash accueille Anthony Bourbon et son Blast Club au capital"
+    },
+    {
+      "id": "3b912b3b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private markets are experiencing uneven growth post-2022 rate reset, with unicorn formation slowing dramatically\u2014half as many startups crossed $1 billion valuations in April 2026 versus March. Notable deals include Boop, a new insurtech startup for humanoid robots founded by Soylent's Rob Rhinehart, which raised $200,000 at a $10 million valuation and is targeting $2.5 million in seed funding; separately, CoreWeave secured a $3.1 billion leveraged loan for GPU acquisition to support OpenAI and Cohere contracts. European university spinouts are tracking toward record deal values as deep tech venture accelerates.",
+      "keyTakeaways": [
+        "Unicorn formation has collapsed to the slowest pace in six months, suggesting a fundamental shift in how venture capital is being deployed and which startups can achieve mega-valuations in a higher-rate environment.",
+        "Emerging categories like robot insurance and GPU-backed infrastructure financing are attracting significant capital, indicating investors are shifting from consumer tech toward AI-adjacent hardware, insurance tech, and compute infrastructure bets.",
+        "The 'end of easy money' is creating sharp divergence in private markets\u2014while overall AUM growth continues toward $26.7 trillion by 2030, capital is consolidating around fewer strategies, making access to funding increasingly difficult for non-strategic startups."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Private markets are splitting apart"
+    },
+    {
+      "id": "ce87d0d2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Ethereal Ventures, a previously low-profile crypto VC firm cofounded by Ethereum's Joe Lubin and Min Teo in 2021, is emerging from obscurity with a strong track record despite market headwinds. Managing under $150 million across two funds with over 80 portfolio companies, the firm achieved a 0.12 DPI rate ranking in the top 10% of funds launched in 2021, bolstered by its breakout investment in EigenLayer, which reached a $1.05 billion valuation.",
+      "keyTakeaways": [
+        "Disciplined early-stage focus and founder-friendly strategies outperform during crypto downturns\u2014Ethereal's top decile performance in 2021 (a rough vintage year) suggests specialized expertise and selective deployment matter more than capital size or market trends.",
+        "Concentrated winners drive fund returns in venture: EigenLayer's success likely accounts for a significant portion of Ethereal's DPI outperformance, illustrating the importance of backable conviction picks and the concentration risk in emerging tech funds.",
+        "Resist trend-chasing in crowded sectors\u2014Ethereal's deliberate avoidance of the 30+ prediction market competitors despite current hype reflects a contrarian discipline that protected capital and may signal where overheated subsectors risk correction."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "A shy VC firm sticks its head up"
+    },
+    {
+      "id": "9783a4a3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is halting construction on approximately 165 onshore wind projects citing national security concerns, mirroring a December order on offshore wind that faced legal challenges. Meanwhile, major oil producers Exxon Mobil and Chevron are resisting White House pressure to increase drilling despite crude prices hitting $126 per barrel amid Iran-related supply disruptions, with executives citing they are already operating at capacity.",
+      "keyTakeaways": [
+        "Wind energy infrastructure faces significant regulatory headwinds with government-imposed construction halts that will likely trigger litigation; investors should monitor federal court rulings on national security justifications for wind project delays.",
+        "Oil majors are maintaining disciplined capital allocation despite geopolitical supply shocks and administration pressure, suggesting crude prices may need to rise substantially higher to trigger incremental U.S. production increases.",
+        "The clean energy transition faces policy uncertainty under current administration, while traditional energy benefits from supply constraints but lacks incentive to expand capacity, potentially creating volatile commodity markets and investment opportunities in alternative energy solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "New Headwinds"
+    },
+    {
+      "id": "bbaaf18b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Spirit Airlines' collapse has ignited debate over causation\u2014whether the Biden DOJ's blocked JetBlue merger or jet fuel cost spikes and poor management are to blame\u2014with implications for future airline consolidation policy. GameStop stunned markets by proposing a $55 billion acquisition of eBay at $125 per share, though CEO Ryan Cohen could not credibly explain the financing mechanics during a CNBC interview, raising questions about deal viability given GameStop's $11 billion market cap and the tightening capital environment among Middle Eastern sovereign investors.",
+      "keyTakeaways": [
+        "Antitrust enforcement uncertainty now creates material risk for distressed assets: the blocking of JetBlue-Spirit appears to have accelerated Spirit's demise rather than preserved competition, signaling that aggressive antitrust positions may backfire when overleveraged companies lack exit optionality.",
+        "GameStop's audacious bid for eBay highlights desperation for transformative M&A in struggling legacy retail, but the financing math ($55B target with $9B cash, $20B committed debt, and 5% eBay stake) is structurally unsound without massive co-investment\u2014a difficult ask in a capital-constrained geopolitical environment.",
+        "Macro trend: overleveraged, poorly hedged businesses face existential risk during inflationary shocks (jet fuel, debt service costs); investors should scrutinize hedging policies and capital structure flexibility as primary failure modes, especially in capital-intensive sectors vulnerable to commodity price volatility."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Spirited debate"
+    },
+    {
+      "id": "f6aacd3a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rising spring temperatures and historic low snowpack in Western mountain regions are creating dangerous climbing conditions and shortening the traditional climbing season, a trend that insurance companies and mountain-guiding businesses recognize as a direct climate impact. The article explores how extreme heat is affecting outdoor recreation infrastructure and the businesses that depend on mountain access, with broader implications for seasonal tourism and risk management in climate-vulnerable regions.",
+      "keyTakeaways": [
+        "Mountain-guiding and outdoor recreation businesses face increased operational risk and shortened revenue windows due to climate-driven seasonal shifts, creating demand for adaptive business models and insurance products tailored to climate volatility",
+        "Insurance companies are increasingly exposed to climate-related claims in outdoor recreation and tourism sectors, suggesting opportunity for climate risk assessment tools and parametric insurance solutions",
+        "Climate adaptation startups addressing heat mitigation (cooling technology), water scarcity (desalination), and data center resilience to extreme weather represent emerging investment themes driven by physical climate impacts on infrastructure and real estate"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Mountains Are Too Hot"
+    },
+    {
       "id": "64c1cc43",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3741,22 +3849,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 22
+      "count": 23
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 87
+      "count": 90
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 77
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 8
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 75
     },
     {
       "name": "Deep Tech & Science",
@@ -3769,5 +3877,5 @@
       "count": 12
     }
   ],
-  "lastUpdated": "2026-05-04T09:12:04.479534Z"
+  "lastUpdated": "2026-05-05T09:04:27.054794Z"
 }
