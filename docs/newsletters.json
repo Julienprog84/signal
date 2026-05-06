@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "8f76dc4d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-06",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "LegalPlace raised \u20ac70 million and acquired its historic rival Legalstart, consolidating France's legal tech market to strengthen competitive positioning and prepare for European expansion. Separately, Lithosquare secured \u20ac22 million in funding for an AI-powered platform designed to accelerate the discovery of critical mineral deposits, addressing the urgent need for over 1,000 new mining sites by 2040.",
+      "keyTakeaways": [
+        "Consolidation in legal tech is accelerating in Europe, with market leaders deploying significant capital (\u20ac70M+) to acquire competitors rather than compete independently, signaling a maturation phase where scale and geographic reach are critical competitive advantages.",
+        "AI-driven mineral discovery represents a high-growth opportunity in the critical metals space, with venture investors backing solutions that address supply chain bottlenecks for battery and semiconductor manufacturing.",
+        "European tech continues to attract substantial growth-stage funding across B2B services and deep tech, indicating investor confidence in scaling European winners beyond domestic markets into continental expansion strategies."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "06.05 - LegalPlace l\u00e8ve 70 millions d\u2019euros et s'empare de Legalstart"
+    },
+    {
+      "id": "5c2afa3a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PE fundraising is consolidating around top-tier managers and specialists, with middle-market funds ($1-5B) facing intense pressure as LP capital concentrates through re-ups with established firms rather than new relationships. The industry's 2021-2024 boom driven by near-zero rates and surging valuations is irreversible, forcing smaller managers to differentiate or face fundraising headwinds. Meanwhile, SpaceX's upcoming IPO introduces a wild card for early investors as Nasdaq's new 15-day fast entry rule could accelerate stock price appreciation and force lock-up decisions earlier than typical.",
+      "keyTakeaways": [
+        "Specialist PE managers captured 74% of capital raised in 2025 versus a historical average of 64%, signaling that generalist mid-market funds must demonstrate unique expertise or risk being squeezed out of capital flows entirely.",
+        "LP distributions averaging 16% of NAV annually (2022-2025) versus the historical 25% norm are leaving investors over-allocated and reluctant to deploy fresh capital\u2014only a meaningful rebound in exit realizations will materially ease this constraint.",
+        "SpaceX's Nasdaq fast entry rule creates unprecedented timing pressure for long-tenured private investors seeking liquidity, potentially forcing earlier-than-expected sell decisions and reshaping traditional IPO lock-up dynamics for mega-cap private companies."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "SpaceX's IPO wild card"
+    },
+    {
+      "id": "8f3a5af2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The North American Electric Reliability Corporation issued a rare Level 3 warning about grid instability, citing exponential growth in computational loads from data centers as a critical threat to power infrastructure over the next four years. Meanwhile, the Trump administration's $120 million payout to Golden State Wind to abandon its Morro Bay offshore wind lease is drawing regulatory scrutiny from California, while the state's grid operator launched a new regional electricity market enabling cross-state renewable energy trading.",
+      "keyTakeaways": [
+        "Data center growth poses an immediate and severe threat to grid reliability\u2014this creates urgent demand for distributed power solutions, grid modernization technologies, and alternative energy sources that can scale rapidly to meet computational loads.",
+        "Government buyouts of renewable energy projects signal policy volatility that could undermine investor confidence in clean energy infrastructure, but may paradoxically accelerate private-sector solutions and create opportunities in grid resilience and energy storage companies.",
+        "Regional electricity markets are expanding across the West, enabling efficient renewable energy trading\u2014this structural shift favors utilities and energy retailers positioned to participate in interstate transmission and intermittent renewable integration."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "\u00a0\u2018Big Deal\u2019 Blackout Warning\u00a0"
+    },
+    {
+      "id": "0e9a9946",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Astrocade, an AI-powered game creation platform cofounded by brothers Ali and Amir Sadeghian, has raised $56 million across Series A (led by Sea) and Series B (led by Sequoia Capital) funding rounds. The platform enables users to create games through natural language prompts and has grown to 5 million monthly active users with 140 million monthly game plays across 75,000 games from creators in 80 countries. Investors including Google, Nvidia, and LG Ventures are betting on Astrocade's model as a YouTube-like creator economy play that monetizes game creation, with top creators earning thousands of dollars monthly.",
+      "keyTakeaways": [
+        "AI-democratized game creation is attracting top-tier VC capital with strong traction: 5M MAUs and 140M monthly plays in just 8 months post-launch suggest significant product-market fit, validating the thesis that removing technical barriers dramatically expands the addressable creator market.",
+        "The creator economy expansion beyond traditional creator platforms is well-funded: Sequoia and Sea's backing signals confidence that interactive content creation (games vs. social media) represents an underexploited monetization opportunity with higher per-creator revenue potential.",
+        "GPU and AI infrastructure vendors are actively investing in consumption use cases: Google and Nvidia's participation indicates strategic positioning around AI-driven content generation and GPU utilization, suggesting this category could drive meaningful demand for computational resources."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "YouTube for video game creators"
+    },
+    {
+      "id": "f3d38325",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity firms are forming AI consulting joint ventures with Anthropic and OpenAI as both offensive and defensive moves\u2014potentially building AI-native versions of McKinsey while gaining essential AI expertise for portfolio companies. Separately, crypto exchange Bullish agreed to acquire transfer agent Equiniti for $4.25 billion, bridging traditional capital markets with cryptocurrency infrastructure, while major venture funds raised significant capital for AI and biotech startups.",
+      "keyTakeaways": [
+        "PE is hedging massive software portfolio losses by partnering with AI leaders through structured JVs: Anthropic's $1.5B entity positions investors as equal stakeholders, while OpenAI's $4B entity guarantees 17.5% minimum returns with capped upside\u2014a structure choice that signals confidence disparity between the two AI leaders.",
+        "The shift toward AI-native consulting could cannibalize traditional management consulting revenues while creating $100B+ return opportunities for PE firms that successfully build AI-powered portfolio company infrastructure.",
+        "Crypto infrastructure is consolidating around tokenized assets and regulated exchange models (Bullish acquiring Equiniti), suggesting venture capital is betting on institutional adoption of blockchain infrastructure at scale rather than speculative trading."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: PE \u2764\ufe0fs AI"
+    },
+    {
+      "id": "bfe89d7c",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-05-05",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Major cloud providers are dramatically escalating AI infrastructure spending, with Amazon, Meta, Microsoft, and Alphabet collectively planning $700 billion in data center capex for 2026 versus $400 billion in 2025. OpenAI's exclusivity deal with Microsoft has ended, allowing AWS to offer ChatGPT APIs and signaling ongoing commoditization of foundation models. AI pricing models are rapidly shifting from flat-rate subscriptions to usage-based billing as agentic coding and token consumption threaten to make current pricing unsustainable across the industry.",
+      "keyTakeaways": [
+        "The $300 billion year-over-year capex increase signals massive over-provisioning risk: investors should scrutinize individual company ROI metrics on AI infrastructure rather than assuming the spending correlates with revenue growth, particularly for Meta which lacks enterprise cloud revenue to offset its $100+ billion metaverse losses.",
+        "The Microsoft-OpenAI exclusivity breakup indicates foundation model capabilities are becoming commoditized faster than expected\u2014expect accelerating price competition and consolidation around companies with distribution advantages (Microsoft, Amazon, Google) rather than pure AI model providers.",
+        "The shift to usage-based pricing from flat-rate subscriptions mirrors the mobile data market 15+ years ago and suggests the industry is entering a sustained margin compression phase; companies like Anthropic are forced to eliminate loss-making pricing models before establishing market dominance, fundamentally altering the path to profitability."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 641"
+    },
+    {
+      "id": "d28f54b9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The traditional utility business model is facing fundamental disruption due to climate pressures\u2014wildfires, rising customer bills, and political backlash\u2014prompting even major figures like Pennsylvania Governor Josh Shapiro and Berkshire Hathaway CEO Greg Abel to acknowledge that the century-old 'regulatory compact' governing electric utilities is breaking down. The newsletter signals a pivotal moment where the foundational assumptions of how utilities operate and are regulated are being questioned by elected officials, regulators, and industry executives alike.",
+      "keyTakeaways": [
+        "The regulatory compact that has protected utility revenues and margins for a century is eroding, creating investment risk for traditional utility stocks and potential opportunities for companies offering alternative energy solutions or grid modernization technologies.",
+        "Climate events (wildfires) combined with rate increases are triggering political pressure that could force regulatory and business model changes, making utilities a contested sector where capital allocation decisions must account for stranded assets and shifting regulatory risk.",
+        "The sector transition from centralized utility models suggests tailwinds for distributed energy resources, microgrids, storage, and industrial chemical alternatives (as mentioned with Trillium's raise), while traditional utility business models face structural headwinds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Utilities Under Threat"
+    },
+    {
       "id": "7f62cedc",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3849,17 +3975,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 23
+      "count": 24
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 90
+      "count": 93
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 77
+      "count": 79
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 13
     },
     {
       "name": "Fintech",
@@ -3870,12 +4001,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 5
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 12
     }
   ],
-  "lastUpdated": "2026-05-05T09:04:27.054794Z"
+  "lastUpdated": "2026-05-06T09:16:18.483438Z"
 }
