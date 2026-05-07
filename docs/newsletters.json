@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "f5cb43c9",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-07",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Doctolib, a French healthcare unicorn, acquired British competitor Medicus Health and is entering the UK market with over \u00a3100 million in planned investment, marking its fifth European expansion. Alongside this strategic consolidation, European startups are aggressively pursuing M&A to strengthen AI capabilities: Batch acquired Moonfish AI to accelerate growth in AI-driven marketing software, while Genesis AI unveiled its robotics-focused large language model after raising $105 million.",
+      "keyTakeaways": [
+        "Healthcare SaaS consolidation is accelerating across Europe with unicorns like Doctolib using M&A to enter new markets and compete against legacy medical software vendors with AI-enhanced tools.",
+        "AI-powered capabilities have become table stakes for growth; mid-stage European startups (Batch, Fairglow) are now pursuing external growth strategies to acquire AI/ML talent and technology rather than building in-house.",
+        "The regulatory environment and cybersecurity concerns around AI are rising in parallel with deployment\u2014the Campus Cyber warning signals that enterprises remain unprepared for AI-accelerated vulnerability discovery, creating both risk and opportunity in security-focused investments."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "07.05 - Doctolib rach\u00e8te son concurrent britannique et s'implante au Royaume-Uni"
+    },
+    {
+      "id": "8493e3c9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The SEC is moving to eliminate Biden-era climate disclosure rules for public companies and shift from quarterly to semi-annual reporting, a deregulatory move that paradoxically could benefit climate action by reducing short-term pressure on companies. Meanwhile, wave energy startup Panthalassa raised $140 million in Series B funding led by Peter Thiel, signaling renewed investor interest in previously overlooked offshore renewable energy as data center demand grows.",
+      "keyTakeaways": [
+        "Wave energy is emerging from dormancy with major venture capital backing; Panthalassa's $140M Series B suggests investor conviction that floating data centers solving thermal dissipation can unlock this long-stalled renewable sector.",
+        "Reduced quarterly reporting requirements could paradoxically accelerate climate-related investments by removing short-term profit pressure, allowing companies to pursue longer-horizon decarbonization projects without quarterly earnings penalties.",
+        "The regulatory shift creates a bifurcated market: companies may face less mandatory climate disclosure but gain operational flexibility to pursue sustained clean energy transitions, potentially reshaping how ESG and energy transition investments are evaluated."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "SEC Won\u2019t Let Me See"
+    },
+    {
+      "id": "9b234aea",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "District, an AI-powered marketplace platform founded by three Snapchat alumni, raised $14.7 million in seed funding led by Andreessen Horowitz and Kindred Ventures to help independent sellers build community-driven stores without technical expertise. The startup addresses a market shift toward personalized, real-time commerce experiences, positioning itself against legacy platforms like eBay and Amazon, with early traction including 1,000 businesses on the platform and notable customers like Stacked Golf generating $150,000 in weekly sales.",
+      "keyTakeaways": [
+        "A16z and other top-tier VCs are betting on marketplace consolidation plays that aggregate multiple selling channels into single platforms\u2014suggesting strong market demand for sellers to reduce platform fragmentation and operational complexity",
+        "The $7 trillion global ecommerce market is fragmenting away from centralized giants toward community-driven, creator-centric models, creating a genuine beachhead opportunity for platforms that can bundle commerce, community, and real-time interactions in one interface",
+        "Live shopping and creator-led commerce (evidenced by Whatnot's $11.5B valuation and creator influencers like Crazy Lamp Lady with 800K+ followers) represent the next wave of ecommerce disruption, and District is positioning itself as the infrastructure layer for this shift"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "A16z-backed District wants to oust eBay"
+    },
+    {
+      "id": "0d6093c4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's debut Unicorn Tracker reveals that Q1 2026 set records for unicorn funding and exits, but the growth is dangerously concentrated\u2014just four companies (OpenAI, Anthropic, xAI, Waymo) captured 76.8% of $245.6 billion raised, while SpaceX's $250 billion acquisition of xAI alone represented 72.8% of exit value. Beyond these mega-deals, over half of 1,680 active unicorns haven't raised in two years, leaving $8.6 trillion in stale valuations that remain untested by market transactions and vulnerable to broad repricing.",
+      "keyTakeaways": [
+        "Extreme deal concentration creates fragility: any single repricing of top-tier deals could flip market narratives from 'record-breaking' to 'disappointing' overnight, making this fundamentally different from the broad-based activity of 2021.",
+        "Massive cohort of 'zombie unicorns' with unpriced risk: over 840 active unicorns haven't raised in two years with valuations set during 2020-2021, creating a potential shock if forced repricing occurs\u2014investors should reassess portfolio exposure to mid-tier unicorns before market correction.",
+        "Strategic mega-deals at scale are winning while mid-market fundraising stalls: the narrative of a broad exit market recovery is premature; real market reopening won't be confirmed until the pending IPOs of SpaceX, OpenAI, and Anthropic price and perform, signaling whether demand extends beyond the elite tier."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "'You have to sell at some point'"
+    },
+    {
+      "id": "370c0bda",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-06",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A new wave of AI-powered personal financial management (PFM) tools is emerging, but the podcast discussion questions whether AI can finally solve the fundamental challenges that have prevented a breakout company from emerging in this persistently difficult category. The episode also covers Bolt's continued struggles with layoffs and vendor payment issues, Congress's bipartisan PACE Act attempt to grant non-banks direct access to payment rails, and broader skepticism about American appetite for financial super apps.",
+      "keyTakeaways": [
+        "AI-powered PFM remains an attractive but unproven category\u2014investors should scrutinize whether current AI implementations address the core UX and monetization problems that have defeated previous entrants, not just add incremental features.",
+        "Bolt's deteriorating financial condition and inability to pay vendors signals that even well-funded fintech super apps struggle with unit economics and customer acquisition costs in the U.S. market, raising questions about the viability of the super app model domestically.",
+        "The PACE Act's potential passage reflects regulatory openness to non-bank payment access, but its practical utility is questionable given easier bank charter pathways and existing compliance burdens\u2014this suggests regulatory solutions may lag behind market realities in fintech consolidation."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 72,
+      "originalTitle": "Fintech Recap: Is AI the Unlock PFM Has Been Waiting For?"
+    },
+    {
+      "id": "aa9668e7",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity firms face unprecedented modeling challenges in deal underwriting due to rapid AI advancement, with executives admitting confidence in three-to-five year projections is essentially guesswork. Meanwhile, Nvidia and Corning announced a partnership to shift AI infrastructure from copper to glass optics, potentially reducing energy consumption significantly, signaling major infrastructure implications for the AI buildout.",
+      "keyTakeaways": [
+        "PE firms must recalibrate exit multiple assumptions and hold period valuations as AI disruption timelines remain highly uncertain\u2014traditional financial modeling frameworks are inadequate for sectors facing potential technology-driven obsolescence within standard holding periods.",
+        "The Nvidia-Corning partnership represents a fundamental shift in AI infrastructure economics that could impact both capex requirements and operational costs across data center portfolios, potentially affecting exit valuations for existing PE-backed infrastructure and software assets.",
+        "Despite acknowledged modeling uncertainty, PE dry powder continues to deploy aggressively, suggesting market participants are accepting higher risk or using shorter time horizons and more frequent mark-to-market adjustments than the traditional long-term hold thesis suggests."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Model mess"
+    },
+    {
+      "id": "7d73269a",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Brookings study reveals that data center job creation estimates are overstated by a factor of three when accounting for pre-existing regional growth trends. The real employment opportunity lies not in operating the facilities themselves\u2014which require only 25-40 permanent staff per 100 megawatts\u2014but in the energy infrastructure built to support them, particularly renewable generation projects like solar and storage that create significantly more jobs per dollar invested.",
+      "keyTakeaways": [
+        "Data center developers bundling renewable energy generation (solar, wind, storage) with facility announcements create lasting local employment of 400-450 jobs per project, while standalone facilities offer minimal permanent job benefits\u2014this distinction should drive site selection and community negotiation strategies for developers and investors seeking local support.",
+        "Political and media narratives around data center projects systematically overstate employment benefits by 3x, creating community backlash when promised jobs fail to materialize; transparent communication about the distinction between construction jobs and permanent staffing is becoming a competitive advantage as opposition to data centers reaches all-time highs.",
+        "The true value chain for data center investments extends to energy infrastructure providers\u2014renewable generation companies, storage developers, and grid operators stand to capture more economic value and employment than data center operators themselves, suggesting capital should flow upstream to power generation projects rather than compute facilities."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Where the data center jobs actually are"
+    },
+    {
+      "id": "25ae67cb",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center project cancellations due to local community opposition hit record levels in Q1 2026, with the trend accelerating nationwide and expected to set new all-time records in coming weeks, according to exclusive data from Heatmap Pro's intelligence platform. The bipartisan backlash reflects growing concerns about environmental and infrastructure impacts of large-scale data center development, exemplified by projects like the Sentinel Grove Technology Park near Port St. Lucie, Florida. This emerging opposition pattern signals potential regulatory and permitting challenges for the data center and AI infrastructure build-out that has been central to recent market valuations.",
+      "keyTakeaways": [
+        "Data center developers and their investors face accelerating permitting and community opposition risks\u2014Q1 2026 saw record cancellations, suggesting this is not a localized phenomenon but a structural headwind for infrastructure projects",
+        "Companies heavily dependent on rapid data center expansion (hyperscalers, AI infrastructure plays) may face extended timelines and higher project costs as permitting becomes more contested across regions",
+        "The bipartisan nature of opposition suggests this could translate into regulatory action at state and federal levels, making permitting reform a critical policy variable for capital-intensive tech infrastructure investments"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Exclusive: Data Center Opposition Explodes"
+    },
+    {
       "id": "8f76dc4d",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -3975,17 +4119,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 24
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 93
+      "count": 25
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 79
+      "count": 82
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 96
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 9
     },
     {
       "name": "Strategy & Thesis",
@@ -3993,15 +4142,10 @@
       "count": 13
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 8
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 5
     }
   ],
-  "lastUpdated": "2026-05-06T09:16:18.483438Z"
+  "lastUpdated": "2026-05-07T09:42:47.119950Z"
 }
