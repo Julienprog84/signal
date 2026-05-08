@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "60e2a88c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Limited partners are increasingly pursuing co-investments, secondaries, and direct channels to access high-valued AI startups, but face significant challenges including company approval requirements, reliance on GP judgment, and expensive intermediaries charging unverified premiums. With Series D+ AI companies commanding median pre-money valuations of $4.7 billion\u2014nearly four times non-AI peers\u2014LPs must balance the cost of missing out against idiosyncratic venture risk and fee discipline, while private credit emerges as AI infrastructure's largest funding source at $800 billion through 2028.",
+      "keyTakeaways": [
+        "Co-investments are becoming LP relationship deepening tools, but most sought-after AI startups tightly control cap tables, meaning LP access depends heavily on GP allocation, company approval, and timeline flexibility\u2014introducing significant execution and relationship risk.",
+        "Intermediaries pose hidden cost and verification problems; brokers and secondary dealers charge substantial fee premiums often without proven access to target companies, requiring the same fee scrutiny LPs apply to co-investment programs.",
+        "Private credit now finances the majority of AI infrastructure buildout ($800 billion of $1.5 trillion needed through 2028), concentrating lending power among five lender groups including Blue Owl/PIMCO joint ventures and hyperscaler-backed funds, which could reshape capital availability and pricing for AI buildout."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The price of chasing AI direct stakes"
+    },
+    {
+      "id": "26bb72a0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. electricity prices reached new peaks in April 2026, rising 6.7% year-over-year with some regional markets like New Jersey and Washington D.C. experiencing 21-25% increases due to supply-demand imbalances in the PJM grid. Meanwhile, data center project cancellations hit record levels with at least 20 projects scrapped in Q1 2026 amid intense local political opposition, while Elon Musk's xAI facility in Memphis failed to deliver promised water recycling infrastructure, exemplifying growing sustainability concerns around AI infrastructure development.",
+      "keyTakeaways": [
+        "Data center deployment faces unprecedented headwinds with 20+ cancellations in Q1 2026 alone\u2014investors backing AI infrastructure, cloud computing, or energy-intensive tech should expect significantly longer approval timelines and higher community engagement costs",
+        "Regional electricity markets show acute stress signals, particularly in PJM where demand is outstripping supply by enough to drive double-digit price increases; this creates investment opportunities in grid modernization, storage, and distributed generation but also raises operating costs for power-intensive industries",
+        "The failure of major tech companies to fulfill sustainability commitments on data center projects signals reputational and regulatory risk for large-scale infrastructure plays; ESG compliance and community benefit agreements are now critical deal requirements rather than optional enhancements"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Up and Up"
+    },
+    {
+      "id": "4b43d823",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Gusto, the HR and payroll software company founded in 2012, has crossed $1 billion in 12-month trailing revenue as of February 2026, achieving a $9.3 billion valuation while serving over 500,000 customers. CEO Josh Reeves emphasized clarity by specifying this as actual cash revenue rather than ARR, highlighting how the company has evolved at the intersection of consumer and enterprise dynamics while maintaining a focus on underserved small business markets. The milestone reflects how dedicated execution in the SMB software segment can scale to enterprise-level success with major institutional investors including Ontario Teachers' Pension Plan, T. Rowe Price, General Catalyst, and CapitalG.",
+      "keyTakeaways": [
+        "SMB-focused software can achieve billion-dollar revenue scale by operating at consumer-like efficiency rather than chasing large enterprise contracts, suggesting persistent capital opportunity in this segment despite traditional enterprise software assumptions.",
+        "The emphasis on reporting actual trailing revenue rather than ARR signals growing investor pressure for transparency in SaaS metrics, potentially reshaping how growth-stage companies present financial performance.",
+        "Gusto's 13+ year customer retention and accelerating growth trajectory indicates that foundational software categories (payroll, HR) serving small business remain defensible and expanding markets despite competitive pressures and new entrants."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "Gusto hits $1 billion"
+    },
+    {
+      "id": "7d9211fe",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. electricity prices rose 6.7% year-over-year in April 2026, marking another record high in a consistent upward trend, though the growth rate remains comparable to the past five years excluding the 2022 natural gas spike. Unlike Europe and Asia, the Iran-U.S. conflict has not impacted domestic power prices due to America's natural gas self-sufficiency and already-maxed export capacity, though individual states like New Jersey and Washington D.C. are experiencing much steeper increases of 21-25% due to supply-demand imbalances in the PJM electricity market.",
+      "keyTakeaways": [
+        "Regional electricity markets are diverging significantly: while the national average grows at historical rates, PJM-region states face 3-4x faster price increases due to demand outpacing supply, creating targeted investment opportunities in grid modernization and generation capacity in the Northeast.",
+        "U.S. energy independence in natural gas provides insulation from geopolitical shocks that are hammering European and Asian power markets, but this advantage may erode if export infrastructure expands\u2014monitoring LNG export policy changes is critical for long-term utility and energy infrastructure valuations.",
+        "Regulatory arbitrage and policy shifts create near-term volatility: California's carbon tax dividend timing shift illustrates how government decisions can create 50%+ price swings within months, suggesting investors should model policy calendars alongside commodity fundamentals when evaluating utility stocks and renewable energy contracts."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Relentless Rise of Electricity Prices"
+    },
+    {
       "id": "f5cb43c9",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -4117,19 +4189,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 25
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 98
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 82
+      "count": 84
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 96
+      "name": "European VC",
+      "color": "#059669",
+      "count": 25
     },
     {
       "name": "Fintech",
@@ -4147,5 +4219,5 @@
       "count": 5
     }
   ],
-  "lastUpdated": "2026-05-07T09:42:47.119950Z"
+  "lastUpdated": "2026-05-08T08:18:45.363418Z"
 }
