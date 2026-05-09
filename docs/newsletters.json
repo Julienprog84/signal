@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "2703b7b2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Healthcare services PE activity fell 16% year-over-year in Q1 2026 to 79 deals worth $8.4 billion, but elder care and home-based care remain attractive due to demographic tailwinds and active strategic buyers. Enterprise SaaS unicorn valuations are recovering from the software sell-off, packaged food dealmaking hit a nine-year high with 144 Q1 transactions, and brain-computer interface technology is drawing significant VC investment despite unclear market size and user acquisition dynamics.",
+      "keyTakeaways": [
+        "Elder care and home-based care are outperforming other healthcare services subsectors because aging demographics create predictable demand and multiple strategic exit options, making them easier to underwrite than clinic-rollup platforms.",
+        "Healthcare services PE has shifted from indiscriminate capital deployment to selective investing\u2014deals are down but big transactions like General Atlantic's $3 billion TEAM Services Group acquisition and Kinderhook's Enhabit buyout show conviction remains where operators add measurable local value.",
+        "Packaged food and packaged goods are emerging as PE favorites with 144 Q1 transactions, while emerging tech like quantum computing and brain-computer interfaces are attracting major VC rounds, suggesting capital is rotating toward both defensive sectors and high-upside moonshots as traditional software exits remain uncertain."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Who wants a brain implant?"
+    },
+    {
+      "id": "976a5e00",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-05-08",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The U.S. Department of Defense has announced sweeping production agreements with Lockheed Martin, BAE Systems, Honeywell, and RTX to quadruple output of critical missile systems over seven years, representing tens of billions in investment and the largest guided-munitions production expansion since the Cold War. The expansion was triggered by rapid depletion of U.S. missile stockpiles during Ukraine support, with concerns that even quadrupled production may prove insufficient for national defense requirements.",
+      "keyTakeaways": [
+        "Major defense contractors (LMT, RTX, BAE, HON) are securing multi-billion dollar production contracts with guaranteed long-term demand, creating compelling investment thesis for defense industrial base consolidation and modernization plays through 2033.",
+        "The missile shortage reveals critical supply chain vulnerabilities in U.S. defense capabilities, signaling sustained elevated government spending on military production and potential tailwinds for the broader aerospace & defense sector beyond traditional procurement cycles.",
+        "Geopolitical tensions are reshaping capital allocation priorities: climate tech faces headwinds while defense tech, energy generation, AI infrastructure, and grid modernization are receiving accelerated funding and policy support, reflecting shifting risk assessments among institutional investors."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 161: The Great US Missile Shortage"
+    },
+    {
+      "id": "0293dc87",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is systematically blocking onshore wind projects through Department of Defense approvals while paying developers like TotalEnergies $1 billion to abandon offshore wind leases, creating an \"uninvestable climate\" for the renewable energy sector. This strategy is generating significant blowback, including investigations from House Democrats and California regulators, and causing institutional investors like the New York State Common Retirement Fund to reconsider their stakes in companies accepting the buyout offers.",
+      "keyTakeaways": [
+        "Regulatory obstruction rather than legal victories is emerging as the primary mechanism to kill wind development\u2014blocking 150+ onshore projects through non-transparent DoD approvals creates deal risk for wind developers and investors regardless of courtroom outcomes",
+        "The $1 billion buyout scheme is unraveling as scrutiny reveals no mandated fossil fuel investments and potential misuse of federal settlement funds, suggesting government-sponsored project cancellations face political and legal vulnerability that could reverse under future administrations",
+        "Institutional capital is beginning to penalize companies accepting anti-renewable deals (e.g., TotalEnergies' $1.6B pension fund stake under review), signaling that ESG-focused LPs may create investment friction for companies perceived as abandoning climate commitments for government subsidies"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Blowback"
+    },
+    {
+      "id": "0cb14c59",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Investors are increasingly viewing sports as a defensive hedge against AI disruption, betting that live athletic competition remains immune to automation\u2014driving up valuations across professional leagues, youth sports, and luxury motorsports. The Seattle Seahawks sale, potentially led by ArcelorMittal CEO Aditya Mittal, exemplifies this trend, while parallel moves in micro-mobility show the IPO market testing lesser-known unicorns like Lime, which lost $59 million on $887 million in revenue in 2025 despite peak valuations of $2.4 billion.",
+      "keyTakeaways": [
+        "Sports investments are viewed as recession-resistant and AI-proof assets; expect continued premium valuations and PE participation in team ownership despite franchise risks from league fragmentation and upcoming NFL media rights negotiations.",
+        "Youth sports present better risk-adjusted returns than spectator leagues because parents are the paying customer base rather than fickle audiences\u2014PE funds are shifting capital accordingly.",
+        "Late-stage venture companies with persistent losses are still accessing IPO markets; Lime's $250 million raise target at a massive loss suggests investor appetite for growth over profitability, though Bird's bankruptcy shows the downside risk in this sector."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Playing defense"
+    },
+    {
+      "id": "70414a96",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "PJM Interconnection, which operates the nation's largest electricity grid serving 65 million Americans across multiple states including New Jersey and Pennsylvania, is facing proposed regulatory reforms that could fundamentally restructure how utilities operate under the traditional regulatory compact. These reforms address concerns about rising electricity prices and surging demand from data centers, with both state-level and grid operator proposals seeking to reimagine infrastructure planning and capital cost recovery mechanisms.",
+      "keyTakeaways": [
+        "Regulatory overhaul of the largest U.S. grid operator signals growing pressure on the traditional utility monopoly model, creating opportunities for infrastructure modernization companies and potential disruption for legacy utility investors",
+        "Data center-driven load growth is forcing a reassessment of how grid capacity is planned and funded, which could redirect capital allocation toward distributed energy resources, grid modernization tech, and alternative infrastructure financing models",
+        "Multi-state coordination on grid regulation (PJM, New Jersey, Pennsylvania) suggests regulatory fragmentation risk for utilities but potential upside for companies positioned in grid flexibility, demand management, and resilient infrastructure solutions"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Regulatory Reform Is Headed for the Nation\u2019s Largest Grid"
+    },
+    {
       "id": "60e2a88c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -4191,12 +4281,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 98
+      "count": 100
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 6
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 84
+      "count": 86
     },
     {
       "name": "European VC",
@@ -4212,12 +4307,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 13
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 5
     }
   ],
-  "lastUpdated": "2026-05-08T08:18:45.363418Z"
+  "lastUpdated": "2026-05-09T08:24:07.883704Z"
 }
