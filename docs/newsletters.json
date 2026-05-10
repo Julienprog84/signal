@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "65402dc6",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity fundraising is consolidating dramatically around the largest managers despite mediocre returns, with the top 10 funds capturing 61.1% of capital raised through mid-April 2026. LPs are prioritizing scale, convenience, and established relationships over performance differentiation, as rising rates and distribution droughts have fundamentally shifted capital allocation behavior. This trend will likely persist until meaningful exit activity accelerates, which remains constrained by macroeconomic uncertainty.",
+      "keyTakeaways": [
+        "Scale is winning regardless of performance: megafunds with ordinary historical returns are capturing the majority of LP capital inflows, suggesting that institutional comfort and portfolio convenience now outweigh raw performance metrics in LP decision-making.",
+        "Middle-market funds offer structural opportunity: despite historically outperforming megafunds (with top-to-bottom decile spreads of 13 percentage points versus 7 for megafunds), they are being starved of capital, creating potential alpha for LPs who can identify differentiated managers.",
+        "Exit activity remains the critical macro catalyst: continued realization pipeline weakness keeps LP deployment capacity constrained and fundraising recovery stalled; when exits normalize, capital distribution will shift unevenly and permanently reshape the PE competitive landscape."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Scale wins, even when returns don't"
+    },
+    {
+      "id": "7e9ce811",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Microsoft is reconsidering its ambitious 2030 clean energy target of achieving hourly renewable energy matching, a significant step beyond its 2025 milestone of matching 100% of annual electricity consumption with solar and wind power. While the potential pullback could signal waning corporate climate commitment, the article suggests the company's original goal was unrealistic and the strategic shift may not undermine broader climate ambition.",
+      "keyTakeaways": [
+        "Microsoft's 2030 hourly matching goal was essentially unachievable with current infrastructure, making the reported delay a rational recalibration rather than climate backtracking\u2014important for assessing which corporate sustainability commitments are credible long-term bets",
+        "The distinction between annual renewable matching (accomplished) and hourly matching (abandoned) reveals how vague ESG commitments can mislead investors; clearer metrics and realistic timelines are needed for due diligence on climate-focused portfolio companies",
+        "Regulatory challenges to utility business models (Pennsylvania, New Jersey, Berkshire Hathaway disputes with PJM) and political headwinds against wind energy suggest the bottleneck for corporate clean energy goals is infrastructure and policy, not corporate willingness\u2014a macro constraint for energy transition investments"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Holy Grail of Energy Goals"
+    },
+    {
       "id": "2703b7b2",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -4281,17 +4317,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 100
+      "count": 101
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 87
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 6
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 86
     },
     {
       "name": "European VC",
@@ -4309,5 +4345,5 @@
       "count": 13
     }
   ],
-  "lastUpdated": "2026-05-09T08:24:07.883704Z"
+  "lastUpdated": "2026-05-10T08:48:53.850002Z"
 }
