@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "eb52b41f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-11",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startup OpsMill raised \u20ac12 million to build infrastructure automation platforms for AI-driven systems, addressing the challenge of fragmented and difficult-to-exploit IT data. The newsletter also reports a concerning trend: follow-on funding rates for French startups have collapsed from 46% in 2020 to just 13.6% for the 2023 cohort, while major tech companies like Cisco are establishing acceleration hubs in Paris to support AI infrastructure startups.",
+      "keyTakeaways": [
+        "OpsMill's \u20ac12M funding signals strong investor appetite for AI infrastructure plays that solve data integration problems\u2014a critical bottleneck for enterprise AI adoption in Europe",
+        "The dramatic decline in Series B completion rates (46% to 13.6%) indicates a significant capital crunch for French startups post-seed, suggesting selectivity is intensifying and only the strongest companies will secure follow-on rounds",
+        "Strategic corporate investment in European AI infrastructure (Cisco's Station F hub) indicates multinational tech firms are hedging their AI bets by building direct relationships with early-stage infrastructure companies rather than acquiring later"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "11.05 - OpsMill l\u00e8ve 12 millions d\u2019euros pour devenir la colonne vert\u00e9brale des infrastructures pilot\u00e9es par l\u2019IA"
+    },
+    {
+      "id": "2740e471",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "VC firms are increasingly deploying AI agents as junior analysts to handle deal sourcing, research, and portfolio monitoring tasks traditionally done by junior staff. Firms like Patron Fund and Pebblebed are creating agents with distinct personalities and backgrounds to avoid groupthink, with some agents collaborating via Slack-style platforms and daily stand-ups. The trend raises questions about headcount economics in VC while highlighting challenges in ensuring AI diversity and preventing homogenized decision-making.",
+      "keyTakeaways": [
+        "AI agents are moving beyond automation into substantive analysis roles\u2014VC firms are now evaluating agents with the same rigor as hiring junior analysts, considering background, perspective, and fit with firm culture, suggesting this is a permanent shift in VC staffing models.",
+        "Venture firms are discovering that agent diversity prevents analytical blind spots; ensuring agents pull from different data sources and possess distinct viewpoints is becoming a critical operational concern for avoiding groupthink in deal evaluation.",
+        "This adoption signals a structural change in VC unit economics where firms can scale deal flow analysis and monitoring without proportional headcount growth, potentially accelerating deal velocity while raising questions about institutional knowledge retention and human judgment in final decision-making."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The new star employees of VC firms"
+    },
+    {
+      "id": "502cc1ef",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-10",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Parker, a fintech startup offering SMB banking and credit card products, abruptly filed for Chapter 7 bankruptcy on May 4th after a potential $90 million acquisition by tax software company Avalara fell through at the last minute. The company, which had raised $58 million in equity funding from investors including Valar Ventures and Y Combinator, reported $50-100 million in assets and liabilities with 100-200 creditors. The shutdown was executed by Patriot Bank, Parker's banking partner, rather than by Parker itself, despite the company having remaining operational runway.",
+      "keyTakeaways": [
+        "Acquisition-dependent fintech business models create binary risk: Parker had sufficient capital and operations to continue but was shut down when its acquirer withdrew, highlighting how dependent growth-stage fintechs have become on exit scenarios rather than sustainable unit economics.",
+        "Banking partnerships hold veto power over fintech viability: Patriot Bank's decision to terminate the program essentially forced Parker's bankruptcy, demonstrating that fintech companies are vulnerable to partner decisions outside their direct control, regardless of their own runway or funding position.",
+        "The SMB fintech lending space continues to consolidate downward: This adds to a pattern of failures in this sector (Synapse/Evolve referenced as two-year anniversary), suggesting structural challenges in unit economics or market demand for these products despite substantial venture capital deployment."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "Another Fintech Bankruptcy: SMB Banking & Credit Card Startup Parker Files\r\n Chapter 7"
+    },
+    {
+      "id": "d8801c3d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week's newsletter covers Microsoft's pullback on clean energy commitments, growing local opposition to data center expansion in 2026, and the Trump administration's impact on the American energy industry. The publication also highlights emerging opportunities in fast-charging battery technology for robotics and discusses permitting reform prospects under the current administration.",
+      "keyTakeaways": [
+        "Microsoft's retreat from clean energy commitments signals potential challenges in corporate sustainability pledges, suggesting investors should scrutinize whether major tech companies can meet their climate goals while scaling AI infrastructure demands.",
+        "Rising local opposition to data centers presents both a risk to tech expansion plans and a capital allocation opportunity in distributed energy solutions and permitting acceleration technologies.",
+        "Regulatory uncertainty around energy policy creates volatility in clean tech investments, but permitting reform momentum under the current administration could accelerate deployment of alternative energy infrastructure and fast-charging battery solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Microsoft\u2019s Clean Energy Pullback, the Murder of an Energy Industry, and More"
+    },
+    {
       "id": "65402dc6",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -4315,14 +4387,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 26
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 101
+      "count": 102
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 10
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 87
+      "count": 88
     },
     {
       "name": "Deep Tech & Science",
@@ -4330,20 +4412,10 @@
       "count": 6
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 25
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 9
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 13
     }
   ],
-  "lastUpdated": "2026-05-10T08:48:53.850002Z"
+  "lastUpdated": "2026-05-11T10:29:32.853257Z"
 }
