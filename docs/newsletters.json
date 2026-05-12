@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "900a744e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-12",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac126 million this week with an average ticket size of \u20ac14 million, with AI-focused companies accounting for \u20ac109 million of that total across four deals. OpenAI is strategically embedding itself into the French startup ecosystem through partnerships with key infrastructure players like Station F and Hexa, mirroring successful cloud giant playbooks. The newsletter also highlights how predictive AI models are now capable of real-world applications, with Avisia's model successfully predicting France's 2026 World Cup squad three days before official announcement.",
+      "keyTakeaways": [
+        "AI startups are capturing 86% of weekly funding volume in France (\u20ac109M of \u20ac126M), signaling strong investor conviction in the sector and potential crowding in this subsegment",
+        "OpenAI's systematic partnerships with early-stage infrastructure (Station F, Hexa) represent a direct-to-source strategy to influence startup selection and adoption, which could disadvantage competing cloud and AI platforms seeking French market penetration",
+        "Predictive AI models demonstrating real-world accuracy on complex domain problems (sports team selection) validates commercial applications beyond generative AI, suggesting expanding investment opportunities across vertical-specific AI solutions"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "12.05 - Coupe du monde 2026 : l\u2019IA pr\u00e9dit la liste de Deschamps trois jours avant son annonce"
+    },
+    {
+      "id": "3918663b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Limited Partners have significantly lowered return expectations for private equity funds, with realistic targets now at 15-20% net IRR for top managers and 1.8x-2.3x net MOIC at the fund level, down from the 3-4x returns expected during the 2010-2019 ultra-low interest rate era. This recalibration reflects the impact of higher interest rates and longer holding periods, though the VC secondary market continues expanding with $112B in activity as it works to democratize liquidity beyond elite managers.",
+      "keyTakeaways": [
+        "LP return expectations have contracted materially: top-quartile PE funds should now target 1.8x-2.3x net MOIC versus the historical 2.5x-3.5x gross targets, a fundamental shift driven by post-pandemic interest rate increases and extended company holding periods.",
+        "Lower bar on returns does not translate to easier fundraising\u2014managers still face intense pressure to deliver meaningful performance, suggesting that valuation discipline and operational improvements matter more than ever in a capital-constrained environment.",
+        "The VC secondary market's growth to $112B signals institutional acceptance of alternative liquidity solutions, positioning secondary funds to capture value as GPs struggle with longer J-curves and LPs demand earlier exit opportunities."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "LPs lower the bar"
+    },
+    {
+      "id": "207e946a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy newsletter covering critical infrastructure challenges including Qatar's first LNG export through the Strait of Hormuz since the Iran War began, Eversource Energy's explicit rejection of data center development in New England to protect electricity prices for residential customers, and emerging geopolitical tensions affecting battery and solar panel supply chains. The piece also highlights Florida's new mandate requiring large data centers to cover their own service costs rather than passing them to ratepayers, signaling a political backlash against AI infrastructure subsidies across both Democratic and Republican jurisdictions.",
+      "keyTakeaways": [
+        "Data center buildout is becoming a utility regulation flashpoint with bipartisan opposition emerging\u2014Eversource and Florida's DeSantis both explicitly rejecting cost-shifting to ratepayers, creating an unfavorable capital allocation environment for hyperscale AI infrastructure in these regions and potentially constraining AI company expansion plans.",
+        "Supply chain vulnerabilities for renewable energy components remain acute; Strait of Hormuz closure is squeezing battery storage and solar panel ingredients, creating margin pressure and investment risks for clean energy hardware manufacturers dependent on Persian Gulf trade routes.",
+        "Regional grid stability is becoming a competitive advantage\u2014New England's restraint on data centers has kept electricity prices more stable than mid-Atlantic PJM systems, potentially attracting other industries and residential investment while penalizing AI infrastructure operators seeking cheaper power markets."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Strait Through"
+    },
+    {
+      "id": "52f5d075",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Frame Security, a New York and Tel Aviv-based cybersecurity startup, raised $50 million led by Index Ventures to address the evolution of social engineering attacks beyond traditional phishing. The company's platform uses AI to create hyper-personalized simulations\u2014including deepfake voice calls and video attacks\u2014to train employees on realistic threats, with early customers including AlphaSense and Louis Dreyfus Company signing multi-year deals valued from mid-five to mid-six figures.",
+      "keyTakeaways": [
+        "The security awareness training market is shifting from generic, compliance-driven programs to AI-powered, company-specific threat simulations\u2014representing a potential $10B+ market opportunity by 2027, with Frame already securing 20-30 enterprise customers at significant contract values.",
+        "Despite 96% of organizations having security awareness training, 90% of breaches still involve human error, creating a large TAM for vendors who can move beyond checkbox training to measurable risk reduction; investors should evaluate whether companies are building replaceable tools or defensible platforms.",
+        "Israeli cyber talent with proven startup pedigree (founders from Unit 8200, Wiz, and CrowdStrike-acquired Bionic) combined with $50M in capital signals investor conviction that human-centric security is becoming a critical infrastructure category as AI makes social engineering attacks exponentially more convincing and cheaper to execute."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The (bad) phishing email is dead"
+    },
+    {
+      "id": "3179b19e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "OpenAI launched DeployCo, a $4 billion consulting services venture with a $10 billion pre-money valuation, backed by major PE firms and notably three top consulting companies (Bain, McKinsey, Capgemini) that may face disintermediation risk. In a major milestone after five years of fundraising struggles, OnlyFans secured $535 million from Architect Capital at a $3.15 billion valuation, suggesting that even highly profitable platforms face investor reluctance due to content concerns despite generating $1.4 billion in net revenue.",
+      "keyTakeaways": [
+        "Large consulting firms are directly funding AI infrastructure plays, potentially creating conflicts of interest and accelerating their own disruption as clients gain direct access to frontier lab capabilities through DeployCo partnership.",
+        "OnlyFans' $3.15 billion valuation despite $684 million in pre-tax profit signals that investor sentiment around business models remains a significant valuation constraint, even when fundamentals are strong\u2014a cautionary tale for founders in morally ambiguous sectors.",
+        "The frontier AI lab ecosystem is consolidating around major PE capital (TPG, Advent, Bain Capital leading DeployCo), suggesting that venture capital competition for these deals is diminishing and mega-funds are securing preferred founder relationships."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: OpenAdvisory"
+    },
+    {
+      "id": "a005296f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Climate tech funding is experiencing a bifurcation as early-stage companies face a funding drought amid Trump administration policy uncertainty, while mature technologies with proven cost curves continue attracting capital. New reports from Sightline Climate, Silicon Valley Bank, and J.P. Morgan reveal that investors are shifting risk tolerance away from pre-commercial ventures toward established solutions, creating a two-tier market in the climate tech sector.",
+      "keyTakeaways": [
+        "Early-stage climate tech companies face significantly reduced access to capital as venture investors adopt a risk-averse posture during political uncertainty, suggesting founders should focus on demonstrating commercialization pathways rather than pure innovation metrics.",
+        "The bifurcation trend indicates a flight to quality\u2014mature climate technologies with competitive cost structures are de-risking and may see consolidation opportunities as weaker early-stage competitors struggle for funding.",
+        "Policy volatility (particularly around wind, solar, and EV support) is creating structural headwinds for the climate tech sector that cannot be offset by technological progress alone; investors should model scenario planning around regulatory rollback rather than assuming policy support."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Climate Tech Funding Drought"
+    },
+    {
       "id": "eb52b41f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -4389,22 +4497,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 26
+      "count": 27
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 102
+      "count": 105
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 90
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 10
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 88
     },
     {
       "name": "Deep Tech & Science",
@@ -4417,5 +4525,5 @@
       "count": 13
     }
   ],
-  "lastUpdated": "2026-05-11T10:29:32.853257Z"
+  "lastUpdated": "2026-05-12T09:30:33.871638Z"
 }
