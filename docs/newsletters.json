@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "b991d46d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-13",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Harvey, an $11 billion American legal AI unicorn, is expanding into Europe by opening a Paris office and deploying its platform with major French law firms including August Debouzy, Bredin Prat, and CMS Francis Lefebvre, while also securing a partnership with Paris Saint-Germain. The newsletter also highlights Superprof's consolidation strategy with its 19th acquisition in 13 years targeting \u20ac100M revenue, and Alexandre Yazdi's acquisition of DC Company (Konbini and Le Gorafi media properties).",
+      "keyTakeaways": [
+        "Enterprise AI software is driving cross-Atlantic expansion: Harvey's Paris entry signals successful product-market fit in legal tech, with immediate adoption by marquee French law firms\u2014indicating strong European demand for specialized AI tools in high-value professional services",
+        "Consolidation plays are maturing: Superprof's acquisition strategy (19 deals in 13 years) demonstrates how European startups scale through serial M&A rather than organic growth alone, with clear revenue targets ($100M) driving acquisition rationale",
+        "Media/content M&A remains active: Voodoo's CEO acquiring Konbini and Le Gorafi suggests digital media consolidation continues as a capital allocation strategy, though valuations and strategic rationale warrant scrutiny given platform commoditization"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "13.05 - Harvey, la licorne am\u00e9ricaine de l'IA juridique ouvre un bureau \u00e0 Paris"
+    },
+    {
+      "id": "a06eac3c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "AI-powered development tools are enabling renewable energy and power infrastructure teams to dramatically scale project pipelines without proportional headcount increases. Paces Agent, an automation platform for energy development workflows, has deployed on 3.2 gigawatts of project pipeline and allows teams to manage 5x more projects with identical staffing by automating siting, permitting, environmental diligence, and grid interconnection processes.",
+      "keyTakeaways": [
+        "Productivity multipliers in capital-intensive infrastructure are reaching 5x throughput with flat headcount\u2014this signals a structural shift where AI-augmented development becomes table stakes for competing in energy buildout, favoring well-capitalized or AI-integrated developers",
+        "The bottleneck in renewable deployment is shifting from capital availability to execution speed and regulatory navigation; winners will be teams that can move fastest through permitting and interconnection queues, creating competitive moats around AI-enabled workflows",
+        "With AI demand, data centers, and electrification driving unprecedented pipeline requirements, automation of backend development workflows (siting, permitting, diligence) becomes a critical infrastructure for the energy transition, potentially creating venture-scale opportunities in vertical SaaS for climate tech"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "The teams building more megawatts aren't adding headcount"
+    },
+    {
+      "id": "c837d3bb",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI startup valuations have reached unprecedented levels, with Series A pre-money valuations hitting $78 million in Q1 2026\u201431% higher than 2025 and 84% above non-AI peers\u2014but venture returns math is increasingly stressed as the IPO market remains weak and public companies accept minimal step-ups from private valuations. Fund performance data shows 2019-2020 vintage VCs have five-year DPIs of just 0.12x-0.13x, the worst since the financial crisis, suggesting the exit market has not yet proven it can support current AI valuations without significant haircuts similar to what software companies experienced.",
+      "keyTakeaways": [
+        "AI companies command 55% higher Series B valuations than non-AI peers, but 2025 IPOs required median haircuts to just 1.1x of the last private round\u2014a major red flag for whether current AI valuations will survive public market scrutiny",
+        "Fund DPI data from 2019-2020 vintages shows 0.12x-0.13x five-year returns, the weakest since 2008, meaning VCs deploying into AI today are building on a foundation of failed exits and need to recalibrate return expectations",
+        "Secondary market concentration\u2014top 20 startups accounting for 86.4% of Q4 trading value\u2014reveals investor skepticism about supporting anything outside elite AI companies at current valuations, signaling a potential valuation reset ahead"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "AI's unproven return math"
+    },
+    {
+      "id": "ffae082c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is considering a federal gasoline tax suspension following state-level moves in Indiana and Kentucky, with the White House acknowledging the roughly $500 million weekly cost but framing it as necessary relief from a 50% price surge since the Iran War began. Meanwhile, major pipeline operators Williams Companies and Enbridge are advancing natural gas infrastructure projects in the Northeast, signaling a shift as Democratic governors previously opposed to pipelines show newfound openness to the infrastructure needed to transport Marcellus Shale gas.",
+      "keyTakeaways": [
+        "Federal gas tax suspension legislation is actively being pursued by both parties (Senator Josh Hawley introduced a bill Monday), creating near-term political momentum for passage despite the $500M weekly revenue hit\u2014investors should monitor Congressional action and potential energy sector volatility from price relief measures.",
+        "Major pipeline operators (Williams Companies, Enbridge) are seizing the regulatory window to expand natural gas infrastructure in the Northeast, suggesting significant capex deployment opportunities as Democratic opposition softens under energy security concerns.",
+        "The shift in Democratic governors' stance on pipeline infrastructure represents a potential inflection point in climate-vs-energy policy debates, potentially unlocking billions in stranded natural gas infrastructure projects across the Northeast and other regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Pilgrim\u2019s Pipeline"
+    },
+    {
+      "id": "b56c07f1",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Roadrunner, an AI-native configure-price-quote (CPQ) software startup, has raised $27 million in seed and Series A funding from Kleiner Perkins and Founders Fund, marking Kleiner's first incubation since Glean. Founded in 2025 by Joubin Mirzadegan (a Kleiner partner), Ajay Natarajan, and Eugene Shao, the company targets the quote-to-cash space with a new approach called PQA (prompt, quote, approve) that leverages AI to handle increasingly complex pricing models.",
+      "keyTakeaways": [
+        "VCs are backing enterprise software founders solving unglamorous but high-friction problems\u2014CPQ is a $10B+ market opportunity because it controls deal velocity for software companies with complex pricing, making it a natural wedge for market expansion.",
+        "The insider incubation model continues to work: Kleiner partners spinning out to found startups with internal validation and fast founder-investor alignment significantly increases odds of early traction (Roadrunner closed seven-figure deals within three months of prototype).",
+        "AI is reshaping SaaS infrastructure layers\u2014traditional CPQ systems built for static subscription tiers are obsolete as pricing models proliferate (usage-based, seat-based, hybrid), creating a wide-open greenfield for new entrants with AI-native architectures."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Meet the first startup incubated at Kleiner since Glean"
+    },
+    {
+      "id": "df7ba9d2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Yale University's Budget Lab released a major analysis arguing that taxing carried interest as ordinary income could generate over $100 billion in federal revenue over a decade\u2014substantially more than previous Congressional Budget Office estimates. The research, based on granular K-1 tax data rather than SEC filings, reframes the carried interest debate from a fairness issue to a significant revenue opportunity, potentially shifting political momentum toward reform despite industry opposition.",
+      "keyTakeaways": [
+        "Carried interest tax reform could generate $100B+ in federal revenue over 10 years, making it a fiscally material policy change that politicians can now justify on both fairness and funding grounds\u2014this dramatically strengthens reform advocates' position versus the historical $47.5B estimates.",
+        "VC and PE firms face heightened regulatory risk as the data foundation for policy debates shifts from extrapolation to granular partnership-level analysis, suggesting future tax policy will be harder to counter with broad industry arguments about economic impact.",
+        "The timing and credibility of Yale's research during an election cycle creates a window where carried interest taxation could move from a niche policy debate to mainstream fiscal legislation, making tax treatment a critical planning variable for fund managers and their limited partners."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Carried intrigue"
+    },
+    {
+      "id": "85a0ceb0",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-05-12",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "OpenAI and Anthropic are establishing new deployment-focused ventures with major financial backing to help enterprise clients integrate AI into their operations, addressing the complexity of AI adoption at scale. The White House is shifting toward more cautious AI regulation focused on tangible risks like energy consumption, cybersecurity threats, and privacy concerns. Meanwhile, the competitive landscape is intensifying as incumbents match AI capabilities and PE firms position themselves as intermediaries driving AI-driven operational efficiency.",
+      "keyTakeaways": [
+        "AI labs are betting on dedicated deployment companies (Anthropic's partnership with PE and Goldman Sachs, OpenAI's '$10bn Deployment Company') as their go-to-market strategy, recognizing that enterprise AI adoption requires professional services integration and management support, not just raw technology access.",
+        "PE investors are emerging as critical middlemen in AI commercialization, leveraging portfolio company access and operational expertise to drive efficiency gains\u2014this represents a significant new capital allocation vector where AI becomes a lever for operational returns rather than standalone technology investment.",
+        "Regulatory environment is shifting from 'move fast' ideology toward specific, actionable concerns (cybersecurity, data center energy demand, education, privacy), creating both compliance costs and political opportunities\u2014this will likely accelerate consolidation around compliant platforms and disadvantage smaller competitors."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 642"
+    },
+    {
+      "id": "864c085c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Climeworks CEO Christoph Gebald argues that carbon removal technology buildout should be considered an integral cost of AI infrastructure development. As data centers consume massive amounts of power to train and run AI models\u2014often sourced from natural gas due to deployment speed constraints\u2014the carbon emissions created necessitate investment in direct air capture and similar carbon removal solutions as an offset mechanism.",
+      "keyTakeaways": [
+        "Carbon removal is emerging as a necessary operational cost layer for AI infrastructure, creating a new market opportunity for cleantech companies like Climeworks as AI data centers scale rapidly across the U.S.",
+        "The constraint of natural gas powering new data centers due to speed-to-market advantages over renewable energy creates a structural demand for carbon offset solutions, presenting a potential de facto mandate for carbon removal adoption.",
+        "This positions carbon removal from a speculative cleantech bet into essential enabling infrastructure for the AI boom, potentially accelerating venture and growth capital into the direct air capture sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The AI Boom Needs Carbon Removal"
+    },
+    {
+      "id": "dde36f8b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democratic Maine Senate candidate Graham Platner, challenging Republican incumbent Susan Collins, released an energy plan focused on a national electricity rate freeze to combat high power prices driven by data center construction. In an exclusive interview, Platner expressed deep concerns about AI and data center infrastructure's regulatory gaps, labor market impacts, and surveillance risks, signaling his campaign is developing a specific policy plan on the issue while remaining cautiously open to construction slowdowns paired with policy development.",
+      "keyTakeaways": [
+        "Data center regulation is emerging as a critical political issue in 2024 midterms, with candidates staking positions on moratoriums and construction freezes\u2014this signals potential federal policy risk for cloud infrastructure companies and AI-driven tech buildouts.",
+        "Platner's emphasis on pairing any data center restrictions with comprehensive AI/infrastructure policy suggests future regulations will likely include labor protections, surveillance safeguards, and grid reliability measures, not just construction bans\u2014infrastructure investors should prepare for multi-faceted compliance requirements.",
+        "The framing of data centers as a driver of electricity rate inflation creates populist political momentum for restrictions, meaning real estate developers, power companies, and hyperscalers face accelerating regulatory headwinds that could reshape capital allocation toward mature, proven energy infrastructure over speculative buildouts."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "What a Ban on Data Centers Has to Do"
+    },
+    {
       "id": "900a744e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -4497,17 +4659,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 27
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 105
+      "count": 28
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 90
+      "count": 94
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 108
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 14
     },
     {
       "name": "Fintech",
@@ -4518,12 +4685,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 6
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 13
     }
   ],
-  "lastUpdated": "2026-05-12T09:30:33.871638Z"
+  "lastUpdated": "2026-05-13T09:37:10.483412Z"
 }
