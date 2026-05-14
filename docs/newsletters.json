@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "090ec363",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Software-focused PE funds are not trading at the steep discounts that secondary buyers might expect, despite public market turmoil in the sector. According to HarbourVest and Partners Group executives, secondary market discounts on software assets average around 13% (87% of NAV), with many software-heavy funds unable to sell standalone as cautious buyers demand deeper markdowns than sellers are willing to provide.",
+      "keyTakeaways": [
+        "Secondary buyers seeking software bargains at 50-cent-on-the-dollar prices will be disappointed\u2014current discounts average only 13% of NAV, making it difficult for sellers to offload software-heavy fund positions",
+        "PE's increased exposure to software (rising from 14% to 18% of US deal value over the past decade) has created a supply-demand imbalance in secondaries, where sellers hold firm on valuations while buyers demand risk compensation",
+        "A significant inventory of software-heavy PE funds cannot be marketed as standalone assets, signaling potential portfolio challenges ahead as public market corrections force repricing throughout the private capital stack"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Software secondaries discount is a myth"
+    },
+    {
+      "id": "9234dc1d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "South Korea's state-owned Korea Hydro & Nuclear Power has signed a memorandum of understanding with Southern Company to collaborate on nuclear reactor engineering, marking a significant shift in U.S. efforts to re-shore nuclear expertise after decades of project delays. The EPA is simultaneously proposing regulatory changes to accelerate construction of data centers and power plants by allowing non-emitting structural work to begin before federal air permits are obtained, addressing long-standing infrastructure bottlenecks.",
+      "keyTakeaways": [
+        "KHNP's partnership with Southern Company represents a strategic opening for advanced reactor deployment in the U.S. market despite previous Westinghouse IP restrictions, creating opportunities for investors focused on nuclear construction and technology licensing.",
+        "EPA's permitting reform could materially reduce capital deployment timelines for infrastructure projects, benefiting companies in power generation, data centers, and industrial construction\u2014a meaningful tailwind for capex-heavy energy transition plays.",
+        "The convergence of Korean nuclear expertise entering U.S. markets alongside deregulatory momentum suggests accelerated buildout of both traditional and next-generation reactor capacity, signaling sector maturation and reduced execution risk in nuclear infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "K-Nuclear"
+    },
+    {
+      "id": "7d29898d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic is preparing to raise tens of billions at a record valuation while cracking down on unauthorized secondary stock sales through eight named platforms including Hiive and Forge, though enforcement is unlikely given potential IPO delays. Meanwhile, Fervo Energy completed a $1.9 billion IPO at $27 per share, significantly exceeding its original $21-24 range, marking a major win for climate tech investors amid reduced federal renewable energy support.",
+      "keyTakeaways": [
+        "Secondary market trading in private tech shares remains largely unpoliced despite issuer warnings\u2014investors should verify share authenticity through official cap table records, as Anthropic's blanket rejection of unauthorized transfers could leave some secondary buyers holding worthless claims.",
+        "Anthropic's inability to enforce transfer restrictions across SPVs and derivative structures signals the limits of private company control over their own cap tables, a problem that will likely plague mega-IPO transitions unless regulators intervene.",
+        "Climate tech IPO activity is rebounding with outsized demand\u2014Fervo's ability to price 12.5% above range guidance despite political headwinds suggests strong institutional appetite for decarbonization infrastructure, creating opportunities for downstream investment in the geothermal energy supply chain."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Anthropic authorization"
+    },
+    {
+      "id": "e74be762",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Breakthrough Energy Ventures led a $105 million Series A funding round for Sygaldry Technologies, a quantum computing startup focused on making AI models more energy efficient by integrating quantum processors as co-processors alongside classical GPUs in data centers. The investment reflects growing climate tech investor interest in quantum computing as a potential solution to the unsustainable energy demands of large language models, with Sygaldry's co-founder claiming quantum integration could deliver \"dramatic\" speed-ups of hundreds of thousands of times faster for algorithms.",
+      "keyTakeaways": [
+        "Quantum computing is emerging as a climate tech investment thesis within clean energy VCs, with BEV positioning quantum-AI integration as addressing the fundamental energy sustainability problem of modern LLMs rather than a peripheral play.",
+        "Sygaldry's modular architecture strategy\u2014designing quantum systems as plug-and-play co-processors in existing data center infrastructure rather than requiring complete platform redesigns\u2014lowers adoption barriers and could accelerate commercial deployment across hyperscalers.",
+        "Enterprise AI customers' rising pressure on Big Tech over energy consumption is directly influencing infrastructure investment decisions, creating tailwinds for efficiency-focused quantum and alternative compute solutions in the $100M+ funding rounds."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "The promise of quantum for AI"
+    },
+    {
+      "id": "68779c68",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A months-long closure of the Strait of Hormuz, a critical global energy chokepoint, has failed to trigger expected market volatility, with oil trading below $110 per barrel despite representing the largest supply disruption on record. The newsletter features an interview with Jason Bordoff, founding director of Columbia's Center for Global Energy Policy, exploring why markets have remained resilient, whether the crisis signals a structural shift in global energy systems, and what policy lessons emerge for managing future energy crises.",
+      "keyTakeaways": [
+        "Energy market resilience to supply shocks may be higher than historical models suggest, indicating either substantial spare capacity elsewhere, demand destruction, or market pricing mechanisms that are more efficient than previously understood\u2014with implications for infrastructure investment priorities.",
+        "A sustained Hormuz closure could accelerate permanent shifts in global energy architecture, including diversified shipping routes, strategic reserves deployment, and renewable energy adoption, creating both stranded asset risks and growth opportunities in alternative energy infrastructure.",
+        "The muted market response challenges conventional geopolitical risk premiums and may influence how policymakers and investors price tail risks in energy markets going forward, potentially reducing hedging demand and affecting energy company valuations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "What\u2019s Truly Baffling About the Strait of Hormuz Energy Crisis"
+    },
+    {
+      "id": "5ee344c6",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is considering an executive order to accelerate deployment of advanced transmission technologies (ATTs) that can increase grid capacity by 10-100% within years, addressing a critical bottleneck for AI data center expansion and manufacturing reshoring. ATTs like dynamic line rating and reconductoring offer a faster alternative to the decade-long traditional transmission line construction timeline, with the Department of Energy reporting potential capacity increases of up to 100 GW if deployed at scale.",
+      "keyTakeaways": [
+        "Policy catalyst emerging: A pending executive order could unlock rapid deployment of ATTs, creating immediate investment opportunities in grid modernization technologies and removing a major constraint on hyperscaler expansion into new markets",
+        "Hyperscaler demand creating pull-through: Data center operators' willingness to directly fund grid infrastructure improvements is shifting financial incentives and could accelerate ATT adoption faster than traditional utility-led approaches",
+        "Market timing window: The convergence of AI infrastructure demand, regulatory support, and proven ATT technologies suggests significant capital allocation opportunities in grid tech and utility modernization over the next 2-3 years before traditional transmission buildout accelerates"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Latitude Dispatch: Will the AI boom speed up advanced transmission?"
+    },
+    {
+      "id": "4912c1db",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Enhanced geothermal pioneer Fervo Energy completed its Nasdaq IPO this week, raising nearly $1.9 billion\u201450% above its initial $1.3 billion target\u2014as investor enthusiasm for next-generation geothermal technology intensifies. The company's 2023 breakthrough using fracking technology to extract energy from hot, dry rocks found virtually anywhere globally has catalyzed a dramatic shift in investor interest, with the stock surging over 30% on its first trading day to above $36 per share.",
+      "keyTakeaways": [
+        "Fervo's successful IPO and significant oversubscription signals strong institutional appetite for dispatchable renewable baseload power, particularly as AI data center energy demands accelerate\u2014suggesting geothermal may attract substantial capital flows previously concentrated in nuclear and solar.",
+        "The company's $1.9 billion war chest targets its flagship 500-megawatt Cape Station plant in Utah, indicating early-stage commercialization of enhanced geothermal systems (EGS) technology could achieve rapid scaling if performance targets are met.",
+        "Geothermal funding has shifted from marginal ($84 million federally three years ago) to mainstream, reflecting a macro reallocation toward 24/7 carbon-free baseload solutions that can leverage existing oil-and-gas infrastructure and supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Fervo Is a Hot Stock"
+    },
+    {
       "id": "b991d46d",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -4657,19 +4783,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 28
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 110
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 94
+      "count": 99
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 108
+      "name": "European VC",
+      "color": "#059669",
+      "count": 28
     },
     {
       "name": "Strategy & Thesis",
@@ -4687,5 +4813,5 @@
       "count": 6
     }
   ],
-  "lastUpdated": "2026-05-13T09:37:10.483412Z"
+  "lastUpdated": "2026-05-14T09:28:02.307440Z"
 }
