@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "29d7f772",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-15",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "\u00c9ric Larchev\u00eaque, Ledger co-founder, is shutting down The Bitcoin Society's bitcoin treasury operations just six months after calling it \"the most important project\" of his life, citing unfavorable market conditions and fundraising difficulties. Separately, Fakto emerged from stealth with \u20ac3.6 million in funding to automate supplier invoice verification using AI, claiming to identify contractual deviations up to 14% on audited purchase volumes.",
+      "keyTakeaways": [
+        "Strategic pivots driven by capital constraints: Even well-connected founders are forced to abandon core project components when market conditions deteriorate and institutional capital dries up\u2014a signal of tightening VC discipline in 2025-2026.",
+        "Enterprise automation remains fundable: AI-driven spend analytics and procurement verification are attracting capital despite broader market skepticism, suggesting B2B operational efficiency tools with clear ROI metrics outperform speculative ventures.",
+        "Crypto infrastructure faces persistent headwinds: The abandonment of The Bitcoin Society's treasury function indicates that even prominent crypto figures cannot sustain capital-intensive blockchain projects without sustained favorable market sentiment and institutional backing."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "15.05 - \u00c9ric Larchev\u00eaque met d\u00e9j\u00e0 fin \u00e0 l\u2019activit\u00e9 de tr\u00e9sorerie bitcoin de The Bitcoin Society"
+    },
+    {
+      "id": "f5b2f32a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private capital is decisively diverging between airline operators and aviation assets, as demonstrated by Spirit Airlines' May 2 bankruptcy versus the $28 billion take-private of Air Lease Corp. just weeks earlier. PE investors are pouring record capital into aircraft, engines, and aerospace suppliers while avoiding airline operating risks, with 2025 PE aerospace deal value hitting $55.6 billion. The gap reflects fundamental underwriting challenges: while airline margins remain volatile and unpredictable, aviation asset values have proven stable and resilient, making aircraft ownership and leasing far more attractive than carrier operations.",
+      "keyTakeaways": [
+        "Aviation assets command premium valuations and deep institutional capital (Apollo, Brookfield, Sumitomo bidding $28B for Air Lease) while airlines face capital starvation even for survival\u2014investors will finance the planes but not the operators flying them",
+        "The $2.8 billion in aviation-loan ABS issued by Apollo's PK AirFinance since July and new lending arms like Merit AirFinance signal PE is building systematic, scaled financing solutions around asset-backed aviation rather than equity bets on carriers",
+        "Software undergoes similar dynamics: PE sees 3x higher likelihood of take-privates in public software vs. the broader market, with buyout investors needing to identify defensible competitive moats and management execution capability amid AI disruption"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "How airlines lost their Spirit"
+    },
+    {
+      "id": "a50a232f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Fervo Energy's Nasdaq debut surged nearly 40% on its first trading day, signaling strong investor appetite for next-generation geothermal technology as a solution for clean, reliable baseload power. The newsletter highlights three major clean energy developments: geothermal momentum, New York City's 1,250-megawatt Champlain Hudson Power Express hydropower project coming online ahead of schedule, and solar's continued expansion in Texas, all occurring as the U.S. faces critical energy infrastructure needs amid climate pressures.",
+      "keyTakeaways": [
+        "Fervo Energy's successful IPO with 40% first-day gains demonstrates institutional capital is flowing into geothermal as an investable category; Fervo's plans for East Coast expansion within a decade suggest untapped U.S. markets are opening as drilling technology improves.",
+        "Major infrastructure projects like Champlain Hudson (1,250 MW, 16 years from proposal to operation) show the capital intensity and timeline challenges in clean energy, yet early completion suggests regulatory momentum is shifting in favor of rapid deployment.",
+        "The convergence of hydropower wins, geothermal IPO success, and solar expansion in Texas indicates a broadening clean energy portfolio across generation types, reducing single-technology risk and signaling sustained investor confidence in the transition regardless of political headwinds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Hot Rock, Hot Stock"
+    },
+    {
+      "id": "3785c32c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Furientis, a defense startup founded by former Virgin Galactic and Castelion engineers, has raised $5 million in pre-seed funding to manufacture ship-based interceptor missiles at scale using automotive-style production methods. The company aims to reduce missile costs from $1-5 million to $250,000 per unit and achieve 1,000 units annually per factory, addressing a critical U.S. military supply gap where interceptor production can't match adversary capabilities or the cost-mismatch of firing million-dollar missiles at thousand-dollar threats.",
+      "keyTakeaways": [
+        "Defense manufacturing consolidation creates opportunity: With only 5 major defense primes remaining (down from 50+ in the 1990s) and a single supplier for ship-borne interceptors, new entrants applying commercial manufacturing techniques can capture significant market share in a supply-constrained market.",
+        "Cost-competitive manufacturing unlocks new unit economics: By achieving 4-5x cost reduction through COTS components and automotive assembly processes rather than bespoke aerospace engineering, Furientis enables the military to deploy interceptors at scale\u2014investors should watch for similar manufacturing arbitrage plays across defense subsystems.",
+        "Geopolitical urgency drives defense innovation capital: Depleted U.S. missile stockpiles and China's claimed capacity of thousands of cruise missiles weekly create acute procurement pressure, signaling sustained venture capital opportunity in defense tech and manufacturing startups that can solve production velocity over the next 3-5 years."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Rocket men"
+    },
+    {
+      "id": "05a5cf8a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Cerebras Systems completed a blockbuster $5.6 billion IPO at $185 per share, significantly exceeding its initial pricing guidance and achieving a $40 billion market cap \u2014 a 73% jump from its Series H valuation four months prior. The AI chipmaker's success reflects surging investor appetite for semiconductor stocks, while other major venture deals in AI infrastructure and robotics continued to attract significant capital from top-tier firms.",
+      "keyTakeaways": [
+        "Cerebras' IPO success validates the AI chip infrastructure thesis, with early backers like Tiger Global, Benchmark, and Eclipse gaining substantial returns on a company that had previously shelved IPO attempts in 2024 and 2025.",
+        "The scale of venture capital flowing into AI-adjacent sectors remains massive \u2014 Recursive Superintelligence raised $650M, Fractile secured $220M for inference hardware, and Mind Robotics pulled in $400M, suggesting no slowdown in upstream infrastructure funding despite public market exits.",
+        "The semiconductor supply chain benefiting from AI demand extends across hardware layers (chips), software optimization (inference), and industrial application (robotics), indicating the venture market is diversifying bets across the full AI stack rather than concentrating in generative AI applications."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Cerebras cash"
+    },
+    {
+      "id": "3112ca08",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Corpus Christi, Texas faces an acute water crisis with freshwater reservoirs at less than 10% capacity and Day Zero projected for November 2026 unless the city receives 20-30 inches of rainfall. The city's century-long struggle to secure adequate water supply\u2014despite being on the Gulf Coast\u2014has led to multiple failed infrastructure projects, and a contentious 2024 local election where environmentally focused candidates opposing an expensive desalination plant largely lost, raising questions about whether different governance could have prevented the crisis.",
+      "keyTakeaways": [
+        "Water infrastructure and desalination represent a critical investment opportunity as American cities face acute supply crises; Corpus Christi's failed planning and expensive desalination projects signal both market demand and execution risks in the sector.",
+        "Climate resilience and water management will increasingly drive municipal governance and capital allocation; investors should monitor how cities address water scarcity through infrastructure bonds, public-private partnerships, and alternative supply technologies.",
+        "Western water stress is moving from abstract long-term risk to immediate crisis\u2014Corpus Christi could become the first major U.S. city to exhaust freshwater reserves, making this a bellwether for broader municipal credit risk and climate-adaptation spending across the Sunbelt."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Hoping for a Hurricane"
+    },
+    {
       "id": "090ec363",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -4783,19 +4891,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 29
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 110
+      "count": 113
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 99
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 28
+      "count": 101
     },
     {
       "name": "Strategy & Thesis",
@@ -4813,5 +4921,5 @@
       "count": 6
     }
   ],
-  "lastUpdated": "2026-05-14T09:28:02.307440Z"
+  "lastUpdated": "2026-05-15T09:39:44.869886Z"
 }
