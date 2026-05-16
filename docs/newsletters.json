@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "b7d9313c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Cerebras Systems' AI chipmaker IPO on Nasdaq achieved a 68% first-day pop after pricing at $185 per share, raising $5.5 billion and reaching a $56.4 billion valuation\u2014more than double its February Series H valuation. The 20x oversubscribed offering signals strong retail investor appetite for AI infrastructure plays and sets the stage for an anticipated wave of AI IPOs including SpaceX, Anthropic, and OpenAI. Early investors like Benchmark (which invested in 2016) stand to realize significant multiples, with some stakes potentially worth billions.",
+      "keyTakeaways": [
+        "AI infrastructure companies can command extreme valuations in public markets\u2014Cerebras doubled its private valuation in months, suggesting venture investors should anticipate significant dilution when portfolio companies go public and recalibrate return expectations accordingly.",
+        "The massive oversubscription and retail enthusiasm indicates a sustained appetite for AI-adjacent hardware plays that position themselves as Nvidia alternatives, creating potential exit windows for VC-backed semiconductor and inference-focused startups over the next 12-24 months.",
+        "With multiple mega-cap AI companies (OpenAI, Anthropic, SpaceX/xAI) queued for IPOs, the AI VC market is entering a liquidity inflection point that could reshape fund economics and LP return profiles across the venture ecosystem."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Cerebras opens AI IPO floodgates"
+    },
+    {
+      "id": "2d84a331",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Stardust Solutions, a geoengineering startup backed by $60 million in funding, has unveiled proprietary particle technology designed to reflect sunlight and cool the planet, with two formulations using silica and calcium carbonate compounds. The newsletter covers emerging climate intervention strategies moving from theoretical to commercial viability, alongside growing local resistance to data center development and Cuba's fuel shortage crisis.",
+      "keyTakeaways": [
+        "Climate intervention technology is transitioning from R&D to commercialization\u2014Stardust Solutions' disclosure of proprietary stratospheric aerosol particle designs signals investor appetite for geoengineering solutions and potential capital deployment in atmospheric intervention markets.",
+        "Local opposition to hyperscale data centers is intensifying; Cleveland's rejection of a $1.6 billion facility and 25 canceled projects in Q1 suggest real estate constraints for tech infrastructure, creating geographic arbitrage opportunities and potential headwinds for data center-dependent businesses.",
+        "Global energy disruptions (Cuba's fuel crisis, extreme weather events) underscore systemic vulnerabilities in energy supply chains, elevating investment thesis for renewable energy, LNG exports, and climate resilience infrastructure in developed markets."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Silica Skies"
+    },
+    {
+      "id": "def81b76",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Cerebras Systems completed its IPO on May 15, 2026, soaring 70% on its first day of trading after withdrawing its 2024 filing, driven largely by its multi-billion dollar partnership with OpenAI and improved fundamentals including larger customer base and more mature technology. While the blockbuster debut reflects strong investor appetite for AI chip alternatives to Nvidia, analysts warn the real test lies in manufacturing at scale and delivering to multiple hyperscaler customers, not just riding OpenAI momentum.",
+      "keyTakeaways": [
+        "The IPO success validates the AI chip market's openness to Nvidia alternatives, but execution risk remains acute\u2014investors specifically want to see proof of manufacturing capacity, on-time delivery, and multi-customer support at Nvidia's operational standards, not just headline partnerships.",
+        "OpenAI's shareholder stake and partnership appears to be the primary driver of renewed investor confidence after 2024 concerns about customer concentration and CEO Feldman's past accounting fraud conviction; overreliance on a single anchor customer poses significant downside risk if execution falters.",
+        "The broader AI compute market opportunity is potentially enormous (Feldman's $5 trillion TAM estimate from software engineers alone) but unproven at scale, suggesting Cerebras faces binary outcomes\u2014either achieving breakout success or significant decline within a year, with little room for mediocre performance."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Cerebras rising"
+    },
+    {
+      "id": "45e99616",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Cerebras' IPO surged 89% above its offering price to $311, validating early-stage AI chip investors like Benchmark, whose $268 million investment is now worth $5.5 billion. Beyond Cerebras, Kimmeridge secured $9.75 billion in financing for its Commonwealth LNG project, and Anthropic is raising $30 billion at a $900 billion valuation, signaling a potential wave of AI-adjacent unicorn IPOs and mega-rounds.",
+      "keyTakeaways": [
+        "Watch Cerebras' staggered lockup expirations\u201430 million shares unlock today with six more tranches through October\u2014as insider selling could reverse the stock's explosive gains, similar to what happened with Figma.",
+        "The AI infrastructure wave is broadening beyond frontier labs: successful exits and mega-rounds in chips (Cerebras), energy (LNG financing), and AI safety (Anthropic) suggest venture investors should expect a multi-year IPO cycle across AI-adjacent sectors, not just AI applications.",
+        "Geopolitical supply chain concerns are creating tailwinds for U.S. infrastructure projects; Middle East gas disruptions are driving buyer demand for alternative LNG sources like Commonwealth, demonstrating how macro events redirect capital allocation in energy infrastructure."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Cerebras surge"
+    },
+    {
+      "id": "7d79d55e",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-05-15",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A Deep Tech newsletter covering emerging technologies including implantable living materials using genetically engineered bacteria to deliver drugs on demand (published in Science), lunar helium-3 extraction opportunities, Virgin Galactic's commercial service launch, Cowboy's plans for 20,000 orbital data centers, non-viral gene therapy breakthroughs from Serif, and Unitree Robotics' mass-produced manned mech suit priced at $537,000.",
+      "keyTakeaways": [
+        "Implantable biotech represents a nascent market segment: Harvard-led research on living hydrogel containers for bacteria-based drug delivery could enable preventative surgical care and autonomous infection response without traditional diagnostics or pills, attracting biotech and medtech investors.",
+        "Space infrastructure is attracting significant capital: multiple ventures (Blacknight Space Labs for helium-3, Cowboy for orbital data centers, Virgin Galactic for commercial spaceflight) indicate competitive commercialization of space assets, signaling investor appetite for non-traditional infrastructure plays.",
+        "Robotics and gene therapy breakthroughs suggest maturing deep-tech categories: Unitree's $537,000 mass-produced mech suit and Serif's non-viral gene therapy in primates indicate these once-speculative technologies are approaching commercial viability and scaling production, justifying expansion in these investment sectors."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 162: Implantable living materials deliver drugs on demand"
+    },
+    {
+      "id": "13afa06f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Beijing Auto Show has become the world's largest and most influential automotive exhibition, showcasing China's dominance in electric vehicle innovation with more EV models displayed in single rooms than exist across the entire U.S. market. Expert analysis from Asia Society and Johns Hopkins scholars reveals critical insights about China's EV market leadership and implications for U.S. policy under the Trump administration.",
+      "keyTakeaways": [
+        "China's EV market has achieved scale and diversity that vastly outpaces the U.S., suggesting Chinese automakers have captured significant competitive advantages in battery technology, manufacturing efficiency, and consumer adoption that American companies will struggle to match without substantial policy intervention",
+        "The concentration of EV innovation at Beijing Auto Show signals that capital and talent flows are increasingly directing toward Chinese automotive manufacturers, making this a critical market signal for investors to reassess exposure to legacy U.S. automakers versus emerging Chinese EV competitors",
+        "The political framing around Trump administration policy suggests ongoing trade tensions and regulatory divergence between U.S. and China on EV standards will likely reshape global supply chains, pricing, and investment returns in the automotive sector over the next 2-4 years"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "This Year\u2019s Beijing Auto Show Has a Lesson for Trump"
+    },
+    {
+      "id": "aaf1e213",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nearly a year after the One Big Beautiful Bill Act introduced foreign entity of concern (FEOC) rules for clean energy tax credits, the Trump administration has failed to provide implementing guidance, leaving developers and investors uncertain how to comply with construction deadlines approaching. The rules restrict credits for companies with 15% or more debt from China, Iran, Russia, or North Korea, or with foreign ownership thresholds of 25-40%, but without clear calculation methodologies, projects are proceeding amid significant legal uncertainty and mounting advisory costs.",
+      "keyTakeaways": [
+        "Regulatory ambiguity is creating a massive advisory opportunity: developers are incurring substantial legal bills to navigate undefined FEOC compliance requirements, suggesting strong near-term demand for specialized tax and regulatory counsel services.",
+        "Project financing and M&A velocity in clean energy may face headwinds as investors struggle to underwrite foreign ownership exposure and debt structures; companies with any foreign capital involvement should immediately audit their cap tables and debt sources.",
+        "The failure to issue implementing rules nearly 12 months post-legislation suggests persistent policy uncertainty will remain a structural cost of capital for renewable energy projects, potentially favoring well-capitalized domestic firms with domestic capital stacks over international consortiums."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Tax Credit Agita"
+    },
+    {
       "id": "29d7f772",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -4891,19 +5017,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 29
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 113
+      "count": 116
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 101
+      "count": 104
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 7
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 29
     },
     {
       "name": "Strategy & Thesis",
@@ -4914,12 +5045,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 10
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 6
     }
   ],
-  "lastUpdated": "2026-05-15T09:39:44.869886Z"
+  "lastUpdated": "2026-05-16T08:45:12.863004Z"
 }
