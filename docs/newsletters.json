@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "4d40b833",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI venture capital hit record highs in Q1 2026, but an IPO liquidity crunch is forcing VCs to rely on secondaries and reformed SPACs as workarounds. Anthropic's revenue is on pace for $30 billion annually with enterprise customers doubling, while AMD doubled its server chip TAM forecast to $120 billion, signaling rapid enterprise adoption of agentic AI systems that are reshaping the entire technology stack.",
+      "keyTakeaways": [
+        "Enterprise adoption of agentic AI has begun in earnest, with infrastructure providers like Anthropic and AMD seeing dramatic acceleration\u2014this represents a significant shift in where capital will flow across the tech stack over the next 24 months",
+        "The liquidity gap between record-setting AI VC deployment and narrow IPO windows is concentrating growth in a handful of winners; investors should reassess portfolio concentration risk and secondary market opportunities as traditional exit paths remain constrained",
+        "Cross-border AI M&A is becoming structurally more complex due to regulatory fragmentation, data localization, and model portability issues\u2014deal teams must pressure-test AI integration and governance earlier in diligence or face significant value destruction"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "A granular look at the AI tech stack"
+    },
+    {
       "id": "b7d9313c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -5019,7 +5037,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 116
+      "count": 117
     },
     {
       "name": "Climate & Energy",
@@ -5047,5 +5065,5 @@
       "count": 10
     }
   ],
-  "lastUpdated": "2026-05-16T08:45:12.863004Z"
+  "lastUpdated": "2026-05-17T08:58:16.784395Z"
 }
