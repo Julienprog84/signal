@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "0c73a5ec",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-18",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French venture capital newsletter highlighting five investment stories: Fakto raised \u20ac3.6M to use AI for detecting billing discrepancies in supplier invoices (claiming 14% error identification rates); Harvey, an $11B US legal AI unicorn, opened a Paris office and secured partnerships with major French law firms; Superprof completed its 19th acquisition in 13 years, targeting \u20ac100M revenue this year; The Bitcoin Society shuttered its bitcoin treasury operations due to market headwinds and fundraising difficulties; and predictive AI successfully forecasted the French national football team's World Cup roster.",
+      "keyTakeaways": [
+        "Enterprise AI for process automation in procurement and finance is attracting meaningful capital\u2014Fakto's \u20ac3.6M validates demand for AI-driven invoice verification that identifies hidden cost recovery opportunities for large enterprises",
+        "US AI unicorns are aggressively expanding into European markets with local partnerships; Harvey's Paris office and law firm integrations signal confidence in European enterprise AI adoption despite macro uncertainty",
+        "The shutdown of The Bitcoin Society's core treasury operations demonstrates selective market discipline even among prominent founders, suggesting crypto-native projects face genuine traction challenges in the current environment"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "18.05 - Ce qu'il faut savoir pour bien d\u00e9buter la semaine"
+    },
+    {
+      "id": "57d3536f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Humanoid robotics has captured over $5 billion in VC investment in 2026 alone, with one in four robotics dollars now flowing to humanoids as companies like Apptronik and Robotera close mega-rounds. However, industry insiders question whether current valuations are justified by real use cases and deployment paths, citing a psychological obsession with humanoids rather than rational fundamentals, though falling manufacturing costs\u2014down 40% from 2023 to 2024\u2014are making unit economics increasingly viable.",
+      "keyTakeaways": [
+        "Humanoid robotics has reached frothy valuations with $5B+ invested in 2026, yet VCs and roboticists openly acknowledge unclear paths to returns and practical use cases, signaling potential bubble dynamics in the sector.",
+        "Manufacturing cost declines (40% year-over-year) are fundamentally improving unit economics and could validate current investments if deployment accelerates, but this remains the critical variable separating hype from sustainable business models.",
+        "The humanoid trend demonstrates how macro tailwinds (cheaper components, design improvements) can drive investment flows that outpace demonstrable market demand, raising questions about capital efficiency across deep tech verticals."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The limits of  VC\u2019s  humanoid bet"
+    },
+    {
+      "id": "e91d97c9",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-17",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Yotta CEO expressed concerns about Synapse's brokerage migration potentially disrupting operations. The newsletter covers fintech industry updates including Varo's growth to 7.7 million accounts with $57 million in small-dollar loans outstanding (up 43% YoY), Evolve's Q1 performance, bunq's pursuit of a Mexican bank license, PayPal's DOJ fair lending settlement, and a community bank's AI-related cybersecurity incident.",
+      "keyTakeaways": [
+        "Varo is experiencing user growth (5.1M to 7.7M accounts) and loan portfolio expansion, but continues to face elevated credit losses with 11% charge-offs on unsecured loans and 0.40% losses on its Varo Believe card product, signaling potential profitability challenges despite top-line metrics.",
+        "Regulatory and operational risks are materializing in fintech infrastructure\u2014Synapse migration concerns at Yotta and a community bank's AI cybersecurity incident highlight fragility in third-party dependencies and emerging technology implementation in financial services.",
+        "Fintech expansion strategies are diversifying geographically (bunq in Mexico) and across lending products, but regulatory scrutiny is intensifying (PayPal's DOJ settlement), suggesting margin compression and compliance costs will pressure unit economics across the sector."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "\u201cSynapse Is Gonna F\u2014 Everything Up,\u201d Yotta CEO Worried Before Brokerage Migration"
+    },
+    {
+      "id": "d3f525f9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week's Heatmap newsletter covers critical developments in climate and energy policy affecting investment landscape: Burgum's renewable energy permitting freeze signals potential regulatory headwinds for clean energy developers, while funding for early-stage climate tech is contracting. Additional stories examine infrastructure vulnerabilities in the Strait of Hormuz energy crisis and emerging opportunities in climate-resilient infrastructure.",
+      "keyTakeaways": [
+        "Regulatory risk is materializing: Burgum's permitting freeze on renewables projects creates immediate uncertainty for developers and signals potential policy reversals that could impact near-term deployment timelines and project valuations.",
+        "Capital markets are tightening for climate tech: The drying up of early-stage climate tech funding suggests investor appetite is shifting away from pre-revenue ventures toward more proven business models, requiring portfolio companies to demonstrate faster paths to profitability.",
+        "Energy security concerns are creating dual-use opportunities: Geopolitical vulnerabilities in chokepoints like the Strait of Hormuz and climate resilience needs (e.g., hurricane preparation) may accelerate investment in distributed energy, storage, and resilience infrastructure as alternatives to centralized systems."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Burgum\u2019s Double Down, the FEOC Freakout, and More"
+    },
+    {
       "id": "4d40b833",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -5035,14 +5107,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 30
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 117
+      "count": 118
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 11
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 104
+      "count": 105
     },
     {
       "name": "Deep Tech & Science",
@@ -5050,20 +5132,10 @@
       "count": 7
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 29
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 14
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 10
     }
   ],
-  "lastUpdated": "2026-05-17T08:58:16.784395Z"
+  "lastUpdated": "2026-05-18T10:58:57.539551Z"
 }
