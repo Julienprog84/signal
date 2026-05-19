@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "45075596",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-19",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French AI startup Dust has raised $40 million to accelerate its U.S. expansion, offering a platform that enables enterprises to build custom AI agents. The newsletter also features content on UK market entry strategies for European founders and highlights the 5th edition of LBP AM's innovation awards seeking tomorrow's French unicorns across all sectors.",
+      "keyTakeaways": [
+        "Dust's $40M funding signals strong investor appetite for enterprise AI agent platforms, suggesting this vertical is becoming a crowded but capital-rich segment competing with players like Zapier and Make.",
+        "European AI startups are increasingly targeting the U.S. market as their primary growth engine, indicating that European capital and talent alone are insufficient for venture-scale returns in AI.",
+        "The UK market positioning content and French innovation awards suggest European VCs are actively looking beyond domestic markets\u2014UK expansion and cross-border talent/funding access are now competitive necessities for European tech founders."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "19.05 - IA : Dust l\u00e8ve 40 millions de dollars"
+    },
+    {
+      "id": "bbc1e3e4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic has reached a $930 billion post-money valuation, surpassing OpenAI's $852 billion for the first time, with leading investors including Dragoneer, Greenoaks, Sequoia, and Altimeter Capital each committing at least $2 billion. The milestone reflects Anthropic's superior equity return ratio (9.0x versus OpenAI's 4.9x) and strong enterprise adoption momentum, with 34.4% of US businesses now using Claude versus 32.3% for OpenAI\u2014marking the first recorded crossover. Anthropic's cleaner path to IPO, lack of single-customer concentration, and improving gross margins (above 70%, up from 38% annually) position it favorably for public market pricing relative to its rival.",
+      "keyTakeaways": [
+        "Anthropic commands a 1.8x valuation premium per equity dollar deployed compared to OpenAI, with this gap widening for two consecutive rounds\u2014a signal that frontier AI investors believe Anthropic's business fundamentals (enterprise adoption, margins, product-market fit) are outpacing OpenAI's despite the latter's historical lead.",
+        "For VCs allocating to AI infrastructure, OpenAI's 35% Microsoft revenue concentration and higher historical cap tables present material IPO repricing risk; Anthropic's diversified customer base and margin expansion create more predictable public market comparables and valuation anchoring for the category.",
+        "The crossover in enterprise adoption (Anthropic now leading) validates that product differentiation (Claude Code and 140%+ net retention) drives market share in AI, not first-mover advantage\u2014this has implications for downstream AI application funding and suggests OpenAI's platform dominance is contestable."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Charted: Anthropic vs. OpenAI"
+    },
+    {
+      "id": "6d0c5883",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A proposed $400 billion merger between Dominion Energy and NextEra Energy would create a utility giant spanning Virginia's data center heartland to Florida's 6 million-customer base, capitalizing on surging electricity demand from AI infrastructure. The deal signals the beginning of a consolidation phase in the electricity sector driven by the need for massive capital investments in grid modernization and renewable energy, while an escalating Iran War energy crisis pushes oil prices toward $180/barrel and threatens nuclear plant security.",
+      "keyTakeaways": [
+        "Mega-utility consolidation is accelerating: A $400B+ Dominion-NextEra merger would combine critical AI data center infrastructure in Virginia with Florida's largest power provider, suggesting that utilities with geographic diversity and nuclear assets are positioning for premium valuations in a capital-intensive energy transition.",
+        "Geopolitical energy shocks are creating market volatility: The Iran War-triggered oil crisis and Strait of Hormuz blockade are pushing 80+ countries toward emergency measures, with Brent crude potentially reaching $180/barrel\u2014creating hedging opportunities and renewed interest in diversified energy portfolios that include nuclear and renewables.",
+        "Nuclear infrastructure and grid reliability are becoming competitive moats: Drone attacks near nuclear plants in the Middle East and Ukraine, combined with soaring AI electricity demand, are making utilities with nuclear assets and geographic redundancy more strategically valuable, driving M&A in the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A $400 Billion Megamerger"
+    },
+    {
+      "id": "5ca26176",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "European AI startups are accelerating their U.S. expansion at unprecedented speed, driven by enterprise demand that captures 80-81% of global venture capital in early 2026. While visa friction from the Trump administration poses challenges, deregulatory tailwinds favoring AI are outweighing immigration headwinds, as evidenced by Swedish startup Lovable reaching $6.6 billion valuation and $400 million ARR. The funding gap is widening dramatically, with U.S. companies capturing 83% of global VC in Q1 2026 versus Europe's modest 9% growth in 2025.",
+      "keyTakeaways": [
+        "European founders targeting enterprise AI solutions must prioritize U.S. market entry earlier in their lifecycle\u2014the traditional Series B timing for American expansion is collapsing as competition for enterprise AI budgets intensifies.",
+        "Visa policy headwinds (including $100K H-1B fees) are real but secondary to regulatory tailwinds; investors should evaluate European AI teams' ability to relocate key talent via O-1 visas rather than viewing immigration as a dealbreaker.",
+        "Europe's AI talent advantage (30% more per capita) is being structurally drained to the U.S., creating a persistent capital allocation problem\u2014European VCs may face talent scarcity even with sufficient dry powder, suggesting U.S.-focused exits will remain the dominant exit strategy."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "America is becoming European founders\u2019 Series B"
+    },
+    {
+      "id": "03d18b37",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "LIV Golf, the Saudi PIF-backed golf league struggling since losing its primary backer's support, is raising up to $250 million from new investors with a target of reaching profitability within 20 months. Meanwhile, deep-tech focused venture firm Playground Global closed its fourth fund at $475 million, maintaining its contrarian approach by investing in semiconductor materials, compute architectures, and energy technologies rather than following market trends toward orbital solutions.",
+      "keyTakeaways": [
+        "LIV Golf's fundraising pitch hinges on rebranding away from Saudi association, betting that new non-PIF capital can attract sponsors and audiences that were previously deterred by sports-washing concerns\u2014a key risk for investors considering this $5 billion-invested asset.",
+        "The $250 million raise represents a significant capital requirement with a tight October deadline, suggesting the league's cash runway is constrained and could require bridge financing if institutional investors prove skeptical of the profitability timeline.",
+        "Playground Global's $475 million fourth fund signals that contrarian deep-tech investing remains viable and well-capitalized, even as broader VC markets consolidate around proven trends, indicating potential bifurcation between trend-following and thesis-driven venture strategies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: LIV fights for life"
+    },
+    {
+      "id": "5d23d27f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News is hosting its second annual Energy Entrepreneurship 2026 conference, bringing together founders, investors, manufacturers, and bipartisan policymakers to discuss emerging clean energy technologies including batteries, next-generation geothermal, and nuclear fusion. The event will feature speakers including U.S. Representative Don Beyer, Qcells VP Scott Moskowitz, and Commonwealth Fusion Systems' head of federal affairs Trent Bauserman, with a focus on both technology deployment and the industrial manufacturing backbone required to scale the energy transition.",
+      "keyTakeaways": [
+        "Nuclear fusion and advanced geothermal are positioning themselves as mainstream investment categories alongside batteries\u2014Commonwealth Fusion Systems' presence signals investor confidence in near-term commercialization timelines for fusion technology.",
+        "Clean energy manufacturing and workforce development are emerging as equal-priority investment themes alongside technology innovation, reflecting capital's shift toward supply chain resilience and domestic production capacity.",
+        "Bipartisan political engagement at the policymaker level indicates regulatory clarity and potential government support mechanisms (likely tied to IRA implementation) are becoming key value drivers for clean energy entrepreneurs seeking to scale."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Upcoming Event: Energy Entrepreneurship 2026"
+    },
+    {
+      "id": "e774610e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "NextEra Energy agreed to acquire Dominion Energy in a $67 billion deal that would create a major battery storage giant. The merger is particularly significant for Virginia and the PJM Interconnection (13-state electricity market) as both the region and grid operator face substantial battery storage needs, while NextEra is already a storage leader in the renewable energy sector.",
+      "keyTakeaways": [
+        "Consolidation in energy storage: The NextEra-Dominion merger combines America's largest renewable developer with a major regional utility operator, creating potential market dominance in battery storage\u2014a critical infrastructure bottleneck in competitive electricity markets.",
+        "Regional grid implications: The deal addresses pressing storage deficits in Virginia and the PJM region, suggesting regulatory approval could hinge on demonstrating benefits to local grid reliability and data center growth (Dominion serves Virginia's booming data center sector).",
+        "Energy transition infrastructure play: Battery storage has emerged as the limiting factor for renewable deployment; large-scale M&A consolidation around storage capabilities signals this is where significant capital and strategic value concentration will occur in the energy transition."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Creating a Storage Giant"
+    },
+    {
       "id": "0c73a5ec",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5109,22 +5235,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 30
+      "count": 31
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 118
+      "count": 121
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 108
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 11
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 105
     },
     {
       "name": "Deep Tech & Science",
@@ -5137,5 +5263,5 @@
       "count": 14
     }
   ],
-  "lastUpdated": "2026-05-18T10:58:57.539551Z"
+  "lastUpdated": "2026-05-19T10:33:35.094234Z"
 }
