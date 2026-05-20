@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "0a12376c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-20",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral AI continues its acquisition strategy by acquiring Austrian startup Emmi AI, marking its second major acquisition after Koyeb earlier this year. The European tech ecosystem shows strong momentum across multiple sectors, with French startup Leadbay raising $4.3M post-Y Combinator to identify businesses invisible to LinkedIn, while a French-German merger between Singulier and Ommax aims to create a 400+ consultant AI consulting powerhouse targeting \u20ac80-100M in revenue.",
+      "keyTakeaways": [
+        "Mistral AI's acquisition strategy signals confidence in bolt-on growth for an AI foundation model company, expanding beyond core model development into complementary infrastructure and services businesses.",
+        "European medtech and healthtech are attracting significant capital allocation, with Lauxera oversubscribing its \u20ac520M fund to help European medical device companies scale into US markets, indicating a clear arbitrage opportunity between European and American valuations.",
+        "Horizontal consolidation is accelerating in European AI consulting and B2B software (Singulier-Ommax merger, Indy's legaltech acquisition), suggesting early-stage founders should consider whether their niches will face margin compression as larger platforms integrate competing functionality."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "20.05 - Mistral AI boucle une nouvelle acquisition !"
+    },
+    {
+      "id": "ff4bd7a2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Nasdaq Private Market and Hiive are competing for patent control over technology that standardizes venture secondary deals, signaling the growing importance of this market segment. NextEra Energy's $66.8 billion acquisition of Dominion Energy reflects accelerating consolidation in the utilities sector driven by massive power demand from AI data centers, with NextEra strategically gaining access to Northern Virginia's 'data center alley' and positioning itself to supply 15 gigawatts of power to data center hubs by 2035.",
+      "keyTakeaways": [
+        "The venture secondaries patent battle indicates this market is maturing rapidly enough to warrant intellectual property disputes\u2014investors should monitor which platform wins as it could set industry standards for deal execution and pricing",
+        "PE investors are increasingly targeting fragmented utility and energy infrastructure companies as a direct play on AI infrastructure buildout, with regulatory fragmentation across states creating acquisition opportunities similar to roll-up strategies in other sectors",
+        "The NextEra-Dominion deal and partnerships with tech giants like Google signal that energy infrastructure is now a core component of the AI supply chain, potentially creating a new asset class for infrastructure-focused PE funds and long-term power purchase agreements"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Patent fight in VC secondaries"
+    },
+    {
+      "id": "d81688a6",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Chinese state capital is dramatically reshaping the AI investment landscape, with government-linked investors participating in over 140 AI deals in 2025 compared to fewer than 10 annually before 2018. DeepSeek's $45-50 billion valuation raise led by China's Big Fund exemplifies this shift, as state entities strategically deploy capital into semiconductors and compute infrastructure where they can compete, even as overall Chinese AI deal volume has cooled to $10-11 billion annually since 2024. China has also tightened regulatory control, instructing companies like Moonshot AI and StepFun to seek government approval before accepting U.S. capital, marking a strategic pivot toward state-championed national champions over traditional venture models.",
+      "keyTakeaways": [
+        "State-backed capital is becoming the dominant funding mechanism for China's AI champions, with median semiconductor deal sizes reaching $30.48 million in 2026\u2014a structural shift that creates a bifurcated global AI market with different competitive dynamics than the U.S. private-capital model.",
+        "Companies identified as strategic national priorities by Beijing now require government approval for foreign capital, effectively nationalizing deal flow in critical sectors; Western VCs and strategics should expect increasing friction accessing Chinese AI and semiconductor investments.",
+        "The median deal size inflation in Chinese AI and semiconductors suggests government capital is consolidating around fewer, larger bets in specific sectors rather than diversifying across the startup ecosystem, indicating policy is weaponizing venture capital for industrial policy goals."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Chinese state capital is the new VC"
+    },
+    {
+      "id": "f0b53ef8",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Congressional Democrats introduced the Let Kids Play Act to ban private equity from investing in youth sports, citing a 46% rise in youth sports costs since 2019 and PE's practice of vertical integration to drive up prices through owning facilities, leagues, and ancillary services simultaneously. Several youth sports deals are currently in market including 3Step Sports and FloSports, though sponsors could potentially sidestep legislation by taking companies public. Meanwhile, Elon Musk lost his lawsuit against OpenAI, removing a potential tailwind for SpaceX's imminent IPO filing.",
+      "keyTakeaways": [
+        "PE-backed youth sports deals face significant regulatory risk if the Let Kids Play Act gains Republican co-sponsors; sponsors should model exit scenarios including forced divestitures or public market transitions as alternatives to private ownership.",
+        "The proposed legislation targets PE's vertical integration playbook in youth sports specifically, suggesting increased regulatory scrutiny on bundled service models across other consumer-facing PE investments where price inflation is visible to end users.",
+        "Active youth sports fundraising (3Step Sports, FloSports, League One Volleyball) occurs against a backdrop of bipartisan parent frustration with costs, creating political momentum for restrictions that could reshape deal structures and valuations in the sector."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 3,
+      "originalTitle": "Axios Pro Rata: PE sports ban"
+    },
+    {
+      "id": "69cea094",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-05-19",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Google and Apple are racing to deploy AI features on-device, with Google limiting advanced Android AI to flagship devices while Apple's redesigned Siri is expected to reach broader audiences. The AI funding market continues to show frothy valuations, with Anthropic raising $30 billion at a $900 billion valuation and Cerebras reaching a $95 billion peak market cap on IPO, while competition in AI security tools intensifies between Anthropic, OpenAI, and Microsoft.",
+      "keyTakeaways": [
+        "Edge AI deployment constraints are creating hardware stratification: Google's approach limits features to premium devices, while Apple's broader addressable base gives it distribution advantage\u2014investors should watch whose on-device AI reaches critical user mass first.",
+        "Late-stage AI funding valuations ($900bn for Anthropic) dwarf entire cohorts of venture-backed IPOs from the dot-com era, signaling either sustained conviction or significant risk of downside repricing when growth expectations normalize.",
+        "AI-powered cybersecurity tools are transitioning from research projects (Anthropic's Mythos deemed 'too dangerous') to commercial offerings (OpenAI's Daybreak for approved clients), creating new enterprise software categories that incumbents like Microsoft are rushing to integrate."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 643"
+    },
+    {
+      "id": "60b8c8e0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Toyota's bZ electric vehicle has unexpectedly captured the third-place position in monthly EV sales rankings, signaling the automaker's successful pivot into the electric vehicle market after years of hesitation. The achievement is notable given the competitive landscape where Tesla dominates the top two spots with the Model Y and Model 3, while other traditional automakers like Chevrolet have also competed for this positioning with models like the Equinox EV and original Bolt.",
+      "keyTakeaways": [
+        "Toyota's market performance shift demonstrates that late-mover disadvantage in EVs is not insurmountable for established automakers with manufacturing scale and brand loyalty, potentially reshaping competitive dynamics in the EV sector.",
+        "The battle for third place in EV sales is emerging as a critical indicator of competitive success among non-Tesla players, suggesting investors should monitor market share rankings beyond Tesla as a proxy for execution capability among legacy automakers.",
+        "Toyota's entry into EV top-3 positions indicates the EV market is maturing beyond Tesla's monopoly, with increasing consumer choice creating opportunities for diversified automotive portfolios and potentially supporting higher valuations for traditional automakers pivoting to electrification."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "How Toyota Became an EV Winner"
+    },
+    {
+      "id": "dbf53432",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Span, a smart electrical panel startup, is positioning itself as a new kind of utility by leveraging unused grid capacity to meet surging AI data center power demands. CEO Arch Rao argues that because the electric grid is oversized to handle peak demand spikes lasting only hours annually, demand shifting technologies can extract significantly more power from existing infrastructure faster and cheaper than traditional grid expansion.",
+      "keyTakeaways": [
+        "Span has identified a arbitrage opportunity in grid underutilization\u2014data centers face long waits for grid upgrades, but smart panel technology could unlock immediate capacity through demand management, positioning the company as critical infrastructure for AI deployment.",
+        "The smart electrical panel market is consolidating around utility partnerships and major brand deals, suggesting institutional validation and potential for significant market expansion as AI infrastructure demands accelerate.",
+        "Grid modernization through software-based demand shifting could become a more capital-efficient alternative to traditional utility infrastructure spending, potentially disrupting traditional utility business models and creating new investment opportunities in distributed energy management."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "A New Kind of Utility"
+    },
+    {
       "id": "45075596",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5235,17 +5361,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 31
+      "count": 32
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 121
+      "count": 124
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 15
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 108
+      "count": 110
     },
     {
       "name": "Fintech",
@@ -5256,12 +5387,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 7
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 14
     }
   ],
-  "lastUpdated": "2026-05-19T10:33:35.094234Z"
+  "lastUpdated": "2026-05-20T10:20:09.571864Z"
 }
