@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "873b5848",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-21",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France is accelerating its quantum and semiconductor funding strategy with President Macron's Friday announcement, while a major consortium led by Iliad is launching a \u20ac10 billion AI gigafactory candidacy. The newsletter highlights a wave of French AI startup funding, including Prelude's $20M Series A and Mister IA's \u20ac10M raise, reflecting growing European momentum in AI infrastructure and sovereign tech capabilities.",
+      "keyTakeaways": [
+        "France is positioning itself as a credible AI and quantum computing competitor to the US and China through coordinated state-backed infrastructure projects, presenting a significant opportunity for European tech investors to back state-favored champions and ecosystem plays",
+        "The \u20ac10 billion AION consortium demonstrates that European AI competitiveness increasingly depends on infrastructure plays rather than pure software innovation, signaling a shift in where capital should flow within the tech stack",
+        "French AI startups are attracting top-tier international venture capital (20VC, Seedcamp) and strategic CVC from major corporations, indicating strong portfolio momentum for European VCs betting on the continent's AI sovereignty narrative over the next 3-5 years"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "21.05 - Quantique : Macron va annoncer vendredi son acte 2 pour les champions fran\u00e7ais"
+    },
+    {
+      "id": "d8b39809",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Google and Blackstone have formed a joint venture to offer artificial intelligence computing power as a service, expanding beyond traditional data center investments into the ownership and financing of compute hardware itself. The partnership allows Google to expand its TPU chip market beyond Google Cloud while enabling Blackstone to own the computing assets within data centers rather than just the facilities. This move reflects the broader rush of private capital into AI infrastructure, though it introduces underwriting challenges due to the rapid depreciation of AI chips compared to traditional 15-year data center leases.",
+      "keyTakeaways": [
+        "PE firms can now own and monetize computing hardware directly through infrastructure partnerships, creating a new asset class beyond real estate\u2014though underwriting remains difficult given TPU generations become obsolete within 3 years versus 15-year data center lifecycles.",
+        "Google's strategy to expand TPU adoption through third-party financing suggests mounting competitive pressure from Nvidia's GPU dominance and signals that chip makers are willing to share equity upside to secure market share in AI infrastructure.",
+        "The venture demonstrates that AI infrastructure investing is evolving from simple facility ownership into complex bundled products combining hardware, software, and cloud services, requiring investors to develop new expertise in chip lifecycle management and residual value assessment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Blackstone goes beyond the data center"
+    },
+    {
+      "id": "dd4c24e7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. clean energy investment declined 3% in Q1 2026 to $61 billion, marking the second consecutive quarterly drop and ending a seven-year growth streak, with clean manufacturing investments plummeting 34% year-over-year as federal EV tax credits were eliminated. Despite federal headwinds, six states including Virginia, Colorado, and New York posted double-digit increases in clean electricity investments, while global EV sales are projected to reach 30% of new car markets in 2026.",
+      "keyTakeaways": [
+        "Federal policy reversal is crushing domestic clean tech manufacturing (down 34% YoY) and battery production (down 47% YoY), signaling a dangerous retreat in U.S. competitiveness in critical green infrastructure sectors",
+        "State-level divergence presents a fragmented investment landscape where Virginia, Colorado, New Mexico, Oklahoma, Michigan, and New York are becoming de facto safe havens for clean energy capital, creating potential M&A and expansion opportunities in these jurisdictions",
+        "The global EV market acceleration (30% projected share in 2026) contrasts sharply with U.S. domestic investment declines, suggesting American investors and manufacturers risk ceding market share to Chinese and European competitors while domestic supply chains deteriorate"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A Broken Streak"
+    },
+    {
+      "id": "3b7bad67",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Metropolis, an AI computer vision infrastructure company, has built a $5 billion valuation by automating parking and vehicle recognition across 4,200+ U.S. locations, processing $5 billion in annual payment volume. The company completed a $1.5 billion take-private of SP+ in 2024 (largest venture-backed M&A that year), raised $1.6 billion in November 2025 including a $1.1 billion Term Loan B, and is expanding into autonomous vehicle management and urban air mobility through partnerships with Joby Aviation, signaling a shift from legacy parking operations into next-generation mobility infrastructure.",
+      "keyTakeaways": [
+        "The 'growth buyout' hybrid model\u2014combining AI software with traditional infrastructure assets\u2014is proving highly fundable across the capital stack: UP Partners and Slow Ventures at early stage, through Vista and Silver Lake as growth investors, to private equity (BDT, MSD, Eldridge) and debt markets (JPMorgan's TLB). This structure may represent a replicable playbook for modernizing legacy industries.",
+        "Legacy liabilities matter: an $8.75 million Tennessee AG settlement for deceptive pricing and ongoing DPPA class action litigation reveal that acquiring distressed parking operators comes with regulatory and consumer trust baggage that can undermine valuation multiples and require significant capital allocation to remediate.",
+        "The convergence of autonomous vehicles, electric vehicle charging, urban air mobility (vertiports), and biometric recognition into parking infrastructure suggests physical real estate may become the critical chokepoint and platform for next-gen mobility\u2014not the vehicles or software themselves\u2014creating a rare opportunity for infrastructure-first investors."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "Where Waymo sleeps at night"
+    },
+    {
+      "id": "62936d94",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Tech buyouts have collapsed to just $9.3 billion globally across April-May 2026, down 82% from March's $52.6 billion, as AI breakthroughs from Claude and Codex have paralyzed the buyside while private credit liquidity has drained. Meanwhile, healthcare consolidation is accelerating with GHO Capital and CBC Group merging to form a $21 billion AUM firm, signaling smaller PE players must scale to compete against generalist giants crowding the sector.",
+      "keyTakeaways": [
+        "Tech M&A is in severe freeze mode: buyers are paralyzed by AI disruption uncertainty and sellers are walking away from deeply discounted offers, meaning deal flow will likely remain depressed until 2-3 more quarters of AI impact data emerges.",
+        "Private equity is adapting through alternative structures: continuation vehicles and convertible preferred rounds are being used to preserve valuations and manage portfolio risk during the liquidity crunch\u2014a sign the market is under real stress.",
+        "Healthcare consolidation accelerating: smaller PE firms must merge to reach scale and compete with generalists; future healthcare exits may depend on whether AI-driven drug discovery startups can actually deliver on transformation promises still unfulfilled."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Frozen"
+    },
+    {
+      "id": "687dbbd2",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "NextEra Energy and Dominion Energy announced a $67 billion all-stock merger creating the world's largest regulated electric utility, strategically combining NextEra's renewable energy pipeline and battery storage capabilities with Dominion's dominance in data center connections\u2014particularly in Northern Virginia where Dominion has contracted 51 GW of large-load capacity. The merged entity claims a 130 GW large-load position, nearly matching NextEra's entire current 110 GW generation portfolio, positioning it to serve hyperscaler AI demands through co-located generation, storage, and load hubs.",
+      "keyTakeaways": [
+        "The merger creates a utility-scale platform specifically designed to capture AI infrastructure buildout: NextEra gains access to Dominion's densest hyperscaler real estate in Northern Virginia while contributing renewable generation and battery storage to meet 130 GW of contracted capacity.",
+        "Battery storage emerges as undervalued deal leverage\u2014NextEra contracted 1.3 GW in Q1 2026 alone with strong supply chains, while Virginia targets 20 GW by 2045, creating a critical moat in the data center hub model of co-locating generation with AI load.",
+        "Near-term buildout to 130 GW capacity must rely on renewables and storage by default since new gas-fired generation won't scale until 2030, signaling accelerated capital deployment into renewable and battery assets rather than fossil fuel infrastructure despite recent gas partnerships."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "What does NextEra-Dominion mean for AI?"
+    },
+    {
+      "id": "d573ac6f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration justified a nearly $1 billion settlement with TotalEnergies to buy back the French company's U.S. offshore wind leases by citing national security concerns from the Department of War. However, emails obtained by House Democrats suggest the administration's timeline for these security concerns may have been fabricated, raising questions about the true motivations behind the deal.",
+      "keyTakeaways": [
+        "Major government-backed buyout deals in renewable energy may face political scrutiny and potential legal challenges if the stated rationales don't align with documented timelines, creating deal risk for energy companies with U.S. offshore assets.",
+        "TotalEnergies faced significant capital loss on its U.S. offshore wind leases, signaling regulatory and political risks in the American offshore wind sector that investors should price into future project valuations.",
+        "The politicization of offshore wind development and national security justifications for killing renewable projects may deter foreign energy capital investment in U.S. clean energy infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Trump \u2018Fabricated\u2019 Timeline in Offshore Wind Deal, House Democrat Says"
+    },
+    {
+      "id": "1ef51364",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Western states have formed the Mountain West Geothermal Consortium to streamline financing and permitting for geothermal energy development across state lines, addressing regulatory fragmentation that hinders project advancement. The initiative arrives as geothermal gains bipartisan political support and next-generation developer Fervo Energy recently raised nearly $2 billion in its initial public offering, signaling substantial capital appetite for the sector.",
+      "keyTakeaways": [
+        "Geothermal energy has become a rare bipartisan priority in U.S. politics due to its carbon-free profile and compatibility with existing oil and gas infrastructure, creating favorable conditions for policy support and capital deployment.",
+        "Regulatory coordination across state lines is now emerging as a critical bottleneck for geothermal scaling; consortium formation suggests market recognition that streamlined permitting and financing frameworks will unlock project development and investor returns.",
+        "The $2 billion Fervo IPO demonstrates institutional confidence in next-generation geothermal technology viability, positioning the sector as a growth opportunity within the broader energy transition despite historical underinvestment relative to solar and wind."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Geothermal Rises in the West"
+    },
+    {
       "id": "0a12376c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5361,22 +5505,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 32
+      "count": 33
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 124
+      "count": 127
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 114
     },
     {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 15
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 110
     },
     {
       "name": "Fintech",
@@ -5389,5 +5533,5 @@
       "count": 7
     }
   ],
-  "lastUpdated": "2026-05-20T10:20:09.571864Z"
+  "lastUpdated": "2026-05-21T10:32:49.921226Z"
 }
