@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "c356507e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-22",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France attracted 53 foreign AI projects in 2025, outpacing European neighbors according to EY's 2026 attractiveness barometer, driven by data center and low-carbon energy initiatives following the AI Summit and \u20ac109 billion investment plan. Pivot, a French agentic AI startup for enterprise procurement automation, raised $40 million in Series B funding after winning customers like Doctolib, Deezer, and Pennylane.",
+      "keyTakeaways": [
+        "France is establishing competitive advantage in AI infrastructure investment\u2014data centers and energy are attracting more foreign projects than Germany, UK, or other neighbors, signaling opportunity in hard infrastructure plays supporting AI workloads",
+        "Agentic AI for enterprise automation remains a high-conviction area with strong follow-on funding; Pivot's $40M Series B validates market appetite for workflow optimization solutions targeting mid-market and enterprise buyers",
+        "Government-backed AI strategy with substantial capital commitments (\u20ac109B plan) is creating a sticky ecosystem effect\u2014infrastructure, capital, and talent concentration may compound France's position as a tier-1 AI hub"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "22.05 - IA : la France attire plus de projets \u00e9trangers que ses voisins europ\u00e9ens"
+    },
+    {
+      "id": "a845edd4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX filed its S-1 for what could be the largest IPO in history, potentially valuing the company at $1.75-2 trillion despite a $4.9 billion net loss on $18 billion in revenue. The filing reveals Starlink accounts for 70% of revenue with over 10 million subscribers, while the recently acquired xAI lost $6.3 billion on $3.2 billion in revenue, highlighting the capital intensity of frontier AI development and raising questions about whether the IPO will reignite public market appetite for other high-growth startups.",
+      "keyTakeaways": [
+        "SpaceX's massive valuation relative to current profitability suggests investor appetite is driven by growth potential and optionality rather than fundamentals, which could signal either a reopening IPO window or unsustainable market exuberance for capital-intensive tech.",
+        "The xAI acquisition and resulting losses demonstrate the competitive pressure in AI infrastructure, where companies must spend aggressively to remain viable\u2014a key consideration for PE/VC firms evaluating AI-related investments and exit timing.",
+        "The SpaceX IPO reaction, particularly toward xAI, will likely set the tone for other pending IPOs like OpenAI's, making this filing a crucial market test for whether late-stage high-burn AI and deeptech companies can access public capital markets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Liftoff: Your guide to SpaceX's S-1"
+    },
+    {
+      "id": "4f914cf9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. solar manufacturing sector is experiencing explosive growth with nearly 30 new utility-scale factories launched last year, creating capacity to produce over 60 gigawatts of panels annually\u2014more than double the projected 35 gigawatt demand through 2030. However, upstream solar cell manufacturing remains a bottleneck with only three active factories, while battery storage is approaching domestic self-sufficiency with five new anode material plants expected online by year-end. Meanwhile, global oil markets are showing signs of easing as major tankers successfully navigate the Strait of Hormuz, potentially softening the energy crisis that has defined markets since early 2026.",
+      "keyTakeaways": [
+        "Solar module manufacturing capacity has surged 1,600% over five years and now vastly exceeds demand, signaling a potential overcapacity problem that could compress margins and trigger consolidation in the sector despite protectionist tariffs and tax credit policies.",
+        "The critical bottleneck shifting upstream to solar cell production\u2014with only three active U.S. factories against pipeline demand\u2014creates a targeted investment opportunity in cell manufacturing before 2030 and suggests current module capacity growth may prove stranded without corresponding domestic cell production.",
+        "The convergence of domestic battery self-sufficiency by year-end and potential oil market softening could trigger a major rotation in energy infrastructure investment toward electrification, making integrated solar-storage-cell producers the likely winners versus pure module manufacturers."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "It Starts With a Trickle"
+    },
+    {
+      "id": "1b2f536f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX filed for IPO after two decades as a private company, revealing a complex corporate structure combining rockets, Starlink satellite internet, the X social media platform, and AI ventures including a proposed $60 billion acquisition of coding AI startup Cursor. The S-1 filing shows X's advertising revenue declined by $595 million in 2024 with an 11.5% overall revenue drop due to advertiser losses, though subscription revenue grew $157 million, while Starlink financially bolsters the overall business and Anthropic pays SpaceX $15 billion annually.",
+      "keyTakeaways": [
+        "SpaceX's IPO represents a rare opportunity to invest in a diversified space-tech conglomerate with profitable Starlink operations offsetting losses in X, but investors face concentrated voting control with Elon Musk retaining 85% voting power post-IPO, limiting minority shareholder influence on strategy.",
+        "The proposed Cursor acquisition signals SpaceX's pivot toward AI infrastructure and coding tools as a core business pillar rather than a satellite-launch company, requiring investors to reassess valuation multiples and competitive positioning against pure-play AI firms.",
+        "X's sustained advertising revenue decline despite Musk's ownership raises questions about the platform's long-term viability as a profitable business unit within the SpaceX IPO structure, making the overall investment thesis dependent on whether Starlink and AI ventures can compensate for this drag."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "To infinity and IPO"
+    },
+    {
+      "id": "4d3b2632",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX filed for its IPO seeking a $1.75 trillion valuation despite reporting a $4.9 billion net loss on $18.67 billion in revenue for 2025, with only its Starlink division profitable while its AI unit serves as a major cash drain. The U.S. government announced $2 billion in CHIPS Act grants with equity stakes in nine quantum computing companies, marking a significant shift toward government co-investment in high-risk tech sectors, with IBM receiving half the funding for a quantum chip foundry spinout.",
+      "keyTakeaways": [
+        "SpaceX's valuation depends entirely on investor belief in its unprofitable AI unit and the $1.25 billion monthly Anthropic compute deal (cancelable with 90 days notice), making the investment thesis heavily narrative-driven rather than fundamentals-based\u2014a significant execution risk.",
+        "The government's equity participation in quantum companies signals a new capital allocation paradigm where policy-makers are co-investing in speculative tech bets, potentially reshaping venture capital dynamics and creating implicit government backing for these sectors.",
+        "Starlink's declining ARPU despite subscriber growth suggests saturation risks in the satellite broadband market, while the massive equipment lease obligations to Valor Equity Partners ($20+ billion) create hidden debt-like structures that may constrain financial flexibility."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: SpaceX marks the spot"
+    },
+    {
+      "id": "211690e9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "John Berger, former CEO of Sunnova, is launching Otovo with plans for a U.S. listing by year-end, targeting the rooftop solar repair and maintenance market. Berger's previous company, Houston-based Sunnova, filed for Chapter 11 bankruptcy in June 2025 after accumulating significant debt from its solar leasing business and losing a $3 billion government loan under the Trump administration. The analysis draws parallels to automotive aftermarket services, suggesting recurring maintenance revenue could be more sustainable than upfront solar installation sales.",
+      "keyTakeaways": [
+        "Solar industry veterans are pivoting from capital-intensive installation/leasing models toward recurring-revenue service businesses, signaling that the sustainable unit economics in residential solar may lie in long-term maintenance contracts rather than panel deployment.",
+        "Government policy risk\u2014particularly loan cancellations\u2014remains a critical threat to solar companies reliant on federal financing, making investors wary of overlevered solar platforms dependent on favorable policy regimes.",
+        "The failure of Sunnova's subscription model despite 13 years of CEO efforts suggests market timing and operational challenges in converting solar customers to maintenance plans, presenting both a cautionary tale and potential opportunity for better-capitalized competitors entering the space."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Sunnova\u2019s Former CEO Is Bullish on Rooftop Solar Repair"
+    },
+    {
+      "id": "55a589d3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Two conflicting reports on U.S. clean energy manufacturing present a puzzling picture: the Rhodium Group's Clean Investment Monitor shows declining investment in domestic solar and battery production facilities, while the American Clean Power Association reports staggering recent growth in production capacity. The contradiction raises questions about whether U.S. clean energy manufacturing is experiencing genuine expansion or masking underlying weakness in capital deployment.",
+      "keyTakeaways": [
+        "Investment capital flowing into U.S. solar and battery manufacturing is declining despite announced capacity growth, suggesting a potential gap between stated expansion plans and actual funding commitment\u2014a critical signal for investors evaluating the sustainability of domestic clean tech supply chains.",
+        "The divergence between investment trends and production capacity metrics indicates market inefficiency or timing misalignment; investors should investigate which facilities are actually operational versus planned, and whether capacity announcements will materialize without renewed capital commitment.",
+        "This split signal suggests the clean energy manufacturing sector may be entering a consolidation phase where early players are maturing while new capital is drying up, creating potential acquisition targets and pressure on valuations across solar and battery manufacturing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Boom or Bust?"
+    },
+    {
       "id": "873b5848",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5505,17 +5631,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 33
+      "count": 34
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 127
+      "count": 130
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 114
+      "count": 117
     },
     {
       "name": "Strategy & Thesis",
@@ -5533,5 +5659,5 @@
       "count": 7
     }
   ],
-  "lastUpdated": "2026-05-21T10:32:49.921226Z"
+  "lastUpdated": "2026-05-22T10:17:14.633933Z"
 }
