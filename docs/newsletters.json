@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "8c7eb939",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US PE fundraising recovered sharply in early 2026, with mid-market funds ($100M-$5B) capturing 65% of the nearly $120 billion raised in the first four months, up from 56% last year. However, experts warn this recovery may not be sufficient for many smaller managers, as LP selectivity persists and some GPs are walking away from underfunded vehicles. Key headwinds include consumer retail dealmaking hitting a 12-year low, while earnout provisions in over 20% of VC-backed startup acquisitions signal buyer dominance.",
+      "keyTakeaways": [
+        "Mid-market PE fundraising is accelerating but selective LP behavior means capital is concentrating among stronger performers\u2014smaller managers face 12-18 months of continued pressure, forcing headcount cuts and portfolio holds",
+        "The prevalence of earnout provisions (1 in 5 VC deals) indicates seller concessions remain structural; buyers retain leverage despite improved exit activity, limiting full exit valuations",
+        "Consumer retail PE dealmaking at 12-year lows combined with macroeconomic uncertainty (tariffs, rate clarity, inflation) suggests deal velocity gains may not translate broadly across sectors, creating uneven recovery dynamics"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Mid-market recovery: Too little, too late"
+    },
+    {
+      "id": "edc5be5f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic is experiencing unprecedented demand in the secondary markets as it prepares for a widely expected IPO in 2026, with the company raising up to $50 billion at a $900 billion valuation. The feeding frenzy has created such frothy conditions that investors are wiring hundreds of thousands of dollars to brokers for share blocks without verification, driven by pent-up demand and limited access paths to the company's equity. This secondary market scramble reflects the extreme investor appetite for exposure to one of AI's leading companies before its public debut.",
+      "keyTakeaways": [
+        "Secondary markets for pre-IPO shares are experiencing extreme price discovery mechanisms and verification gaps\u2014investors are transacting without confirming share authenticity, signaling both desperation for allocation and potential fraud risks in unregulated secondary trading.",
+        "The 48-hour allocation window Anthropic imposed created artificial scarcity that supercharged demand, suggesting companies can use time-constraint mechanisms to generate frenzied bidding in capital raises, though this raises questions about market efficiency.",
+        "The gap between annualized revenue run rates ($45 billion claimed) and actual realized performance, combined with valuations exceeding $900 billion pre-IPO, indicates the AI sector is pricing in aggressive growth assumptions that may not materialize, potentially creating significant downside risk for late-stage secondary buyers."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "Anthropic\u2019s share sale frenzy"
+    },
+    {
+      "id": "5d817651",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Wonder, Marc Lore's labor-light restaurant platform, is shifting strategy to acquire small regional restaurant brands ahead of a planned 2027 IPO, starting with a $6 million acquisition of Blue Ribbon Fried Chicken and planning two deals per quarter. The company, valued at $7 billion after raising $2.4 billion, is also developing an AI tool to let creators launch branded restaurants on its platform with profit-sharing incentives, while the broader AI sector faces regulatory uncertainty after Trump delayed signing an AI executive order amid developer concerns.",
+      "keyTakeaways": [
+        "Wonder's pivot toward small restaurant acquisitions signals a rollup play targeting under-the-radar regional brands with loyal customer bases, likely a more efficient path to scale than building from scratch, with 130 existing locations providing distribution backbone for acquired concepts.",
+        "The creator economy AI tool launching soon could represent a new venture model where Wonder captures platform economics from third-party entrepreneurs without capital commitment, similar to successful creator platforms like Shopify or Substack.",
+        "AI regulatory uncertainty is creating investment volatility even as companies like Hark ($6B valuation) and Modal ($4.65B valuation) continue raising massive rounds, suggesting investor appetite remains strong but risk premium is increasing until policy clarity emerges."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Let's eat"
+    },
+    {
+      "id": "2e4305ba",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-05-22",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The U.S. nuclear industry faces a critical shortage of enriched uranium as next-generation reactors aim for deployment this decade, with BWX Technologies and Centrus Energy racing to rebuild domestic enrichment capabilities abandoned since the Cold War. The newsletter highlights a portfolio of deep tech opportunities spanning nuclear fuel supply chains, biomanufacturing for organ transplants, grid-scale battery storage, quantum computing commercialization, and space-based infrastructure, reflecting significant government support and private capital competition across defense and energy sectors.",
+      "keyTakeaways": [
+        "Nuclear fuel supply represents a near-term bottleneck with geopolitical implications: U.S. developers of next-gen reactors could face deployment delays without domestic enriched uranium production, creating urgent M&A and government contracting opportunities for suppliers like BWX Technologies and Centrus Energy.",
+        "Biomanufacturing, grid batteries, and quantum computing are reaching inflection points where technical breakthroughs are translating into commercial deployment windows, suggesting investor focus should shift from R&D-stage companies toward those positioned for near-term commercialization and government procurement cycles.",
+        "Defense and space infrastructure modernization is becoming a consistent capital theme, evidenced by in-space refueling demos, autonomous ground robots in active conflict, and satellite servicing capabilities, indicating sustained government spending that extends traditional defense tech investment horizons."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 162: The race to develop American-made nuclear fuel"
+    },
+    {
+      "id": "0a378cb6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter episode features UCLA environmental law professor Ann Carlson discussing her book 'Smog and Sunshine,' which examines how Los Angeles successfully cleaned up its air pollution and the global implications of that achievement. The piece highlights how LA's air quality improvement serves as a model for environmental regulation and policy implementation worldwide, positioning the city's experience as a case study in effective climate and energy intervention.",
+      "keyTakeaways": [
+        "LA's air quality turnaround demonstrates the viability and scalability of environmental remediation policies, suggesting investment opportunities in clean air technologies, emission control systems, and regulatory compliance infrastructure that can be adapted globally",
+        "The narrative suggests that initial policy failures (misdiagnosing pollution causes) were eventually corrected through better science and regulation, indicating that ESG-focused investors should evaluate companies based on adaptive capacity and evidence-based environmental strategies rather than early-stage missteps",
+        "This macro-level success story validates the long-term commercial potential of climate regulation and clean energy markets, as demonstrated environmental victories attract both capital and policy support that can sustain growth in related sectors"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Shift Key: How Los Angeles Cleaned Up the World\u2019s Air Pollution"
+    },
+    {
+      "id": "136efcbc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rising electricity prices are forcing consumers to reduce energy consumption despite extreme heat, with Tampa Electric raising rates 84% since 2020 while customers used 14% less power during record temperatures. The analysis from the Electricity Price Hub reveals that over 200 utilities nationwide are seeing customers pay more while using less, with low-income and middle-class households facing the worst impacts of this affordability crisis.",
+      "keyTakeaways": [
+        "Energy affordability is becoming a critical infrastructure crisis: when consumers reduce air conditioning usage during record-breaking heat waves, utilities face both revenue pressure and public health liability, creating urgent demand for alternative business models and regulatory intervention",
+        "The disconnect between energy consumption and billing creates investment opportunities in energy efficiency solutions, distributed solar (as seen in Southern California Edison's 24% usage reduction), and demand management technologies that utilities must adopt to manage this dynamic",
+        "This trend signals growing political and social pressure on regulated utilities, suggesting potential headwinds for traditional utility stocks while creating tailwinds for cleantech, microgrids, storage solutions, and companies addressing energy insecurity"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Cruel Summer"
+    },
+    {
       "id": "c356507e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5629,19 +5737,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 34
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 130
+      "count": 133
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 8
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 117
+      "count": 119
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 34
     },
     {
       "name": "Strategy & Thesis",
@@ -5652,12 +5765,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 11
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 7
     }
   ],
-  "lastUpdated": "2026-05-22T10:17:14.633933Z"
+  "lastUpdated": "2026-05-23T08:58:12.232042Z"
 }
