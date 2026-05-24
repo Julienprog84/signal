@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "226b2d55",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's S-1 filing emphasizes AI as its primary growth narrative, allocating 93% of its $28.5 trillion TAM to AI and dedicating 47% of segment-specific language to the topic. However, the company deleted a critical disclosure showing its Colossus II clusters cost $2.7 million per megawatt\u2014roughly four times cheaper than industry benchmarks\u2014and its $15 billion annual compute contract with Anthropic generates positive cash flow within weeks, revealing that AI infrastructure, not models, is the true commercial engine.",
+      "keyTakeaways": [
+        "SpaceX's infrastructure economics are dramatically better than disclosed: the Anthropic deal alone recoups AI capex in under one month, validating compute as a standalone asset independent of proprietary AI models like Grok.",
+        "The filing shows a major narrative-to-economics gap for IPO investors: AI accounts for 47% of filing language but only 6.7% of revenue and a $14 billion free cash flow loss, while Starlink delivers 61% of revenue and nearly all free cash flow with 63% EBITDA margins.",
+        "The Anthropic partnership signals that AI infrastructure commoditization benefits hardware providers over model developers, suggesting investors should distinguish between AI narrative companies and profitable infrastructure plays in the AI buildout cycle."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The revealing omission in SpaceX's S-1"
+    },
+    {
       "id": "8c7eb939",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -5739,7 +5757,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 133
+      "count": 134
     },
     {
       "name": "Deep Tech & Science",
@@ -5767,5 +5785,5 @@
       "count": 11
     }
   ],
-  "lastUpdated": "2026-05-23T08:58:12.232042Z"
+  "lastUpdated": "2026-05-24T09:14:17.717898Z"
 }
