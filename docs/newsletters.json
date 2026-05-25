@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "7cef5574",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-25",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Nvidia's investment in French quantum computing startup Alice & Bob signals major validation for Europe's quantum sector, coinciding with President Macron's announcement of an additional \u20ac1 billion in government funding for quantum technology over five years. French startups demonstrated strong fundraising momentum this week, raising \u20ac126 million across deals with an average ticket of \u20ac18 million, driven largely by AI-focused companies which captured \u20ac96.1 million of that total.",
+      "keyTakeaways": [
+        "Nvidia's capital entry into Alice & Bob represents institutional-grade validation of European quantum computing, potentially opening doors for follow-on funding and strategic partnerships in a sector previously dominated by US players",
+        "France's \u20ac1 billion quantum investment commitment creates a clear policy tailwind for deep tech startups in this space, suggesting durable government support that reduces execution risk for new entrants and scaling ventures",
+        "AI companies continue to dominate French fundraising with 76% of weekly capital, but the surge in quantum funding announcements indicates investor appetite is diversifying beyond generative AI into harder technical problems with longer time horizons"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "25.05 - Quantique : Nvidia entre au capital d\u2019Alice & Bob"
+    },
+    {
+      "id": "abce975d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Wealth advisers are increasingly serving high-net-worth retail investors who command large capital pools and exhibit institutional-quality investment characteristics, driving demand for alternative asset access and institutional-grade research. US private credit spreads have widened 50-100 basis points since January to around 525 bps, while European spreads remain flat at approximately 509 bps, shifting the historical dynamic where European credit commanded higher pricing premiums. KKR expects software M&A to accelerate, generating liquidity and refinancing opportunities for lenders in the sector.",
+      "keyTakeaways": [
+        "High-net-worth retail investors are now behaving like institutional investors with comparable time horizons, risk appetite, and capital bases\u2014creating a new market segment that wealth advisers and consultants are racing to serve with institutional-grade products and research.",
+        "US private credit spreads have diverged sharply from Europe in 2026, with US lenders able to demand 50-100 bps more from borrowers amid broader market volatility, while European spreads remain unchanged\u2014this narrows or potentially eliminates the historical 25-150 bps European premium, reshaping cross-Atlantic capital allocation decisions.",
+        "Software sector M&A is positioned for acceleration according to KKR, which should unlock significant M&A activity and create new refinancing opportunities for lenders\u2014this suggests lenders should prioritize software exposure in direct lending portfolios over the near term."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "High-net-worth remake"
+    },
+    {
+      "id": "3344cca2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic has reportedly surpassed OpenAI in valuation, signaling a shift in investor confidence and enterprise adoption between the two AI rivals. The newsletter examines high-burn AI companies like xAI, which is spending over $1 billion monthly on GPU clusters betting on autonomous physical agents, while highlighting emerging opportunities in AI infrastructure financing\u2014evidenced by Blackstone and Google's $5 billion joint venture treating chips and compute contracts as financeable assets.",
+      "keyTakeaways": [
+        "Anthropic's valuation flip above OpenAI reflects real market divergence in investor confidence and enterprise traction\u2014this signals a competitive reshuffling in frontier AI that could reshape downstream capital allocation away from OpenAI ecosystem bets.",
+        "xAI's $1B+ monthly burn represents a high-risk, high-reward bet on execution speed rather than recklessness; if autonomous agents materialize before competitors scale GPU capacity, losses become a bargain\u2014otherwise it becomes the largest venture correction in AI history.",
+        "AI infrastructure is becoming a new asset class: Blackstone-Google's model treats compute capacity as financeable infrastructure rather than pure tech capex, opening new capital sources and extending runway for GPU-constrained AI companies scaling aggressively."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "OpenAI, Anthropic's next balancing act"
+    },
+    {
+      "id": "1c28d70d",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-24",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Community Federal Savings Bank (CFSB), a single-branch Queens bank, has been hit with a BSA/AML enforcement action despite rapid growth from $140 million in assets (2017) to nearly $900 million (2024), driven largely by fintech partnerships including relationships with Airwallex, Wise, Payoneer, and other cross-border payment platforms. The enforcement action highlights regulatory risks in the fintech banking-as-a-service model, particularly around compliance infrastructure for high-velocity, international transaction volumes.",
+      "keyTakeaways": [
+        "Fintech BaaS partnerships can drive explosive deposit growth but create compliance liabilities\u2014CFSB's 6x asset expansion in seven years may have outpaced its AML monitoring capabilities, signaling that rapid scaling without proportional compliance investment triggers regulatory action.",
+        "Multi-currency and cross-border payment fintechs using bank partnerships face heightened scrutiny; investors backing platforms in this space should expect their banking partners to face increased regulatory costs and operational friction, potentially impacting unit economics and growth timelines.",
+        "The BSA/AML enforcement trend signals a broader regulatory shift toward holding small and mid-sized banks accountable for their fintech ecosystems\u2014expect more enforcement actions and potential de-risking by banks of marginal fintech partnerships, constraining growth for smaller payment platforms."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "CFSB Hit With BSA/AML Enforcement Action"
+    },
+    {
+      "id": "3344cca2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A federal jury rejected Elon Musk's lawsuit against OpenAI, clearing a major legal overhang ahead of the company's anticipated IPO. Both OpenAI and Anthropic have adopted public benefit corporation structures, which legally require balancing profits with public good missions, though enforcement remains largely discretionary under Delaware law and the 'business judgment rule.' The ruling raises questions about how investors will value AI companies with dual profit and societal benefit mandates when they enter public markets.",
+      "keyTakeaways": [
+        "OpenAI's path to IPO is now clearer after the Musk lawsuit dismissal, but its public benefit corporation status will test whether institutional investors accept corporate structures that prioritize AGI safety alongside shareholder returns.",
+        "The legal enforceability of PBC missions is weak\u2014Delaware law gives boards wide discretion, meaning OpenAI and Anthropic could justify nearly any business decision as advancing their stated public benefit goals, reducing actual accountability.",
+        "Anthropic's recent valuation milestone (reportedly exceeding OpenAI's) suggests the market may not yet be pricing in the governance complexity of AI companies structured as PBCs, presenting both valuation risk and opportunity for sophisticated investors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "OpenAI, Anthropic's next balancing act"
+    },
+    {
       "id": "226b2d55",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -5755,9 +5845,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 35
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 134
+      "count": 137
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 12
     },
     {
       "name": "Deep Tech & Science",
@@ -5770,20 +5870,10 @@
       "count": 119
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 34
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 15
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 11
     }
   ],
-  "lastUpdated": "2026-05-24T09:14:17.717898Z"
+  "lastUpdated": "2026-05-25T11:05:28.935875Z"
 }
