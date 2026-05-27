@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "31295acb",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral AI is hosting a major client and partner event at the Louvre in Paris on May 28th, attracting C-suite executives from major corporations like CMA CGM and TotalEnergies, signaling strong enterprise adoption momentum. The newsletter covers multiple investment themes including AI compliance infrastructure (Certo backed by Daphni, Motier Ventures, and Entrepreneurs First), geothermal energy as a solution for AI data center power demands, and emerging competitive dynamics around AI visibility optimization and data governance challenges.",
+      "keyTakeaways": [
+        "Mistral AI's high-profile enterprise engagement event signals that European AI infrastructure companies are successfully attracting Fortune 500 adoption, validating a sustainable B2B revenue model beyond open-source positioning.",
+        "The Certo funding round demonstrates active investor conviction in regulatory compliance and operational infrastructure plays within AI\u2014often overlooked but mission-critical layers for enterprise AI deployment.",
+        "Geothermal energy and sustainable power solutions for AI data centers represent an emerging capital opportunity as energy constraints become the binding constraint on AI scaling, particularly relevant for European energy sovereignty narratives."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "27.05 - Mistral AI s\u2019appr\u00eate \u00e0 faire le show au Louvre"
+    },
+    {
+      "id": "a3dac6b8",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-26",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France's government announced an additional \u20ac1 billion in funding for its quantum technology sector, reinforcing a national strategy launched five years ago alongside increased focus on semiconductors. European quantum startups like Quandela argue the sector now requires industrial partnerships and commercial deployment beyond research support to compete globally and create genuine champions.",
+      "keyTakeaways": [
+        "French government quantum funding increase signals sustained policy commitment to deep-tech, but sector requires industrial adoption and commercial orders to convert research into scalable businesses\u2014pure R&D funding is insufficient",
+        "European quantum startups face a valley-of-death between scientific excellence and market traction; investors should prioritize companies with defined industrial partnerships and clear paths to revenue rather than technology-first approaches",
+        "Quantum technology competition is accelerating globally; European advantage in fundamental science could erode without deliberate effort to create demand-side dynamics and anchor industrial customers"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "26.05 - Quantique : quelle suite pour la strat\u00e9gie nationale ?"
+    },
+    {
+      "id": "62123ff8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Institutional capital is rapidly entering the music rights market as digitization and streaming platforms have transformed music catalogs into transparent, scalable investment assets. Recent major transactions include Blackstone's $4 billion exit of Recognition Music Group to Sony and GIC, Francisco Partners' sale of Kobalt Music Group to Primary Wave for over $1.5 billion, and Bill Ackman's $64 billion bid for Universal Music Group, signaling growing investor appetite for music IP as alternative assets.",
+      "keyTakeaways": [
+        "Music catalog investments have moved from complex, illiquid assets to transparent, streaming-driven revenue streams that institutional investors can now underwrite and scale globally, opening a previously exclusive market to new capital pools.",
+        "Large PE firms are achieving significant returns on music IP exits\u2014Francisco Partners potentially doubling its 2022 Kobalt investment in under four years\u2014suggesting strong demand for high-quality, diversified catalog portfolios with predictable royalty revenues.",
+        "The sector is attracting dedicated capital raises like Pophouse's \u20ac1 billion debut fund, indicating music rights are becoming a distinct asset class alongside traditional PE targets, driven by reduced operational complexity and transparent digital distribution metrics."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Music catalogs strike a chord"
+    },
+    {
+      "id": "392b595c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Oil prices fell nearly 11% as Iran ceasefire negotiations progressed and LNG tankers successfully transited the Strait of Hormuz, signaling easing supply constraints from the Iran conflict. U.S. producers including Diamondback Energy and Continental Resources are capitalizing by expanding Permian Basin drilling by over 40%, while Exxon Mobil advances offshore operations in Guyana. Meanwhile, BP's board ousted its chairman after six months amid broader energy sector turbulence.",
+      "keyTakeaways": [
+        "U.S. shale operators are aggressively scaling production (18+ new rigs added, 40%+ drilling expansion) to capture geopolitical supply gaps, suggesting strong near-term cash generation and potential for increased shareholder returns or debt paydown among E&P companies.",
+        "Geopolitical risk premiums embedded in oil prices are compressing rapidly\u2014watch for volatility reversals if ceasefire talks stall, which could pressure valuations for producers betting on sustained high prices.",
+        "Energy majors face strategic uncertainty: BP's leadership crisis and the shift toward U.S. production favor nimble, domestically-focused operators over legacy international players with complex geopolitical exposure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Oil Prices Slip"
+    },
+    {
+      "id": "15412f8d",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Arc, a voice AI startup for drive-thru ordering, raised $10.76 million in seed funding led by Andreessen Horowitz. The company addresses previous AI-in-QSR failures by training restaurant-specific models on real interactions and focusing on customer and employee experience rather than pure labor replacement, claiming 95% order accuracy and 4-5% revenue uplift through optimized upselling.",
+      "keyTakeaways": [
+        "Arc differentiates from failed predecessors (McDonald's, Presto, Taco Bell) by prioritizing accuracy and business outcomes over labor displacement\u2014their models achieve 95%+ order completion rates versus competitors' 80-85%, representing a meaningful technical moat in a competitive space.",
+        "The $12 billion AI-in-QSR market opportunity with 200,000 U.S. drive-thru locations creates significant TAM, but execution risk remains high; Arc's early traction with two major chains (hundreds of locations) and a16z backing suggest the current wave may succeed where prior attempts failed.",
+        "Team pedigree from Square/Cash App payment infrastructure combined with obsessive testing methodology (A/B testing variants live, garage-built replica environments) indicates a shift toward capital discipline in QSR AI\u2014investors should scrutinize whether companies are chasing scale or proving unit economics first."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Can (A)I take your order?"
+    },
+    {
+      "id": "c5469887",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Eli Lilly is deploying $3.8 billion to acquire three vaccine developers\u2014Curevo, LimmaTech, and Vaccine Co.\u2014signaling that biotech companies are using GLP-1 drug windfalls to diversify into infectious disease prevention. Meanwhile, Middle Eastern sovereign wealth continues flowing into private equity despite geopolitical tensions, though Saudi Arabia is moderating its exposure, while CFIUS scrutiny looms over SoftBank's $4 billion DigitalBridge acquisition.",
+      "keyTakeaways": [
+        "Pharma mega-winners like Eli Lilly are aggressively recycling GLP-1 profits into adjacent biotech areas, creating M&A opportunities for vaccine startups that previously relied on VC funding; investors should watch for similar strategic pivots from other blockbuster drug winners.",
+        "Middle Eastern capital remains a significant LP source for PE despite Iran conflict, but expect portfolio reallocation as Gulf states redirect spending toward domestic energy infrastructure security, potentially reducing foreign investment availability.",
+        "Geopolitical deal-making faces new friction: SoftBank's $4 billion DigitalBridge deal now hinges on CFIUS approval with the Trump administration, illustrating how political donations and strategic acquisitions intersect in semiconductor/data center assets."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Field of Dumb"
+    },
+    {
+      "id": "ce39515f",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-05-26",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Google IO 2026 showcases a fundamental shift in search from traffic referral to answer synthesis, with AI generating summaries directly from web content rather than linking to publishers\u2014a model that threatens the traditional search-publisher relationship and forces a reckoning with what the analyst calls 'Google Zero' risk. SpaceX has filed for IPO while OpenAI and Anthropic approach their own public offerings, with both AI firms' quarterly revenue numbers leaking as they move toward institutional disclosure.",
+      "keyTakeaways": [
+        "Google's transformation of search from 10 blue links to AI-generated synthesis directly threatens publisher traffic monetization, creating an existential challenge to the web's economic model and forcing every content company to reconsider dependency on search referrals.",
+        "The competitive pressure between Google and OpenAI to capture AI-driven search behavior means this disruptive shift is likely inevitable regardless of publisher concerns\u2014capital should be deployed toward companies that can survive or thrive in 'Google Zero' scenarios.",
+        "Approaching IPOs for SpaceX, OpenAI, and Anthropic signal a major inflection point in tech infrastructure and AI commercialization; leaked quarterly numbers suggest OpenAI's revenue scaling significantly, indicating both growth opportunity and valuation benchmarks for the AI infrastructure investment thesis."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 644"
+    },
+    {
+      "id": "5adbbbf1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia's head of sustainability Josh Parker discusses how artificial intelligence could reduce carbon emissions despite massive electricity demands from AI data centers. Tech companies are building new solar, battery, and gas infrastructure to power chip warehouses dominated by Nvidia's hardware, raising questions about whether AI will ultimately deliver on its climate promise.",
+      "keyTakeaways": [
+        "Nvidia dominates the AI chip market serving data center buildouts by major tech firms, positioning the company as a critical infrastructure play in the clean energy transition and creating long-term revenue visibility from climate-conscious capital expenditures.",
+        "AI's net climate impact remains unproven\u2014while proponents argue AI can optimize energy systems and reduce emissions, the massive electricity consumption of current data centers presents a near-term carbon liability that investors should scrutinize against long-term efficiency claims.",
+        "The convergence of tech infrastructure spending, renewable energy deployment, and fossil fuel integration creates multiple investment vectors: renewable energy providers, grid modernization companies, and semiconductor manufacturers are now intertwined in climate outcomes."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 15,
+      "originalTitle": "Shift Key: Nvidia\u2019s Case for Why AI Will Cut Emissions"
+    },
+    {
+      "id": "f678b70f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York has become the first state to weaken binding climate legislation, delaying its carbon regulation plan from 2024 to 2028 and modifying methane accounting methods to appear to show deeper emissions reductions than actually achieved. Governor Kathy Hochul justified the rollback by citing affordability concerns and energy cost pressures exacerbated by Trump's policy changes, signaling a broader trend where states may not aggressively fill the federal climate policy vacuum as they did during Trump's first term.",
+      "keyTakeaways": [
+        "State-level climate policy is less resilient than previously assumed; even ambitious legislation like New York's CLCPA can be materially weakened when energy affordability concerns gain political traction, creating uncertainty for clean energy investors betting on state-led transition momentum.",
+        "The delay of carbon regulation to 2028 and accounting method changes suggest compliance timelines and measurement standards for climate commitments are becoming negotiable\u2014investors should reassess the enforceability and credibility of state-level climate targets.",
+        "Trump's return to the White House is shifting the climate policy burden from federal to state level more slowly than in his first term due to cost-of-living pressures; this macro dynamic may reduce near-term demand for emissions reduction technologies and delay capital deployment in climate solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "New York\u2019s Climate Backslide"
+    },
+    {
       "id": "7cef5574",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -5847,12 +6009,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 35
+      "count": 37
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 137
+      "count": 140
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 122
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 16
     },
     {
       "name": "Fintech",
@@ -5863,17 +6035,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 8
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 119
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 15
     }
   ],
-  "lastUpdated": "2026-05-25T11:05:28.935875Z"
+  "lastUpdated": "2026-05-27T10:50:13.496224Z"
 }
