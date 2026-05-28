@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "6cbc7308",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-28",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "According to AVP's annual report, 29% of European founders are considering relocating headquarters to the US to improve capital access, highlighting structural challenges in European venture capital. The newsletter also covers talent migration (C12 quantum computing recruits from Apple), the need for faster exit liquidity over unicorn chasing, and growing concerns about AI agent reliability and data governance risks.",
+      "keyTakeaways": [
+        "Nearly one-third of European founders view relocation to the US as necessary for competitive fundraising\u2014a significant brain drain indicator that suggests European VCs are losing deal flow and founder commitment to local ecosystems",
+        "Capital allocation priorities must shift: VCs should focus on enabling faster liquidity cycles and pragmatic exits rather than pursuing unicorn valuations, as deal velocity directly impacts fund returns and LP confidence",
+        "AI infrastructure concentration risk is real\u2014European tech depends heavily on US cloud and AI providers, while AI agent reliability concerns (data corruption, hallucinations) create near-term governance challenges that may reshape enterprise tech spending"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "28.05 - Pr\u00e8s d\u2019un tiers des fondateurs europ\u00e9ens envisagent de transf\u00e9rer leur si\u00e8ge aux \u00c9tats-Unis"
+    },
+    {
+      "id": "c6a1f7b4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A decade of underinvestment in oil and gas has created an immediate supply crisis as demand remains strong and existing fields deplete rapidly. The Iran conflict's closure of the Strait of Hormuz flipped the 2026 oil outlook from a 3+ million barrel-per-day surplus to a deficit, creating compelling entry points across the energy value chain for private capital. Meanwhile, PE fundraising concentration has hit record levels, with the top 10 funds capturing over 50% of Q1 2026's $90.9 billion raised\u2014nearly double the historical average of 26.8%.",
+      "keyTakeaways": [
+        "Energy infrastructure now presents a high-conviction investment thesis: the industry must replace output equivalent to Brazil and Norway combined just to maintain current production, with natural gas demand accelerating due to AI data center power needs and LNG expansion.",
+        "The geopolitical shock of Iran's Strait of Hormuz closure converted a slow-burn supply problem into an acute market dislocation, suggesting investors should act quickly on upstream, pipeline, and export terminal opportunities before prices adjust.",
+        "Mega-fund dominance in PE is intensifying\u2014a structural shift that concentrates returns among top-tier managers and suggests smaller fund GPs face significant headwinds in fundraising and LP competition."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Energy's new entry points"
+    },
+    {
+      "id": "6ca81836",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Demis Hassabis's AI drug discovery startup Isomorphic Labs closed a $2.1 billion Series B led by Thrive Capital, with the stated goal of accelerating its platform by scaling compute resources, generating more experimental data, and expanding programs. Hassabis emphasized that success will be measured by the platform's ability to solve diseases broadly rather than individual drug approvals, with multiple programs in pre-clinical stages and partnerships with J&J and Novartis, though no clinical trial timeline has been disclosed.",
+      "keyTakeaways": [
+        "Isomorphic's $2.1B raise signals serious institutional confidence in AI-driven drug discovery as a category, with tier-one VC (Thrive Capital) backing a capital-intensive infrastructure play that mirrors AGI lab economics but applied to pharma\u2014watch whether other drug discovery AI startups achieve similar valuations.",
+        "The company's metric of success is platform-wide disease-solving capability rather than single-drug approval, suggesting investors should expect a longer, portfolio-based exit timeline typical of biotech rather than traditional software; partnerships with Novartis and J&J provide early validation but also indicate dependency on pharma incumbents for commercialization.",
+        "Hassabis's willingness to invest in automated lab infrastructure positions Isomorphic to capture hardware and biotech capex spending if the approach scales, representing a potential moat, but the near-term capital intensity (compute scaling, lab build-out) means cash efficiency will be critical for demonstrating progress before Series C."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Demis Hassabis is in a rush"
+    },
+    {
+      "id": "a5e26b80",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is transferring weapons-grade plutonium to five advanced reactor companies including Oklo, Flibe Energy, and Shine Technologies to use as fuel, drawing scrutiny from non-proliferation experts. Meanwhile, China is aggressively expanding nuclear exports, bidding to build Serbia's first nuclear plant as part of a $1.1 billion investment package, while also competing with the U.S. for Saudi Arabia's first atomic power station.",
+      "keyTakeaways": [
+        "Advanced reactor startups now have access to government weapons-grade plutonium fuel, potentially accelerating commercialization timelines for companies like Oklo and Shine Technologies, but creating regulatory and geopolitical risk that could affect valuations and exit strategies.",
+        "China's nuclear export strategy is shifting from passive to aggressive, with standardized reactor designs and cost advantages positioning Beijing as a serious competitor to Western vendors in emerging markets\u2014this threatens the addressable market for U.S. nuclear companies entering international deals.",
+        "The proliferation of nuclear energy as climate solution is creating dual opportunities and risks: increased demand for advanced reactors and fuel services, but heightened security concerns and potential export controls that could fragment global supply chains and limit company growth internationally."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Nuclear Option"
+    },
+    {
+      "id": "8aca3098",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-27",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Edward Woodford, founder and CEO of zerohash, a crypto and stablecoin infrastructure platform, discusses the company's application for a national trust bank charter and analyzes how the CLARITY Act\u2014pending crypto market structure legislation\u2014may reshape the U.S. crypto industry. The interview also explores emerging opportunities in tokenization, stablecoins, and potential synergies between cryptocurrency infrastructure and AI agents.",
+      "keyTakeaways": [
+        "Zerohash's pursuit of a national trust bank charter signals institutional-grade infrastructure maturation in crypto, suggesting the sector is moving toward regulated financial banking services rather than remaining purely decentralized.",
+        "The CLARITY Act's potential passage could fundamentally alter competitive dynamics in crypto by establishing clearer regulatory frameworks\u2014investors should monitor this legislation as a catalyst for either sector consolidation or expansion depending on how classification and compliance requirements are structured.",
+        "Non-financial enterprise executives are increasingly exploring crypto, stablecoins, and blockchain for operational use cases beyond speculation, indicating emerging B2B and enterprise demand that could drive infrastructure valuations independent of retail crypto cycles."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 49,
+      "originalTitle": "Interview: zerohash's Founder & CEO Edward Woodford"
+    },
+    {
+      "id": "c9119f55",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX's anticipated $80 billion IPO, potentially joined by mega-offerings from Anthropic and OpenAI, will not create a liquidity crunch for other issuers despite initial market concerns. Public equity markets are sufficiently deep to absorb all three offerings, which would collectively represent only around 0.4% of total U.S. stock market value\u2014matching 2021's record IPO year but with a much larger market base. Meanwhile, private equity continues dealmaking with Arsenal Capital acquiring a majority stake in Velcro from the Cripps Foundation, while venture capital remains active across travel, insurance, biotech, and defense sectors.",
+      "keyTakeaways": [
+        "SpaceX's $80 billion IPO poses no systemic risk to capital markets; even if Anthropic and OpenAI each raise similar amounts, the combined $240 billion would represent less than 0.4% of total stock market value compared to 2021's benchmark, signaling robust market capacity for mega-deals.",
+        "The active IPO roadshow calendar\u2014including billion-dollar ambitions from Innio and Quantinuum\u2014indicates banker confidence in market conditions, suggesting SpaceX will likely produce neutral or positive tailwinds rather than crowding-out effects for other public offerings.",
+        "Private equity remains opportunistic on iconic brand acquisitions and infrastructure plays, evidenced by Arsenal Capital's Velcro majority stake purchase and DigitalBridge's $1.05 billion deal for ArcLight Capital Partners, indicating PE capital continues flowing despite mega-cap tech IPO competition."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: SpaceX serenity"
+    },
+    {
+      "id": "905d26ef",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza Pulse, a real-time data subscription service, addresses a critical market inefficiency in solar procurement by providing continuously updated pricing, supplier intelligence, and tariff guidance. The product targets multiple stakeholders in the solar value chain\u2014procurement teams, developers, and executives\u2014who currently make million-dollar decisions based on outdated RFI cycles and quarterly data, creating significant competitive and financial risk.",
+      "keyTakeaways": [
+        "Solar market dynamics move faster than traditional procurement cycles (tariffs shift overnight, supplier pricing changes weekly), creating arbitrage opportunities for companies with real-time market intelligence versus those relying on stale data.",
+        "The addressable market spans multiple high-value use cases: tariff avoidance for procurement teams, RFP win rates for developers, domestic content strategy optimization, and FEOC compliance navigation\u2014indicating a SaaS model with multiple revenue levers.",
+        "The subscription positioning suggests the solar supply chain suffers from persistent information asymmetry; a company capturing and monetizing real-time market data before competitors could establish significant moat in this rapidly consolidating sector."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Stop making million-dollar decisions with stale solar data"
+    },
+    {
+      "id": "0931cab7",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-05-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data centers have emerged as a critical demand anchor for climate tech and energy infrastructure, rescuing failed projects and reviving previously unscalable technologies. Companies like Lyten are leveraging data center partnerships to monetize acquired battery manufacturing facilities, while startups like Electric Era and Panthalassa are repositioning their energy technologies specifically for data center applications, with Panthalassa raising $140 million on a pitch centered around offshore AI power generation.",
+      "keyTakeaways": [
+        "Data centers represent a de facto safety net for climate tech by providing reliable, high-margin revenue streams that can subsidize struggling core businesses\u2014Lyten's battery manufacturing now depends on EdgeConnex's data center lease at the Northvolt facility.",
+        "Technologies that failed to achieve venture-scale economics in their original markets can suddenly attract capital when reframed around data center applications, suggesting capital allocation is shifting toward infrastructure-as-a-service models rather than direct product sales.",
+        "The data center power demand surge is fundamentally reshaping energy infrastructure investment priorities, making existing grid assets, hydropower contracts, and generation capacity more valuable than novel manufacturing capabilities in some cases."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "The data center safety net"
+    },
+    {
+      "id": "eb6f6f7e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "An investment boom is accelerating in space-based infrastructure, with startups and major players like SpaceX pursuing orbital data centers, space-based solar power, and extraterrestrial energy grids. The global space economy reached $613 billion in 2024 and could grow to $2 trillion by 2040, driven by falling launch costs and expanding technical possibilities for monitoring and optimizing terrestrial energy systems.",
+      "keyTakeaways": [
+        "Space-based infrastructure represents a new frontier for climate tech investment, with multiple viable applications (solar power beaming, data centers, energy grids) attracting institutional capital and driving SpaceX toward a potentially record-breaking IPO",
+        "Falling launch costs over the past decade have shifted the economics of space deployment from theoretical to commercially viable, creating a widening market for supporting systems and services that investors should track",
+        "The $2 trillion growth projection for the space economy through 2040 suggests early-stage investors in orbital infrastructure, power transmission, and related support technologies could capture significant returns before the sector matures"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Climate Tech in Space"
+    },
+    {
       "id": "31295acb",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6009,17 +6171,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 37
+      "count": 38
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 140
+      "count": 143
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 122
+      "count": 126
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 13
     },
     {
       "name": "Strategy & Thesis",
@@ -6027,15 +6194,10 @@
       "count": 16
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 12
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 8
     }
   ],
-  "lastUpdated": "2026-05-27T10:50:13.496224Z"
+  "lastUpdated": "2026-05-28T10:46:10.556461Z"
 }
