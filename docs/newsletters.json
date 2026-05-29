@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e58cfddc",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-05-29",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral AI, the French AI decacorn, announced major partnerships with Airbus and BMW at its inaugural AI Now Summit while unveiling ambitious infrastructure plans including a 1-gigawatt computing capacity target by 2030 and a dedicated inference facility in Essonne operational by Q3 2026. The newsletter highlights a broader trend of major AI players organizing proprietary events to control narrative and audience, while also exploring infrastructure challenges as enterprises reassess cloud-dependent models amid cost and sovereignty concerns.",
+      "keyTakeaways": [
+        "Mistral AI's enterprise-focused strategy with Fortune 500 partnerships (Airbus, BMW) signals viable monetization pathways for European AI champions beyond consumer-facing models, with infrastructure investments indicating long-term capital intensity requirements",
+        "The shift away from pure cloud infrastructure toward hybrid/on-premise solutions represents a significant market opportunity for infrastructure and edge computing companies, potentially reducing dependence on hyperscalers and reshaping enterprise tech spending patterns",
+        "European AI consolidation is accelerating with French/regional players achieving scale\u2014Mistral's 1GW capacity ambition and VivaTech's regional delegation of 40 startups demonstrate ecosystem maturation that could attract increased institutional capital to European AI infrastructure and industrial applications"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "29.05 - Mistral AI souffle sa 3e bougie avec Airbus et BMW"
+    },
+    {
+      "id": "2fa8e2c6",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Public PE giants are quietly exiting software investments despite defending their holdings on earnings calls, instead pivoting capital toward physical infrastructure supporting AI, energy, and data centers. DigitalBridge's acquisition of ArcLight Energy exemplifies this shift, as the largest listed PE players build portfolios around asset-heavy sectors insulated from AI disruption. Meanwhile, TD Bank is exploring partnerships with private credit firms to compete in the sponsor-backed lending market, following successful models deployed by JPMorgan and Citigroup.",
+      "keyTakeaways": [
+        "Software as a PE sector is being systematically de-risked by top-tier firms\u2014management rhetoric about portfolio resilience masks significant capital reallocation toward physical infrastructure and energy assets",
+        "Defense tech VC reached record $19.8 billion in Q1 2026, signaling geopolitical risk is now a primary driver of institutional LP capital alongside AI infrastructure plays",
+        "Traditional banking is losing competitive advantage in corporate lending due to capital requirements; the bank-private credit partnership model is becoming industry standard, creating new origination and fee opportunities for both parties"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "The dethroning of software in public PE"
+    },
+    {
+      "id": "a426bf66",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Two rare earths companies in which the U.S. government has taken equity stakes\u2014MP Materials and USA Rare Earth\u2014are now locked in litigation, with MP Materials accusing USA Rare Earth of stealing proprietary magnet technology. Meanwhile, microreactor developer Last Energy has secured a key Department of Energy safety approval for its 5-megawatt pilot demonstration reactor at Texas A&M, marking progress toward eventual commercial deployment and Nuclear Regulatory Commission licensing.",
+      "keyTakeaways": [
+        "Government backing of competing domestic rare earths producers is creating friction rather than a unified competitive advantage against China's supply monopoly, signaling potential inefficiency in the Trump administration's critical minerals strategy and raising questions about portfolio company selection.",
+        "Last Energy's DOE safety approval de-risks its pathway to commercialization and suggests pilot project data will accelerate NRC licensing for its larger PWR-20 commercial reactor, making this a near-term catalyst for private investors in the advanced nuclear space.",
+        "The rare earths litigation underscores deeper supply chain vulnerabilities in green energy infrastructure (EVs, renewables, defense), while Last Energy's progress indicates the U.S. is simultaneously pursuing diversified energy solutions beyond traditional mineral extraction."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "A Rare Earths Civil War"
+    },
+    {
+      "id": "e5bb3d42",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX's S-1 filing reveals $18.67 billion in 2025 revenue and $5 billion in losses, but lacks critical transparency on key business segments. PitchBook analyst Franco Granda identifies major gaps including no churn metrics for Starlink's 10.3 million subscribers (which has 63% adjusted EBITDA margins), hidden unit economics for Falcon 9 launches, and opaque AI segment performance that represents only 6.7% of revenue despite $20 billion in infrastructure investment.",
+      "keyTakeaways": [
+        "Starlink's subscription metrics remain undisclosed despite being the economic engine of SpaceX\u2014investors cannot determine if 10.3 million subscriber growth reflects durable retention or masks underlying churn, a metric every comparable public subscription business discloses",
+        "Falcon 9 launch unit economics are hidden from investors, preventing analysis of whether the company's rocket reusability advantage translates to sustainable competitive moat and profitability at scale",
+        "The $80 billion IPO valuation appears disconnected from AI business fundamentals: xAI represents only 6.7% of revenue with no visibility into Grok subscriptions, API revenue, or whether the $20 billion infrastructure spend actually supports growth or sits idle"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Black holes in SpaceX\u2019s S-1"
+    },
+    {
+      "id": "840cfdb9",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Founders Fund discusses its $20 million 2008 SpaceX investment, now potentially worth over $60 billion at IPO, emphasizing the firm's pattern of investing before categories exist and in founders with long-term ambitious missions. Meanwhile, Groq is raising $650 million from existing investors following its $20 billion Nvidia licensing deal that caused senior team departures, with the AI chipmaker pivoting toward an AI inference neocloud business in what represents a major venture capital follow-on investment opportunity.",
+      "keyTakeaways": [
+        "Founders Fund's SpaceX thesis reveals a repeatable pattern: invest in multi-chapter companies before their market categories exist (commercial launch, reusability, satellite comms), betting on founders who continuously expand company scope rather than settle for success.",
+        "Groq's $650 million follow-on round from existing investors after a $20 billion Nvidia exit demonstrates how strategic licensing deals can create recapitalization opportunities for VCs while companies pivot business models and rebuild leadership.",
+        "The SpaceX and Groq examples illustrate a macro shift in venture strategy: backing founders with foundational technology platforms that unlock entirely new economies, with patient capital and significant follow-on commitments required to realize multi-billion dollar valuations."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Groq 2.0"
+    },
+    {
+      "id": "cbfbc8e1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "London's Metropolitan Police Service partnered with BetterFleet to manage the complex logistics of transitioning their fleet to electric vehicles, leveraging AI to ensure police cars can handle emergency response demands without lengthy charging delays. The article highlights a broader global trend where large fleet operators\u2014including trucking companies, municipal services, and public transportation\u2014are adopting AI-driven fleet management systems to enable confidence in electric vehicle adoption while maintaining operational efficiency and reducing fuel and maintenance costs.",
+      "keyTakeaways": [
+        "BetterFleet has secured a significant public sector contract with London's Metropolitan Police, validating AI-powered fleet management as a critical enabling technology for large-scale EV adoption in mission-critical operations where downtime is unacceptable",
+        "The global fleet electrification market is expanding beyond commercial trucking into government and emergency services, representing a substantial TAM expansion for fleet management software companies offering AI-driven optimization",
+        "Public sector adoption by major institutions like London's police force signals regulatory and operational acceptance of EV fleets in high-reliability use cases, likely accelerating private fleet electrification and creating network effects for AI fleet management platforms"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "London\u2019s Police Cars Are Going Electric With the Help of AI"
+    },
+    {
+      "id": "05af9bd7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Washington State narrowly failed to pass HB 2265, which would have required landlords to provide adequate cooling systems to renters, making it the most aggressive tenant cooling protection in the nation. The Pacific Northwest, traditionally cool and air-conditioning-free, is experiencing increasing heat waves, driving policy makers and activists to establish indoor temperature maximums similar to existing standards in Dallas, creating a potential template for climate adaptation legislation across warming northern U.S. regions.",
+      "keyTakeaways": [
+        "Emerging regulatory framework: Failed Washington bill signals strong momentum for mandatory cooling requirements in rental housing, creating a new compliance market for HVAC/cooling technology providers and property management solutions targeting multi-unit residential properties.",
+        "Geographic expansion opportunity: Climate migration and rising temperatures in historically cool regions (Pacific Northwest, upper Midwest) are creating new demand for cooling infrastructure, air conditioning systems, and heat pump technology in underserved markets previously lacking AC penetration.",
+        "Tenant protection legislation trend: The movement to establish indoor temperature maximums represents a shift in habitability standards that could expand beyond Washington, increasing compliance costs for landlords and creating investment opportunities in smart climate control, energy-efficient cooling solutions, and climate resilience infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Right to Cool Off"
+    },
+    {
       "id": "6cbc7308",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6171,17 +6297,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 38
+      "count": 39
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 143
+      "count": 146
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 126
+      "count": 129
     },
     {
       "name": "Fintech",
@@ -6199,5 +6325,5 @@
       "count": 8
     }
   ],
-  "lastUpdated": "2026-05-28T10:46:10.556461Z"
+  "lastUpdated": "2026-05-29T10:39:21.974112Z"
 }
