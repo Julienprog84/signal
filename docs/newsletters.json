@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "884973ba",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "House Republicans have proposed steep inspection fees for offshore wind projects\u2014ranging from $7,300 to $72,800 per turbine\u2014potentially exceeding what offshore oil companies pay and further constraining an industry already facing Trump administration headwinds. Meanwhile, geothermal energy company Fervo Energy experienced a blowout at its Utah commercial plant shortly after its hot IPO, though a bipartisan House package aims to ease geothermal permitting rules, while global nuclear investment has surpassed $80 billion annually.",
+      "keyTakeaways": [
+        "Regulatory risk for offshore wind is escalating materially: proposed per-turbine inspection fees could render existing projects uneconomical and deter future capital deployment, making this a critical valuation headwind for wind developers and their supply chain partners.",
+        "Geothermal faces both opportunity and execution risk: Fervo's blowout is a cautionary tale, but bipartisan permitting reform and $80B+ annual nuclear investment signal growing institutional appetite for dispatchable clean energy alternatives to wind and solar.",
+        "Capital is rotating toward nuclear and geothermal as replacements for traditional baseload\u2014this represents a structural shift in clean energy investment thesis away from intermittent renewables toward 24/7 carbon-free sources with stronger political support across both parties."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "New Fees for Offshore Wind"
+    },
+    {
+      "id": "61f8761a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook forecasts North American VC AUM will grow from $1.5 trillion to $2 trillion by 2030, but the outcome depends critically on three mega-IPOs: SpaceX, OpenAI, and Anthropic, which could collectively raise as much capital as the entire previous decade of US VC-backed IPOs. The venture market faces severe concentration risk, with 73% of capital going to five firms, 42% of Q1 deals involving AI, and half of AUM managed by West Coast firms, meaning successful or failed IPO outcomes could determine the entire asset class's trajectory.",
+      "keyTakeaways": [
+        "Three IPOs\u2014SpaceX, OpenAI, and Anthropic\u2014will likely determine whether VC reaches $2 trillion AUM by 2030 or stalls at $1.6 trillion; their success or failure will directly signal LP confidence and restart capital recycling through venture.",
+        "Extreme concentration in venture capital creates systemic fragility: successful exits and IPO proceeds are essential to restore LP confidence, reinvigorate fundraising, and prevent an extended market freeze for the entire asset class.",
+        "Private credit markets are shifting away from PE-backed borrowers toward founder and management-owned businesses, suggesting lenders are diversifying away from sponsor-dependent deal structures as interest rates remain elevated."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "VC's $2 trillion depends on 3 magic doors"
+    },
+    {
+      "id": "b12e9e50",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-05-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Bilt, a housing and hospitality platform valued at $10.75 billion after a $250 million funding round in July 2025, claims its credit card represents less than 11% of its business, with the real revenue driver being a B2B merchant platform processing over $100 billion in annual housing spend. The company projects $1 billion in revenue by end of 2026, up from $200 million in 2024, and operates embedded in one in four U.S. apartment buildings with 5+ million members. CEO Ankur Jain positions Bilt as the \"Shopify for housing\" with 45,000+ integrated merchants, though the company faced significant user backlash over Card 2.0's rewards restructuring in February 2026 that required rapid course correction.",
+      "keyTakeaways": [
+        "Bilt's valuation multiplied 3x in one year (from ~$3.5B in August 2024 to $10.75B in July 2025) based on projected B2B platform economics, not consumer card growth\u2014watch whether the $1B revenue target materializes and what unit economics actually look like on merchant commission revenue.",
+        "The Wells Fargo card partnership failure is a warning sign: the bank exited early because it was unprofitable, suggesting Bilt's consumer rewards model may not be independently sustainable without merchant cross-subsidization, which raises questions about platform cohesion if either leg underperforms.",
+        "Bilt's positioning as an AI commerce infrastructure play (competing with Google and Anthropic for agentic commerce in physical retail) is credibility-stretching given limited evidence of proprietary AI capability\u2014this frames the company as picking a high-TAM category but investors should scrutinize whether 45,000 merchant integrations and existing demand-side relationships actually create defensible moats versus larger players."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "House of cards"
+    },
+    {
+      "id": "c231a33a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-05-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic raised $65 billion in Series H funding at a $965 billion valuation, making it the largest venture capital round ever and surpassing OpenAI's valuation. The funding includes commitments from leading VCs like Sequoia, Altimeter, and Dragoneer, plus major institutional investors. Separately, Polymarket launched private company prediction markets allowing bets on startup valuations, though currently only available offshore to avoid SEC regulation of security-based swaps.",
+      "keyTakeaways": [
+        "Anthropic's $65B raise at $965B valuation represents a structural shift in AI funding dynamics\u2014the company now commands higher valuation than OpenAI, signaling investor confidence in its technical capabilities and competitive positioning despite OpenAI's larger revenue base.",
+        "The breadth of Anthropic's investor base (40+ institutions including T. Rowe Price, Fidelity, Blackstone) indicates institutional capital is aggressively diversifying AI bets beyond OpenAI, with hyperscaler commitments ($5B from Amazon) embedded in the round structure.",
+        "Polymarket's offshore prediction markets for private company performance create a regulatory arbitrage play\u2014if the SEC adopts light-touch oversight like the CFTC, this could unlock a new asset class for valuation exposure on late-stage private companies, though current offshore structure poses execution and compliance risks."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Anthropic ascends"
+    },
+    {
+      "id": "a4758ffa",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-05-29",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "AI-powered vulnerability discovery is fundamentally disrupting bug bounty economics as agentic AI models become proficient at autonomously identifying software vulnerabilities and creating exploits. Major tech companies have dramatically escalated rewards\u2014Apple's maximum bounty grew from $200,000 in 2016 to $2 million recently\u2014but the flood of AI-discovered bugs is changing the landscape for both institutions and security researchers who previously supplemented income through bug hunting.",
+      "keyTakeaways": [
+        "The bug bounty market is experiencing severe supply-side disruption: AI can now identify vulnerabilities faster and cheaper than human researchers, potentially collapsing the economics for individual security researchers and forcing organizations to rethink disclosure program structures and reward models.",
+        "Capital opportunity exists in AI-native security and vulnerability management platforms that can aggregate, prioritize, and remediate the exponential increase in discovered vulnerabilities\u2014traditional cybersecurity tools designed for human-scale bug discovery will struggle with AI-generated volumes.",
+        "This represents a broader pattern of AI commoditizing knowledge work in technical fields; investors should monitor how AI impacts pricing power and employment in specialized domains where autonomous capability suddenly exceeds human capacity, as these transitions create both disruption risks and new platform opportunities."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 164: The AI Era Is Creating a Bug-Hunting Arms Race"
+    },
+    {
+      "id": "653574a3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Washington, D.C. has experienced the fastest-rising electricity prices in the U.S., with rates up 87% over five years and 26% in the past year alone, leaving average households paying $55 more monthly for power. Energy researchers propose a three-part plan to address the crisis, while Exelon-owned Pepco lobbies for utility-owned generation despite the cost increases. The article highlights emerging opportunities in distributed energy resources, including heat pump water heaters as a major electrification frontier.",
+      "keyTakeaways": [
+        "Regional utility monopolies and regulatory failures are creating acute consumer pain points\u2014D.C.'s 26% annual rate increase signals vulnerability for policy intervention and disruption by alternative energy models or distributed generation solutions.",
+        "Exelon's push for utility-owned generation in response to the crisis represents a defensive play that could signal weakness in traditional utility business models and opportunity for capital in DER (distributed energy resources) companies like those providing smart grid controls.",
+        "The emphasis on heat pump water heaters as an untapped electrification frontier (125 million units in U.S. homes) and smart controls technology suggests significant growth runway in residential energy efficiency\u2014a sector attracting venture funding amid utility rate volatility."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Electricity Price Capital of the U.S."
+    },
+    {
       "id": "e58cfddc",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6295,19 +6403,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 39
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 131
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 146
+      "count": 149
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 129
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 9
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 39
     },
     {
       "name": "Fintech",
@@ -6318,12 +6431,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 16
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 8
     }
   ],
-  "lastUpdated": "2026-05-29T10:39:21.974112Z"
+  "lastUpdated": "2026-05-30T09:10:00.928126Z"
 }
