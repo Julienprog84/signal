@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "cf5a8708",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A US-Israel air campaign against Iran in spring 2026 exposed critical defense gaps\u2014particularly the unfavorable 1:200+ cost ratio of intercepting drones and insufficient munitions stockpiles\u2014that are now reshaping private capital allocation in defense tech. Investors are backing cheaper autonomous systems and low-cost strike capabilities, with Anduril (backed by a $20 billion Pentagon contract), Chaos Industries ($4.5B valuation), and Castelion (winning $155 million in Navy contracts) emerging as key beneficiaries of this shift toward scalable, faster-producing weapons systems.",
+      "keyTakeaways": [
+        "The economics of air defense have inverted: Iranian drones costing $15K-$50K required US missiles worth $1M-$12M to intercept, creating a clear market signal for low-cost autonomous counter-systems that defense investors are now funding aggressively.",
+        "Defense tech funding is consolidating around two specific problems: counter-drone solutions and restoring munitions 'magazine depth' through cheaper production and faster replenishment rates\u2014expect acquisition activity to cluster in these areas.",
+        "The Pentagon's fiscal 2027 budget and recent contract awards (Anduril's $20B Lattice system, Castelion's $155M hypersonic contracts) signal sustained government commitment to cost-effective strike capacity, providing multi-year revenue visibility for well-positioned portfolio companies."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Defense tech's new playbook"
+    },
+    {
       "id": "884973ba",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -6403,14 +6421,14 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 150
+    },
+    {
       "name": "Climate & Energy",
       "color": "#D97706",
       "count": 131
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 149
     },
     {
       "name": "Deep Tech & Science",
@@ -6433,5 +6451,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-05-30T09:10:00.928126Z"
+  "lastUpdated": "2026-05-31T09:43:02.746848Z"
 }
