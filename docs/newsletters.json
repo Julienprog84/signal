@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "b43c6bfe",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-01",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Google's venture fund GV made its first investment in a French startup, backing MokN, a cybersecurity company, in a $15 million funding round alongside Datadog. The newsletter also covers Quandela's governance refresh with OVHcloud's former CEO Michel Paulin, Livestorm's acquisition of Paris-based Qlip AI, and reports that French startups raised \u20ac46.5 million this week, significantly down from \u20ac126 million the prior week, with only \u20ac6.5 million flowing to AI-focused companies.",
+      "keyTakeaways": [
+        "Google's GV backing of MokN signals renewed institutional interest in European cybersecurity, validating the sector's growth potential and likely to attract follow-on capital from other mega-fund LPs seeking exposure to European tech",
+        "French tech fundraising volatility (\u20ac126M to \u20ac46.5M week-over-week) suggests market concentration risk and potential capital constraints for mid-market rounds, indicating selective investor appetite despite AI enthusiasm",
+        "Leadership reshuffles at quantum computing (Quandela) and workplace tech (Livestorm) suggest operational professionalization and M&A activity as European startups mature, shifting from pure growth to operational scale and consolidation"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "01.06 - GV, le fonds de Google, investit pour la premi\u00e8re fois dans une startup fran\u00e7aise"
+    },
+    {
+      "id": "56271b05",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Biotech IPOs are experiencing a major resurgence as investors rebalance away from overweight AI portfolios, with 2026 already showing more Q1 exits than any quarter since the pandemic boom and companies like Kailera and Avalyn raising significantly above targets. Major pharmaceutical acquirers, flush with GLP-1 drug revenue, are aggressively consolidating the sector\u2014Eli Lilly alone announced over $20 billion in biotech acquisitions this year\u2014signaling strong liquidity opportunities and valuations recovery for VC-backed companies with clinical traction.",
+      "keyTakeaways": [
+        "Biotech is functioning as a defensive hedge against AI bubble risk, with crossover investors and asset managers actively rotating capital into biopharma deals as generalist tech indices become overweight in AI exposure.",
+        "IPO upsizing and record Q1 exits indicate improved liquidity environment\u2014expect Q2 to exceed even pandemic-era exit volumes, making this a critical window for VC-backed biotech companies with clinical milestones to achieve favorable exits.",
+        "Large pharma consolidation driven by GLP-1 cash flows creates a two-way bid for biotech assets, supporting higher median pre-money valuations especially for venture-growth stage companies, though sector remains insulated from broader AI market corrections."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Biotech IPOs get their groove back"
+    },
+    {
+      "id": "b6b1b599",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Ming Yang, the world's third-largest wind turbine manufacturer, is pursuing a 2-gigawatt offshore wind project off British Columbia as U.S. offshore wind development stalls under Trump administration pressure. Meanwhile, California and New York are rolling back climate commitments through relaxed carbon market rules and allowances to industrial polluters, while the SEC formally proposes eliminating Biden-era climate risk disclosure requirements for companies.",
+      "keyTakeaways": [
+        "Ming Yang's pivot to Canadian offshore wind represents a significant capital reallocation away from the U.S. market, signaling that Chinese renewable energy manufacturers are betting on regulatory stability in Canada rather than the American regulatory environment.",
+        "California and New York's backtracking on climate goals through private policy adjustments and generous pollution allowances creates arbitrage opportunities for carbon-intensive industries while weakening the investment thesis for climate-focused startups dependent on state-level regulatory support.",
+        "The SEC's formal proposal to eliminate climate risk disclosures reduces transparency requirements for fossil fuel and industrial companies, potentially lowering compliance costs but increasing opaqueness for ESG-focused investors evaluating long-term climate liabilities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Easterly Winds"
+    },
+    {
+      "id": "252c55a6",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Mecka AI, a New York-based robotics startup founded by former fintech and crypto entrepreneurs, has raised $60 million ($25M Series A in November plus $35M follow-on) to train robots using human motion data collected via body sensors and iPhones. The company, led by CEO Josh Gao, is betting that training embodied AI models on human data rather than teleoperation will unlock general intelligence in physical robots, and projects a $100 million annual run rate based on signed contracts.",
+      "keyTakeaways": [
+        "A new funding wave is crystallizing around 'embodied AI' data collection for robotics, with Framework Ventures and tier-one VCs (Menlo, SV Angel, Kindred) backing non-traditional founders pivoting from fintech/crypto\u2014indicating investor conviction that robotics training data is a defensible, high-TAM business.",
+        "Mecka AI's $100M projected ARR on already-signed contracts suggests robotics companies have immediate willingness to pay for human motion datasets, creating a potential new data moat opportunity between AI infrastructure and robot manufacturers.",
+        "The robotics AI wave is attracting capital away from saturated AI verticals; founders with operational/sales chops (not just ML pedigree) are winning\u2014this may signal a broader shift toward AI applications requiring domain expertise and manufacturing partnerships over pure research talent."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 7,
+      "originalTitle": "Making robots that act human"
+    },
+    {
+      "id": "41bbde75",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-05-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Founders are increasingly using AI agents to automate fundraising processes, exemplified by Polsia's $30 million Series A where the founder's AI agent handled most outreach while he focused on key negotiations. This trend is creating friction between founders and investors, as AI-driven communication can appear impersonal, while simultaneously investors themselves are deploying agents for due diligence and company evaluation, forcing founders to decide whether to optimize for AI or maintain human-centric approaches.",
+      "keyTakeaways": [
+        "AI-powered fundraising automation is producing measurable results\u2014Polsia raised $30M at $250M valuation with minimal founder involvement\u2014suggesting founders can scale outreach volume without sacrificing deal quality, though this requires selective human engagement on terms and final negotiations.",
+        "Institutional capital is flowing toward music IP and alternative assets: Blackstone's $4B catalog exit and Ackman's $64B UMG bid signal PE's pivot beyond passive royalty streams toward active portfolio management of cultural assets.",
+        "Valuation dynamics are shifting with Anthropic surpassing OpenAI at $965B and SpaceX planning a mega-IPO with tiered lockup release schedules, indicating institutional investors are structuring mega-rounds to attract index funds and larger LPs earlier in company lifecycles rather than waiting for traditional IPO timelines."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Want to back my startup? Talk to my agent"
+    },
+    {
+      "id": "15911739",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-05-31",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The Independent Community Bankers Association has requested that the OCC rescind Coinbase's conditional approval to charter a national trust bank, marking an escalation in tensions between traditional finance and the crypto sector. This move comes as crypto industry gains regulatory momentum through legislative wins like the GENIUS Act for stablecoin frameworks and progress on the CLARITY Act for market structure, while incumbent banks argue they're defending against competitive threats to their regulatory advantages.",
+      "keyTakeaways": [
+        "Regulatory approval of crypto-native financial infrastructure is becoming a battleground between incumbent financial institutions and fintech disruptors, with traditional banking lobby groups actively fighting charter approvals that could legitimize crypto competitors.",
+        "Recent legislative progress on stablecoin and crypto market structure regulation suggests the regulatory environment is shifting in crypto's favor, creating potential investment opportunities in crypto financial services but also indicating prolonged regulatory uncertainty ahead.",
+        "Community banks view crypto banking initiatives as existential competitive threats to their deposit bases and regulatory moat, suggesting that crypto-enabling infrastructure will face continued legal and political headwinds despite legislative tailwinds."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 5,
+      "originalTitle": "ICBA Asks OCC To Rescind Coinbase\u2019s Conditional Charter Approval"
+    },
+    {
+      "id": "dd32b401",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-05-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This Heatmap News newsletter covers emerging investment opportunities across climate and energy sectors, including space-based climate tech solutions, AI's potential role in emissions reduction via Nvidia's initiatives, and political developments affecting clean energy infrastructure. The edition highlights funding trends in advanced energy technologies like stellarators while also examining regulatory headwinds in New York's climate policies and growing Democratic divisions over data center development.",
+      "keyTakeaways": [
+        "Space-based climate tech and stellarator fusion projects are attracting SPAC and alternative funding mechanisms, signaling institutional capital repositioning toward hard-tech climate solutions beyond traditional venture rounds.",
+        "Nvidia is making a strategic investment thesis that AI infrastructure will drive emissions reductions, creating potential portfolio correlation between semiconductor/AI plays and climate outcomes that investors should monitor.",
+        "Political fragmentation among Democrats on data centers and weakening state-level climate enforcement (New York) suggests regulatory uncertainty will create both risks and arbitrage opportunities in clean energy and infrastructure investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Space Bets, Democrats\u2019 AI Divide, and More"
+    },
+    {
       "id": "cf5a8708",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -6421,14 +6547,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 40
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 150
+      "count": 153
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 131
+      "count": 133
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 14
     },
     {
       "name": "Deep Tech & Science",
@@ -6436,20 +6572,10 @@
       "count": 9
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 39
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 13
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 16
     }
   ],
-  "lastUpdated": "2026-05-31T09:43:02.746848Z"
+  "lastUpdated": "2026-06-01T12:29:44.077187Z"
 }
