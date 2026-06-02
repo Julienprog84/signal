@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "ef1d89fa",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France's Choose France summit at Versailles announced a record \u20ac93 billion in investments across AI, logistics, energy, and other sectors, with major commitments including Revolut's additional \u20ac100 million investment in France by 2030. The newsletter highlights multiple French startup developments including Noa's \u20ac5 million Series funding for premium online fitness, Cegedim Sant\u00e9's acquisition of M\u00e9doucine (a healthcare platform for alternative medicine), and recognition of five promising deeptech startups addressing industrial challenges like predictive maintenance and AI-powered quality control.",
+      "keyTakeaways": [
+        "Revolut's incremental \u20ac100M French investment signals continued confidence in Europe's fintech hub despite regulatory challenges, suggesting established fintechs see France as a core market for expansion rather than experimentation.",
+        "The acquisition of M\u00e9doucine by Cegedim Sant\u00e9 demonstrates consolidation in healthtech, where larger software platforms are acquiring niche digital health players to build ecosystem advantages\u2014a pattern relevant for corporate venture strategists.",
+        "Deeptech startups in manufacturing (predictive maintenance, additive fabrication, AI quality control) are becoming essential partners for industrial reindustrialization, indicating a structural shift where industrial groups must integrate with innovation ecosystems rather than innovate in isolation."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "02.06 - Choose France : voici la liste des startups fran\u00e7aises pr\u00e9sentes \u00e0 Versailles"
+    },
+    {
+      "id": "7a730f51",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Xendee is hosting a free virtual conference June 8-12, 2026 focused on distributed energy and microgrid challenges, featuring industry leaders discussing data center infrastructure, regional market perspectives, emerging technologies, and project finance. The event includes hands-on microgrid modeling training with trial access to Xendee's platform and a drawing for a one-year Platinum license, positioning Xendee as a central player in the rapidly growing distributed energy resource management software market.",
+      "keyTakeaways": [
+        "Xendee is establishing thought leadership and expanding its customer base through free educational content, signaling confidence in its platform's market position and suggesting strong traction in the microgrid software space.",
+        "The emphasis on data center energy infrastructure, project finance, and resiliency indicates these are priority pain points for distributed energy developers\u2014key areas where software and optimization tools command premium valuations.",
+        "The breadth of geographic coverage (U.S., Europe, Middle East) and participant diversity (developers, utilities, infrastructure leaders) reflects the global acceleration of microgrid deployment driven by decarbonization mandates and grid modernization investments."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Learn from microgrid leaders at Xendee University Week 2026"
+    },
+    {
+      "id": "9bd295f7",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Berkshire Hathaway agreed to acquire homebuilder Taylor Morrison for $6.8 billion in cash, marking CEO Greg Abel's first major deal since taking over from Warren Buffett. The acquisition consolidates Berkshire's home building operations with Clayton Homes into a unified platform, despite recent declines in U.S. new home starts and housing sales. Meanwhile, MLB owners are pushing for salary caps ahead of potential 2027 labor stoppage, driven by recent surges in pro sports franchise valuations via both majority and minority stake sales.",
+      "keyTakeaways": [
+        "Berkshire's $6.8B Taylor Morrison acquisition signals Abel's willingness to deploy capital in cyclical sectors despite current housing market weakness\u2014a potential contrarian bet on eventual market recovery.",
+        "Private equity's increased participation in pro sports minority stake sales is reshaping asset valuations across traditional sports franchises, with the San Diego Padres fetching a record $3.9B despite modest competitive positioning.",
+        "Salary cap proposals in MLB are less about cost containment and more about making franchises attractive to buyers\u2014suggesting PE buyers are driving consolidation trends across pro sports, similar to tech and industrial sector roll-ups."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: New ballgame"
+    },
+    {
+      "id": "9186c85b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate scientist examines historical failures in energy forecasting, from the 'peak oil' predictions of the 2000s to systematic errors in electricity sector projections, arguing that conventional wisdom about energy transition costs may be significantly overstated. The analysis suggests that technological and market dynamics have repeatedly confounded expert predictions, with implications for current cost-benefit analyses of clean energy investments.",
+      "keyTakeaways": [
+        "Historical energy predictions have been consistently wrong in magnitude and direction (peak oil, solar/wind capacity forecasts), suggesting current estimates of energy transition costs may be equally unreliable and potentially inflated\u2014relevant for evaluating climate tech investment returns and policy-dependent valuations.",
+        "The inability to predict energy system evolution even 5-10 years out undermines long-term infrastructure financing models and regulatory frameworks that depend on accurate 25-30 year forecasts, creating both risk and opportunity for investors who can identify genuine technological inflection points versus consensus-driven hype.",
+        "If transition costs are being materially overestimated due to systematic forecasting bias, renewable energy and electrification plays may face less economic resistance and faster adoption curves than currently priced in, favoring early-stage clean tech and grid infrastructure investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Why We\u2019re So Bad at Predicting the Future of Energy"
+    },
+    {
+      "id": "ab841c6e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic has confidentially filed for an IPO that could see trading begin as early as fall 2026, coinciding with reports the AI lab is approaching its first profitable quarter driven by surging electricity demand. The newsletter connects this AI infrastructure boom to geopolitical energy dynamics, specifically Iran war tensions that pushed oil prices above $95/barrel for Brent crude and $92 for WTI, highlighting how electricity and energy markets will define both technology investment returns and macroeconomic stability.",
+      "keyTakeaways": [
+        "Anthropic's IPO filing signals confidence in AI profitability amid massive compute infrastructure needs\u2014investors should watch for guidance on power consumption and electricity cost structures when the company goes public, as these will directly impact margins",
+        "Energy infrastructure assets (solar, batteries, wind, natural gas) are becoming embedded bets within AI infrastructure plays; capital allocation to power generation and grid modernization is now inseparable from AI investment thesis",
+        "Geopolitical oil supply shocks remain a live risk to market sentiment despite AI euphoria\u2014the 4.5-5% oil surge from Iran tensions shows how energy security remains a circuit-breaker on risk assets, and ongoing Strait of Hormuz closure could amplify volatility"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "It All Comes Back to Electricity"
+    },
+    {
       "id": "b43c6bfe",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6549,17 +6639,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 40
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 153
+      "count": 41
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 133
+      "count": 136
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 154
     },
     {
       "name": "Fintech",
@@ -6577,5 +6667,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-01T12:29:44.077187Z"
+  "lastUpdated": "2026-06-02T11:12:22.766305Z"
 }
