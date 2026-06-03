@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "0e7cdca4",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac392 million across 34 deals in May 2026, double the amount from May 2025 and marking steady month-over-month growth, though no mega-rounds drove the market surge. In a notable consolidation, driving school platform Ornikar acquired competitor En Voiture Simone to capture over 10% of France's total auto-school market and enable European expansion. Energy infrastructure, not GPU capacity, is emerging as the new critical constraint for AI companies seeking sustainable competitive advantage.",
+      "keyTakeaways": [
+        "French VC market is showing robust recovery with year-over-year doubling of capital deployment, suggesting improving investor confidence and deal flow normalization across the region despite absence of blockbuster rounds.",
+        "Consolidation plays are accelerating in established sectors like edtech, with platforms merging to achieve market dominance and geographic expansion\u2014relevant for LPs tracking strategic M&A trends versus pure venture outcomes.",
+        "Energy infrastructure and power access are displacing compute as the primary bottleneck for AI scaling, signaling investor interest should shift toward energy-adjacent plays and infrastructure-enabling startups rather than hardware-centric bets."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "03.06 - French Tech : en mai, les startups ont lev\u00e9 deux fois plus que l'ann\u00e9e derni\u00e8re"
+    },
+    {
+      "id": "a58375b0",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI is pursuing its IPO at a $852 billion valuation despite being valued at 11.8 times the multiple of competitors like Databricks on a quality basis, spending $2.22 for every dollar earned with a negative 122% adjusted operating margin. The company's path to profitability depends entirely on a capped Microsoft revenue-share agreement through 2030, and current Q1 projections suggest OpenAI will lose $10-30 billion by 2030 rather than achieve the $95-105 billion free cash flow needed to justify its valuation. Meanwhile, private credit markets are showing warning signs with record redemptions from non-traded BDCs, signaling potential stress ahead for PE evergreen funds exposed to rising corporate loan defaults.",
+      "keyTakeaways": [
+        "OpenAI's IPO valuation appears disconnected from unit economics\u2014at $177.5 billion per quality point versus Databricks at $15 billion, investors are pricing in expectations that current financials cannot support without dramatic operational transformation.",
+        "The Microsoft agreement isn't a moat but a lifeline\u2014without the $38 billion cap through 2030, OpenAI cannot achieve positive free cash flow, making this contract's renewal the critical variable for equity holders that remains unpriced.",
+        "Private credit stress indicators (record BDC redemptions) suggest liquidity pressures are building in semi-liquid wealth products; PE evergreens face similar exposure to sponsor-backed defaults, indicating potential forced selling or redemption halts could ripple through alternative asset markets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "OpenAI goes public as AI's worst value"
+    },
+    {
+      "id": "b5cbd838",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Corporate AI investments are delivering disappointing returns despite massive budget increases, with 40% of companies achieving less than 10% cost savings. Paradoxically, 90% of underperforming companies plan to increase AI spending next year, creating what analysts call a \"circular bet with a structural leak\" as computing costs rise faster than productivity gains. This dynamic threatens AI application startups with high churn risk while some category winners like Anysphere (Cursor) are still scaling rapidly at $3 billion annualized revenue.",
+      "keyTakeaways": [
+        "AI application startups face a critical customer retention crisis as corporate productivity improvements fall short of projections\u2014executives are acknowledging the ROI gap but doubling down on spending anyway, creating unsustainable unit economics",
+        "Wall Street analysts have shifted focus from product roadmaps to financial returns on AI investments, with 90% of earnings call questions now investigative in tone about ROI\u2014this signals that AI hype is meeting reality check and valuations may face pressure",
+        "The sector is bifurcating sharply: niche productivity winners (coding agents, domain-specific tools) are thriving while broader enterprise AI applications struggle, suggesting investor capital should flow toward demonstrable use-case specificity rather than generalist AI platforms"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The AI budget trap"
+    },
+    {
+      "id": "01d86fb4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic filed confidential S-1 documents for its IPO, positioning the AI company to go public after SEC review while differentiating itself through commitments to offset electricity costs from data centers. The Department of Energy removed electric heating rebates from its home efficiency program, eliminating federal support for gas-to-electric conversions, while major capital allocations to data center infrastructure accelerated with Berkshire Hathaway committing $80 billion to Alphabet's buildout and climate-tech VC firm Gigascale raising $250 million. China and Britain simultaneously achieved nuclear construction milestones, signaling a global shift in energy infrastructure investment amid rising electricity demand.",
+      "keyTakeaways": [
+        "Anthropic's IPO filing and explicit energy-cost compensation pledge positions AI infrastructure companies as differentiated investment plays that acknowledge the energy economy tension\u2014expect more AI/clean energy bundling in future offerings",
+        "The reversal of home electrification rebates signals political risk for distributed clean energy adoption, forcing residential retrofit economics to depend entirely on utility rates and private financing rather than federal incentives",
+        "Hyperscaler energy demand is consolidating capital allocation at massive scale (Berkshire's $80B Alphabet commitment, Anthropic IPO proceeds likely in billions), suggesting energy infrastructure, grid modernization, and nuclear become critical gating factors for AI expansion rather than afterthoughts"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "China\u2019s Nuclear Milestone"
+    },
+    {
+      "id": "e66220d2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic has filed a confidential S-1 with the SEC, signaling an imminent IPO as the AI company races to beat OpenAI to public markets. Valued at nearly $965 billion following its May Series H funding round that raised $65 billion, Anthropic reported an annualized revenue run rate of $47 billion as of May 2026, significantly outpacing OpenAI's reported financial performance and creating a competitive dynamic around which AI powerhouse will go public first.",
+      "keyTakeaways": [
+        "Anthropic's $965 billion valuation and $47 billion annualized revenue run rate position it as a more profitable alternative to OpenAI, which could drive significant investor demand and potentially reshape the AI competitive landscape if Anthropic achieves IPO first.",
+        "Secondary market dynamics show rabid demand for Anthropic shares while OpenAI secondary shares face weaker demand, suggesting institutional capital may be rotating toward the more profitable AI company and away from the less capital-efficient competitor.",
+        "The IPO race between Anthropic and OpenAI represents a critical inflection point for the entire AI sector\u2014the winner's public market reception could fundamentally determine capital allocation priorities across venture and growth equity over the next 18-24 months."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Anthropic confidential"
+    },
+    {
+      "id": "81647250",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic filed a confidential IPO registration statement and could become one of the first three U.S. companies to go public at over $1 trillion valuation. The filing highlights five critical factors: Anthropic's enterprise-focused lead over OpenAI and SpaceX's xAI, emerging corporate skepticism about AI spending, potential August timing advantages, regulatory complications from its public benefit corporation status, and increasing government scrutiny from both Trump's pending AI executive order and Democratic proposals for AI company wealth redistribution and data center taxes.",
+      "keyTakeaways": [
+        "Anthropic's enterprise-first positioning gives it near-term competitive momentum, but this advantage is fragile as Google commits $80 billion to AI and corporate customers increasingly seek cost optimization\u2014suggesting IPO valuations may face pressure if enterprise demand softens",
+        "The public benefit corporation structure is a material underpriced risk: PBC obligations to balance shareholder returns with 'responsible AI development' could limit future M&A, dividend potential, and strategic flexibility in ways traditional AI competitors won't face",
+        "Regulatory tail risk is severe and asymmetric\u2014government AI policy could shift dramatically within months of IPO, with proposals ranging from mandatory pre-release model sharing to wealth fund equity seizures and data center excise taxes, creating 12-24 month repricing scenarios"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Anthropic anthology"
+    },
+    {
+      "id": "364a55ee",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new State of Carbon Dioxide Removal report warns that while carbon removal technology research and deployment have advanced in the past two years, the industry is still not scaling fast enough to meet Paris Agreement climate targets. The gap between current carbon removal capacity and what's needed is widening as global carbon emissions continue to rise, increasing the total removal requirement.",
+      "keyTakeaways": [
+        "Carbon removal technology deployment is lagging behind climate commitments, signaling potential underinvestment in scale-up infrastructure and indicating regulatory gaps in carbon credit pricing or mandates that could affect market viability",
+        "The expanding gap between removal capacity and climate targets suggests significant capital opportunities exist for investors in emerging carbon removal technologies, but timing risk is high\u2014solutions must scale within a constrained timeline",
+        "Rising emissions coupled with stalled removal deployment indicates carbon removal will likely become a critical climate policy tool with potential for regulatory mandates and carbon pricing mechanisms to drive sector growth"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The Sorry State of Carbon Removal"
+    },
+    {
+      "id": "21ced6db",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York has weakened its landmark 2019 climate law by pushing back emissions reduction deadlines and redefining how it calculates emissions, particularly regarding natural gas infrastructure. The rollback reflects growing tension between climate ambitions and affordability concerns, signaling that state-level climate policies face mounting political pressure when implementation costs hit consumers.",
+      "keyTakeaways": [
+        "Climate policy weakening in major states creates regulatory uncertainty for clean energy infrastructure investors; New York's retreat suggests ambitious 2030 targets may not survive contact with consumer affordability politics, affecting long-term project ROI assumptions.",
+        "Natural gas infrastructure remains viable longer than previously assumed under climate law revisions, potentially extending asset lifecycles and reducing stranded asset risk for incumbent energy utilities\u2014a significant shift in energy transition timelines.",
+        "Affordability politics are now the binding constraint on climate policy implementation at the state level, not technology or capital availability; investors should model more conservative deployment timelines and focus on solutions that reduce consumer energy costs rather than mandate rapid transitions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Shift Key: Affordability Politics Took On New York\u2019s Climate Law \u2014 and Won"
+    },
+    {
+      "id": "b21a7263",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York's Attorney General Letitia James is leading a multi-state lawsuit against the Trump administration for paying TotalEnergies approximately $1 billion to exit two U.S. offshore wind leases. The suit, filed by seven Northeast states, argues the settlement violates the Outer Continental Shelf Lands Act and the Judgment Fund Act, marking the first major legal challenge to the administration's reversal of offshore wind policy.",
+      "keyTakeaways": [
+        "Offshore wind project cancellations expose significant financial and legal liabilities for the federal government, with settlements potentially in the hundreds of millions to billions\u2014creating uncertainty for future renewable energy project rollbacks.",
+        "Multi-state legal coalitions are emerging as a counterweight to federal policy shifts, suggesting that renewable energy assets will face prolonged litigation rather than swift reversal, extending timeline and cost uncertainty for investors.",
+        "The case establishes a precedent for challenging executive decisions on energy infrastructure, implying that renewable energy and climate policy investments face heightened regulatory and litigation risk under administrations hostile to clean energy mandates."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "New York Just Filed the First Major Challenge to Trump\u2019s TotalEnergies Deal"
+    },
+    {
+      "id": "81c5ec0a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Public opposition to data center construction has surged dramatically, with 71% of Americans now opposing facilities near their homes\u2014a 49-point swing against data centers in just nine months. The shift has already resulted in at least 20 data center project cancellations in Q1 2025 alone, wiping out over $41 billion in planned investment and 3.5 gigawatts of electricity demand, with opposition cutting across traditional political and geographic divides.",
+      "keyTakeaways": [
+        "Data center developers face unprecedented permitting and community opposition risk: 55% of Americans strongly oppose local projects, and rural areas\u2014historically favorable to infrastructure\u2014now show the highest opposition rates at 73%, suggesting regulatory headwinds will intensify across all regions.",
+        "The $41 billion in canceled Q1 2025 projects signals a potential repricing of data center development costs and timelines; investors should model extended permitting cycles, community mitigation expenses, and higher failure rates for greenfield data center projects.",
+        "AI infrastructure buildout faces a critical constraint: if opposition continues at current trajectory, the electricity and land availability needed to power AI scaling may become a binding constraint on the sector, potentially benefiting alternative compute locations (edge computing, international jurisdictions) and efficiency-focused players."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Exclusive: Americans Really Don\u2019t Want Data Centers"
+    },
+    {
       "id": "ef1d89fa",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6639,17 +6819,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 41
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 136
+      "count": 42
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 154
+      "count": 158
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 141
     },
     {
       "name": "Fintech",
@@ -6667,5 +6847,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-02T11:12:22.766305Z"
+  "lastUpdated": "2026-06-03T11:50:48.550912Z"
 }
