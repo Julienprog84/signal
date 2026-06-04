@@ -1,6 +1,204 @@
 {
   "newsletters": [
     {
+      "id": "a48a4368",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-04",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French quantum computing startup Quobly raised \u20ac115 million in Series A funding backed by industrial giants STMicroelectronics and Air Liquide, marking a resurgence of investor interest in quantum computing technology for semiconductor-based systems. The funding round signals growing momentum in European quantum tech as enterprises like EDF explore applications for energy optimization and numerical simulation, while the EU simultaneously moves to reserve sensitive cloud and AI contracts for European suppliers.",
+      "keyTakeaways": [
+        "Quantum computing is experiencing renewed investor attention with substantial industrial backing\u2014\u20ac115M Series A for Quobly demonstrates that deep-tech quantum plays can attract major corporate strategics, not just traditional VCs, signaling confidence in near-term commercialization paths.",
+        "European tech champions are consolidating competitive advantage through strategic acquisitions and funding rounds; combined with EU procurement protectionism for AI/cloud, this suggests capital will increasingly concentrate in European-backed quantum and AI infrastructure plays rather than fragmenting globally.",
+        "Energy sector applications (EDF's interest in optimization and simulation) represent a concrete use case driving quantum investment beyond hype\u2014investors should monitor enterprise adoption timelines in utilities, logistics, and financial services as the next validation milestone for quantum computing ROI."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "04.06 - Quantique : Quobly l\u00e8ve 115 millions d\u2019euros avec le soutien de STMicroelectronics et d'Air Liquide"
+    },
+    {
+      "id": "f5843c86",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Critical Capital is a new podcast from Crux and Latitude Studios exploring the business dynamics of clean energy and critical infrastructure through markets and capital flows. The first three episodes cover AI's massive physical infrastructure demands and the trillion-dollar manufacturing opportunity, the resilience of U.S. industrial trade policy amid political volatility, and the grid's hardware bottleneck in power electronics and transformers rather than generation capacity.",
+      "keyTakeaways": [
+        "The intersection of AI and physical infrastructure is creating a trillion-dollar manufacturing opportunity, with geopolitical implications as China's industrial capabilities compete directly with U.S. buildout.",
+        "U.S. clean energy momentum depends on sustained bipartisan industrial policy support\u2014political volatility poses real execution risk to manufacturing-heavy capital plans.",
+        "Grid modernization bottlenecks lie in aging power electronics and transformers, not renewable generation\u2014this shift creates targeted hardware investment opportunities in less-discussed but critical infrastructure segments."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Introducing Critical Capital, a new podcast from Crux and Latitude\r\n Studios"
+    },
+    {
+      "id": "5d3972e1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX is targeting a $75 billion raise at a $1.78 trillion valuation in its upcoming IPO. Meanwhile, Partners Group's decision to cap redemptions at 5% on an $8.6 billion evergreen PE fund has sparked broader concerns about stress in private markets, with PE stock prices tumbling 16% or more across major European firms like EQT and CVC Capital Partners. The market volatility reflects growing investor anxiety about corporate distress and asset quality in private equity vehicles similar to ongoing troubles in private credit.",
+      "keyTakeaways": [
+        "Evergreen PE fund redemption restrictions signal potential liquidity and valuation stress in private equity portfolios, not just private credit\u2014this could trigger a broader repricing of illiquid private assets",
+        "The Partners Group selloff contagion across EQT, CVC, and Bridgepoint suggests institutional LPs may be reassessing exposure to legacy portfolio companies amid rising bankruptcy rates since 2022",
+        "Emerging opportunities are shifting to high-growth geographies: India is attracting strong LP interest for diversification, and European quantum startups are outpacing North America in VC funding for the first time since 2023"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "SpaceX reveals $75B target"
+    },
+    {
+      "id": "bae3cab9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York and six Northeast states are suing the Trump administration over a $1 billion payment to TotalEnergies to abandon offshore wind leases, claiming it violates federal law and threatens over 1,000 union jobs. The House passed a bipartisan geothermal energy package aimed at accelerating permitting and deployment timelines for the technology, while the Trump administration is simultaneously eliminating a $368 million deep-ocean observation system used to monitor coastal environments.",
+      "keyTakeaways": [
+        "Offshore wind faces significant political headwinds with the Trump administration actively paying foreign energy companies to exit renewable projects, creating litigation risk and uncertainty for utilities and developers betting on coastal wind capacity.",
+        "Geothermal energy is emerging as a bipartisan priority with new legislation designed to streamline permitting\u2014companies like Fervo Energy could benefit from faster deployment timelines, potentially making geothermal an attractive alternative to offshore wind in the current political climate.",
+        "The administration's simultaneous elimination of ocean monitoring infrastructure while blocking offshore wind suggests a coordinated rollback of climate infrastructure investment, signaling that renewable energy investors should prepare for regulatory reversals and reduced federal support over the next 18 months."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Schoolhouse Hot Rocks"
+    },
+    {
+      "id": "5d157e50",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Town, a personalized AI assistant startup founded by ex-Plaid CTO Jean-Denis Gr\u00e9z\u00e9 and ex-Google AI director Tony Vincent, raised $55 million in Series A funding led by Andreessen Horowitz to build AI assistants that learn individual users' contexts by integrating with email, calendar, and other productivity tools. The company targets the $16 billion global AI assistant market projected to reach $74 billion by 2033, positioning itself as differentiated from ChatGPT and Claude by proactively suggesting actions based on deep user knowledge rather than requiring explicit prompts.",
+      "keyTakeaways": [
+        "Town's integration-first model and 99% two-month retention among users with custom automations suggest strong product-market fit in the prosumer segment, presenting a viable counterpoint to the risk that Google and Microsoft could lock out third-party assistants through native data access.",
+        "The $55 million Series A valuation and investor confidence signal that verticalized, context-aware AI assistants are attracting significant capital despite competition from well-resourced incumbents\u2014relevant for assessing whether specialized AI applications can sustain standalone value.",
+        "The $16B-to-$74B market expansion forecast and focus on one billion knowledge workers globally indicates investors view personalized AI assistants as a major productivity infrastructure shift, likely to drive downstream M&A and consolidation across the software stack."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "AI assistants getting personal"
+    },
+    {
+      "id": "45800ffc",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Labor Department received nearly 40,000 comments on a proposed rule to expand 401(k) access to alternative assets like private equity and credit, with implementation expected regardless of feedback given Trump administration priorities. Meanwhile, Chinese AI startup DeepSeek is raising $7.4 billion at a $52 billion valuation from Tencent and other investors, signaling serious competitive threats to U.S. AI dominance as enterprises seek cost-effective token solutions. Recent venture deals include NewLimit's $435 million raise at $3.1 billion valuation led by Founders Fund, AlphaSense's $350 million Series G at $7.5 billion, and Cyera's $300 million funding at $12 billion valuation.",
+      "keyTakeaways": [
+        "The 401(k) alternative assets rule will likely proceed with Trump administration backing, but safe harbor provisions around litigation risk remain contested\u2014watch for final language on fiduciary discretion versus mandatory factor consideration, which directly impacts PE/credit fund distribution channels.",
+        "DeepSeek's $52 billion valuation and state-backed funding represent a structural shift in AI competition; U.S. VCs should monitor whether enterprise customers migrate to cheaper Chinese models, particularly in cost-sensitive verticals, as this affects AI infrastructure investment theses.",
+        "Late-stage VC funding remains robust across healthtech (NewLimit $3.1B), enterprise software (AlphaSense $7.5B), and cybersecurity (Cyera $12B), but valuations suggest the market is increasingly selective on unit economics and differentiation rather than funding AI generically."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Closing comments"
+    },
+    {
+      "id": "b5a01662",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-03",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A fintech industry podcast discusses the widespread trend of fintech, crypto, and stablecoin companies pursuing banking licenses, examining potential implications for their valuations. The episode also covers the Consumer Financial Services Bureau's enforcement action against a partner bank and analyzes President Trump's recent executive orders affecting fintech and banking regulation.",
+      "keyTakeaways": [
+        "Fintech companies pursuing banking charters represents a significant strategic shift that could reshape valuations across the sector\u2014investors should monitor which companies are moving toward direct banking licenses versus remaining platform-dependent on partners.",
+        "The CFSB's enforcement actions against fintech partner banks signal increased regulatory scrutiny of the Banking-as-a-Service model, creating both risk for existing BaaS platforms and potential opportunity for companies that can achieve direct banking status.",
+        "Trump administration executive orders on fintech and banking could fundamentally alter the regulatory landscape; companies positioned to benefit from deregulation or harmed by new restrictions will experience outsized valuation swings in coming quarters."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 67,
+      "originalTitle": "Fintech Recap: Everyone Wants To Be Bank"
+    },
+    {
+      "id": "5d92ec50",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter highlights the growing health crisis from wildfire smoke pollution, noting that a UCLA study published in 2026 estimates wildfire smoke causes over 24,000 annual deaths in the U.S.\u2014exceeding homicide fatalities. The piece references the June 2023 smoke event when New York City recorded an Air Quality Index of 484, marking the worst wildfire pollution exposure day in U.S. history, and suggests such events are becoming more frequent and severe.",
+      "keyTakeaways": [
+        "Wildfire smoke represents a massive and underappreciated public health crisis with 24,000+ annual deaths, creating significant market opportunities in air quality monitoring, filtration, respiratory therapeutics, and climate adaptation solutions.",
+        "Historical smoke events like NYC's 2023 AQI of 484 demonstrate acute pollution spikes that stress healthcare systems and create demand for emergency response infrastructure and pollution-mitigation technologies with immediate revenue potential.",
+        "The trend toward recurring 'smoke events' signals a structural shift in climate-driven risk that will drive regulatory action, corporate spending on air quality management, and sustained capital deployment in climate resilience and public health sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Get Ready for a Smoky Summer"
+    },
+    {
+      "id": "5d0a2fc2",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic's approaching $1 trillion IPO valuation masks a critical infrastructure reality: the company operates zero of its 10.3 gigawatts of compute capacity, instead contracting with five infrastructure partners including hyperscalers like Amazon and Microsoft. This creates an \"energy accountability fog\" where AI labs capture cultural attention and market value while hyperscalers and data center developers bear the political and regulatory burden of grid impacts, electricity costs, and community pushback\u2014a dynamic now shifting as Google becomes the first hyperscaler to directly fund virtual power plants, exemplified by its 100 megawatt Voltus deal in PJM.",
+      "keyTakeaways": [
+        "Frontier AI companies are structurally insulated from energy infrastructure risk and regulatory exposure despite driving demand; investors should scrutinize which hyperscalers are absorbing stranded grid investment risk as AI compute scales.",
+        "Market structure is shifting toward direct funding of distributed capacity solutions (Google-Voltus deal) rather than passive grid consumption, suggesting AI infrastructure financing could become a material margin pressure or competitive advantage for hyperscalers.",
+        "State-level policy frameworks (New Jersey's 'bring your own power' principle) are beginning to formalize cost-shifting to compute demanders, likely to accelerate and create new capital requirements and negotiating leverage for companies like Voltus in the 2026-2027 cycle."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Anthropic and AI's energy accountability fog"
+    },
+    {
+      "id": "744e209b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Public support for data centers has collapsed dramatically, with 70% of Americans now opposing nearby construction compared to 40% nine months prior, driven primarily by soaring electricity costs. A Heatmap Pro poll found that over half of respondents blame new data center construction \"a lot\" for rising power bills\u2014more than doubling from 28% in August 2025\u2014making it the leading explanation for electricity price increases ahead of general demand growth.",
+      "keyTakeaways": [
+        "Regulatory and permitting risks for data center developers are intensifying as local opposition reaches critical levels; investors should reassess site selection strategies and factor in heightened community resistance that could delay or derail projects",
+        "Energy infrastructure providers and utilities face mounting pressure to expand capacity, creating both challenges and opportunities for companies in power generation, transmission, and grid modernization sectors",
+        "The narrative around AI and large tech infrastructure is shifting from innovation-focused to cost-of-living focused, potentially triggering policy backlash; companies betting on hyperscale data center expansion should prepare for stricter regulations, energy surcharges, or local bans"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Americans Now Blame Data Centers for Their Rising Power Bills"
+    },
+    {
+      "id": "9e4b6418",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "At Heatmap's Energy Entrepreneurship Summit, industry leaders highlighted three converging trends: fusion energy momentum driven by recent technological breakthroughs and AI-era electricity demand parallels, surging power demand across the board benefiting all clean energy technologies, and intensifying U.S.-China competition over energy and electrotech dominance. Chinese firms like BYD, Xiaomi, and CATL have raised stakes for American competitiveness, with concerns that the U.S. may invent breakthrough technologies but fail to scale them commercially without rebuilding manufacturing capacity and engineering talent.",
+      "keyTakeaways": [
+        "Fusion startups report significant recent improvements and project mid-2030s commercial deployment, but venture capital must prioritize companies with credible commercialization pathways and manufacturing strategies\u2014invention alone won't compete against scaled Chinese competitors.",
+        "Rising electricity demand from AI hyperscalers and data centers is creating a rising-tide market for all clean energy technologies (geothermal, batteries, nuclear, fusion), but the window to capture market share before Chinese firms dominate is narrowing rapidly.",
+        "U.S. energy competitiveness now directly tied to national security and reindustrialization; policymakers recognize that American advantages in R&D mean little without corresponding investments in hardware factories, grid expansion, and recruiting/training engineering talent\u2014creating significant opportunities for companies positioned in manufacturing and infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "What\u2019s Powering Clean Energy"
+    },
+    {
       "id": "0e7cdca4",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -6819,22 +7017,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 42
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 158
+      "count": 43
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 141
+      "count": 147
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 161
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Deep Tech & Science",
@@ -6847,5 +7045,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-03T11:50:48.550912Z"
+  "lastUpdated": "2026-06-04T10:34:18.073353Z"
 }
