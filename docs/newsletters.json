@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "ef4d8d3f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-05",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Gojob, a French HR tech scale-up, has voluntarily exited the Next40 program just days before a new cohort announcement, signaling its transition to profitability and international maturity. Separately, Innovorder, a restaurant digitalization platform serving major clients like Elior and Sodexo, has raised \u20ac20 million from UL Invest while already profitable, targeting European expansion and acquisition opportunities.",
+      "keyTakeaways": [
+        "French scale-ups are reaching maturity faster, with profitable companies self-selecting out of government support programs to make room for earlier-stage ventures\u2014a sign of healthy ecosystem progression rather than failure.",
+        "B2B SaaS companies in the hospitality sector are attracting significant growth capital even at profitability, suggesting strong unit economics and market demand for enterprise digitalization solutions across Europe.",
+        "The shift toward agentic AI and data-driven governance is reshaping how enterprises operate, creating new strategic priorities around implementation and risk management that could drive demand for specialized consulting and software solutions."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "05.06 - Gojob quitte volontairement le Next40, \u00e0 quelques jours de la nouvelle promotion"
+    },
+    {
+      "id": "65ff5e74",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. crude oil stocks have fallen to their lowest level since 2004 amid geopolitical tensions, with analysts warning prices could reach $200 per barrel by summer if the Strait of Hormuz remains closed. Oklahoma's attorney general is suing to block a new aluminum smelter backed by UAE investment after the Trump administration imposed 50% tariffs on aluminum, and Texas's grid operator has approved new rules governing data center connectivity that could reshape the state's energy infrastructure.",
+      "keyTakeaways": [
+        "Oil supply constraints driven by Iran tensions present both macro risk and potential upside for energy infrastructure investors, with strategic petroleum reserve depletion limiting government tools to manage price spikes.",
+        "The aluminum smelter dispute signals protectionist trade policy risk for foreign direct investment in U.S. industrial projects, even from traditionally allied nations, affecting capital flows into manufacturing.",
+        "Texas grid operator rules on data center load management suggest regulatory tightening around AI/crypto infrastructure that could redirect investment away from Texas or increase compliance costs for grid-intensive operations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Oklahoma!"
+    },
+    {
+      "id": "ee93cf1f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Honeycomb Insurance, an AI-native insurer for multifamily residential properties, raised $40 million led by Zeev Ventures, bringing total funding to $95 million. The company uses machine learning on geospatial data and aerial imagery to price risk without physical inspections, offering coverage up to 40% cheaper than traditional carriers while achieving profitability with $275 million in gross written premium across 22 states. The market is shifting from a hard insurance market (2023 peak of 20% annual premium increases) to a soft market in 2025, with apartment building coverage rates declining 5-15% as reinsurance capacity floods back.",
+      "keyTakeaways": [
+        "Honeycomb demonstrates a viable alternative to legacy insurance underwriting: AI-driven risk assessment eliminates the economics barrier that prevented insurers from serving fragmented multifamily markets, creating a defensible moat around data accumulation and model refinement.",
+        "The company's profitability while still investing growth capital signals that AI-native underwriting has achieved unit economics advantages over inspection-based models, making this a durable business model rather than a temporary market arbitrage play.",
+        "The reversal from hard to soft insurance markets (rates down 5-15% in 2025) represents a critical inflection point where incumbent carriers regain capacity and price competitively, forcing tech-enabled players to compete on non-price factors like speed, accuracy, and customer experience rather than pure cost advantage."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Protect the hive"
+    },
+    {
+      "id": "4b1ed93e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Andreessen Horowitz has hired Anne Neuberger, former U.S. deputy national security advisor, as a full-time partner and head of global affairs, signaling the firm's strategic pivot toward geopolitics and international expansion. The move reflects how defense-tech, sovereign wealth fund partnerships, and government relationships are becoming critical to venture success as a16z expands globally with offices like its recent Tokyo location. Meanwhile, Bill Ackman's Pershing Square is exiting its five-year UMG investment with over $600 million in profits after the music label rejected a $63 billion acquisition offer, highlighting challenges in the streaming and music industry from AI competition.",
+      "keyTakeaways": [
+        "Top-tier VC firms are now actively recruiting high-level government talent to navigate geopolitical complexities and build sovereign relationships\u2014expect this trend to accelerate as defense-tech and AI regulation become portfolio differentiators.",
+        "The hiring of Neuberger despite a16z's public friction with the Biden administration over AI policy suggests that accessing government relationships matters more than ideological alignment, reshaping how LP networks and deal access work.",
+        "Music industry consolidation and catalog valuations are plateauing amid streaming saturation and AI disruption, signaling that tech investors should watch for similar margin compression in other content-dependent sectors with high regulatory/IP exposure."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: a16z goes global"
+    },
+    {
+      "id": "bb3d36e5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News and Orennia are hosting a virtual event on June 24, 2026, examining how accelerating AI-driven data center demand is reshaping U.S. power markets and creating investment opportunities across generation, transmission, and project development. The discussion will focus on siting, permitting challenges, local opposition, and power market dynamics influencing where data center projects advance or face constraints.",
+      "keyTakeaways": [
+        "Data center siting and permitting risk are emerging as critical investment variables\u2014investors need intelligence on which projects face local opposition and regulatory headwinds versus those with clear infrastructure pathways",
+        "Behind-the-meter power solutions and distributed generation opportunities are gaining prominence as developers race to secure reliable power; this signals capital allocation shifts toward resilient, localized energy infrastructure",
+        "Power market constraints and transmission bottlenecks are becoming deal-limiting factors for hyperscale data center development, creating opportunities for investors in grid modernization and power infrastructure projects"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Upcoming Virtual Event: The 2026 Data Center and Power Market\r\n Outlook"
+    },
+    {
+      "id": "7e7a822d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A New World screwworm, a flesh-eating fly that devastates livestock, has breached the Panama biocontrol barrier established by the U.S. government and crossed into Texas, threatening to drive already record-high beef prices even higher. The failure exposes critical gaps in state capacity and long-term infrastructure maintenance, as the U.S. must now build a larger sterile screwworm production facility in Texas capable of producing 300 million insects annually\u2014a far more expensive undertaking than maintaining the original Panama containment strategy.",
+      "keyTakeaways": [
+        "Agribusiness and meat production face immediate cost pressures from screwworm infestation; companies in livestock management, veterinary services, and beef processing should model supply chain disruptions and price volatility as the government's re-eradication efforts take years to stabilize.",
+        "The $300 million+ investment in new screwworm production infrastructure signals rising U.S. government spending on biosecurity and agricultural risk management\u2014creating opportunities in biotech manufacturing, pest control, and agricultural technology sectors focused on disease prevention.",
+        "The screwworm case exemplifies a broader governance crisis: critical infrastructure and pest control systems lack sufficient political incentives for maintenance, suggesting underinvestment across climate resilience, food security, and disease eradication\u2014a macro risk for food-dependent economies and an opportunity for private firms filling government capacity gaps."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Screwworm Screw-Up"
+    },
+    {
       "id": "a48a4368",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7017,17 +7125,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 147
+      "count": 150
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 161
+      "count": 163
     },
     {
       "name": "Fintech",
@@ -7045,5 +7153,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-04T10:34:18.073353Z"
+  "lastUpdated": "2026-06-05T10:41:24.788475Z"
 }
