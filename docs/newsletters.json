@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "d9b9b5c1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX set an unusual fixed IPO price of $135 per share ($75 billion gross proceeds) without traditional price discovery, signaling confidence in oversubscribed demand and limiting downside risk for underwriters. Meanwhile, Big Tech's four major players (Amazon, Google, Meta, Microsoft) are projected to spend nearly $600 billion on AI infrastructure in 2026, prioritizing minority stakes and infrastructure deals over traditional acquisitions, which hit a decade low of seven VC-backed deals in 2024.",
+      "keyTakeaways": [
+        "SpaceX's fixed pricing strategy removes traditional price discovery risk but signals exceptional founder confidence\u2014any downward adjustment would now appear as a stumble rather than routine calibration, creating psychological pressure on underwriters to deliver on demand.",
+        "Big Tech's capital reallocation from M&A to infrastructure (Microsoft's 30% OpenAI stake, Meta's $14.3B Scale AI investment) reflects a strategic pivot toward securing AI positioning through compute commitments rather than traditional venture acquisitions, limiting exit opportunities for VC-backed AI startups.",
+        "The combination of mega-liquidity events (SpaceX IPO, record $47.3B in co-investment funds raised) with depressed acquisition activity suggests a bifurcated market where scale-stage deals command premium valuations while early-stage exit pathways narrow significantly."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Elon: Are you in or are you out?"
+    },
+    {
+      "id": "d8b0851c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration announced nearly $1 billion in coal sector funding across three initiatives: $425 million for coal plant supply chains and capacity expansion, $75 million for a new coal export facility in Oakland, and $350 million for new coal plant construction in Alaska and West Virginia plus infrastructure upgrades in Puerto Rico and Maryland. Meanwhile, the EU is positioning itself as a global leader in ocean monitoring technology with plans to capture 35% of the market by 2035, as the U.S. dismantles its decade-old coastal monitoring program.",
+      "keyTakeaways": [
+        "The U.S. coal sector is receiving direct federal capital injection totaling ~$850 million for new construction and expansion, creating near-term opportunities in coal plant construction, supply chain infrastructure, and coal export logistics \u2014 but investors should note utilities are already challenging these cost burdens in court.",
+        "The EU's OceanEye initiative represents a $1+ billion opportunity to capture ocean observation technology markets, suggesting European cleantech and maritime monitoring companies will be positioned as preferred vendors over U.S. competitors as the administration withdraws from ocean monitoring.",
+        "Policy reversal risk is acute: coal plant investments depend on sustained government support that faces legal challenges and inherent asset deterioration (plants keep breaking down), while the simultaneous EU pivot to ocean intelligence suggests climate/environmental tech investment is bifurcating geographically away from the U.S."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Trump\u2019s Billion-Dollar Coal Gamble"
+    },
+    {
+      "id": "ccc075fa",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anduril co-founder Trae Stephens warns of an impending defense tech shakeout, arguing that mid-stage companies trade at 50-200x multiples while the underlying defense industry trades at 2-2.5x revenue, creating an unsustainable disconnect. With defense tech equity funding hitting $17.9 billion in 2025 and doubling year-over-year, Stephens contends that venture capital is overpricing the sector as if there will be multiple \"Andurils,\" when realistically only a couple of credible new players will emerge and the rest will fail.",
+      "keyTakeaways": [
+        "Mid-stage defense tech companies are trading at 50-200x revenue multiples while established defense contractors trade at 2-2.5x, signaling massive valuation disconnects that will force most startups into acquisition failures or bankruptcy rather than IPO exits.",
+        "The $17.9 billion in 2025 defense tech funding represents poorly-calibrated capital allocation; founders refusing discounted acquisitions due to ego will drag down ecosystem returns, suggesting VCs should tighten diligence on defense tech unit economics and exit paths.",
+        "The defense tech bubble risks sector credibility if government procurement advantages (OTA agreements, $20B+ OSC funding) cannot overcome structural overvaluation\u2014the shakeout may consolidate winners but damage VC returns broadly across defense innovation."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Casualties of war"
+    },
+    {
+      "id": "8ab6e005",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kevin Mayer's Smash Capital led a $200 million Series B for autonomous defense-tech company Allen Control Systems at a $2.2 billion valuation, marking the venture firm's expansion into defense while maintaining its core software and media portfolio. The newsletter also reports that Trump administration officials are exploring voluntary equity stakes in major AI companies like OpenAI, with potential returns directed to public purposes, alongside notable funding rounds for Supabase ($500M at $10.5B valuation) and Helion fusion ($465M at $15.5B valuation).",
+      "keyTakeaways": [
+        "Defense-tech is attracting established brand-name VCs: Smash Capital's move signals that top-tier venture firms previously focused on consumer tech are now aggressively deploying capital into autonomous weapons and defense platforms, particularly those with existing government contracts exceeding $120M.",
+        "Government equity acquisition in AI companies represents unprecedented policy risk: if the Trump administration successfully acquires voluntary stakes in OpenAI and other major AI firms, it could fundamentally reshape cap table dynamics and governance for the sector's most valuable companies.",
+        "Defense and AI sectors are consolidating investor attention: the crowding in defense-tech investing combined with continued mega-rounds in frontier AI infrastructure (Supabase, Helion) suggests capital is bifurcating toward high-conviction bets in geopolitically sensitive sectors rather than dispersing across traditional software categories."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: AI USA Inc."
+    },
+    {
+      "id": "0db0fa87",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-06-05",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Antares Nuclear became the first company in the U.S. Department of Energy's accelerated small modular reactor program to reach criticality, a major milestone for commercial nuclear development. The newsletter covers a broad range of deep tech investments including agtech boom, SpaceX's Starfall reentry vehicles, Muon Space's Condor-Ultra satellite platform targeting orbital data centers, quantum computing advances, and regulatory developments around AI and synthetic biology.",
+      "keyTakeaways": [
+        "Antares Nuclear's criticality achievement signals the commercial viability of small modular reactors; with nine other companies in the DOE pilot program racing to hit the July 4 deadline, this is a critical inflection point for nuclear energy infrastructure investment.",
+        "Multiple emerging deep tech verticals are simultaneously maturing\u2014orbital platforms (Muon), quantum computing, fusion energy (Xcimer), and advanced biomanufacturing\u2014suggesting capital is flowing toward infrastructure plays that enable downstream applications rather than end-consumer products.",
+        "Regulatory tailwinds (Trump administration nuclear support, NSA's central role in AI governance, China's brain-computer interface approval) are accelerating commercialization timelines across regulated sectors, creating first-mover advantages for companies navigating approval pathways."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 165: Antares Nuclear Goes Critical"
+    },
+    {
+      "id": "a28db82a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "American public sentiment has sharply turned against data center development, with 70% now opposing local data centers compared to a 50-50 split in August 2025. Simultaneously, 53% of Americans blame data centers for rising electricity costs (up from 28%), and 45% express pessimism about AI's societal impact, with a majority supporting a nationwide data center moratorium. The backlash appears driven by viewing data centers as symbols of AI and Big Tech rather than as neutral infrastructure, creating significant policy and investment risks.",
+      "keyTakeaways": [
+        "Data center developers and AI infrastructure investors face rapidly deteriorating public support that will likely translate into regulatory hurdles\u2014a majority of Americans now support moratorium policies, signaling that local zoning battles will intensify and expand nationally.",
+        "The public attribution of rising electricity costs to data centers (jumping from 28% to 53% in nine months) creates a political opening for energy regulation that could directly impact operating costs and land acquisition strategies for data center operators and cloud infrastructure companies.",
+        "Demographic and political divides suggest this is not a partisan issue but rather a generational and class-based concern, making it a durable macro headwind rather than a temporary sentiment swing\u2014capital should anticipate sustained regulatory pressure on AI infrastructure buildout across the U.S."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Backlash to the Boom"
+    },
+    {
       "id": "ef4d8d3f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7123,19 +7231,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 44
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 166
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 150
+      "count": 152
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 163
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 10
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 44
     },
     {
       "name": "Fintech",
@@ -7143,15 +7256,10 @@
       "count": 15
     },
     {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 9
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-05T10:41:24.788475Z"
+  "lastUpdated": "2026-06-06T09:18:54.398790Z"
 }
