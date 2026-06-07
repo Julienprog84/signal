@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "4ff8a1d4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI is valued at a significant premium to peers despite showing weaker unit economics according to PitchBook's analysis, suggesting a valuation disconnect from fundamentals ahead of its IPO. The venture market remains constrained with only $274.1 billion raised across 619 funds in Q1 2026, though secondaries and top-tier VC funds bucked broader trends, indicating LP capital is concentrating among elite managers while Big Tech companies have committed nearly $600 billion to AI infrastructure but remain conservative on acquisitions.",
+      "keyTakeaways": [
+        "OpenAI's valuation premium to peers does not reflect comparable business quality metrics, signaling potential overvaluation risk for pre-IPO investors entering at current terms.",
+        "Capital concentration accelerating: only experienced VC managers growing their funds while secondaries hit record fundraising, forcing LPs to choose between illiquidity and betting on a shrinking group of proven performers.",
+        "The $600 billion AI infrastructure spend by Big Tech without matching M&A activity suggests these companies are building rather than buying competitive advantage, reducing exit optionality for AI startups and extending their private capital dependency."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "OpenAI's value paradox"
+    },
+    {
       "id": "d9b9b5c1",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -7233,7 +7251,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 166
+      "count": 167
     },
     {
       "name": "Climate & Energy",
@@ -7261,5 +7279,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-06T09:18:54.398790Z"
+  "lastUpdated": "2026-06-07T09:55:44.630557Z"
 }
