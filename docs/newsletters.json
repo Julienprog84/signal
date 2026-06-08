@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "a6ada3c9",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-08",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac202 million this week, more than four times the previous week's total, with an average ticket size of \u20ac22 million, reflecting momentum in the European VC market. Key developments include a new accelerator partnership between the TV show platform \"Qui veut \u00eatre mon associ\u00e9?\" and Tomcat focused on B2B Tech startups, H Company joining Nvidia's Nemotron coalition for open-source AI models, and Innovafeed securing \u20ac51 million despite sector headwinds and planned workforce reductions.",
+      "keyTakeaways": [
+        "French fundraising volatility is notable\u2014\u20ac202M this week vs \u20ac46.5M the prior week\u2014suggesting capital is concentrating around larger rounds rather than consistent deployment across a broad startup base.",
+        "The new B2B Tech accelerator signals demand for infrastructure supporting overlooked startups outside mainstream media attention, while Nvidia's recruitment of French AI startups like H Company indicates Europe's emerging strength in enterprise AI applications.",
+        "The insect-farming sector faces structural challenges despite capital availability (Innovafeed's \u20ac51M raise alongside 60 job cuts), highlighting how funding alone cannot solve market fundamentals\u2014relevant for sector-focused investors evaluating deep tech agriculture bets."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "08.06 - \u00abQui veut \u00eatre mon associ\u00e9 ?\u00bb et Tomcat lancent leur acc\u00e9l\u00e9rateur de startups"
+    },
+    {
+      "id": "5d445867",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Trump's $100,000 H-1B visa fee, intended to reduce foreign tech hiring, has had a bifurcated effect: top-funded AI startups like OpenAI and Stripe are hiring more H-1B workers than before by absorbing the cost, while mid-market and smaller companies are sharply curtailing applications. The policy has widened the competitive moat for well-capitalized unicorns in the race for AI talent, with some firms shifting strategies to poach visa holders from competitors rather than sponsor new approvals.",
+      "keyTakeaways": [
+        "The H-1B fee is functioning as a capital-based competitive filter\u2014only the best-funded AI labs can afford it, making foreign tech talent acquisition a liquidity advantage rather than a deterrent to hiring",
+        "Smaller startups and mid-market companies are losing access to global talent pools, forcing them to compete on domestic hiring alone and potentially widening the valuation gap between tier-1 and tier-2 VC-backed companies",
+        "The policy's real-world impact contradicts its stated intent: instead of reducing foreign hiring, it's concentrated that hiring among megafunded labs while creating secondary effects like visa-holder poaching from other companies"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Who's paying Trump's H-1B fee?"
+    },
+    {
+      "id": "d9e8bc06",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "European PE firms are capitalizing on AI-driven cybersecurity threats to critical infrastructure, with investors like Eurazeo and PSG Equity backing specialized companies including Nextron Systems and Glasswall. AI has accelerated the cybersecurity threat landscape, enabling sophisticated attacks in hours rather than weeks and putting advanced capabilities in reach of low-skilled actors, driving a structural shift in investor demand for defense-focused cyber solutions.",
+      "keyTakeaways": [
+        "PE investors are deploying capital into cybersecurity companies with 60%+ revenue concentration in critical infrastructure and defense sectors, signaling conviction that government spending and regulatory mandates will sustain demand growth",
+        "AI has compressed attack timelines and democratized advanced cyber capabilities, creating a durable investment thesis for companies offering proactive threat prevention rather than reactive incident response",
+        "Business email compromise and vendor payment fraud losses are creating secondary investment opportunities in PE portfolios themselves, suggesting operational value-add potential for cyber-focused PE firms managing existing portfolio companies"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Could AI cyber threats spark an investment wave?"
+    },
+    {
+      "id": "4c13a8a7",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-07",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Fintech startup Bilt is facing regulatory pressure from Senator Warren and the CFPB to compensate users impacted by a problematic transition to its Bilt 2.0 platform in February-March, which resulted in widespread complaints including declined card applications, frozen accounts, unauthorized balance transfers from Wells Fargo, and missing account statements. The newsletter also highlights broader fintech regulatory challenges including an Aspiration cofounder receiving 14 years in prison, GreenSky settling an investigation, and Wise facing new AML scrutiny, signaling intensifying regulatory scrutiny across the fintech sector.",
+      "keyTakeaways": [
+        "Consumer-facing fintech platforms face significant regulatory and reputational risk during product migrations; Bilt's technical and operational failures during its transition generated enough user friction to trigger CFPB and congressional attention, potentially requiring customer compensation and establishing precedent for similar cases.",
+        "Regulatory enforcement is expanding across fintech verticals\u2014from lending (GreenSky) to payments (Wise) to rewards platforms (Bilt)\u2014suggesting that compliance and AML infrastructure are becoming critical competitive differentiators and potential deal-breakers for institutional partnerships.",
+        "The sector is experiencing a maturation phase where operational excellence and regulatory compliance are as important as product innovation; companies with weak transition management or compliance postures face existential risks from fines, forced compensation, and loss of banking partnerships."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Sen. Warren, CFPB Pressure Bilt to Compensate Users Impacted by Rocky\r\n Transition"
+    },
+    {
+      "id": "b530b2f5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter highlights growing public concern about data centers' energy consumption and costs, with polling showing most Americans support a national data center moratorium and blame them for rising power bills. Meanwhile, fusion energy company Helion has tripled its valuation, signaling investor optimism in alternative power sources that could address the grid strain from AI and data center expansion.",
+      "keyTakeaways": [
+        "Data center energy demand is becoming a political liability\u2014majority public support for a moratorium creates regulatory risk for hyperscalers and opportunity for alternative energy providers like fusion startups to capture infrastructure investment.",
+        "Helion's tripled valuation reflects capital flight toward fusion as a solution to the data center power crisis, suggesting VCs are hedging against regulatory constraints on traditional grid infrastructure by backing next-gen energy.",
+        "The carbon removal sector remains underdeveloped despite climate urgency, creating a structural gap between AI/data center growth and decarbonization solutions\u2014indicating underinvestment in carbon tech and potential M&A consolidation opportunities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Data Centers\u2019 Eye-popping Polling, a Fusion Boom, and More"
+    },
+    {
       "id": "4ff8a1d4",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -7249,14 +7339,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 45
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 167
+      "count": 169
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 16
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 152
+      "count": 153
     },
     {
       "name": "Deep Tech & Science",
@@ -7264,20 +7364,10 @@
       "count": 10
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 44
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 15
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-07T09:55:44.630557Z"
+  "lastUpdated": "2026-06-08T11:49:50.966575Z"
 }
