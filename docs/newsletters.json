@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "d5e7491c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-09",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Back Market, a leading European secondhand electronics marketplace, is undergoing its first CEO transition in 12 years as founder Thibaud Hug de Larauze steps down on September 1st, handing control to CFO Cl\u00e9ment Petit. The newsletter also highlights Superprof's continued international expansion through the acquisition of Brazil-based Profes.com.br, and Finovox's \u20ac8.2 million Series A funding round led by TX Ventures to scale anti-fraud solutions across European financial institutions.",
+      "keyTakeaways": [
+        "Back Market's leadership transition signals maturation of the unicorn, with the CFO's promotion suggesting a shift toward operational efficiency and financial discipline\u2014a critical signal for investors evaluating European marketplace exits and governance structures.",
+        "Superprof's acquisition strategy in high-growth markets (Italy, Brazil) demonstrates how European edtech platforms are building defensible positions in emerging regions, relevant for portfolio diversification and international scaling playbooks.",
+        "The \u20ac8.2M Series A for Finovox reveals strong investor appetite for compliance and anti-fraud tech in financial services across Europe, indicating a macro trend toward regulatory-driven software investment following stricter KYC/AML frameworks."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "09.06 - Back Market va changer de PDG pour la premi\u00e8re fois en 12 ans"
+    },
+    {
+      "id": "e3307233",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A, an AI-powered offensive security startup, raised $37 million from Lightspeed Venture Partners and others to autonomously conduct continuous cyberattacks against its own customers' systems to identify vulnerabilities before real attackers can exploit them. The funding reflects growing urgency around AI-enabled threats following Anthropic's Mythos model release, which exposed zero-day vulnerabilities, and targets the continuous threat exposure management market projected to grow from $2.7 billion in 2025 to $7 billion by 2033.",
+      "keyTakeaways": [
+        "The traditional manual penetration testing model (costing $30K, taking 2 weeks, annual/biannual cadence) is becoming obsolete as AI-powered attackers operate at scale; investors should expect consolidation around continuous, AI-native security solutions rather than legacy point products",
+        "A six-month gap between vulnerability discovery and exploitation is now measured in minutes per VCs quoted in the article, creating urgent demand and justifying premium valuations for companies that can compress detection-to-remediation timelines from months to days",
+        "The competitive landscape is heating up with well-funded players like XBOW ($120M Series B at $1B+ valuation in March 2026), signaling this is a high-conviction sector for institutional capital and suggesting A's $37M raise may be relatively modest for market share capture"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Ctrl-Alt-Defeat"
+    },
+    {
+      "id": "1b2a0253",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A federal court overturned Trump administration restrictions on solar and wind tax credits (45Y and 48E), restoring the original 5% investment threshold just weeks before the credits expire on July 4, 2026. The ruling found the IRS lacked adequate justification for eliminating the provision and that the policy change may have been discriminatorily motivated. Separately, New York passed a one-year moratorium on new data center construction to establish clearer energy and labor standards, while Illinois Governor Pritzker signaled similar moves to temporarily halt data center tax breaks.",
+      "keyTakeaways": [
+        "The court's decision immediately reinstates more favorable tax credit eligibility rules for solar and wind developers, but the 26-day window before credits expire limits practical impact\u2014investors should focus on which projects can mobilize fastest to capture remaining incentives.",
+        "Data center regulatory headwinds are intensifying in major tech hubs; companies in this sector face tightening energy standards and labor requirements, signaling potential margin compression and higher compliance costs ahead.",
+        "Clean energy tax credit policy remains vulnerable to political reversal, creating uncertainty for long-term project financing\u2014investors should model multiple policy scenarios and consider exposure to renewables sensitive to federal incentive changes."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "A Safer Harbor"
+    },
+    {
+      "id": "669bbe53",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Trump administration is pursuing an unconventional strategy of acquiring equity stakes in AI giants like OpenAI and Anthropic as part of broader government investment in strategic industries, a departure from free-market principles that could reduce AI regulation while creating financial incentives for government support. Meanwhile, Morgan & Morgan, the country's largest personal injury law firm with $2 billion+ in revenue, is exploring a $1 billion+ minority investment that could accelerate the controversial use of Management Services Organizations to sidestep traditional restrictions on non-lawyer ownership of law firms.",
+      "keyTakeaways": [
+        "Government equity stakes in AI companies fundamentally alter regulatory incentives\u2014expect lighter-touch AI policy going forward as the U.S. government becomes a financial stakeholder in the success of OpenAI and Anthropic, not a neutral regulator.",
+        "The Morgan & Morgan deal signals growing PE interest in legal services through MSO structures, which exploit regulatory gaps; this trend will likely trigger state-level regulatory responses and potentially reshape the legal industry's capital structure.",
+        "Macro shift: Trump's 'dealmaker' approach to industrial policy (stakes in chipmakers, miners, quantum, and now AI) suggests strategic government ownership is becoming normalized across critical sectors, blurring lines between private capitalism and state capitalism."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: USAI Inc."
+    },
+    {
+      "id": "e5d864fe",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Power Resilience Forum 2027, scheduled for February 3-5 in San Diego, is expanding its focus to address critical infrastructure challenges including extreme weather, wildfires, cyber threats, and surging power demand. Building on PRF26's 500 attendees, the 2027 edition will convene utilities, regulators, technology providers, investors, insurers, and policymakers to discuss resilience strategies, infrastructure investment, cybersecurity, and regulatory frameworks.",
+      "keyTakeaways": [
+        "Growing market opportunity for investors in climate resilience, cyber security, and critical infrastructure\u2014the convergence of extreme weather, cyber threats, and grid stress is driving utilities to increase capital allocation for resilience projects and technology solutions.",
+        "Industry consolidation signal: the expansion from 500 to an anticipated larger audience of decision-makers (utilities, insurers, rating agencies, policymakers) indicates institutional recognition that resilience is becoming a core business driver, not a peripheral risk\u2014PE and VC investors should track portfolio companies addressing grid hardening, physical security, and cyber defense.",
+        "Regulatory momentum ahead: emphasis on 'resilience policy and regulatory frameworks' suggests anticipated changes in utility regulation and grid standards that will create compliance-driven capex spending and favor established players with resilience capabilities over the next 2-3 years."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Save the date: Power Resilience Forum 2027"
+    },
+    {
+      "id": "7ac221bc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Hawaii's electricity bills surged 22% in May 2026, marking a significant price spike that aligns with regulatory predictions. The increase reflects ongoing challenges in the state's energy market and has been documented in the Electricity Price Hub, a tracking mechanism for power pricing trends.",
+      "keyTakeaways": [
+        "Hawaii's utility market is experiencing material cost pressures that regulators anticipated, suggesting predictable rate trajectory for investors evaluating regional utility stocks or renewable energy investments in the Pacific region",
+        "The 22% spike signals strong demand for alternative energy solutions and grid modernization in Hawaii, creating potential investment opportunities in solar, battery storage, and distributed energy resources",
+        "Hawaii's high electricity costs relative to the mainland create competitive disadvantages for residents and businesses, likely accelerating policy push toward renewable energy adoption and creating tailwinds for cleantech companies operating in the state"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Hawaii\u2019s Electricity Bills Spiked 22% in May"
+    },
+    {
+      "id": "036d7c94",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Two major U.S. transmission projects\u2014the Champlain Hudson Power Express (CHPE), a 339-mile line delivering 1,250 megawatts of Quebec hydroelectric power to New York City, and the SunZia Wind and Transmission Project, a 550-mile line connecting a 3.5-gigawatt New Mexico wind farm to Arizona and California\u2014have recently begun operations and are now receiving strong support from environmental advocates who previously opposed them during their lengthy permitting battles.",
+      "keyTakeaways": [
+        "Large-scale transmission infrastructure projects face significant permitting and advocacy headwinds during development but become materially valuable once operational, suggesting investors should evaluate transmission projects on long-term impact rather than near-term opposition sentiment.",
+        "The shift from environmental opposition to support for CHPE and SunZia demonstrates that decarbonization infrastructure requires transmission buildout as a critical bottleneck; capital deployed to transmission companies and developers solving this chokepoint addresses a genuine market gap.",
+        "The U.S. electricity sector remains fundamentally constrained by transmission capacity, creating a multi-decade opportunity in grid modernization and long-distance power line development\u2014particularly for projects linking abundant renewable resources in remote areas to high-demand urban centers."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Build It and They Will Come Around"
+    },
+    {
       "id": "a6ada3c9",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7341,22 +7467,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 45
+      "count": 46
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 169
+      "count": 171
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 157
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 16
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 153
     },
     {
       "name": "Deep Tech & Science",
@@ -7369,5 +7495,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-06-08T11:49:50.966575Z"
+  "lastUpdated": "2026-06-09T10:29:21.168806Z"
 }
