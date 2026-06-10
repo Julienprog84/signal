@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "5ee53bdd",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "European startups are securing significant funding across critical infrastructure and IP sectors. Alta Ares, operating in Ukraine, raised \u20ac50 million to expand into Middle Eastern and Asian markets amid geopolitical tensions, while Eclipse secured \u20ac20 million for energy storage solutions, and DeepIP raised $40 million and acquired German rival PatentMaker to establish a dominant European patent tech platform.",
+      "keyTakeaways": [
+        "Geopolitical instability is creating growth opportunities for European startups\u2014Alta Ares is leveraging Middle East demand driven by Iran conflict, suggesting investors should monitor how crises reshape market expansion strategies.",
+        "Energy transition infrastructure remains a hot capital allocation target, with battery financialization and storage startups attracting tier-1 backing (BNP Paribas, Noria), indicating sustained institutional confidence in clean tech despite macro headwinds.",
+        "Consolidation is accelerating in deep-tech sectors like IP management, with startups deploying fresh capital for M&A to build pan-European platforms rather than remaining regional competitors."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "10.06 - Alta Ares, startup en premi\u00e8re ligne en Ukraine, l\u00e8ve 50 millions d\u2019euros"
+    },
+    {
+      "id": "eae88a55",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Three major AI companies\u2014OpenAI, SpaceX, and Anthropic\u2014are racing toward IPOs, with OpenAI filing confidentially and reportedly offering the highest price-to-quality ratio. Meanwhile, legal AI startups Harvey and Legora face mounting competitive pressure as major law firms like Kirkland & Ellis ($500M investment) and Freshfields (Anthropic partnership) build proprietary AI solutions, raising questions about the market viability and valuations of standalone legal AI vendors.",
+      "keyTakeaways": [
+        "Legal AI startups that raised $2B+ collectively are losing competitive moat as Big Law firms build custom solutions with direct LLM partnerships, signaling potential overvaluation in this segment and higher failure risk for Harvey, Legora, and similar companies.",
+        "Large law firms (62 of top 100 US firms now exceed $1B revenue) can justify internal AI development costs that mid-market competitors cannot, creating a bifurcated market where only the largest players can afford build-versus-buy strategies.",
+        "The AI IPO wave (OpenAI, SpaceX, Anthropic) represents major capital redeployment opportunities, but enterprise AI adoption may consolidate around infrastructure providers (Anthropic, OpenAI) rather than vertical applications, reshaping VC return expectations for specialized AI startups."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "AI IPOs are off to the races"
+    },
+    {
+      "id": "2079395e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Tennessee becomes the first state to establish a regulatory framework for nuclear fusion plants, leveraging Oak Ridge National Laboratory's 60-year research heritage to attract commercialization efforts. China has nearly doubled its nuclear capacity in a decade while the U.S. struggles to build a single commercial reactor in the same timeframe, signaling divergent energy infrastructure trajectories. Meanwhile, PJM Interconnection\u2014the nation's largest grid operator\u2014faces potential breakup amid strain from data center expansion and discussions of a $420 billion NextEra-Dominion megamerger.",
+      "keyTakeaways": [
+        "Tennessee's fusion regulatory framework creates first-mover advantage for advanced nuclear companies; investors should monitor which fusion startups establish operations there, as regulatory clarity typically precedes capital deployment",
+        "China's 76% nuclear capacity growth (2016-2024) versus U.S. stagnation suggests energy infrastructure divergence with geopolitical implications for supply chains, uranium demand, and clean energy leadership positioning",
+        "Grid fragmentation risk from data center load coupled with utility consolidation ($420B megamerger) creates M&A and infrastructure investment opportunities in grid modernization, storage, and regional transmission operators"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Great Tokamak Mountains"
+    },
+    {
+      "id": "2e78045a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Morpho, a decentralized finance protocol founded by 25-year-old Paul Frambot, raised $175 million led by Paradigm, Ribbit Capital, and a16z crypto, valuing the company at up to $2 billion. The funding reflects crypto's broader shift toward institutional adoption, with Morpho offering blockchain-based lending and borrowing infrastructure that allows users to create customized lending markets. With $6.6 billion in total value locked, Morpho is rapidly closing the gap on incumbent Aave's $12.5 billion while attracting major crypto exchanges like Coinbase and Kraken as customers.",
+      "keyTakeaways": [
+        "Morpho's $175M Series B demonstrates strong institutional investor confidence in DeFi infrastructure plays that bridge crypto and traditional finance, suggesting this category will attract continued capital despite market volatility",
+        "The protocol's customizable lending market model ('build your own Aave') is resonating with major exchanges and platforms, indicating demand for modular DeFi infrastructure could disrupt the dominance of monolithic protocols like Aave",
+        "Crypto's integration with Wall Street is accelerating\u2014BlackRock's ETF launches, NYSE parent investments, and major bank exploration of blockchain deposits create tailwinds for protocols targeting institutional users and capital"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Suits and shorts"
+    },
+    {
+      "id": "75e35b6e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rivian has launched its R2 model, a critical product for the U.S. electric vehicle maker's viability and market competitiveness. Early reviews indicate the vehicle delivers on performance and driving experience, potentially validating the company's strategy in the increasingly crowded EV market.",
+      "keyTakeaways": [
+        "Rivian's R2 represents a pivotal near-term catalyst for the company's financial trajectory; successful market reception could significantly impact investor confidence and capital requirements for scaling production.",
+        "The emphasis on driving experience and product quality suggests Rivian is competing on differentiation rather than price alone, which has implications for gross margins and unit economics versus competitors like Tesla and legacy automakers.",
+        "Success of the R2 could signal broader viability of venture-backed EV manufacturers in mass market segments, affecting capital allocation patterns in the automotive and clean energy sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Rivian Did It"
+    },
+    {
+      "id": "1ce76e05",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX is set to raise at least $85 billion in its IPO with pricing Thursday and trading Friday, with valuations potentially reaching $1.75 trillion if the company achieves $200 billion in revenue by 2030. The bull case centers on Starlink's direct-to-cell expansion, AI compute revenue ($2 billion monthly from Anthropic and Google agreements), and orbital data centers, while bears worry about execution risks on Starship, declining Starlink ARPU, compute commoditization, and Elon Musk's key-person risk. Meanwhile, OpenAI has filed confidential IPO registration papers and plans another tender offer at its $852 billion valuation before a potential late-summer public offering.",
+      "keyTakeaways": [
+        "SpaceX's IPO valuation hinges on diversification beyond launch services\u2014Starlink's direct-to-cell business and AI compute deals are now material revenue drivers worth $2+ billion monthly, representing fundamental business model shift from pure aerospace.",
+        "Musk remains a critical valuation variable with asymmetric risk: investors are betting on pre-iPhone/App Store phase where founder vision is essential, but departure would erase premium; evaluate SpaceX's institutional depth and management bench independently of founder narrative.",
+        "AI compute is emerging as a high-margin near-term cash generator ($2B/month) but faces long-term commoditization risk as data center capacity expands and inference efficiency improves\u2014position sizing should reflect this temporary moat rather than permanent competitive advantage."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: SpaceX futures"
+    },
+    {
+      "id": "14ca2728",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-06-09",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes the upcoming IPO wave featuring SpaceX, Anthropic, and potentially OpenAI, while examining debates over stock index inclusion rules that could impact pension fund exposure to AI companies. The newsletter explores how enterprise software adoption follows a spectrum from legacy systems like SAP to improvised solutions using Excel and Google Sheets, with implications for how companies decide when to build, buy, or improvise software infrastructure.",
+      "keyTakeaways": [
+        "Major AI unicorns (SpaceX, Anthropic, OpenAI) entering public markets will force index rule changes\u2014the S&P 500's decision to exclude them versus Nasdaq's inclusion creates fragmented capital allocation and determines whether passive index funds (controlling >50% of US market) gain exposure to AI infrastructure leaders.",
+        "The 'improvised software' layer (Excel, Google Sheets, Notion, email) represents a massive arbitrage opportunity for SaaS founders: companies lack standardized solutions for workflows between legacy systems and vertical apps, creating a predictable path from spreadsheet workarounds to dedicated software purchases as operational scale increases.",
+        "Index rule debates highlight structural market shifts where traditional gatekeeping (profitability requirements, float size thresholds) may exclude transformative infrastructure companies, potentially misallocating trillions in passive capital away from AI capex leaders during their critical growth phase."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 646"
+    },
+    {
+      "id": "f35da746",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Tom Steyer's failed California gubernatorial campaign, despite spending $216 million primarily on advertising, highlights the diminishing returns on climate activism funding. Xavier Becerra's likely primary victory despite accepting Chevron donations signals that even in progressive states, voters may not prioritize climate policy positions or penalize candidates for oil industry support, potentially reshaping Democratic approaches to energy policy.",
+      "keyTakeaways": [
+        "Massive political spending ($216M on governor race, $342M on 2020 presidential bid) has failed to deliver electoral wins for climate-focused candidates, suggesting campaign finance efficiency problems for climate investors and activist billionaires",
+        "Voter indifference to fossil fuel funding and climate policy ambition in a deeply liberal state indicates climate activism may face headwinds as a political organizing principle, affecting the viability of climate-focused political investment strategies",
+        "A potential Democratic shift toward 'conciliatory approach to fossil fuels' even in coastal progressive states suggests regulatory risk for clean energy sectors and opportunity reassessment for climate tech ventures relying on aggressive state-level policy support"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Tom Steyer\u2019s Win-Loss Record"
+    },
+    {
       "id": "d5e7491c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7467,17 +7611,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 46
+      "count": 47
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 171
+      "count": 174
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 157
+      "count": 160
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 17
     },
     {
       "name": "Fintech",
@@ -7488,12 +7637,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 10
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 16
     }
   ],
-  "lastUpdated": "2026-06-09T10:29:21.168806Z"
+  "lastUpdated": "2026-06-10T10:49:33.020435Z"
 }
