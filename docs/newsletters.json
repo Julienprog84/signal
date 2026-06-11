@@ -1,6 +1,204 @@
 {
   "newsletters": [
     {
+      "id": "e0e596f2",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-11",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Morpho, a European crypto lending and borrowing platform, has secured a $175 million funding round led by prominent investors including Andreessen Horowitz, Ledger, and Xavier Niel, positioning itself as infrastructure for banks and asset managers to distribute credit on blockchain. The newsletter also covers Europe's expanding tech ecosystem, including Swedish legaltech unicorn Legora's Paris expansion, SoftBank's \u20ac45 billion commitment to AI data centers in France's Hauts-de-France region, and guidance for French startups entering European markets.",
+      "keyTakeaways": [
+        "Morpho's $175M raise signals institutional validation of crypto infrastructure as enterprise-grade technology, with traditional VCs and industry players (Ledger) co-investing, indicating potential mainstream adoption pathway for blockchain lending among regulated financial institutions",
+        "European tech expansion is accelerating across verticals\u2014legaltech, AI, and crypto\u2014with both foreign capital (SoftBank) and local investors backing regional hubs, suggesting a shift from Paris-centricity to distributed innovation clusters and cross-border European plays",
+        "The increasing focus on European expansion challenges and regulatory complexity (highlighted in the Galion Project guide) suggests that scaling across EU borders requires sophisticated localization strategies beyond simple geographic replication, favoring well-capitalized, operationally mature startups"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "11.06 - Crypto : Morpho embarque Andreessen Horowitz, Ledger et Xavier Niel"
+    },
+    {
+      "id": "fa8b419c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new utilities report reveals that 80% of utilities now view onsite power as permanent infrastructure rather than a temporary solution, driven by massive load growth from data centers and AI deployments that are outpacing grid capacity. The research shows that 61% of data center developers have shifted to onsite power as their primary solution due to grid interconnection delays and equipment constraints, signaling a fundamental restructuring of how large loads will be served going forward.",
+      "keyTakeaways": [
+        "Onsite power is transitioning from a stopgap measure to core utility strategy\u2014this represents a structural shift in infrastructure investment priorities and creates opportunities in distributed energy and power generation technologies serving enterprise customers.",
+        "Data center demand is driving a decentralized power model: with 61% of developers now relying on onsite solutions and grid timelines slipping, capital should flow toward companies enabling on-premise generation, microgrids, and hybrid power systems rather than traditional grid expansion.",
+        "The 80% utility adoption signals policy and regulatory acceptance of distributed power infrastructure, reducing execution risk for companies in the onsite generation space (like Bloom Energy, mentioned as report sponsor) and indicating a multi-year secular shift away from centralized grid dependency."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Report: How onsite power is reshaping utility strategy"
+    },
+    {
+      "id": "d9bd9443",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity is deploying record capital into the legal sector through a proven buy-and-build playbook, with PE investment reaching $5.1 billion in 2025\u2014up from $3.6 billion in 2023\u2014as Morgan & Morgan explores a $1 billion minority stake sale. The highly fragmented legal market, particularly in the US with potentially 400,000 law firms, presents a significant consolidation opportunity, though US adoption has lagged due to professional ethics rules that prohibit non-lawyer ownership, forcing PE to use alternative practice structures (similar to those deployed in accounting and healthcare).",
+      "keyTakeaways": [
+        "Morgan & Morgan's exploration of a $1 billion minority stake signals a major inflection point: law firms, the last holdout among professional services, are now opening to outside PE capital at scale, creating a multi-year consolidation cycle opportunity.",
+        "The fragmented US legal market\u2014potentially 400,000 firms including many solo practitioners\u2014mirrors the pre-consolidation state of accounting and healthcare, suggesting significant M&A activity and platform building opportunities ahead for PE operators willing to navigate regulatory structures.",
+        "Alternative practice structures that separate law firm operations from legal practice are becoming the PE playbook for legal services, replicating the proven model from accounting; expect this structure to accelerate deal flow and regulatory acceptance across US jurisdictions."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "PE's shiny new buy-and-build strategy"
+    },
+    {
+      "id": "e13d151f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic's upcoming IPO prospectus will disclose the first audited gross margin from a frontier AI lab, a metric expected to reset valuations across the $1.8 trillion AI infrastructure debate and directly impact OpenAI's eventual pricing. With ARR rocketing to $47 billion by mid-2026 and gross margins tracking toward 44%, Anthropic's $965 billion valuation hinges on whether margins sustain above 35%\u2014a miss would compress valuation by 70-81% and hit OpenAI harder given its worse margin profile and Microsoft revenue-sharing obligations.",
+      "keyTakeaways": [
+        "Anthropic's gross margin disclosure (expected to be ~44%) will be the single most important benchmark for AI infrastructure multiples and will immediately recalibrate OpenAI's IPO pricing, as it's the one hard metric no investor has previously seen from a frontier AI lab.",
+        "A gross margin print below 35% would trigger a 70-81% valuation compression on Anthropic and disproportionately damage OpenAI's valuation due to its weaker margin profile and 20% revenue share owed to Microsoft, making this the key risk factor for AI infrastructure investors.",
+        "The $965 billion valuation assumes 40-50% gross margins and $345-450 billion 2030 revenue; while the prospectus can validate margins, it cannot confirm the revenue projection, leaving significant pricing uncertainty despite strong unit economics (eight Fortune 10 companies, 1,000+ enterprise customers paying $1M+ annually)."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Another whopping compute deal"
+    },
+    {
+      "id": "d66dfd9f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "South Korea's Qcells has begun solar cell production at its new Georgia factory, marking progress toward completing America's only vertically integrated solar manufacturing plant with expected full capacity by Q3 2026. Meanwhile, global grid investments are projected to exceed $650 billion in 2026, up 5% year-over-year, driven by the need to integrate rapidly growing wind and solar capacity that is expected to comprise nearly half of global generation by 2040.",
+      "keyTakeaways": [
+        "Qcells' Cartersville facility represents a significant bet on U.S. solar manufacturing reshoring, with the factory now producing 16,700 panels daily and approaching full capacity\u2014signaling potential for domestic supply chain consolidation and reduced tariff exposure for manufacturers betting on American production.",
+        "The $650 billion global grid investment opportunity reflects a structural, multi-year capital requirement as utilities upgrade infrastructure to handle distributed renewable generation, creating sustained demand for transformer and switchgear manufacturers alongside grid modernization technology providers.",
+        "The combination of tariff protection, manufacturing incentives, and grid upgrade requirements is creating a favorable market environment for solar and renewable energy infrastructure investors, with wind and solar expected to grow from 2% of global generation in 2010 to nearly 50% by 2040."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "A Solar Bright Spot"
+    },
+    {
+      "id": "9f075f46",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. government funding cuts to health research are creating a competitive disadvantage as AI transforms drug discovery, according to leaders from Lila Sciences and NVIDIA speaking at Fortune Brainstorm Tech. The AI drug discovery market is valued at $3.25 billion and growing 26% annually toward a projected $10 billion by 2031, with major companies like Isomorphic Labs raising substantial capital while international competitors in Europe and Asia accelerate their investments.",
+      "keyTakeaways": [
+        "AI drug discovery is entering a critical inflection point where government R&D funding decisions made now will determine whether U.S. biotech maintains technological leadership, suggesting investors should monitor policy shifts as a key risk factor for portfolio companies in this space.",
+        "The market dynamics favor well-capitalized AI-first biotech platforms (like Lila Sciences' $550M raise and Isomorphic Labs' $2.1B Series B) that can run continuous AI agents across scientific workflows, indicating consolidation risk for smaller competitors and opportunity in foundation model infrastructure like NVIDIA's biology models.",
+        "Regulatory approval pathways for AI-designed molecules remain unresolved, with FDA acceptance potentially hinging on digital twin biology models achieving sufficient precision\u2014this represents both a technical bottleneck and a significant moat once solved, affecting time-to-market for early-stage drug discovery ventures."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Bio hazards"
+    },
+    {
+      "id": "0825b362",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Entech's S2 platform, which launched last year, has demonstrated significant commercial traction by helping New Yorkers save $5 million in heating costs through AI-driven optimization of aging boiler systems. The solution addresses a massive installed base of century-old heating infrastructure across New York City by improving efficiency without requiring full replacement, highlighting a viable business model in the climate tech sector.",
+      "keyTakeaways": [
+        "Entech has achieved measurable, quantifiable impact ($5M in savings) within one year of launch, indicating strong product-market fit and customer adoption in the building efficiency space",
+        "The business model targets existing infrastructure rather than requiring capital-intensive replacement, suggesting lower customer acquisition friction and faster payback periods\u2014attractive unit economics for scaling",
+        "The $5M savings in a single city with legacy heating stock points to a massive TAM across aging urban infrastructure in the Northeast and nationally, with significant runway for expansion"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "This AI Software Saved New Yorkers $5 Million in Heating Costs"
+    },
+    {
+      "id": "de929e7d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A viral Twitter discourse reveals a power shift in venture capital, with founders now holding reputational leverage over investors\u2014exemplified by a GP falling asleep during a pitch and a dispute between Vinod Khosla and Cloudflare CEO Matthew Prince over equity demands. Meanwhile, Apollo, Blackstone, and Broadcom are launching a $35 billion AI infrastructure platform to lease compute capacity to companies like Anthropic, representing major commoditization of AI hardware and one of the largest private credit deals ever.",
+      "keyTakeaways": [
+        "Founder reputation now trumps traditional VC authority: investors who lack diligence or courtesy face public shaming and lost deal flow, signaling a fundamental market reversal where capital seekers have become capital allocators' judges.",
+        "Off-balance-sheet compute financing is reshaping AI infrastructure strategy\u2014using SPVs to keep hardware liabilities off corporate balance sheets helps pre-IPO companies avoid investor penalties for high debt loads, but is drawing regulatory scrutiny.",
+        "The commoditization of AI compute through syndicated mega-deals ($35B+) threatens to undermine venture returns in infrastructure plays; hardware-heavy positions face margin compression as private credit and large-scale leasing models scale."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: VCs behaving badly"
+    },
+    {
+      "id": "bcc73513",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Entergy utility is experiencing unprecedented growth driven by hyperscaler investments, with AWS committing $25 billion and Meta investing $50-200 billion in data center campuses in Louisiana and Mississippi. This collaboration between utilities and tech giants is reshaping infrastructure investment priorities, with Entergy's capital plan doubling from $33 billion to $67 billion and retail sales growth outlook nearly doubling from 4-5% to 9% through 2030.",
+      "keyTakeaways": [
+        "Hyperscaler demand is fundamentally reshaping utility business models and growth trajectories\u2014Entergy's five-year capex doubled primarily due to Meta and AWS infrastructure needs, signaling this is not cyclical but structural.",
+        "Meta and AWS are effectively de-risking their infrastructure investments by funding 'meaningful portions' of utility capex through construction contributions and long-term service agreements, creating a new precedent for corporate-utility partnerships that could accelerate similar deals across other regions.",
+        "This trend raises material questions about utility rate design and equity\u2014as hyperscalers drive capex growth while benefiting from infrastructure cost-sharing arrangements, traditional ratepayers may bear disproportionate costs, potentially creating regulatory and political friction in rate-setting decisions."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "Entergy brings AWS and Meta on stage\u00a0"
+    },
+    {
+      "id": "84354e38",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Seattle's emergency response drill for a heat dome during the World Cup revealed significant gaps in the city's disaster preparedness infrastructure. The failed exercise highlights growing vulnerabilities in major U.S. cities as extreme heat events become more frequent, signaling potential demand for climate resilience infrastructure, emergency management technology, and heat mitigation solutions.",
+      "keyTakeaways": [
+        "Cities are unprepared for extreme heat events: Seattle's failed disaster drill demonstrates that critical infrastructure and emergency response systems are inadequate for heat dome scenarios, creating market opportunities for climate adaptation technology providers and emergency management consultants.",
+        "Municipal climate resilience is an emerging investment theme: Failures in public heat response planning will likely drive municipal spending on cooling centers, early warning systems, grid modernization, and workforce training\u2014attractive segments for climate tech investors.",
+        "Macro risk: As extreme weather intensifies, major event hosting (World Cup, Olympics) will become contingent on climate preparedness, potentially affecting real estate values, insurance costs, and infrastructure investment in vulnerable regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The World Cup\u2019s Hottest Disaster Plan"
+    },
+    {
+      "id": "a567e5fe",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major AI startups including OpenAI, Anthropic, and SpaceX are preparing IPOs that will transition them from mysterious private companies to conventional public corporations, similar to social media's maturation in 2011-2013. This shift is expected to redirect significant venture and philanthropic capital toward climate and clean energy companies like NextEra, Fervo, and T1 Energy, which have surged based on expectations that AI will create electricity scarcity.",
+      "keyTakeaways": [
+        "AI company IPOs will generate a substantial capital reallocation wave toward clean energy startups that have positioned themselves to profit from anticipated electricity demand spikes driven by AI infrastructure needs.",
+        "The normalization of AI companies into public corporations may reduce the informal information flow and mystique that has surrounded these firms, potentially shifting investor focus from growth narratives to profitability metrics and regulatory compliance.",
+        "Clean energy companies initially built around Inflation Reduction Act opportunities are now benefiting from AI-driven electricity demand projections, but this windfall depends on whether AI investors' electricity scarcity thesis actually materializes post-IPO."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "AI Is About to Get Boring"
+    },
+    {
       "id": "5ee53bdd",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7611,17 +7809,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 47
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 174
+      "count": 48
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 160
+      "count": 166
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 178
     },
     {
       "name": "Strategy & Thesis",
@@ -7639,5 +7837,5 @@
       "count": 10
     }
   ],
-  "lastUpdated": "2026-06-10T10:49:33.020435Z"
+  "lastUpdated": "2026-06-11T11:18:28.624689Z"
 }
