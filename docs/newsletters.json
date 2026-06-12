@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "0dc69350",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-12",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mendo, an AI adoption platform for enterprises, raised \u20ac12 million to expand from 50 to 100 employees and accelerate commercial deployment across Europe. The funding reflects growing investor appetite for enterprise AI infrastructure plays that help companies implement AI solutions at scale.",
+      "keyTakeaways": [
+        "European AI infrastructure and adoption platforms are attracting significant capital; Mendo's \u20ac12M round demonstrates strong investor confidence in B2B AI enablement solutions addressing the enterprise adoption gap.",
+        "The funding targets geographic expansion across Europe and headcount doubling, suggesting venture capital is actively backing European tech companies competing in the global AI infrastructure race rather than consolidating into US-dominated markets.",
+        "This mirrors broader M&A activity in the AI/commerce tech stack (Akeneo acquiring Pricing Hub), indicating a wave of consolidation and growth in vertical AI solutions as enterprises move beyond AI experimentation toward production deployment."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 2,
+      "originalTitle": "12.06 - Mendo l\u00e8ve 12 millions d'euros pour acc\u00e9l\u00e9rer l'adoption de l'IA dans les entreprises"
+    },
+    {
+      "id": "92e094de",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Solar energy surpassed coal for the first time in U.S. history in May 2026, generating 12.8% of electricity versus coal's 12.2%, with solar hitting an all-time high of 45.5 terawatt-hours. Meanwhile, Texas Governor Greg Abbott is pushing for major data center restrictions including mandatory power generation contributions, closed-loop water systems, and elimination of sales tax exemptions\u2014a significant shift in the state's business-friendly stance that signals growing tension between energy infrastructure demands and grid stability.",
+      "keyTakeaways": [
+        "Solar's historical eclipse of coal validates long-term clean energy thesis and suggests accelerating market share gains; South Korean manufacturer Qcells' Georgia facility operating near full capacity signals manufacturing capacity constraints may limit growth",
+        "Texas data center restrictions threaten the economic model for hyperscaler expansion in a historically favorable jurisdiction\u2014investors should model increased capex requirements for power generation and water infrastructure in future data center deployments",
+        "Energy policy is shifting from supply-side encouragement to demand-side management as grid strain from AI/data center growth forces regulators to internalize infrastructure costs previously borne by taxpayers, fundamentally altering sector economics"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Solar Outshines Coal"
+    },
+    {
+      "id": "1dd909f2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX's impending IPO at a $1.5-2 trillion valuation, alongside confidential filings from OpenAI and Anthropic, is poised to create a major liquidity event, but PitchBook data shows approximately 80% of active venture investors have no exposure to these companies. These three firms represent anomalies requiring capital far exceeding private market capacity, while concentrated LP hierarchies will likely consolidate power among top-tier investors with direct access, potentially triggering a multi-year shakeout across venture, buyout, and LP markets.",
+      "keyTakeaways": [
+        "Only 700 of approximately 3,500-4,000 active VCs doing 2+ deals annually are invested in SpaceX, OpenAI, or Anthropic\u2014meaning the majority of the venture industry will miss out on what could be the largest liquidity event since 2015, when $1.5 trillion in total venture value reached public markets",
+        "Top-tier LPs with direct exposure to these mega-winners will command disproportionate returns and leverage to access the next wave of AI opportunities, creating a widening gap between mega-funds and mid-market investors competing for deal flow",
+        "The ripple effects will extend beyond venture into buyout and LP markets over the next 5-10 years, as the AI impact forces systematic repricing of capital allocation and may trigger consolidation among underperforming funds lacking exposure to transformative technologies"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "SpaceX is about to make history\u2014and 80% of VCs won't see a dime of it"
+    },
+    {
+      "id": "e5a42795",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jeff Bezos-backed Prometheus, an industrial AI startup led by former Google exec Vik Bajaj, raised $12 billion in Series B funding at a $41 billion valuation, bringing total funding to over $18 billion. The company aims to compress manufacturing development cycles by using AI to optimize pre-production processes and design, with Bezos positioning it as an 'artificial general engineer' for industries like aerospace and medical devices. Meanwhile, OpenAI is reportedly considering price cuts on tokens to compete with Anthropic, potentially triggering a pricing war that could compress margins despite both companies preparing for IPOs.",
+      "keyTakeaways": [
+        "Prometheus represents a massive capital concentration bet on industrial AI infrastructure; at $41 billion post-money valuation with backing from JPMorgan, BlackRock, and Goldman Sachs, it signals institutional investors believe AI-driven manufacturing optimization is a multi-hundred-billion-dollar opportunity.",
+        "The reported $100 billion fundraising for an affiliated holding company to acquire legacy industrial companies creates a vertically integrated moat strategy\u2014these acquisitions would both provide training data and become customers, which is more defensible than pure software plays.",
+        "The emerging price war between OpenAI and Anthropic in token pricing, driven by corporate cost concerns despite upcoming IPOs, suggests that foundational AI model providers may face structural margin pressure that could reshape the economics of AI infrastructure investments."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Bezos billions"
+    },
+    {
+      "id": "80847368",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-11",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Neobank Current announced an $80 million Series E funding round led by Springcoast Partners, marking the company's third consecutive year of 70% growth. The round reflects investor confidence in Current's expanded product suite, improved unit economics through AI implementation, and strengthened banking partnerships including an expanded financing facility with Cross River and General Catalyst backing.",
+      "keyTakeaways": [
+        "Current's sustained 70% annual growth for three consecutive years demonstrates that neobanks targeting everyday consumers can achieve scale profitably, signaling a maturing market segment beyond early-stage hype",
+        "The company's focus on cost discipline and 'return on tokens' suggests fintech leaders are moving away from growth-at-all-costs models toward efficiency metrics that align with public market expectations, relevant for Series D+ investors planning exit strategies",
+        "Expansion of banking partnerships (Cross River) and venture backing (General Catalyst) indicates traditional financial institutions are increasingly comfortable embedding with neobanks, potentially reducing regulatory barriers for future IPO candidates in the sector"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 27,
+      "originalTitle": "Exclusive: Neobank Current Raises $80M Series E"
+    },
+    {
+      "id": "437be249",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Lee Raymond, former ExxonMobil CEO who died in June 2026, is remembered as a world-historic figure in both oil and gas business and climate denial. Under his leadership from 1993-2005, Raymond transformed ExxonMobil into the world's most profitable publicly traded company through the merger with Mobil, while simultaneously orchestrating a multimillion-dollar campaign to fund think tanks and pseudo-scientific groups designed to cast doubt on climate science, despite the company's own internal research confirming fossil fuels' role in climate change.",
+      "keyTakeaways": [
+        "Corporate-funded disinformation campaigns on climate science persisted at scale for decades despite internal knowledge of climate risks, suggesting systemic regulatory and reputational failures that create ongoing liability exposure for energy majors.",
+        "ExxonMobil's transformation under Raymond from diversified conglomerate to ruthlessly focused oil and gas supermajor proved extraordinarily profitable in the short term but created long-term stranded asset and litigation risks that investors should factor into energy sector valuations.",
+        "The historical pattern of major corporations funding doubt campaigns to protect profitable business models reflects a structural incentive problem in fossil fuel industries that suggests carbon transition investments and clean energy alternatives represent compelling risk-adjusted opportunities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Lee Raymond, 311ppm \u2013 421ppm"
+    },
+    {
       "id": "e0e596f2",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7809,17 +7917,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 48
+      "count": 49
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 166
+      "count": 168
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 178
+      "count": 180
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 17
     },
     {
       "name": "Strategy & Thesis",
@@ -7827,15 +7940,10 @@
       "count": 17
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 16
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 10
     }
   ],
-  "lastUpdated": "2026-06-11T11:18:28.624689Z"
+  "lastUpdated": "2026-06-12T10:57:01.028364Z"
 }
