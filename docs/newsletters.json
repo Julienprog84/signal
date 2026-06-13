@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "52dd6946",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX launched on Nasdaq today at $135 per share ($1.75 trillion valuation), significantly below earlier $2 trillion expectations but above Morningstar's $780 billion valuation. The IPO's performance will set the tone for upcoming AI company public offerings including Anthropic and OpenAI, with investors scrutinizing whether the largest IPO ever can maintain its price amid slim float, heavy retail demand, and a rolling lockup structure.",
+      "keyTakeaways": [
+        "SpaceX's IPO valuation ($1.75T) versus Morningstar's assessment ($780B) signals a 2.2x valuation gap that could indicate either market exuberance or the market pricing in Starlink's profitability trajectory\u2014watch Q2 earnings for subscription churn metrics to validate the premium.",
+        "The company's $29.1B debt load and massive capex requirements ($10.1B in Q1, with $7.72B in AI capex) mean profitability is likely 2-3 years away; investors should prioritize management guidance on cash burn rates and path to positive operating cash flow over near-term earnings.",
+        "SpaceX's successful pricing sets the floor for the 2026 IPO pipeline\u2014Anthropic and OpenAI's valuations now hinge on whether SpaceX holds its $135 opening price, making this a bellwether moment for AI infrastructure and AI model company valuations in a volatile macro environment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "It's launch day"
+    },
+    {
+      "id": "65cee144",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-06-12",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A Ukrainian defense official revealed that fully autonomous AI-controlled drones killed soldiers in combat for the first time during a 2024 test involving 10 quadcopter 'Terminator' drones that could operate independently without human oversight or video feed monitoring. The newsletter covers multiple deep tech developments including Avalanche's desktop fusion reactor, NASA's X-59 supersonic aircraft, New York's first-in-nation data center moratorium, and China's investment in large nuclear reactors\u2014signaling accelerating competition in autonomous weapons, energy technology, and AI infrastructure.",
+      "keyTakeaways": [
+        "Autonomous weapons systems have moved from theoretical to operational: investors should monitor regulatory responses and defense contractor pivots toward AI integration, as autonomous lethal capability will likely reshape defense spending and geopolitical dynamics",
+        "Infrastructure bottlenecks are emerging as critical capital allocation points\u2014data center moratoria, fusion energy development, and AI-optimized satellite systems represent competing bets on which technologies will enable next-generation AI deployment",
+        "The shift toward autonomous systems across defense, energy, and logistics (robotic meal prep, autonomous drones) indicates a broader market inflection where autonomy ROI is becoming demonstrable, attracting capital to specialized hardware and AI software providers"
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 166: Fully autonomous drones have killed human soldiers for the\r\n first time"
+    },
+    {
+      "id": "cbc6a17b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX's first employee Tom Mueller believes the company's $1.75 trillion IPO valuation is justified by Elon Musk's vertically-integrated stack combining cheap rockets, Starlink's proven space computing, and AI data assets\u2014a bet on compute and data centers moving to space. Mueller predicts the stock will follow Tesla's pattern: strong opening, a \"valley of death\" during schedule slips, then recovery, with the key difference being that SpaceX avoids quarterly earnings pressures as a public company.",
+      "keyTakeaways": [
+        "SpaceX's IPO valuation hinges on a thesis that space-based compute and data centers will become critical infrastructure\u2014investors should view this as a multi-decade bet on Musk's ability to execute vertical integration rather than near-term profitability (2025 saw $18.67B revenue but $4.9B net loss).",
+        "Public market scrutiny will test SpaceX's timeline execution similar to Tesla's path; companies with ambitious space or satellite ambitions should prepare for volatility when development delays become visible to institutional investors who lack patience for long R&D cycles.",
+        "The SpaceX IPO validates the broader space economy thesis and accelerates competition in orbital services and data center infrastructure; this signals venture capital should recalibrate allocation toward space-adjacent companies, particularly satellite operations, orbital logistics (like Mueller's Impulse Space), and earth observation."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "SpaceX employee No. 1"
+    },
+    {
+      "id": "1ed1afb7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "SpaceX achieved a historic $1.7 trillion IPO valuation on the Nasdaq after raising $75 billion, positioning itself as a leading satellite internet provider with plans to launch an extraterrestrial data center by 2028. The Department of Energy reversed its terminations of 11 clean energy grants to Democratic-leaning states after a federal court ruled the cancellations violated equal protection rights, while Michigan regulators are being advised to reject Consumers Energy's sale of 13 hydroelectric dams to private equity due to public interest concerns. These developments highlight growing institutional capital flowing into climate tech, renewable energy infrastructure, and the emergence of a new \"climate tech mafia\" around deep tech innovations.",
+      "keyTakeaways": [
+        "SpaceX's mega-IPO validates the venture ecosystem around Elon Musk's ventures, signaling that deep tech and satellite infrastructure are attracting massive institutional capital; investors should monitor the competitive landscape for alternative satellite internet and space-based computing platforms.",
+        "The Energy Department's forced reversal of grant cancellations eliminates political risk in clean energy project funding, but highlights that federal support remains subject to legal challenge\u2014deal-makers should stress-test government backing and consider diversified funding sources.",
+        "Hydropower is experiencing a capital influx from institutional investors (Google's 3GW deal, Hull Street's First Light acquisition, private equity interest), but regulatory pushback on privatization suggests that public interest safeguards will constrain returns and deal structures in this sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Blue Wave Past the Breakers"
+    },
+    {
+      "id": "0de4c5f2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX completed the largest IPO in history at $75 billion after 24 years and $30 billion in VC funding, now trading on Nasdaq under ticker SPCX. The newsletter explores orbital data centers as SpaceX's next growth frontier, where companies like Starcloud, Cowboy Space Corp, and tech giants are developing space-based compute infrastructure to address terrestrial constraints including energy costs, permitting challenges, and growing AI demand. Key technical hurdles remain around cooling systems and launch economics, with realistic timelines suggesting modest experiments within 5 years and scaled installations within 10 years.",
+      "keyTakeaways": [
+        "SpaceX's $75B IPO validates the commercial space economy thesis after decades of patient capital; investors should monitor whether the company can execute on orbital data center vision as a multi-decade revenue stream beyond launch services.",
+        "Space data centers represent a capital-intensive bet on solving two problems: terrestrial real estate/permitting constraints and AI's energy demands. This sector will require breakthrough improvements in launch costs and thermal management before achieving unit economics\u2014making it a high-risk, long-duration investment thesis.",
+        "The shift of major listings from London to New York (Flutter Entertainment delisting) signals broader capital market consolidation, suggesting growth-stage companies increasingly prioritize liquidity and valuation multiples over geographic diversification."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Musk's moonshot"
+    },
+    {
+      "id": "ccbbafde",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has filed to dismiss its appeal of a December court ruling that overturned its offshore wind permitting freeze, effectively conceding this regulatory battle. This reversal signals a potential opening for offshore wind development to proceed, despite the administration's broader opposition to the sector.",
+      "keyTakeaways": [
+        "Offshore wind developers and their investors may now face fewer regulatory headwinds, as the administration's legal challenge to permit approvals has been abandoned, potentially unlocking stalled projects.",
+        "This retreat suggests political or legal constraints are limiting the administration's ability to block renewable energy infrastructure through executive action, which could shift capital allocation toward offshore wind companies and supply chain participants.",
+        "The decision indicates potential instability in energy policy under this administration\u2014regulatory whiplash between permitting freezes and reversals creates uncertainty that may impact long-term investment decisions in offshore wind infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Trump Concedes a Battle in His War Against Offshore Wind"
+    },
+    {
+      "id": "162b661d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "SpaceX completed its IPO on June 12, 2026, raising $75 billion with shares surging 19% on the first trading day, making Elon Musk the world's first trillionaire. The article examines how Musk built a venture-backed hardware manufacturing model and highlights the critical role of government support\u2014including a $465 million Department of Energy loan to Tesla in 2010 and NASA's 2008 commercial resupply contract for SpaceX\u2014in enabling these companies to survive early scaling phases. The piece also explores how SpaceX and Tesla have created a new generation of climate tech founders and executives who are spreading manufacturing-focused, efficiency-driven management practices across the clean energy sector.",
+      "keyTakeaways": [
+        "The SpaceX IPO demonstrates that large-scale government contracts and loan guarantees remain essential for de-risking hardware-intensive climate and energy startups\u2014addressing the so-called 'missing middle' in deep tech financing that venture capital alone cannot solve.",
+        "SpaceX and Tesla have become talent pipelines and management culture incubators for climate tech startups, suggesting that acquiring or partnering with alumni from these companies could accelerate manufacturing execution and operational efficiency in clean energy ventures.",
+        "The emergence of trillionaire-scale wealth in hardware/manufacturing (vs. pure software) signals a potential shift in venture and public market preferences toward capital-intensive, hard tech solutions for climate and energy challenges."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "5 Thoughts About the SpaceX IPO"
+    },
+    {
       "id": "0dc69350",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -7915,19 +8041,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 49
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 183
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 11
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 168
+      "count": 171
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 180
+      "name": "European VC",
+      "color": "#059669",
+      "count": 49
     },
     {
       "name": "Fintech",
@@ -7938,12 +8069,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 17
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 10
     }
   ],
-  "lastUpdated": "2026-06-12T10:57:01.028364Z"
+  "lastUpdated": "2026-06-13T09:51:51.315615Z"
 }
