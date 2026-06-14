@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "9d65a7f3",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's $75 billion IPO at $160.95/share valued the company at $2.11 trillion, creating massive returns for early investors. Elon Musk's stake jumped to $1.03 trillion, making him the first trillionaire, while Valor Equity Partners realized paper returns exceeding 100x on a $400-500 million investment, and other major VCs including Founders Fund ($50B+), Sequoia ($20B+), and Andreessen Horowitz ($10B+) saw significant gains from the listing.",
+      "keyTakeaways": [
+        "Early-stage bets on transformative companies can generate extraordinary returns: Valor's 100x+ multiple demonstrates the outsized value creation possible when backing founders at early stages of building category-defining companies.",
+        "Concentrated ownership and voting control remain valuable: Musk's retention of 80%+ voting power despite public listing shows that founders can maintain strategic control while accessing public capital, a model relevant for other founder-led companies considering IPOs.",
+        "The biotech IPO market is experiencing renewed momentum: Back-to-back record-breaking biotech IPOs (Parabilis and Kailera) signal investor appetite for specialized therapeutics, particularly peptide-based treatments, suggesting a sector rotation away from traditional small-molecule drugs."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "SpaceX's biggest winners"
+    },
+    {
+      "id": "3054f759",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity faces a critical tension between its AI ambitions and urgent need to exit $2.7 trillion in US NAV, with most PE firms prioritizing sales over the next six months despite worsening exit conditions. GPs are simultaneously recalibrating sector allocation, aggressively trimming software exposure while doubling down on energy and business services to capture AI infrastructure tailwinds from data centers and construction needs. Anthropic's forthcoming IPO gross margins will serve as a pricing benchmark for the entire AI sector, including OpenAI's eventual offering.",
+      "keyTakeaways": [
+        "PE's exit crisis is acute: most firms expect conditions to worsen or stay flat, the IPO window remains shut for mid-market assets, and M&A is concentrated at larger deals\u2014forcing GPs to manufacture creative distributions while chasing AI opportunities",
+        "Sector rotation is underway: software, the decade-long return engine for PE, is being trimmed across the industry while energy and business services gain favor due to AI infrastructure buildout (data centers, power, construction)",
+        "Anthropic's IPO will reset valuation expectations across AI\u2014its gross margin disclosure will recalibrate OpenAI's future offering and repricing the entire sector, making it a critical market-moving datapoint for AI-focused allocators"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "AI ambitions vs. exit pressures"
+    },
+    {
       "id": "52dd6946",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -8043,7 +8079,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 183
+      "count": 185
     },
     {
       "name": "Deep Tech & Science",
@@ -8071,5 +8107,5 @@
       "count": 17
     }
   ],
-  "lastUpdated": "2026-06-13T09:51:51.315615Z"
+  "lastUpdated": "2026-06-14T10:19:33.496770Z"
 }
