@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "b9d8e0e3",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-15",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral AI is reportedly raising \u20ac3 billion at a \u20ac20 billion valuation, less than a year after achieving decacorn status, which would set a new French Tech fundraising record. The newsletter also reports that French startups raised \u20ac254 million this week with AI companies accounting for \u20ac70 million of that total, while highlighting M&A activity like OVHcloud's acquisition of Gladia and broader trends around European tech expansion and AI governance.",
+      "keyTakeaways": [
+        "Mistral AI's \u20ac3 billion round at \u20ac20 billion valuation represents exceptional momentum in European AI infrastructure, signaling strong investor appetite for sovereign European AI alternatives to US dominance",
+        "French Tech is sustaining capital deployment momentum (\u20ac254 million weekly with elevated AI concentration at \u20ac70 million), suggesting healthy fundraising velocity despite macroeconomic headwinds",
+        "Strategic M&A consolidation in European AI stack (OVHcloud/Gladia) and focus on international expansion guidance indicates maturing European tech ecosystem moving beyond early-stage funding toward scale-up execution and cross-border market entry"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "15.06 - Mistral AI pourrait lever 3 milliards d\u2019euros !"
+    },
+    {
+      "id": "cdebbf2d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's record-breaking IPO closed at $161.11 per share, 19% above its $135 offering price and valuing the company at over $2 trillion, positioning it as the sixth-largest US public company. The successful debut has cleared the path for mega AI IPOs from OpenAI and Anthropic, while simultaneously validating the space-tech investment thesis as VCs who backed SpaceX and other space companies see rising valuations and increased LP interest. Additionally, middle-market PE hit its strongest start in five years with $103.8 billion raised in Q1 2026, while European VCs captured a small stake in SpaceX's historic IPO.",
+      "keyTakeaways": [
+        "SpaceX's IPO success demonstrates sufficient market appetite for mega-cap tech IPOs, removing a critical uncertainty for OpenAI and Anthropic's planned public debuts and signaling strong investor demand for AI infrastructure plays despite massive capital expenditures.",
+        "Space-tech sector valuations are rising sharply post-SpaceX IPO, suggesting early VC investors in the space industry face potential exit upside, while also signaling LP willingness to allocate more capital to the sector\u2014a positive signal for space-focused fund-raising.",
+        "The broader VC market is showing strong momentum with middle-market PE raising $103.8 billion in Q1 2026 (highest since 2021), while consumption-based SaaS pricing models are replacing flat-rate models, indicating shifting investor preferences toward growth metrics over recurring revenue predictability."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Small deals, strong returns"
+    },
+    {
+      "id": "cdebbf2d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's record-breaking IPO closed at $161.11 per share\u201419% above its $135 offering price\u2014creating a $2 trillion market cap and clearing the path for mega AI IPOs from OpenAI and Anthropic. The successful debut signals strong investor appetite for capital-intensive AI infrastructure plays, while middle-market PE raised a robust $103.8 billion in Q1 2026, the strongest first quarter since 2021. European VCs captured limited but meaningful upside from SpaceX's public debut, and the offering is expected to drive higher valuations across the space-tech sector.",
+      "keyTakeaways": [
+        "SpaceX's IPO success removes the demand question for mega AI infrastructure plays\u2014both OpenAI and Anthropic have confidentially filed IPO documents, and SpaceX's 30% first-day pop signals receptive public markets for capital-intensive AI companies.",
+        "The space-tech sector is experiencing a validation moment with rising valuations and increased LP interest; early investors like Starbridge Venture Capital (which held SpaceX via fund-of-funds in 2022) are seeing significant returns as the industry moves from being questioned as investable to commanding historic valuations.",
+        "Middle-market PE's strong Q1 2026 performance ($103.8B raised, highest since 2021) combined with bullish mega-deal IPO conditions suggests robust capital deployment appetite across private markets, though SaaS pricing model shifts toward consumption-based models may reshape exit valuations in that sector."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Small deals, strong returns"
+    },
+    {
+      "id": "23d6b3b7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Trump administration announces a deal with Iran to reopen the Strait of Hormuz, potentially unlocking a quarter of global seaborne oil trade, while simultaneously abandoning its wind permitting ban\u2014a major policy reversal that opens federal permitting for renewable energy projects. The newsletter also highlights Trump's proposed gas tax holiday, which analysis shows would provide only modest relief ($37 over three months) and disproportionately benefit wealthier households and heavy drivers.",
+      "keyTakeaways": [
+        "The Trump administration's abandonment of wind permitting appeals signals a major political compromise on clean energy, directly benefiting large renewable developers like those behind the SunZia Wind Project (3,650 MW capacity). This creates near-term opportunities for wind and solar project financing and permitting acceleration.",
+        "The Iran Strait deal could significantly increase global oil supply and lower energy prices, but this cuts both ways: it may dampen renewable energy investment ROI in the near term while creating tailwinds for oil & gas equities and energy-intensive industries seeking cheaper feedstock.",
+        "The gas tax holiday's limited effectiveness ($37 relief per household over three months) suggests policy-driven consumer energy subsidies are inefficient mechanisms for price relief, pointing investors toward broader energy market dynamics and supply-side solutions rather than demand-side fiscal interventions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "\u2018Let the Oil Flow!\u2019"
+    },
+    {
+      "id": "75780bf0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News covers climate tech and energy policy developments, including a feature on executives working under Elon Musk, Trump's shifting stance on wind energy, data center water consumption concerns, and Rivian's recent achievements. The newsletter highlights policy uncertainty and executive dynamics in climate-focused sectors amid evolving political and regulatory environments.",
+      "keyTakeaways": [
+        "Executive talent and retention in climate tech companies, particularly under polarizing leadership like Musk, is becoming a visible investment consideration as institutional scrutiny of management culture increases",
+        "Political reversals on renewable energy (Trump's wind retreat) signal policy risk that directly impacts valuations and deployment timelines for wind and clean energy infrastructure investments",
+        "Data center expansion and water resource concerns represent an emerging ESG and operational risk factor for investors in AI infrastructure and cloud computing companies with climate-focused mandates"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Climate Tech\u2019s Musk Mafia, Trump\u2019s Wind Retreat, and More"
+    },
+    {
       "id": "9d65a7f3",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -8077,24 +8167,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 50
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 185
+      "count": 187
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 173
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 11
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 171
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 49
     },
     {
       "name": "Fintech",
@@ -8107,5 +8197,5 @@
       "count": 17
     }
   ],
-  "lastUpdated": "2026-06-14T10:19:33.496770Z"
+  "lastUpdated": "2026-06-15T12:58:52.069671Z"
 }
