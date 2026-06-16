@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "4f9e1e2b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France's Next 40/French Tech 120 index released its 7th edition with 34 new entrants, emphasizing AI and deep tech innovation. Notable additions include 15 startups entering the Next 40, including Yann LeCun's newly-launched AMI Labs, signaling institutional validation of frontier AI companies. VivaTech 2026 expects 180,000 visitors, 15,000 startups, and 4,000 global investors, positioning Paris as a major European tech hub.",
+      "keyTakeaways": [
+        "AI and deep tech startups dominate new French Tech index entries\u2014investors should monitor AMI Labs and other Next 40 newcomers as barometers of European AI innovation outside traditional hubs",
+        "The Next 40/French Tech 120 serves as a curated deal-sourcing filter; 34 new entrants represents significant portfolio rotation and identifies emerging growth-stage companies ready for Series B/C funding",
+        "Paris is consolidating position as Europe's venture capital center\u2014VivaTech 2026 scale (15,000 startups, 4,000 institutional investors) rivals Silicon Valley conferences, suggesting capital concentration risk and network effects favoring France-based entrepreneurs"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "16.06 - Next 40/French Tech 120 : d\u00e9couvrez la nouvelle promotion"
+    },
+    {
+      "id": "5af38095",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's public listing has exposed a critical bifurcation in how investors should evaluate the company: while it achieves 100% of hardware delivery commitments, only 17% arrive on schedule with an average 19.7-month delay. Financial projections and Mars timelines are the weakest areas, with SpaceX missing its Starlink revenue targets ($11.4B actual vs. $30B projected for 2025) and Starship costs ballooning to $15B from initial $2-3B estimates. The real investment opportunity lies in pricing the gap between management's announcements and its proven track record of delivery.",
+      "keyTakeaways": [
+        "Discount SpaceX's financial projections and Mars timelines heavily\u2014the company has a 0% success rate on seven Mars targets but near-perfect execution on hardware delivery; stock performance will depend on milestone achievement rather than quarterly financials",
+        "For public market investors, the mispricing opportunity exists in separating execution risk (low) from timing risk (high)\u2014hardware commitments are credible, but arrival dates consistently slip by ~20 months on average",
+        "As SpaceX scales Starship commercialization and Starlink expansion, investors face bifurcated risk: high confidence in eventual delivery but structural inability to meet original timelines, which could pressure valuations if the market reprices timeline delays as material business risks"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "AI is scaring lenders from software"
+    },
+    {
+      "id": "1a52ae27",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter covering major energy and climate developments including crude oil price drops following Trump's Iran ceasefire announcement, strong public support (60%) for federal permitting reform to accelerate energy infrastructure, and a major $3.5 billion financing round for a large solar-plus-storage project in the U.S.",
+      "keyTakeaways": [
+        "Oil prices fell 5-7% on ceasefire news, with U.S. gasoline dropping below $4/gallon for the first time since mid-April, creating favorable conditions for energy infrastructure expansion",
+        "Broad bipartisan voter support (60%) for permitting reform and limits on executive power to cancel approved projects signals political momentum for faster project deployment\u2014relevant for renewable energy and infrastructure investors",
+        "Major solar-plus-storage project securing $3.5B in financing indicates robust capital availability for clean energy even as federal tax credits phase down, suggesting sustainable project economics beyond incentives"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Crude Logic"
+    },
+    {
+      "id": "87d2568d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Fox Corp agreed to acquire Roku for $22 billion in cash and stock at $160 per share, merging content with streaming distribution and giving the Murdochs control over what half of American households see on their TVs. Separately, Senator Elizabeth Warren sent letters to major PE firms BlackRock, Blackstone, Brookstone Infrastructure Partners, and KKR requesting details on their data center investments and potential conflicts from owning both data centers and utilities, reflecting growing political anxiety over AI infrastructure's energy demands.",
+      "keyTakeaways": [
+        "The Fox-Roku merger signals consolidation in streaming distribution, with traditional media companies leveraging streaming platforms for direct consumer access\u2014relevant for investors tracking content and tech convergence",
+        "Political scrutiny on PE-backed data center portfolios is intensifying; Warren's letter suggests potential regulatory pressure on infrastructure deals that bundle data centers with utility ownership, creating risk for energy-intensive AI infrastructure investments",
+        "Data center investment multiples and deal flow will likely face headwinds as energy prices remain elevated and bipartisan political focus grows on AI infrastructure costs, threatening returns for PE firms holding these assets"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Fox rocks Roku"
+    },
+    {
+      "id": "04706b81",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Flex Summit 2026, scheduled for October 14-15 in Austin, convenes decision-makers in grid flexibility and distributed energy resources as two major trends converge: AI data centers rapidly expanding power demand and distributed energy resources proliferating across the grid edge. The event features speakers from utilities (Xcel Energy, ERCOT), energy companies (Octopus Energy, NRG), and emerging flexibility platforms (Base Power, Align Energy Advisors), signaling investor interest in scaling virtual power plants and AI-driven grid solutions.",
+      "keyTakeaways": [
+        "AI-driven demand surge is creating immediate capacity needs that favor flexible grid solutions and distributed battery storage; investors should track which aggregators and VPP platforms are capturing this newly urgent market segment.",
+        "The convergence of DER proliferation, grid resilience demands, and political affordability pressure is creating a policy tailwind for scaling distributed flexibility\u2014companies addressing all three factors simultaneously have strongest investment thesis.",
+        "Major utilities (Xcel) and established energy players (Octopus, NRG) participating alongside venture-backed startups suggests the grid flexibility market is moving from experimental to essential infrastructure phase, indicating capital is flowing toward commercialization."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Flex Summit 2026 is open for registration!"
+    },
+    {
+      "id": "d7d133cc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A recent Iran conflict has exposed a fundamental restructuring of global energy markets into two competing regimes: the traditional oil-and-gas system dominated by OPEC+ and North America, versus an emerging electricity-and-batteries system centered in East Asia, particularly China. China's dramatic reduction in oil imports from 11 million to 7.8 million barrels per day during the conflict, driven by domestic stockpiles, EV adoption, and renewable energy capacity, demonstrates that the clean energy transition is no longer theoretical but operationally competitive against traditional fossil fuels.",
+      "keyTakeaways": [
+        "China's EV and battery manufacturing dominance is now proven competitive infrastructure, not aspiration\u2014the country displaced 3+ million barrels of daily oil demand through electrification, suggesting massive capital reallocation opportunities in EV supply chains and battery technology companies serving that ecosystem.",
+        "Two rival energy systems are in direct competition for consumer demand; investors should position for winners in the electricity-and-batteries regime (solar manufacturers, battery makers, EV producers) while reassessing exposure to traditional oil-dependent supply chains facing structural demand destruction.",
+        "Geopolitical energy security is shifting from oil chokepoints (Strait of Hormuz) to rare earth minerals and battery material supply chains concentrated in East Asia\u2014this represents a multi-trillion dollar reshuffling of global energy infrastructure investment over the next decade."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "What I Learned From the Past 107 Days"
+    },
+    {
       "id": "b9d8e0e3",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8169,17 +8277,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 50
+      "count": 51
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 187
+      "count": 189
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 173
+      "count": 176
     },
     {
       "name": "Deep Tech & Science",
@@ -8197,5 +8305,5 @@
       "count": 17
     }
   ],
-  "lastUpdated": "2026-06-15T12:58:52.069671Z"
+  "lastUpdated": "2026-06-16T12:04:40.546303Z"
 }
