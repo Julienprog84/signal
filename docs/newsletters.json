@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e290f97e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-17",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French domestic intelligence agency DGSI is replacing U.S. firm Palantir with European alternative ChapsVision, signaling a strategic pivot toward technological sovereignty amid geopolitical tensions. The newsletter covers emerging European tech opportunities including Genesis AI's humanoid robotics platform, Rocapine's wellness app publisher raising $13M, and a broader debate on AI integration quality in French enterprises rather than mere adoption lag.",
+      "keyTakeaways": [
+        "European sovereign tech solutions are gaining institutional traction\u2014DGSI's shift from Palantir demonstrates government appetite for homegrown alternatives, creating market opportunities for European intelligence and defense tech startups.",
+        "AI integration quality, not adoption speed, is the competitive differentiator for European enterprises according to Institut Montaigne analysis\u2014this suggests investment focus should target implementation and enterprise software layers rather than foundational models.",
+        "Geopolitical decoupling between U.S. and Europe is accelerating: with U.S. blocking Anthropic access to foreigners and France pursuing AI sovereignty, European VC should prioritize companies solving critical infrastructure, healthcare, and industrial automation independent of American tech stacks."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "17.06 - ChapsVision remplace le g\u00e9ant am\u00e9ricain Palantir aupr\u00e8s de la DGSI"
+    },
+    {
+      "id": "6d452547",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX acquired Anysphere (Cursor) for $60 billion in stock, marking a strategic shift from building to buying AI capabilities and positioning itself as one of the largest VC-backed company acquirers. The deal reflects broader trends of tech giants pursuing aggressive M&A for AI acceleration, while private equity faces headwinds in software lending despite strong deal appetite, and European PE forecasts growth amid VC challenges through 2030.",
+      "keyTakeaways": [
+        "Public market liquidity is fundamentally changing acquisition strategy: SpaceX's $60B Cursor deal signals that newly public tech companies can now outbid traditional strategic buyers by deploying stock as currency, a shift from SpaceX's two-decade preference for organic development.",
+        "Large-cap tech consolidation of AI startups is accelerating\u2014Salesforce buying Fin for $3.6B and SpaceX's dual investments (xAI + Cursor) show incumbents are willing to pay premium valuations rather than build internally, compressing exit multiples for later-stage VC.",
+        "Credit market dysfunction in software is creating deal risk: PE firms seeking software acquisitions face lending pullback from major private credit managers, meaning financing constraints could slow deal velocity even as strategic buyers have alternative funding sources."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Biggest VC-backed M&A ever"
+    },
+    {
+      "id": "6fe927d0",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Swsh, a fan engagement platform founded by 24-year-old Thiel Fellow Alexandra Debow, raised $4 million in seed funding led by Game Changers Ventures to monetize live event data through AI-powered photo and video analysis. The company pivoted from a college photo-sharing app to selling structured fan insights\u2014including demographic patterns, sponsor logos, and merchandise identification\u2014to major labels like Sony, Warner, and UMG, addressing a $200 billion industry blind spot where live events generate minimal actionable attendee data.",
+      "keyTakeaways": [
+        "Swsh has identified a major data arbitrage opportunity: live event operators (artists, venues, brands) currently capture almost no structured intelligence about attendees despite serving hundreds of millions annually, making fan-generated content with AI parsing a valuable new revenue stream.",
+        "The company's consent-first architecture\u2014explicit opt-in screens and content review workflows before publication\u2014positions it defensively against biometric privacy lawsuits that have generated billions in liability for larger tech companies, suggesting a compliance-first approach may be emerging as table stakes in fan data monetization.",
+        "The $5.9 billion fan engagement market projected to reach $25.4 billion by 2034 signals VCs should scrutinize how traditional marketing channels (influencers, SEO, paid social) are losing effectiveness, creating structural demand for alternative authenticity signals like crowdsourced event documentation."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Crowd sourced"
+    },
+    {
+      "id": "7f35ea36",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-06-16",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic released new Claude v5 models and limited versions of Mythos, with consensus marking them as meaningful progress in generative AI capabilities. The newsletter emphasizes that we remain in the early, uncertain phase of AI adoption\u2014similar to the internet and mobile internet booms\u2014where most future market winners and technologies haven't yet been imagined, making long-term prediction of job displacement and company exposure nearly impossible despite widespread investor interest in mapping AI risk.",
+      "keyTakeaways": [
+        "Anthropic's new model releases are being positively received, but the company is implementing guardrails to limit LLM development capabilities\u2014signaling competitive concerns around frontier AI development that could fragment the market between open and restricted model tiers.",
+        "Generative AI is in the steep growth phase of an S-curve where usage is exploding and capital is rushing in, but this historical pattern shows most existing players eventually become irrelevant\u2014suggesting current AI leaders face structural obsolescence risk comparable to how Nokia, RIM, and AOL were displaced.",
+        "Attempts to quantify AI job exposure through scoring frameworks are fundamentally flawed because future job transformation is unknowable and immeasurable\u2014investors should be skeptical of AI exposure analyses and focus instead on companies building foundational infrastructure rather than predicting specific job displacement outcomes."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 647"
+    },
+    {
+      "id": "4e2d4e0b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SpaceX exercised a call option to acquire AI coding startup Cursor for $60 billion in an all-stock deal, marking what appears to be the largest acquisition of a VC-backed startup outside of Elon Musk's xAI self-deal. Cursor, founded in 2022, raised $3.38 billion from major VCs including Thrive Capital, a16z, and OpenAI Startup Fund, with the deal expected to close in Q3 as SpaceX shares have climbed 20% recently. The acquisition highlights the explosive valuations in the AI coding space and includes an interesting wrinkle: Alameda Research's seed investment of $200,000 would have been worth billions had FTX not collapsed, with bankruptcy trustees selling those shares back to Cursor at cost.",
+      "keyTakeaways": [
+        "Cursor's $60 billion valuation represents an unprecedented scale for VC-backed startup acquisitions, signaling that AI coding tools with strong product-market fit can command mega-acquisition prices even before traditional profitability milestones.",
+        "SpaceX's use of appreciated stock as currency for this deal demonstrates how high valuations of private company shares can enable transformational M&A without material cash outlay, a strategic advantage for well-valued private tech companies.",
+        "The AI coding vertical is experiencing extreme capital concentration, with a single startup raising $3.38 billion and attracting participation from tier-one VCs, strategic investors (OpenAI, Nvidia), and family offices, suggesting this category is perceived as a critical infrastructure layer for enterprise AI."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: SpaceX's next deal"
+    },
+    {
+      "id": "220f88a3",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "DG+, a marketing and communications agency specialized in clean energy and climate tech, has published a strategic roadmap guide for early-stage companies navigating go-to-market activities from pre-seed through scale. The guide provides stage-specific recommendations for marketing tactics, communications priorities, and success metrics to help founders allocate limited resources effectively across multiple channels without dispersing efforts inefficiently.",
+      "keyTakeaways": [
+        "Early-stage climate tech companies face acute resource constraints in marketing execution\u2014the demand for specialized guidance on stage-appropriate GTM tactics suggests a market gap and potential opportunity for focused service providers targeting this vertical.",
+        "The emphasis on metrics tracking and measurable outcomes at each growth stage indicates that climate tech founders are increasingly adopting data-driven marketing approaches, creating demand for agencies with both domain expertise and analytical rigor.",
+        "The existence and promotion of this specialized roadmap reflects the maturing climate tech ecosystem, where standardized playbooks are emerging for go-to-market strategies similar to those in traditional venture-backed sectors."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "The marketing roadmap every early-stage energy company needs"
+    },
+    {
+      "id": "0a533414",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Senate has released a bipartisan permitting reform bill that would prevent future presidents from revoking already-permitted energy projects, addressing concerns from both parties following executive actions that effectively blocked energy infrastructure. The bill differs from the House version by replacing a developer compensation program with court-appointed contractors funded through a new federal fund, and explicitly covers offshore wind on the Outer Continental Shelf.",
+      "keyTakeaways": [
+        "Energy project developers gain significantly more certainty under this bill\u2014permits become harder to revoke through executive action\u2014which reduces regulatory risk for renewable and traditional energy infrastructure investments.",
+        "The removal of direct financial compensation to developers ($5M+ per project) in favor of court-appointed contractor solutions could lower total government outlays but creates execution risk if the contractor appointment process becomes slow or contentious.",
+        "The bipartisan nature and explicit inclusion of offshore wind suggests renewable energy infrastructure, particularly offshore wind developers, are positioned to benefit most from reduced permitting delays\u2014a major competitive advantage for companies like those backed by Fervo and other enhanced geothermal players mentioned."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Freedom (It Won't Slow You Down)"
+    },
+    {
       "id": "4f9e1e2b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8277,17 +8403,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 51
+      "count": 52
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 189
+      "count": 192
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 18
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 176
+      "count": 178
     },
     {
       "name": "Deep Tech & Science",
@@ -8298,12 +8429,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 17
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 17
     }
   ],
-  "lastUpdated": "2026-06-16T12:04:40.546303Z"
+  "lastUpdated": "2026-06-17T11:28:43.877812Z"
 }
