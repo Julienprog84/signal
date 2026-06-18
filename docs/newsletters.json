@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "0ff70ce4",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-18",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "VivaTech's 10th edition highlights AI sovereignty and entrepreneurship as central themes, with keynotes from Jeff Bezos and Yann LeCun addressing opportunities in space, AI development, and European technological independence. Emerging companies like Aive (partnering with Nvidia on AI-indexable video) and Green-Got (raising \u20ac8M in 52 minutes for sustainable fintech infrastructure) demonstrate investor appetite for European tech solving real problems in AI and climate finance.",
+      "keyTakeaways": [
+        "European founders are successfully raising capital for AI infrastructure plays (Aive with Nvidia) and climate-focused fintech (Green-Got's \u20ac8M crowdfunding in under an hour), signaling strong investor conviction in non-US AI and ESG-aligned financial services",
+        "AI sovereignty is becoming a material investment thesis in Europe, with influential figures like Yann LeCun advocating for state-level AI systems, potentially reshaping how European VCs evaluate AI company defensibility and regulatory tailwinds",
+        "The convergence of mega-founder visibility (Bezos, LeCun) at VivaTech with rapid capital deployment by emerging platforms suggests the European startup ecosystem is maturing and attracting institutional attention previously concentrated in the US"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "18.06 - VivaTech : une 10e \u00e9dition sous le prisme de l'IA et de la souverainet\u00e9"
+    },
+    {
+      "id": "fedacb9a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "ConocoPhillips becomes the first U.S. oil company to reenter Syria under new leadership, with potential to increase gas output by 5 million cubic meters daily. Frontier, a carbon removal funding vehicle, secures $915 million in new commitments from corporate buyers including AI giant Anthropic, signaling a market shift toward substantive climate solutions beyond carbon accounting. The Justice Department defended Elon Musk's xAI against NAACP litigation, citing national security implications of AI development.",
+      "keyTakeaways": [
+        "The carbon removal market is maturing rapidly with $915M in fresh capital and major tech companies like Anthropic entering the space, suggesting carbon removal technology is moving from niche to institutional investment priority.",
+        "ConocoPhillips' Syria re-entry signals geopolitical normalization and potential energy sector opportunities in post-conflict regions, though regulatory and ESG risks remain elevated for oil investors.",
+        "AI infrastructure has become strategically critical enough to influence national security policy and litigation outcomes, making AI compute and power demands a major downstream investment opportunity in energy and data centers."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Road to Damascus"
+    },
+    {
+      "id": "cf83b01c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "OpenAI's leaked 2025 financials reveal $13.07 billion in revenue against $34 billion in total expenses and $20.92 billion in operating losses, marking a significant deterioration from 2024 despite ChatGPT reaching one billion monthly active users. The company's massive spending to maintain AI dominance raises critical questions about business sustainability ahead of its anticipated IPO, particularly when compared to competitor Anthropic's reportedly stronger unit economics. SpaceX has officially exercised its option to acquire AI coding platform Cursor for $60 billion, marking the largest venture-backed acquisition on record.",
+      "keyTakeaways": [
+        "OpenAI's operating losses more than doubled year-over-year despite 3.5x revenue growth, signaling that the company is burning cash aggressively to maintain competitive moat rather than pursuing profitability\u2014a major valuation risk for public market investors.",
+        "The IPO narrative remains unclear: investors need visibility into management's path to sustainable unit economics and whether the company plans to ride hype or demonstrate a credible profitability roadmap, making this a potentially problematic debut if comparable metrics aren't disclosed.",
+        "The $60 billion Cursor acquisition by SpaceX signals continued mega-deal activity in AI infrastructure despite OpenAI's financial challenges, suggesting VCs and acquirers remain confident in winner-take-most dynamics despite unfavorable unit economics for category leaders."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "OpenAI\u2019s financials leaked"
+    },
+    {
+      "id": "ceadfc83",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "LongRange Capital acquired Pizza Hut's non-China operations for $1.5 billion, marking the latest PE play in a sector with a troubled track record. The newsletter catalogs pizza chain investments by major PE firms, revealing a pattern of bankruptcies and value destruction across California Pizza Kitchen, Sbarro, MOD Pizza, and others, with Domino's under Bain Capital being the notable exception that went public at a $10.6 billion valuation.",
+      "keyTakeaways": [
+        "Pizza chain turnarounds have become a PE graveyard: of seven major recent PE-backed pizza plays, five filed for bankruptcy or significantly underperformed, suggesting operational challenges in the restaurant sector outweigh typical PE playbook advantages.",
+        "The Domino's success story (Bain Capital, 1998-2004 IPO) has not been replicated despite PE firms repeatedly attempting similar operational overhauls, indicating the model may be industry-specific or dependent on unrepeatable market conditions rather than scalable PE strategy.",
+        "Corporate venture arms like PayPal Ventures are contracting amid fintech consolidation, signaling potential secondary market liquidity events and suggesting corporate VC may be deprioritized compared to traditional PE and growth equity in the current environment."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: PE's pizza past"
+    },
+    {
+      "id": "570e25ec",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic is currently purchasing carbon removal credits rather than investing in clean power infrastructure, but the AI company is actively recruiting energy expertise from major tech firms like Google and Meta as well as the Department of Energy, signaling a strategic pivot toward building internal energy capabilities.",
+      "keyTakeaways": [
+        "Anthropic's talent acquisition from energy-focused organizations suggests the company views energy independence and management as a core competitive advantage for AI operations, potentially signaling a shift toward vertically integrated energy strategies among AI companies.",
+        "The distinction between carbon offsets and clean power procurement indicates Anthropic may be addressing ESG compliance through offsets while building long-term in-house energy capabilities\u2014a two-track approach that could reshape how AI companies approach sustainability.",
+        "Competition for specialized energy talent among tech giants (Google, Meta, Anthropic) and government (DOE) reflects the emerging energy infrastructure arms race driven by AI's extreme power demands, likely to influence energy sector valuations and clean tech investment priorities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Anthropic Is Buying Carbon Removal \u2014 But Not Clean Power"
+    },
+    {
+      "id": "43e93958",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-17",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Unit21's Chief Product Officer argues the fintech industry's fraud detection approach is fundamentally misaligned, focusing on surface-level threats like deepfakes and AI-generated phishing rather than the immutable truth that all fraud ultimately requires money movement. Kunal Datta presents a framework dividing fraud into two categories\u2014known customers with existing transaction history, and unknown actors\u2014suggesting that effective risk infrastructure should focus on detecting anomalies in money movement rather than chasing point solutions for emerging attack vectors.",
+      "keyTakeaways": [
+        "The fraud detection market's reliance on point solutions (deepfake detection, voice authentication, behavioral biometrics) creates an unsustainable arms race where vendors continuously chase emerging threats while the actual value lies in monitoring transaction patterns\u2014a major misallocation of security spending in fintech that represents an investment thesis gap.",
+        "Unit21's positioning around 'AI Risk Infrastructure' focused on money movement rather than attack prevention suggests a market opportunity for companies offering foundational fraud layers versus surface-level detection tools, potentially indicating which security vendors will consolidate the market.",
+        "As INTERPOL reports AI-enhanced fraud is 4.5x more profitable than traditional methods, the fintech sector faces a fundamental reckoning: companies investing heavily in threat detection will face rising costs while those building transaction-layer monitoring gain competitive moat\u2014this could reshape valuations and M&A strategy in financial crime compliance."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "A Finger in the Wind: How Institutions Decide Which Crimes to Ignore"
+    },
+    {
+      "id": "11bff1e6",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza is launching Anza Pulse, a real-time solar module intelligence platform that provides live pricing, supplier risk assessment, and trade policy data to replace traditional quarterly reports and slow RFI cycles. The platform aggregates information across 40 active U.S. solar suppliers and enables project-specific budgetary pricing without direct supplier outreach, addressing a key pain point in the solar procurement process.",
+      "keyTakeaways": [
+        "Market inefficiency opportunity: Solar teams currently make seven-figure procurement decisions on stale quarterly data, indicating strong demand for real-time intelligence products in the solar supply chain",
+        "B2B SaaS expansion in clean energy: Anza's platform targets operational buyers (solar installers, developers, EPCs) with pricing and compliance data, suggesting a growing market for software solutions that reduce procurement friction in renewable energy",
+        "Supply chain consolidation signal: Tracking 40 active U.S. suppliers and their bankability scores reflects ongoing consolidation and regulatory complexity in domestic solar manufacturing, relevant for investors assessing supply chain resilience and tariff exposure"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Webinar: Live solar pricing, supplier, and trade intel on demand"
+    },
+    {
+      "id": "bbab692d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration paid energy developer Invenergy $765 million to terminate four offshore wind leases, continuing a pattern of buyback deals to halt renewable energy projects. This agreement uniquely includes a commitment to develop geothermal resources alongside natural gas generation, signaling a potential shift in how the administration frames energy transition policy.",
+      "keyTakeaways": [
+        "Government buyouts of renewable energy leases represent a new policy mechanism that creates both risk for wind developers and potential opportunities for natural gas and geothermal companies positioned to capitalize on contract replacements.",
+        "The inclusion of geothermal development in this deal suggests the administration may be repositioning away from pure fossil fuel advocacy toward a mixed energy portfolio narrative, potentially opening capital allocation toward geothermal technology companies.",
+        "Repeated large-scale lease cancellations signal sustained policy headwinds for offshore wind sector, likely depressing valuations and project pipelines while creating uncertainty for supply chain investors and manufacturers dependent on wind deployment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Trump Pays Invenergy $765 Million to Kill Offshore Wind Leases"
+    },
+    {
+      "id": "466d5357",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "President Trump and Senator Bernie Sanders have both proposed government stakes in major AI companies\u2014Trump suggesting a voluntary passive investment similar to Intel, Sanders proposing a mandatory 50% tax paid in stock with voting board seats. The debate obscures a critical energy policy dimension: AI company valuations depend entirely on data center power procurement, making government ownership a direct play on grid development speed and electricity pricing rather than a neutral financial asset.",
+      "keyTakeaways": [
+        "Government stakes in AI firms are implicitly bets on energy infrastructure policy. Investors should track how federal power procurement standards, grid modernization timelines, and electricity pricing regulations shift as government ownership stakes increase.",
+        "Voluntary equity participation has structural limitations\u2014Anthropic has already declined Trump's approach\u2014suggesting mandatory mechanisms may emerge, creating regulatory risk for AI companies and opportunity for energy infrastructure firms positioned to serve data center demand.",
+        "The intersection of AI policy and energy regulation is becoming a single issue. Expect accelerated transmission buildout, data center siting conflicts, and potential government intervention in power contracts as the largest constraint on AI scaling shifts from capital to kilowatt-hours."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "What would a federal stake in AI mean for energy?"
+    },
+    {
+      "id": "15ffa366",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has secured a $765 million deal with Chicago-based Invenergy to cancel four offshore wind leases off New York, California, and Maine\u2014part of a broader strategy that has now terminated over 14 gigawatts of planned offshore wind capacity. In exchange, Invenergy agreed to develop natural gas or geothermal plants in the Midwest, representing a shift in administration policy that previously restricted alternative energy to fossil fuels alone. The cancellations disproportionately affect coastal states already facing power supply constraints, with Maine losing 3.4 gigawatts despite having some of the nation's highest electricity rates.",
+      "keyTakeaways": [
+        "Government-brokered asset cancellations are now a precedent\u2014developers like RWE holding remaining leases face pressure to accept similar buyout deals, creating legal and financial uncertainty in the offshore wind sector worth billions in stranded investments.",
+        "Regional energy markets face material supply disruptions: New York, New Jersey, New England, and Maine lose critical baseload capacity precisely when demand is rising, which will likely drive up electricity costs and create long-term grid reliability concerns that could attract alternative energy developers.",
+        "The Midwest becomes a new energy infrastructure hub as natural gas and geothermal development accelerates\u2014investors should monitor which developers win contracts in Indiana, Wisconsin, Iowa, Kansas, and Missouri, as these represent the administration's preferred energy transition pathway."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Trump\u2019s War on Gigawatts"
+    },
+    {
       "id": "e290f97e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8403,12 +8583,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 52
+      "count": 53
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 184
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 192
+      "count": 194
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 18
     },
     {
       "name": "Strategy & Thesis",
@@ -8416,20 +8606,10 @@
       "count": 18
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 178
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 11
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 17
     }
   ],
-  "lastUpdated": "2026-06-17T11:28:43.877812Z"
+  "lastUpdated": "2026-06-18T11:05:32.688565Z"
 }
