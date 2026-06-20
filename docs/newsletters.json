@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "281e13e8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity funding for clean energy reached a record $64 billion in Q1 2026, driven largely by the $40 billion take-private of AES Corp., with solar now surpassing coal in U.S. electricity generation for the first time. Beyond the headline deal, clean energy PE activity remains at historically elevated levels, with intermittent renewable energy and grid technology segments dominating investor interest. Meanwhile, Canada's BCI is launching a capital solutions group focused on liquidity mechanisms like continuation funds and preferred equity, signaling that creative dealmaking tools are becoming essential strategies amid prolonged private market illiquidity.",
+      "keyTakeaways": [
+        "Clean energy PE is reaching inflection point maturity: even excluding the massive AES deal, Q1 2026 would still rank as the second-highest quarter on record by deal value, indicating sustained institutional capital commitment beyond one-off mega-deals.",
+        "Grid technology and energy storage infrastructure are becoming as critical as solar/wind generation itself\u2014this segment captured 24% of quarterly funding and represents the next frontier for PE capital allocation as renewable capacity scales.",
+        "Liquidity tools like continuation funds, preferred equity, and minority recapitalizations are transitioning from temporary pandemic-era workarounds to permanent deal-making infrastructure, reshaping how PE firms manage portfolio lifecycles in a prolonged exit drought."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Solar surge"
+    },
+    {
+      "id": "07ee8e11",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-06-19",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Brain-computer interface (BCI) trials are accelerating dramatically, with the number of implanted patients more than doubling since 2024 to approximately 150 people, while China became the first country to approve a BCI for medical use. The newsletter covers a broad range of deep tech developments including Valar Atomics achieving reactor criticality, record-breaking US battery manufacturing output, the first human trial of cellular rejuvenation therapy, and autonomous labs conducting 24/7 experiments\u2014alongside defense and space infrastructure updates.",
+      "keyTakeaways": [
+        "BCI market is inflecting rapidly: patient volumes doubled in under two years with regulatory approval now happening in major markets, signaling the technology is transitioning from research to commercial viability and creating near-term investment windows in neurotechnology companies.",
+        "Defense-focused deep tech investors should prioritize component-level suppliers over vertically integrated 'tip-to-tail' companies, as profits concentrate in specialized component production rather than full-system integration.",
+        "Multiple adjacent deep tech sectors (nuclear, battery manufacturing, autonomous labs, space infrastructure) are simultaneously reaching inflection points, suggesting broad capital reallocation toward enabling technologies for AI, energy, and space industries rather than consumer applications."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 167: Brain-computer interfaces are taking off"
+    },
+    {
       "id": "fcac99d7",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8707,6 +8743,16 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 198
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 12
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 54
@@ -8717,11 +8763,6 @@
       "count": 187
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 197
-    },
-    {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 18
@@ -8730,12 +8771,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 18
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 11
     }
   ],
-  "lastUpdated": "2026-06-19T11:14:42.235886Z"
+  "lastUpdated": "2026-06-20T09:57:43.358106Z"
 }
