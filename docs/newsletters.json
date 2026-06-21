@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "92190ce5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms have heavily invested in AI across portfolio companies with expectations of value creation, but results remain largely unproven. A survey of 100 PE executives found that 73% expect AI to increase portfolio value within 12 months, yet only 8% describe themselves as 'leading' in material EBITDA impact. The majority of AI implementation remains focused on back-office automation like invoicing and contract management rather than revenue-driving applications, creating a significant gap between industry hype and measurable financial returns.",
+      "keyTakeaways": [
+        "Most PE firms are using AI for cost reduction in administrative functions rather than revenue growth\u2014only 8% of surveyed firms report material EBITDA impact, signaling that current AI strategies may be misaligned with value creation objectives.",
+        "The disconnect between expectations (73% anticipating portfolio value increases) and reality (8% seeing material results) suggests PE investors should demand concrete ROI metrics and revenue-focused AI use cases before deploying capital into AI-enabled portfolio companies.",
+        "With 55% of PE firms using AI primarily for FP&A and performance management\u2014the most back-office intensive applications\u2014there is significant untapped opportunity for firms that can effectively deploy AI to improve working capital, accelerate accounts receivable, or create new revenue streams, creating a competitive advantage window."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Can AI increase revenue for PE firms?"
+    },
+    {
+      "id": "b7f1a1a7",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Middle-market PE exits are increasingly constrained to sponsor-to-sponsor deals, which captured 69.5% of exit value in Q1 2026 as corporate buyers retreated to pre-pandemic lows of 30.5% and IPO windows remained closed. The platform acquisition strategy\u2014assembling smaller businesses trading at 8.8x EV/EBITDA into scaled platforms selling at 13.4x\u2014has emerged as the primary exit blueprint, with add-ons representing 68.4% of middle-market deal count and 53.5% of value. Meanwhile, expansion-stage capital is flowing heavily into AI infrastructure sectors, with energy, semiconductors, and commercial products deals exceeding $44 billion in 2025, up 69% year-over-year.",
+      "keyTakeaways": [
+        "Middle-market PE sponsors must master the platform consolidation playbook to achieve exits\u2014the math works by acquiring smaller, cheaper targets and rolling them up into de-risked businesses that command higher multiples when sold to larger sponsors, as evidenced by KSL Capital Partners' Southern Marinas sale to Stonepeak.",
+        "Corporate M&A is bifurcating: large-cap PE targets remain attractive to strategic buyers, but mid-market assets face a liquidity squeeze, forcing GPs to hold assets longer (6.1 years median) and increasingly rely on secondary sponsor sales rather than strategic or IPO exits.",
+        "Capital deployment is shifting toward AI infrastructure buildout\u2014energy, semiconductors, and physical manufacturing hit record expansion-stage funding levels in 2025, signaling that investor conviction is flowing to companies solving the physical and industrial constraints of AI deployment, not just software solutions."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "The exit blueprint keeping mid-market PE alive"
+    },
+    {
+      "id": "c068665b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This Heatmap News newsletter covers five climate and energy stories including scrutiny of Anthropic's energy consumption, hurricane preparedness for California, a resurgence in climate tech SPACs, litigation between induction stove startups, and wind industry advocacy against Trump policies. The coverage spans AI infrastructure sustainability, extreme weather preparedness, alternative energy adoption, and political/regulatory headwinds for renewable energy.",
+      "keyTakeaways": [
+        "AI infrastructure companies like Anthropic face growing scrutiny over energy consumption and environmental impact\u2014this creates investment risk for AI-heavy portfolios and opportunity for energy-efficient AI solutions and data center cooling technologies.",
+        "Climate tech SPAC activity is rebounding, signaling renewed capital interest in climate solutions after a funding winter, but investor caution is warranted given the sector's track record of overhyped valuations and execution challenges.",
+        "Regulatory and litigation risks are accelerating across clean energy sectors\u2014from induction stove startups battling each other to wind industry fighting policy headwinds\u2014indicating that market winners will be determined by regulatory environment and competitive moats, not just technology."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Anthropic\u2019s Dirty Secret, a West Coast Hurricane, and More"
+    },
+    {
       "id": "281e13e8",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -8745,7 +8799,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 198
+      "count": 200
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 188
     },
     {
       "name": "Deep Tech & Science",
@@ -8758,11 +8817,6 @@
       "count": 54
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 187
-    },
-    {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 18
@@ -8773,5 +8827,5 @@
       "count": 18
     }
   ],
-  "lastUpdated": "2026-06-20T09:57:43.358106Z"
+  "lastUpdated": "2026-06-21T10:25:23.579165Z"
 }
