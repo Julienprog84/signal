@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "5608ade7",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-22",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "VivaTech 2026 highlighted European robotics startups struggling to compete against Chinese competitors despite strong presence at the event. The French government announced Tibi 3, a \u20ac13 billion funding initiative to accelerate European deeptech, critical infrastructure, and dual-use technologies, with a target of \u20ac15 billion by year-end, aiming to mobilize private savings and close the innovation gap with the US and China.",
+      "keyTakeaways": [
+        "Europe faces significant competitive pressure in robotics from Chinese manufacturers, suggesting European founders may need to differentiate through software, AI integration, or niche applications rather than hardware manufacturing alone.",
+        "\u20ac13-15 billion in institutional capital now committed to European deeptech and critical infrastructure represents a major supply-side shift that will reshape startup funding dynamics and sector priorities in 2026-2027.",
+        "Startup financing landscape is consolidating around multiple capital sources (equity, debt, working capital financing, angels, customer financing) in a more selective market, requiring founders to optimize capital mix timing\u2014a key consideration for institutional investors evaluating management quality."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "22.06 - VivaTech : d\u00e9couvrez les innovations surprenantes de cette \u00e9dition 2026"
+    },
+    {
+      "id": "471c8b4b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capitalists are increasingly using multi-tranche funding rounds with different valuation prices within the same round to reward early investors and round leaders, a practice that has accelerated during the AI boom. This strategy allows founders to offer preferred economics to committed believers while bringing in later investors at higher headline valuations, though it risks straining new investor relationships. AI startups raised $255.5 billion globally in Q1 2026 alone, surpassing the entire 2025 total and intensifying competition for hot deals.",
+      "keyTakeaways": [
+        "Multi-tranche rounds with variable pricing are becoming standard practice in competitive AI funding rounds, creating a two-tier investor class within single financings\u2014VCs paying premiums for access should evaluate whether the privilege justifies worse economics",
+        "Founders leveraging this structure to reward early believers and lead investors can improve relationships with key stakeholders but risk alienating later-stage investors who enter at worse terms, potentially affecting future partnership quality",
+        "The explosive growth in AI startup funding ($255.5B in Q1 2026) is driving scarcity premiums and forcing institutional investors to accept disadvantageous terms to participate in hot deals, signaling a overheated market where valuation discipline is eroding"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Same round, different price tag"
+    },
+    {
+      "id": "f3171afe",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Ormat, a geothermal and solar storage developer with operations across the Western U.S., is actively seeking to acquire interconnection positions from other companies in Nevada, Utah, Oregon, Idaho, and New Mexico. The company is targeting unused, surplus, or at-risk interconnection assets that other developers no longer plan to utilize, signaling aggressive expansion of its geothermal development pipeline in the West.",
+      "keyTakeaways": [
+        "Ormat is pursuing a strategic acquisition strategy for interconnection rights rather than waiting for new queue positions, indicating that grid interconnection bottlenecks remain a critical constraint for renewable energy deployment in Western markets.",
+        "This move suggests interconnection positions have become a valuable tradeable asset class, creating potential exit opportunities for companies with stranded or underutilized grid access rights\u2014relevant for portfolio optimization in clean energy development.",
+        "Geothermal energy is experiencing renewed institutional focus as a baseload renewable alternative, with Ormat's aggressive Western expansion signaling market confidence in geothermal's competitive positioning relative to solar and wind in constrained grid environments."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 1,
+      "originalTitle": "Excess interconnection interest"
+    },
+    {
+      "id": "c083a7a3",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Index Ventures and Union Square Ventures have led a $75 million Series B funding round for Fomo, a crypto trading app, at a $550 million valuation. The startup aims to simplify cryptocurrency trading by enabling users to onboard, fund accounts, and purchase tokens within 30 seconds, while incorporating social features like leaderboards and trade sharing. The funding signals major generalist VCs re-entering crypto despite the bear market, betting on simplified consumer blockchain trading platforms.",
+      "keyTakeaways": [
+        "Tier-1 generalist VCs (Index, USV) are backing crypto startups again, suggesting the market has shifted from pure crypto skepticism to selective thesis-driven investing in consumer-facing blockchain applications.",
+        "Fomo's go-to-market strategy\u2014radical simplification of onboarding and social-first trading features\u2014mirrors successful fintech patterns (Robinhood, Coinbase) and suggests UX/accessibility rather than novel crypto tech is the competitive moat investors are rewarding.",
+        "The $550M valuation for a Series B crypto trading app in a bear market indicates investor confidence in a broader shift toward blockchain-based asset classes beyond crypto, including stocks, derivatives, and tokenized securities."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Fear of missing out"
+    },
+    {
+      "id": "7dff8e4e",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-21",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Silicon Valley Bank has sued Patriot Bank over $21 million in charge card receivables following the sudden collapse of Parker, a small business charge card fintech that shut down in May 2026. SVB was the administrative agent and primary lender on Parker's $125 million asset-backed lending facility, with V\u00e4rde Partners as secondary lender, and the lawsuit centers on which party has rights to the disputed receivables from the failed program.",
+      "keyTakeaways": [
+        "Asset-backed lending facilities for fintech platforms carry significant counterparty risk\u2014SVB's $125M facility to Parker demonstrates how quickly regulatory or operational failures can trigger disputes over collateral and receivables between lenders and platform partners.",
+        "The fintech lending model's reliance on non-bank originators tapping third-party debt facilities creates complexity in bankruptcy scenarios; investors should scrutinize whether their portfolio companies have clear contractual language around receivables ownership and control in stress situations.",
+        "High-growth fintech lending products (Parker's 90-day payment terms) may mask underlying credit quality issues\u2014the rapid shutdown suggests potential underwriting or credit management problems that should inform future due diligence on alternative lending platforms and their reserve adequacy."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 5,
+      "originalTitle": "SVB Sues Patriot Over $21M of Receivables in Parker Card Mess"
+    },
+    {
       "id": "92190ce5",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -8797,14 +8887,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 55
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 200
+      "count": 202
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 188
+      "count": 189
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 19
     },
     {
       "name": "Deep Tech & Science",
@@ -8812,20 +8912,10 @@
       "count": 12
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 54
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 18
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 18
     }
   ],
-  "lastUpdated": "2026-06-21T10:25:23.579165Z"
+  "lastUpdated": "2026-06-22T12:43:37.053375Z"
 }
