@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "50799390",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "VivaTech's 10th edition reinforced Paris as a global tech capital, with notable French biotech momentum including Bionyra Pharma's record \u20ac140 million Series A for severe eczema treatment and Withings' acquisition of respiratory monitoring medtech Biosency. The newsletter highlights emerging investment themes across digital advertising (AI-driven, retail media, connected TV), cybersecurity (CybelAngel's detection of 344 FIFA World Cup phishing sites), and regional innovation potential in French overseas territories as strategic assets.",
+      "keyTakeaways": [
+        "French biotech is attracting mega-rounds: Bionyra Pharma's \u20ac140M Series A represents the largest life sciences funding in France, signaling investor confidence in domestic deep-tech and pharmaceutical innovation despite global capital scarcity.",
+        "Strategic M&A in medtech is active\u2014Withings' acquisition of distressed Biosency shows consolidation patterns where established players acquire specialized tech to expand into adjacent markets like remote respiratory monitoring.",
+        "Data-driven advertising and AI are reshaping the digital marketing stack; retail media and connected TV are emerging as new growth engines, suggesting traditional ad-tech companies must evolve or face disruption from platform-native advertising solutions."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "23.06 - VivaTech : on dresse le bilan de cette 10e \u00e9dition record"
+    },
+    {
+      "id": "7ad30427",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy-focused newsletter covering three major geopolitical developments with investment implications: the U.S. and Iran establishing a communication channel over Strait of Hormuz shipping, potentially easing oil market tensions; Colombia electing a pro-oil, Trump-aligned candidate who favors fracking and expanded fossil fuel production over the outgoing president's decarbonization agenda; and China imposing export controls on U.S. rare earth companies MP Materials and USA Rare Earth, escalating technology competition.",
+      "keyTakeaways": [
+        "The U.S.-Iran agreement on avoiding 'incidents and miscommunication' over the Strait of Hormuz could stabilize global oil markets by reducing geopolitical supply risk, though the 60-day negotiation window on nuclear and sanctions issues creates near-term volatility for energy investors.",
+        "Colombia's election of a pro-fossil fuel president represents a significant reversal for climate-focused energy transition investors, as the country will likely expand oil and gas production rather than phase out drilling, potentially attracting traditional energy capital but signaling investor skepticism toward Petro's green agenda.",
+        "China's export controls on MP Materials and USA Rare Earth highlight critical supply chain vulnerabilities for U.S. clean energy and defense sectors dependent on rare earths, creating both investment risk in affected companies and opportunity for alternative rare earth producers and domestic U.S. capacity builders."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "\u2018Incidents and Miscommunication\u2019"
+    },
+    {
+      "id": "75f6c2b0",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Senate is voting on bipartisan legislation that limits private equity ownership of single-family homes to institutions owning fewer than 350 properties, with exemptions for homes purchased before the law and those built rather than acquired. In venture capital news, Spark Capital raised $3.3 billion across new funds after its early success with Anthropic, Stripe promoted its CRO to vice chair while appointing a new revenue officer, and Groq announced a $650 million funding round as it pivots from chipmaking to AI inference infrastructure with plans to scale to 200 MW by 2027. Additionally, Penske Media acquired Vox Media's digital brands, marking the effective end of the once-celebrated media company that was valued at $1.2 billion in 2015 but has since declined significantly in valuation.",
+      "keyTakeaways": [
+        "PE real estate strategies targeting single-family home portfolios face new regulatory headwinds, but the bill's loopholes (350-home threshold, exemptions for pre-law purchases and newly built homes) significantly limit its practical impact on existing institutional investors.",
+        "Spark Capital's $3.3 billion fundraise demonstrates continued LP confidence in top-tier VC firms with proven exits and board seats at hot companies like Anthropic, making fund size less constraining than investment selection for elite managers.",
+        "The Vox Media collapse from $1.2 billion valuation (2015) to fire-sale acquisition illustrates how media ventures dependent on traffic-based advertising and VC capital dried up post-2020, warning investors about secular headwinds in content businesses without diversified revenue models."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: House buying ban"
+    },
+    {
+      "id": "ab886f95",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter analyzes the rise of socialist politicians in major U.S. cities, arguing that their popularity stems largely from climate and energy policy concerns rather than traditional socialist ideology. Key figures like NYC Mayor Zohran Mamdani and LA's Nithya Raman initially mobilized voters around aggressive decarbonization targets, with the movement originating from Alexandria Ocasio-Cortez's 2018 Green New Deal campaign that called for rapid fossil fuel phase-out through industrial mobilization.",
+      "keyTakeaways": [
+        "Climate policy is reshaping urban political coalitions in unexpected ways\u2014investors should monitor how aggressive decarbonization timelines (like LA's 2030 carbon neutrality goal) influence procurement and infrastructure spending decisions in major metros.",
+        "The Green New Deal's emphasis on industrial mobilization and managed economic transition could accelerate capital flows toward clean energy infrastructure, but also create policy uncertainty around stranded assets in fossil fuel-dependent supply chains.",
+        "Urban socialism's roots in climate urgency suggests sustained political pressure for accelerated energy transition\u2014companies in nuclear, renewables, and grid modernization may benefit from policy tailwinds, while traditional energy sectors face structural headwinds in key Democratic strongholds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "The New Left\u2019s Old Climate Politics"
+    },
+    {
       "id": "5608ade7",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8889,17 +8961,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 55
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 202
+      "count": 56
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 189
+      "count": 191
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 203
     },
     {
       "name": "Fintech",
@@ -8917,5 +8989,5 @@
       "count": 18
     }
   ],
-  "lastUpdated": "2026-06-22T12:43:37.053375Z"
+  "lastUpdated": "2026-06-23T10:28:29.823364Z"
 }
