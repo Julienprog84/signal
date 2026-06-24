@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "e2b85c25",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Two former Datadog employees launched Tsuga and raised $35 million in Series A funding led by Singular to redefine observability for the AI era, with backing from General Catalyst, DST Global Partners, and others. The newsletter also highlights Walmart's acquisition of French adtech startup Vibe, Flease's \u20ac13 million raise for B2B vehicle leasing, and Linc's \u20ac8.5 million funding round targeting France's payroll software market.",
+      "keyTakeaways": [
+        "Experienced talent from category leaders like Datadog continues to spawn well-funded spinouts, signaling investor confidence in AI-driven infrastructure solutions and the viability of alternative observability platforms",
+        "French tech founders are achieving meaningful exits and capital raises across diverse sectors (adtech, mobility, fintech), suggesting Europe's startup ecosystem is maturing with successful founder-led companies and active LP participation",
+        "Vertical SaaS opportunities in regulated, fragmented markets (payroll software in France, vehicle leasing) remain attractive to growth investors, with founder networks and business angel participation indicating strong product-market fit validation"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "24.06 - Deux anciens de Datadog l\u00e8vent 35 millions de dollars"
+    },
+    {
+      "id": "41c9daa5",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US venture capital in H1 2026 saw record-breaking activity dominated by mega-deals, with OpenAI's $122 billion raise, Anthropic's $65 billion Series H, and the SpaceX-xAI merger at $1.25 trillion accounting for 86.4% of all venture-growth deal value. While headline numbers look strong, the market reality reveals a bifurcated landscape where mega-rounds and multi-platform firms dominate, emerging managers struggle for footing, exit liquidity remains constrained, and the defining question for H2 is whether public markets can absorb the projected $3 trillion+ combined IPO valuations of these three companies.",
+      "keyTakeaways": [
+        "Mega-deal concentration has reached an extreme: three companies (OpenAI, Anthropic, SpaceX-xAI) captured 86% of venture-growth deal value through May 2026, signaling that capital is consolidating around proven mega-cap winners rather than distributing across a broader portfolio of emerging companies.",
+        "Emerging managers and traditional VC funds face a viability crisis as mega-rounds and the largest venture platforms attract the majority of capital flows, while secondary activity becomes the primary liquidity source for founders and investors seeking exits in a narrow window.",
+        "Public market absorption risk is now the macro headwind\u2014with SpaceX, Anthropic, and OpenAI potentially representing $3 trillion+ in combined IPO valuations in H2 2026, the ability of public markets to price and absorb this scale will determine whether private market valuations hold or correct significantly."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Beneath the splashy headlines"
+    },
+    {
+      "id": "c85fde6d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Lucid Motors is laying off 18% of its workforce and eliminating a production shift, continuing its aggressive cost-cutting amid slumping EV sales, while the company pushes forward with its lower-cost Cosmos SUV and robotaxi partnership with Uber and Nuro. The Trump administration is loosening oil and gas regulations by reducing bonding requirements from $500,000 to $25,000 per state and cutting public comment periods from 90 to 10 days, shifting remediation costs to taxpayers. Meanwhile, red states are suing California over its plastic reduction targets, and Australia faces its first human-rights lawsuit over fossil fuel production expansion.",
+      "keyTakeaways": [
+        "Lucid's repeated workforce reductions signal structural challenges in the EV market that go beyond temporary demand fluctuations\u2014investors should monitor whether the Cosmos SUV launch and robotaxi ventures can deliver the revenue needed to justify remaining valuations.",
+        "Regulatory rollback on oil and gas bonding requirements creates immediate cost advantages for fossil fuel producers but increases long-term liability exposure for states and taxpayers, reshaping the risk calculus for energy sector investments.",
+        "Litigation over plastic regulations and fossil fuel production suggests mounting legal and regulatory uncertainty around climate and environmental policies, particularly as red states mobilize against state-level environmental mandates, creating unpredictable compliance costs for consumer goods and energy companies."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Lucid Shrinking"
+    },
+    {
+      "id": "340260e9",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Probook, a New York-based startup founded by 24-year-old George Eliadis, raised $40 million ($34M Series A led by a16z, $6M seed led by Sequoia) to build an AI operating system for home service businesses like plumbing, HVAC, and electrical contractors. The company focuses on AI-powered dispatch optimization\u2014the core scheduling function that determines technician-to-job allocation\u2014rather than the fragmented point solutions that currently plague the $700 billion industry. Early customers report significant operational wins: one operator reduced dispatchers from 22 to 10, another grew average job revenue by 20%, and a third booked 2,542 jobs in one month with zero human intervention.",
+      "keyTakeaways": [
+        "Blue-collar SaaS is attracting tier-one VC capital by solving a specific operational pain point (dispatch) rather than building feature-rich platforms; Probook's focus on the 'brain' of home service operations suggests investor appetite for verticalized, use-case-specific AI solutions over horizontal tools.",
+        "Private equity-backed home services rollups (growing 88% YoY through mid-2025) represent a high-margin customer base with strong unit economics incentives, making this a favorable market structure for B2B SaaS expansion and potential acquisition targets for larger platforms.",
+        "ServiceTitan's $6.3B valuation and $960M revenue create both a competitive threat and a partnership opportunity; Probook's positioning as complementary rather than competing may indicate a sustainable coexistence strategy, but long-term defensibility depends on whether incumbents with deeper engineering resources can replicate AI scheduling capabilities."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Blue-collar AI gets white-hot funding"
+    },
+    {
+      "id": "b8c28501",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The K-shaped economy is reshaping venture capital and M&A strategy, with investors and corporations increasingly targeting wealthy consumers while affordable segments struggle. Major deals reflect this bifurcation: Unilever acquired premium supplement company Gr\u00fcns for $1.2 billion, while pizza chains face distress; simultaneously, Abu Dhabi's MGX fund raised nearly $50 billion for AI investments, cementing its position as a major tech funder alongside significant rounds for AppsFlyer ($2.7B valuation), Meta's $900 million investment in Indian fintech CRED, and Peregrine Technologies' $250 million Series D.",
+      "keyTakeaways": [
+        "The middle market is being systematically squeezed out of dealmaking\u2014VCs and strategic acquirers are now explicitly targeting either ultra-premium segments (luxury goods, private aviation, white-glove fintech) or pure value plays, with mid-market consumer brands facing acquisition pressure or failure.",
+        "Geopolitical capital reallocation is accelerating: Abu Dhabi's MGX raising $50 billion signals sovereign wealth funds are now proactively fundraising at scale for AI, shifting from passive capital exporters to active venture managers competing directly with traditional Silicon Valley VCs.",
+        "Infrastructure and service-layer companies serving the wealthy are becoming acquisition targets\u2014from fine arts logistics to premium seating renovation\u2014indicating that dealmakers see durable margins in serving high-income cohorts whose real spending has grown 7.6% since 2023 versus 1% for low-income households."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: K-shaped shift"
+    },
+    {
+      "id": "fa06ea6e",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-06-23",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans explores how voice technology is evolving beyond conversational UI to become a universal data input that captures implicit organizational knowledge from customer and internal calls. The newsletter also highlights the emerging \"SaaS apocalypse\" trend, exemplified by German PE firm Thoma Bravo's $6.4 billion writeoff of Medallia, signaling that AI will reshape software economics through commoditization, displacement of existing solutions, and industry consolidation.",
+      "keyTakeaways": [
+        "Voice data from organizational calls represents a massive untapped source for training implicit knowledge into AI systems\u2014companies that can systematize this will gain significant competitive advantages in automation and process improvement.",
+        "SaaS software will face structural margin compression and increased competition from AI alternatives; PE and growth investors should reassess holdings in customer feedback, call center, and enterprise software categories where AI can deliver cheaper or better solutions.",
+        "Expect continued portfolio casualties similar to Medallia's writedown as legacy software gets disrupted; the transition will create value winners (companies that bundle and integrate AI) and losers (point solution vendors), making sector timing and exit planning critical for capital allocation."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 648"
+    },
+    {
+      "id": "1becd7e6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Big Tech hyperscalers are reportedly backing a Ratepayer Protection Act, potentially spending billions to shield themselves from public blame as electricity prices rise due to surging data center demand. The article investigates the apparent paradox of tech giants supporting legislation that frames itself as consumer protection while their massive power consumption directly contributes to grid strain and rate increases.",
+      "keyTakeaways": [
+        "Hyperscalers may be using regulatory capture and legislative sponsorship as a preemptive reputation management strategy, treating potential political backlash against rising electricity costs as a capital expense to be managed through policy influence.",
+        "This signals growing tension between energy-intensive AI/cloud infrastructure expansion and grid reliability, creating investment opportunities in power generation, grid infrastructure, and regulatory-adjacent businesses that can navigate this complex landscape.",
+        "The trend suggests tech companies are increasingly willing to deploy capital toward energy policy to secure favorable operating conditions, indicating that energy policy literacy and grid access will become critical competitive factors for data center operators and cloud providers."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Mystery of the Ratepayer Protection Act"
+    },
+    {
+      "id": "6aa6e5e4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration announced a $17.5 billion loan program through the Energy Department to finance the construction of up to 10 Westinghouse AP1000 nuclear reactors across five sites, with joint ownership between utilities and Westinghouse. This initiative aims to add approximately 11 gigawatts of zero-carbon electricity to the grid and follows a global best-practice model used successfully by France, Sweden, and China, with the bulk-order approach designed to reduce manufacturing costs and construction delays.",
+      "keyTakeaways": [
+        "Westinghouse has secured a major government-backed contracting opportunity with up to 10 AP1000 reactor orders; the company will jointly own the resulting power plants alongside utilities, creating a new operational revenue stream beyond manufacturing.",
+        "The loan program significantly de-risks nuclear expansion for utilities by subsidizing capital costs, making this sector attractive for infrastructure-focused investors and creating potential tailwinds for supply chain companies supporting nuclear construction.",
+        "This represents a rare bipartisan climate infrastructure play with real execution potential\u2014if successful, it would be one of the largest U.S. zero-carbon electricity buildouts in decades, signaling durable policy support for nuclear energy regardless of political cycles."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Trump\u2019s Big Nuclear Play"
+    },
+    {
       "id": "50799390",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -8961,17 +9105,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 56
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 191
+      "count": 57
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 203
+      "count": 206
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 194
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 19
     },
     {
       "name": "Fintech",
@@ -8982,12 +9131,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 12
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 18
     }
   ],
-  "lastUpdated": "2026-06-23T10:28:29.823364Z"
+  "lastUpdated": "2026-06-24T10:14:06.445483Z"
 }
