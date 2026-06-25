@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "0635e048",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-25",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French insurtech unicorn Alan raised \u20ac480 million in a Series C just three months after a \u20ac100 million round, reaching a \u20ac5.5 billion valuation. Meanwhile, Hightouch, a Silicon Valley-founded martech platform valued at $2.75 billion, made a surprise $1.2 billion acquisition offer for Publicis' LiveRamp Onboarding unit, signaling aggressive consolidation ambitions in the competitive martech sector against Adobe and Salesforce.",
+      "keyTakeaways": [
+        "Alan's rapid consecutive fundraising (\u20ac100M + \u20ac480M in 3 months) demonstrates strong investor appetite for European healthtech despite macro headwinds, though the company remains secretive on capital deployment specifics\u2014watch for expansion announcements",
+        "Hightouch's unsolicited acquisition bid reveals martech consolidation is heating up, with well-funded startups now competing directly with enterprise software giants through strategic M&A rather than organic growth alone",
+        "The newsletter's focus on infrastructure efficiency (Sopht's AI cost-reduction play) and African innovation ecosystems suggests European VC capital is increasingly flowing toward sustainability and emerging market tech infrastructure as macro trends shift"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "25.06 - Alan l\u00e8ve pr\u00e8s d'un demi-milliard d\u2019euros !"
+    },
+    {
+      "id": "a77d4204",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US private equity platform LBOs have fallen to 19% of deal activity through May 2026, well below the predicted 25%, as sponsors face tariff uncertainty, wider credit spreads, and heightened scrutiny of portfolio company quality. In response, dealmakers are pivoting toward smaller add-on and growth equity deals, with add-ons climbing to 74.7% of buyout activity\u2014a post-2023 high. Meanwhile, robotics startups set a VC funding record at $16.3 billion in Q1 2026, while SaaS buyers continue targeting financial management systems for acquisition rather than viewing AI as a disruptive threat to enterprise software.",
+      "keyTakeaways": [
+        "Platform LBO weakness signals sponsors are fundamentally reassessing risk appetite, not just being tactical\u2014this could reshape fund deployment strategies despite $1.1 trillion in available dry powder",
+        "The shift toward smaller add-on deals may indicate sponsors are conserving capacity and relying on existing credit lines, suggesting capital concentration among largest managers will accelerate",
+        "Robotics' record $16.3B VC funding and continued CFO software acquisition appetite point to divergent sector dynamics\u2014physical AI moving to deployment while software automation is seen as complementary rather than cannibalistic to human finance roles"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The World Cup, but make it PE"
+    },
+    {
+      "id": "56cfd497",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major corporate and government investments are accelerating nuclear energy adoption in the U.S. Walmart signed a 15-year, 176-megawatt nuclear power deal with Constellation Energy, joining tech giants in securing clean electricity for operations, while the Trump administration announced $17.5 billion in low-interest loans to support up to 10 new Westinghouse AP1000 reactors through utilities\u2014potentially reclaiming U.S. dominance in reactor design against Chinese competition.",
+      "keyTakeaways": [
+        "Nuclear power is attracting enterprise-scale corporate buyers beyond tech: Walmart's deal with Constellation signals brick-and-mortar retailers are now competing for nuclear contracts, expanding the addressable market for nuclear operators and equipment manufacturers like Westinghouse.",
+        "Government-backed nuclear financing is creating a runway for reactor manufacturers: $17.5 billion in subsidized loans for AP1000 reactors represents a bet that could deliver 10+ new reactors by 2035, offering significant capital deployment opportunities for utilities and equipment suppliers in an otherwise capital-intensive sector.",
+        "Geopolitical competition is driving U.S. nuclear reinvestment: The explicit goal to counter China's industrial-scale reactor production suggests sustained policy support for domestic nuclear infrastructure, reducing regulatory risk for long-term nuclear energy investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Save Nuclear Plants. Live Better."
+    },
+    {
+      "id": "4612bd60",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Venture capital is increasingly concentrated among mega-funds, which captured 72% of all capital raised in the first half of 2026, while first-time managers received less than 10%, according to PitchBook's midyear outlook. Despite this consolidation at the top, early-stage AI deal activity remains historically robust with an estimated 7,000+ first financings expected by year-end, though 86% of late-stage venture dollars are concentrated in just four AI companies: OpenAI, Anthropic, and xAI. The market has fundamentally shifted away from IPOs as an exit goal, with SpaceX's $1.8 trillion debut being an outlier, leaving VC in a precarious position dependent on whether AI investments ultimately deliver promised returns.",
+      "keyTakeaways": [
+        "Capital concentration is accelerating: mega-funds ($1B+) now control nearly three-quarters of VC fundraising, giving them decisive pricing power and deal flow advantages that smaller and first-time managers cannot match\u2014this structural advantage will likely persist or worsen",
+        "AI funding is extremely top-heavy despite breadth: while 75% of seed-stage dollars flow to AI companies, a massive $236 billion of the $274.2 billion deployed in late-stage venture by May went to just three companies, creating massive execution and return concentration risk",
+        "IPO market dysfunction threatens traditional VC liquidity: with mega-exits like SpaceX becoming unicorn status-replacements rather than the primary exit path, the entire venture ecosystem's return assumptions may need recalibration if companies no longer view going public as desirable"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "VC seesaw"
+    },
+    {
+      "id": "09034728",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Chamath Palihapitiya acknowledged that misaligned incentives drove poor SPAC performance in his past deals, marking a significant shift from his 2022 stance blaming market conditions. The SPAC market is experiencing a second boom with 251 pre-deal SPACs holding $47 billion in capital, while SK Hynix's planned $29 billion Nasdaq listing signals a broader trend toward mega-IPOs driven by AI infrastructure demand for high-bandwidth memory chips.",
+      "keyTakeaways": [
+        "SPAC structure matters: Palihapitiya's new SPAC includes vesting tied to 50% stock price premium, directly addressing the misaligned incentive problem that plagued earlier sponsors\u2014this structural innovation may become standard as the market matures.",
+        "Capital concentration in AI infrastructure: SK Hynix's massive IPO and the demand for HBM chips reveal that semiconductor makers controlling AI data-center bottlenecks are becoming dominant capital magnets, likely pulling investment away from software and applications.",
+        "Second SPAC cycle presents selection challenge: With $47 billion deployed across 251 pre-deal SPACs, investors must carefully distinguish well-structured deals from repeat-offender sponsors; past poor performance doesn't guarantee future improvement without structural safeguards."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: SPAC shift"
+    },
+    {
+      "id": "0c39d2b1",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Bloom Energy's mid-year 2026 Data Center Power Report reveals that while power remains the top constraint for AI infrastructure development, community opposition, sustainability concerns, and DC architecture readiness have emerged as equally critical project blockers. The report highlights that onsite power generation has become the primary strategy for grid-constrained developers, with carbon capture technology reshaping the sustainability equation for power solutions.",
+      "keyTakeaways": [
+        "Onsite power generation is now the dominant strategy for developers facing grid constraints, suggesting significant investment opportunities in distributed energy solutions and on-premise power infrastructure providers serving data center operators",
+        "Community opposition has materialized as a material project risk factor equal to technical constraints, indicating that permitting expertise and community engagement capabilities will become key differentiators and acquisition targets in the infrastructure development space",
+        "The shift toward DC (direct current) architecture in data centers is outpacing infrastructure readiness, creating a gap for technology providers specializing in DC power systems and conversion solutions\u2014a potential whitespace investment opportunity"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Mid-year update: data center power in 2026"
+    },
+    {
+      "id": "b706d5aa",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Recent studies from EPRI and Columbia University's Center on Global Energy Policy examine whether data centers are driving electricity rate increases across the U.S., finding that data center growth was associated with 6% lower retail rates between 2019-2024 due to economies of scale and cheaper infrastructure costs. However, the analyses have significant limitations\u2014they don't account for 2025-2026 conditions when AI infrastructure demand accelerated dramatically, supply chain constraints tightened, and the grid shifted from excess capacity to capacity scarcity, fundamentally changing the cost dynamics. Meanwhile, Sunrun, Renew Home, and Tesla announced a partnership to sell 16 GW of flexible Virtual Power Plant capacity to data centers, signaling how energy companies are capitalizing on this boom.",
+      "keyTakeaways": [
+        "Data center rate impact is being reframed as a systemic grid problem rather than direct load growth\u2014the real cost drivers are permitting delays, equipment shortages, and aging infrastructure upgrades, meaning tech companies face regulatory and political headwinds that extend beyond simple utility economics.",
+        "The 2025-2026 reality inverts the historical economies-of-scale advantage; with grid constraints, supply chain backlogs, and emergency-pace construction replacing cheap incremental capacity, later-stage data center entrants will face materially higher infrastructure costs, creating a competitive advantage window for early movers with locked-in capacity.",
+        "The distributed energy and VPP sector (Sunrun, Tesla, Renew) is capturing significant investment opportunity by positioning flexible capacity as the solution to data center load variability, potentially creating a new recurring revenue stream but also tying these companies' valuations to sustained AI spending\u2014a concentration risk if demand softens."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "Studies say data centers don't raise rates. Does it matter?"
+    },
+    {
+      "id": "0b7263e9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Frank Pallone, the ranking Democrat on the House Energy and Commerce Committee, is calling for a national moratorium on data center construction, citing concerns that current expansion \"simply cannot continue.\" This represents significant regulatory pressure on the data center and AI infrastructure sectors, which have faced mounting scrutiny over energy consumption and grid strain as demand from AI companies accelerates.",
+      "keyTakeaways": [
+        "A potential data center moratorium from a key House Democrat signals growing political risk for data center REITs and operators (Equinix, Digital Realty, CoreWeave, etc.) and could slow AI infrastructure buildout plans requiring new facilities",
+        "Regulatory headwinds on data center expansion may benefit companies investing in efficiency technologies, power optimization, and alternative cooling solutions, while creating valuation pressure on growth-dependent infrastructure plays",
+        "The timing and scope of any moratorium remains unclear, but this signals a likely bifurcation: regions with supportive energy policies may attract disproportionate data center investment, while restrictive jurisdictions face capital flight"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Key House Democrat Calls for Data Center Moratorium"
+    },
+    {
+      "id": "100a467f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "China averted a global energy crisis in March 2026 by cutting oil imports by 5 million barrels daily and releasing massive quantities from its strategic reserves after Iran closed the Strait of Hormuz, preventing oil prices from reaching the predicted $150-200 per barrel. This intervention reveals China's previously unknown ability to act as a \"swing consumer\"\u2014using massive stockpiles to move global oil demand at the margin\u2014a power that has never existed in modern oil markets and carries major implications for geopolitics, climate policy, and energy market dynamics.",
+      "keyTakeaways": [
+        "China has demonstrated a latent geopolitical superpower through strategic oil reserve management that rivals OPEC+ producer nations; investors should recalibrate risk models for energy security and price volatility, as a single country can now unilaterally stabilize or destabilize global oil markets through demand-side intervention",
+        "The discovery of China's \"swing consumer\" role suggests new arbitrage opportunities in energy futures and hedging strategies, but also signals that traditional oil price forecasting models are obsolete\u2014future supply shocks may be partially offset by strategic reserve releases that are difficult to predict",
+        "For climate investors, China's ability to depress oil prices through demand destruction (rather than supply constraints) undermines the assumption that energy scarcity will drive transition; alternative energy adoption may depend less on market forces and more on geopolitical actors' willingness to constrain demand"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "The \u2018Most Important Thing\u2019 We Learned From the Iran War"
+    },
+    {
       "id": "e2b85c25",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9105,17 +9267,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 57
+      "count": 58
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 206
+      "count": 209
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 194
+      "count": 199
     },
     {
       "name": "Strategy & Thesis",
@@ -9133,5 +9295,5 @@
       "count": 12
     }
   ],
-  "lastUpdated": "2026-06-24T10:14:06.445483Z"
+  "lastUpdated": "2026-06-25T10:12:15.838715Z"
 }
