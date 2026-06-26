@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "fba5862a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-26",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Le Slip Fran\u00e7ais plans to list on Euronext Growth on July 14th, aiming to raise \u20ac5 million while enabling existing investors to sell \u20ac7 million in shares, despite pandemic-related struggles. Alan, France's health insurance unicorn, raised \u20ac480 million in its latest funding round just three months after a \u20ac100 million raise, reaching a \u20ac5.5 billion valuation. Hightouch, a Silicon Valley martech startup valued at \u20ac2.75 billion, made a \u20ac1.2 billion acquisition offer for Publicis's LiveRamp Onboarding unit, positioning itself as a competitor to Adobe and Salesforce.",
+      "keyTakeaways": [
+        "Secondary market exits are accelerating for early-stage investors even in struggling companies, as Le Slip Fran\u00e7ais demonstrates the importance of liquidity events beyond traditional acquisition or IPO paths for VC portfolio companies.",
+        "Rapid back-to-back funding rounds at unicorn scale (Alan raised \u20ac580 million in 3 months) suggest capital remains abundant for proven business models despite economic headwinds, creating validation for health tech and insurtech sectors.",
+        "Martech consolidation is being driven by well-funded startups acquiring established assets to compete against incumbent giants\u2014Hightouch's aggressive move signals that venture-backed scale-ups view strategic acquisitions as faster paths to market dominance than organic growth."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "26.06 - Le Slip Fran\u00e7ais va s\u2019introduire \u00e0 la Bourse de Paris !"
+    },
+    {
+      "id": "e68f5380",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Humanoid robotics are experiencing record momentum with Agility Robotics pursuing a $2.5 billion SPAC valuation as Q1 2026 marks the strongest quarter for the sector. Meanwhile, fitness wearables Whoop and Oura are competing aggressively at the World Cup, with Whoop raising $575 million at a $10.1 billion valuation and Oura preparing for a US IPO after securing $907 million. The SEC is intensifying scrutiny of PE continuation funds\u2014an increasingly popular mechanism as exits have declined\u2014potentially forcing sponsors to demonstrate more rigorous price testing, conflict management, and investor disclosure.",
+      "keyTakeaways": [
+        "Robotics and physical AI represent a high-momentum investment opportunity with record deal activity in Q1 2026, signaling strong LP appetite and potential exit pathways through SPAC transactions at substantial valuations.",
+        "Consumer hardware companies are leveraging elite sports partnerships as a critical go-to-market strategy; investors should evaluate the durability of athlete endorsements versus actual product superiority when assessing fitness wearable valuations.",
+        "PE sponsors using continuation funds face regulatory headwinds that will require more transparent valuation methodologies and conflict-of-interest frameworks, potentially increasing operational costs but also reducing valuation dispute risks at exit."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "SEC wants PE to show its work"
+    },
+    {
+      "id": "3f24fa0a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A high-ranking Democrat joins calls for a national data center moratorium amid concerns about grid strain and rising electricity costs, while new analysis shows gas price spikes from geopolitical conflict are hitting Republican-leaning states hardest. Century Aluminum, developing America's first new smelter in 50 years, has partnered with a startup for alumina supply, signaling critical infrastructure investments in clean energy and domestic manufacturing.",
+      "keyTakeaways": [
+        "Data center regulation is becoming a serious legislative concern with senior Democratic leadership backing moratoriums, creating near-term uncertainty for AI infrastructure investments and cloud computing expansion plans dependent on grid capacity.",
+        "Geopolitical energy shocks disproportionately impact rural and energy-dependent Republican states, creating political pressure that could reshape energy policy and accelerate demand for grid modernization and alternative energy sources.",
+        "Domestic aluminum and critical mineral production is consolidating around greenfield projects, signaling investor appetite for supply chain resilience plays and the potential for long-term returns in advanced manufacturing and energy-intensive industries."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Gassed Up"
+    },
+    {
+      "id": "aec84a2c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Lux Capital cofounder Josh Wolfe predicts Warren Buffett's death could trigger a Nasdaq crisis and resurgence of value investing, as index investing has artificially inflated mega-cap tech stocks. He also warns of a 10% probability scenario where Iran war-induced fertilizer scarcity creates food crises in peripheral European nations like Macedonia and Bulgaria, potentially destabilizing the EU and empowering far-right political movements.",
+      "keyTakeaways": [
+        "A 10-15% Nasdaq correction concentrated in the Magnificent 7 could create outsized opportunities for active value investors, potentially reversing a decade-long dominance of passive growth strategies that have artificially bolstered the largest tech companies.",
+        "Geopolitical fragility, particularly around Iran, poses underestimated tail risks to European stability through commodity supply chains\u2014fertilizer scarcity could cascade into migration crises and currency devaluation, warranting scenario planning for macro-hedge positions.",
+        "The shift from passive to active investing and the rise of political instability in Europe represent structural market disruptions that could reshape capital allocation patterns and create both risks and entry points for contrarian investors over the next 18 months."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Wolfe's predictions: Buffett, Nasdaq, and Europe"
+    },
+    {
+      "id": "977fd32b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Global M&A hit a record $2.7 trillion in the first half of 2026, up 47% year-over-year, driven by mega-deals over $5 billion which now represent over half the volume. However, the actual number of deals dropped 10% globally and 20% in the U.S., signaling a bifurcated market where larger transactions dominate while smaller deals struggle. Private equity bucked the trend with $583 billion deployed across 5,729 deals despite expectations for interest rate cuts that never materialized.",
+      "keyTakeaways": [
+        "Deal count is collapsing while deal size balloons\u2014this suggests consolidation dynamics favor large, well-capitalized sponsors who can move quickly on mega-deals, creating headwinds for mid-market and smaller transactions.",
+        "The $2.7 trillion headline masks weak fundamentals when adjusted for inflation, and historical patterns show the market peaked in similar years before declining sharply, suggesting caution on deploying remaining capital into H2 2026.",
+        "Private equity's resilience (+54% YoY) despite no Fed rate cuts indicates PE sponsors are confident enough to deploy capital aggressively on valuations, signaling either strong dry powder or competitive pressure to deploy before markets cool."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Deal boom"
+    },
+    {
+      "id": "4cd8d0a7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe is experiencing record-breaking heat waves with France hitting 110\u00b0F and warm nights above 79\u00b0F in Germany, killing hundreds and highlighting the deadliest impacts of climate change. Oil and gas executives are increasingly concerned about data centers as major energy consumers competing with AI development, drawing parallels to how fracking became politically polarized across red and blue states in the 2010s. This suggests emerging political tensions around infrastructure needed for AI advancement, with potential implications for energy policy and regional investment patterns.",
+      "keyTakeaways": [
+        "Data center energy demand is becoming a primary strategic concern for oil and gas executives, positioning energy infrastructure as critical to AI competitiveness\u2014this creates investment opportunities in power generation and grid modernization companies serving data centers.",
+        "The fracking analogy suggests data center infrastructure could become politically polarized by geography, with blue states potentially restricting development while red states embrace it, creating regional capital allocation opportunities and risks.",
+        "Climate-driven mortality events in developed economies (France, UK, Germany) are accelerating investment in climate adaptation infrastructure like air conditioning and cooling systems, representing a significant new market alongside traditional decarbonization spending."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Heat Waves, Hot Rods, and Mr. Wonderful"
+    },
+    {
       "id": "0635e048",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9267,17 +9375,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 58
+      "count": 59
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 209
+      "count": 212
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 199
+      "count": 201
     },
     {
       "name": "Strategy & Thesis",
@@ -9295,5 +9403,5 @@
       "count": 12
     }
   ],
-  "lastUpdated": "2026-06-25T10:12:15.838715Z"
+  "lastUpdated": "2026-06-26T10:15:04.606320Z"
 }
