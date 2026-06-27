@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "ff4f668c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Quantum computing has emerged as a record-breaking investment sector with over $1 billion in VC funding across the last three quarters and 60 deals in Q1 2026, driven by hardware breakthroughs and geopolitical competition. Meanwhile, the PE market faces a significant slowdown with large software buyouts frozen following the SaaS sell-off, direct lending LBO volumes down 21% year-to-date, and no mega-deals over $2 billion financed since early March. Investors increasingly believe value will concentrate in quantum infrastructure and enabling technologies rather than complete systems, while Europe's private equity firms now outnumber public companies by a record 2.3x ratio.",
+      "keyTakeaways": [
+        "Quantum computing funding has compressed typical venture timelines with record valuations ($10B pre-money for Quantinuum, $6B for PsiQuantum), signaling capital is betting on infrastructure and pick-and-shovel plays like cryogenic systems and error-correction software rather than integrated quantum computer manufacturers.",
+        "PE firms are pulling back from large software acquisitions due to valuation resets, creating a financing drought that has cut direct lending LBO volumes 21% and left private credit markets starved for mega-deals\u2014this shift may force consolidation toward smaller tuck-in acquisitions.",
+        "The widening gap between private equity portfolio companies (now 2.3x public firms in Europe) and declining public market liquidity suggests limited exit opportunities, which could pressure deal valuations and returns if the IPO market doesn't recover on macro improvement rather than disclosure policy changes."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Quantum leap"
+    },
+    {
+      "id": "f7f48393",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. Department of Commerce banned Chinese automaker Polestar from selling new vehicles in the country, marking the first major casualty of Biden-era rules prohibiting Chinese software in internet-connected vehicles due to national security concerns over camera and GPS data exploitation. Texas landowners are challenging a proposed 765-kilovolt transmission line that would span 200 miles, testing whether the state's permitting processes can accommodate large-scale renewable energy infrastructure despite its historically favorable property rights environment.",
+      "keyTakeaways": [
+        "Chinese EV manufacturers face structural barriers to U.S. market entry regardless of product quality, creating opportunities for domestic and allied automakers to capture market share in premium electric vehicles without direct competition from East Asian incumbents.",
+        "Texas's renewable energy growth trajectory depends on resolving transmission bottlenecks through regulatory reform, as property rights protections that attract wind and solar developers are now impeding the grid infrastructure necessary to monetize those assets.",
+        "Geopolitical technology restrictions are becoming a permanent feature of U.S. industrial policy, signaling that capital allocation in automotive and connected device sectors must account for recurring regulatory intervention on national security grounds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Video Killed the Polestar"
+    },
+    {
+      "id": "03410d5f",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "General Intuition, an AI lab using gaming content for model training, raised $320 million in Series A at a $2.3 billion valuation led by Khosla Ventures. The company is betting that gameplay video and player inputs can train world models and large action models faster and cheaper than alternative methods, representing the next phase of AI investment expanding into physical economy applications.",
+      "keyTakeaways": [
+        "Gaming-derived training data is emerging as a scalable alternative for AI model development, potentially offering cost and speed advantages over traditional training methods for robotics and physical world applications.",
+        "Major institutional investors including Khosla Ventures, General Catalyst, and Bezos Expeditions are betting on gaming-to-AI translation, signaling capital reallocation toward companies bridging digital simulation and physical economy AI.",
+        "The shift toward training models on interactive, player-generated data rather than static datasets represents a structural change in AI development methodology, with implications for which startups will dominate embodied AI and robotics applications."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Remembering Om"
+    },
+    {
+      "id": "94963a96",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a live discussion one year after the GOP's One Big Beautiful Bill became law, examining how clean energy projects are navigating new \"foreign entity of concern\" provisions, shortened tax credit horizons, and permitting delays. Despite significant regulatory headwinds including tariffs, unfinished Treasury guidance, and looming tax credit sunsets, the industry continues to break deployment records, with data center load growth emerging as a potential market driver.",
+      "keyTakeaways": [
+        "Project deployment is getting stuck in permitting, lawsuits, and appeals rather than collapsing entirely\u2014this suggests regulatory clarity and faster permitting processes could unlock significant capital currently in limbo",
+        "The three-decade tax credit regime is ending; investors should model scenarios for post-credit economics and identify which technologies and geographies can sustain deployment without federal subsidies",
+        "Data center demand growth is becoming a critical market support mechanism\u2014investors should track whether this load growth can offset federal policy headwinds and which clean energy sub-sectors benefit most from this shift"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Latitude Dispatch: One year post-OBBB, what\u2019s holding projects back?"
+    },
+    {
+      "id": "02dc49b3",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-06-26",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The Trump administration issued two executive orders to accelerate quantum computing development, directing federal agencies to deploy a research-capable quantum computer by 2028 and prepare security defenses against quantum threats. The move coincides with billions in Commerce Department funding and major private sector investments from IBM, Microsoft, and Google, positioning quantum as a complementary technology to AI advances.",
+      "keyTakeaways": [
+        "Quantum computing has shifted from pure R&D to government-backed commercialization with hard 2028 deployment deadline, signaling investor confidence and reducing technology risk for quantum startups and their backers",
+        "The dual focus on capability (research-grade systems) and security (encryption-resistant threats) creates adjacent market opportunities in quantum security infrastructure and post-quantum cryptography solutions across both government and private sector",
+        "Quantum is being positioned as an AI-complementary technology rather than a replacement, suggesting a multi-year capital cycle where quantum companies can capture value alongside continued AI infrastructure buildout rather than compete for the same funding"
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 168: Trump Supercharges US Quantum With Two New Executive Orders"
+    },
+    {
+      "id": "e77636f8",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Framework Ventures closed a $400 million fourth fund, expanding its investment mandate beyond blockchain to include AI, robotics, and energy as founders increasingly pursue these areas. The firm, which manages $1.28 billion in AUM and was an early backer of DeFi protocols like Aave and Chainlink, has already deployed roughly half of the new capital into non-crypto bets including robotics startup Mecka AI. This shift reflects a broader industry trend as crypto-focused VCs like Paradigm and Haun Ventures similarly diversify into AI and adjacent sectors amid Bitcoin's recent downturn and surging valuations in generative AI companies.",
+      "keyTakeaways": [
+        "Established crypto VCs with strong track records are now mainstream diversifiers\u2014Framework's $400M fund demonstrates that institutional LPs (endowments, sovereign wealth funds) will back crypto-native managers pivoting to AI, validating cross-sector thesis investing",
+        "The flow of founder talent is driving capital reallocation: crypto VCs are explicitly following their networks into AI rather than chasing hype, suggesting sustained conviction in non-crypto frontier tech over the next 5-7 year fund cycle",
+        "Crypto market weakness is accelerating consolidation of VC expertise\u2014as digital assets plateau relative to AI valuations, the best-capitalized crypto funds are becoming generalist frontier tech investors, potentially reducing future liquidity for pure-play blockchain startups"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Frame of mind"
+    },
+    {
+      "id": "5e68d20a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe's air conditioning penetration remains significantly below North America despite being the world's fastest warming continent, with only 19% of European homes having AC compared to 88% in the US and 70% in Canada. The gap presents a substantial market opportunity as AC adoption has more than doubled since 1990, particularly in southern Europe where over 50% of Italian households now have cooling, yet vulnerable populations like the elderly remain largely unprotected\u2014only 3% of UK households with residents over 75 have AC despite their heightened heat mortality risk.",
+      "keyTakeaways": [
+        "Massive addressable market: Europe's 19% AC penetration versus 88% in the US represents billions in potential revenue for HVAC manufacturers and installers as climate-driven demand accelerates, especially in southern European countries where adoption has doubled in less than a decade",
+        "Regulatory and infrastructure gaps create investment opportunities in retrofitting, building technology, and grid capacity solutions\u2014current European AC use represents only 0.8% of household energy versus 6% in the US, indicating both adoption headroom and need for electrical grid upgrades",
+        "Demographic vulnerability creates policy-driven urgency: Only 3% of elderly UK households have AC despite their acute heat-mortality risk, likely triggering government subsidies and public health spending that could accelerate market penetration through incentive programs and health-focused mandates"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: 6 Facts About Europe and Air Conditioning"
+    },
+    {
       "id": "fba5862a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9373,19 +9499,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 59
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 212
+      "count": 215
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 201
+      "count": 204
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 13
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 59
     },
     {
       "name": "Strategy & Thesis",
@@ -9396,12 +9527,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 19
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 12
     }
   ],
-  "lastUpdated": "2026-06-26T10:15:04.606320Z"
+  "lastUpdated": "2026-06-27T09:23:42.345399Z"
 }
