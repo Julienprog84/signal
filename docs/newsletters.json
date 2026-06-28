@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "72270734",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's June 2026 IPO provides the first public market comparable for valuing frontier AI companies, with implications for Anthropic and OpenAI's upcoming listings. Using an AI Business Quality framework, the analysis suggests Anthropic could be valued at $1.0-$2.8 trillion despite highest business quality scores, while OpenAI ranges $0.5-$1.6 trillion, with the actual outcome dependent on whether the market prices fundamentals or narrative rather than company performance.",
+      "keyTakeaways": [
+        "SpaceX's IPO sets a pricing precedent for AI moonshots, but the comparison is imperfect\u2014Starlink's profitability masks AI segment losses that pure-play labs like Anthropic and OpenAI lack, potentially limiting the scarcity premium transferable to standalone listings",
+        "Revenue recognition methodology will be the swing factor at S-1 filing: Anthropic's 20.5x run-rate multiple could expand to 50-60x on recognized revenue, reshaping all subsequent AI company valuations once the filing conversion happens around August",
+        "The outcome will determine whether frontier AI IPOs command multiples based on business fundamentals or investor appetite for funding burn\u2014a verdict that sets the template for every AI IPO that follows through 2026-2027"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "How SpaceX prices the AI race"
+    },
+    {
       "id": "ff4f668c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -9501,7 +9519,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 215
+      "count": 216
     },
     {
       "name": "Climate & Energy",
@@ -9529,5 +9547,5 @@
       "count": 19
     }
   ],
-  "lastUpdated": "2026-06-27T09:23:42.345399Z"
+  "lastUpdated": "2026-06-28T09:53:48.154193Z"
 }
