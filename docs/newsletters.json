@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "c68b8188",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-29",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French tech ecosystem experiences major momentum with three significant announcements: Walmart's acquisition of Vibe, Alan's mega-funding round, and Le Slip Fran\u00e7ais's upcoming IPO. The newsletter also highlights infrastructure challenges in AI competitiveness, noting that France's power grid modernization is critical for supporting the computational demands of artificial intelligence development and maintaining technological sovereignty.",
+      "keyTakeaways": [
+        "M&A and public market exits are accelerating in French tech, signaling investor confidence and liquidity events that could reshape capital deployment in the ecosystem",
+        "Energy infrastructure is becoming a competitive moat for AI leadership\u2014companies and investors should prioritize opportunities in power grid modernization and sustainable energy solutions supporting data centers",
+        "Entrepreneurship is gaining credibility as a career path amid labor market instability, suggesting growing talent availability for startups and reduced friction for recruiting founders"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "29.06 - La folle semaine post-VivaTech de la French Tech !"
+    },
+    {
+      "id": "b85c5d16",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Digital marketplaces like iCapital and CAIS have dominated as the 'operating system' connecting wealth advisers to alternative investments, but a new wave of competitors including custodian platforms like Altruist is challenging their grip by offering direct access to private funds from mega-managers like Blackstone and KKR. Meanwhile, Asia-Pacific's private markets are experiencing selective liquidity recovery in 2026, with exit values rising for both PE and VC-backed companies, though improvements remain concentrated among larger, established managers.",
+      "keyTakeaways": [
+        "The competition to control RIA access to private markets is intensifying\u2014if Altruist's custodian-based marketplace model succeeds, it could disrupt iCapital and CAIS's duopoly by removing middleman friction and offering advisers direct deal flow at scale.",
+        "Asia-Pacific exit liquidity is improving but unevenly distributed, suggesting capital allocation opportunities favor proven managers with strong track records while smaller or earlier-stage firms may face continued fundraising challenges.",
+        "The trend toward integrating private and public assets in advisory portfolios is creating infrastructure battles that will determine which platforms control distribution to the wealth channel\u2014a winner-take-most dynamic worth monitoring for LP and platform investors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Winning the narrow door to alts"
+    },
+    {
+      "id": "40d629b4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Investment in AI video generation startups has tripled over five years, reaching $5.6 billion in 2026\u2014a 43% increase from 2025. While competition intensifies among video-generation model developers like Runway and Luma AI, including new Chinese competitors, capital is now flowing toward downstream applications: Google DeepMind's $75 million investment in A24 exemplifies a broader market shift toward studios and creative tools rather than foundational models, suggesting the real value capture is moving beyond the technology layer itself.",
+      "keyTakeaways": [
+        "The AI video market is consolidating around foundational model builders while simultaneously diversifying downstream. Investors should track studio and creative tool partnerships as the next wave of value creation, not just model-building startups.",
+        "Commoditization risk is real: as video generation becomes easier to build and competition increases globally, differentiation through technology alone is insufficient. This explains the pivot toward owning creative IP and creator relationships rather than just algorithms.",
+        "The macro trend signals a broader pattern in AI investing\u2014early stage funding races toward commodity infrastructure while later-stage capital follows value to application layers and specialized verticals where defensibility exists through content, relationships, or workflows."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Why billions are flowing into AI video"
+    },
+    {
+      "id": "5a2ff5e1",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-06-28",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Coverd, a fintech startup that raised $7.8 million from investors including Andreessen Horowitz's Speedrun accelerator, announced the launch of a credit card offering up to 100% cash back, but its issuing partner Rain has stated the card has never actually gone live. The announcement echoes failed predecessors like Yotta and Bella that made similarly aggressive cashback promises before collapsing, raising questions about the viability of the business model and the due diligence practices of investors backing such ventures.",
+      "keyTakeaways": [
+        "Coverd's claimed product launch appears to be vaporware\u2014the issuing partner explicitly stated the card was never live, indicating either a breakdown in partnership execution or misleading marketing that should concern investors about management credibility and operational competence.",
+        "The pattern of failed ultra-high cashback credit card startups (Yotta, Bella, now Coverd) suggests this business model is structurally unsustainable or dependent on unit economics that don't work, yet continues to attract capital, indicating a recurring blind spot in fintech investor due diligence.",
+        "Regulatory and partnership risks in fintech are compounding\u2014the newsletter references both the Synapse collapse and ongoing litigation against credit-building platforms, suggesting that bank-fintech partnerships remain fragile and that investors should scrutinize operational dependencies and partner stability before deploying capital."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 6,
+      "originalTitle": "Coverd Is A Late-Stage Capitalism Fever Dream"
+    },
+    {
+      "id": "a128559a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Heatmap News newsletter covering critical climate and energy infrastructure stories, including data centers' expanding footprint on farmland, 16 gigawatts of residential solar capacity up for acquisition by major players like Sunrun and Tesla, and emerging policy debates around ratepayer protections in the energy transition. The coverage signals intensifying competition in distributed solar and mounting environmental tensions as AI-driven data center demand collides with agricultural land preservation.",
+      "keyTakeaways": [
+        "Data center real estate competition is now directly competing with farmland, creating regulatory and community opposition risks that could impact deployment timelines and costs for hyperscalers and infrastructure investors.",
+        "The 16-gigawatt residential solar opportunity represents a significant M&A consolidation play, with established players like Sunrun and Tesla aggressively acquiring distributed energy assets\u2014indicating market maturation and attractive valuations for sellers in the residential solar space.",
+        "Ratepayer protection policies are emerging as a critical regulatory variable that could reshape utility economics and distributed energy adoption rates, making policy risk a key due diligence factor for energy infrastructure investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Data Centers\u2019 Farmland Problem, 16 New Gigawatts, and More"
+    },
+    {
       "id": "72270734",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -9517,14 +9607,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 60
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 216
+      "count": 218
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 20
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 204
+      "count": 205
     },
     {
       "name": "Deep Tech & Science",
@@ -9532,20 +9632,10 @@
       "count": 13
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 59
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 19
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 19
     }
   ],
-  "lastUpdated": "2026-06-28T09:53:48.154193Z"
+  "lastUpdated": "2026-06-29T11:52:53.938639Z"
 }
