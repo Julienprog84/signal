@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "9a7d3239",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-06-30",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac706 million last week with an average ticket size of \u20ac64 million, driven partly by four AI-focused companies that secured \u20ac45 million combined. Major exits and funding rounds including Walmart's acquisition of Vibe, Alan's mega-funding round, and French Slip's upcoming IPO signal momentum in the French tech ecosystem, while the Raise Summit's third edition highlights growing European VC activity centered in Paris.",
+      "keyTakeaways": [
+        "AI-driven startups are capturing disproportionate capital in France, with four companies securing \u20ac45 million of the \u20ac706 million raised last week, suggesting investor conviction in AI as a core investment thesis despite acknowledged governance and risk management gaps.",
+        "Large ticket sizes (\u20ac64 million average) indicate institutional capital is flowing robustly into European tech, with prestigious exits (Walmart/Vibe) and IPO pipelines (French Slip) providing exit confidence that may accelerate follow-on funding rounds.",
+        "Tech leaders are massively adopting generative AI without equivalent risk governance frameworks in place\u2014this regulatory and operational gap represents both a due diligence risk for investors and a market opportunity for compliance/safety-focused startups."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "30.06 - De Wall Street \u00e0 Versailles, le r\u00eave am\u00e9ricain des fondateurs du Raise Summit"
+    },
+    {
+      "id": "a16fec88",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Quantum computing investment reached a record $3.9 billion across 125 deals in 2025, with megafunds like BlackRock ($1.7B), Nvidia ($1.6B), and Temasek leading deployments rather than specialist quantum VCs. High-profile exits emerged in early 2026, including Quantinuum's $1.68B Nasdaq IPO and four Q1 deals totaling $5.7B, though most quantum companies remain years from delivering commercially viable applications and face severe talent constraints.",
+      "keyTakeaways": [
+        "Institutional capital is concentrating in a handful of platform bets\u2014Quantinuum and PsiQuantum alone represent massive valuations ($10B and $7B respectively)\u2014while median deal size remains just $9M, creating a two-tier market where early-stage quantum companies struggle for funding.",
+        "Exit velocity is accelerating but still fragile: the quantum sector just experienced its first significant liquidity event, yet most exits have been SPAC-style reverse mergers rather than traditional IPOs, signaling continued market skepticism about near-term commercialization timelines.",
+        "Geopolitical competition is reshaping capital flows: China's $17.5B government commitment and ranking quantum as its top future industry priority is forcing U.S. and EU strategic responses, creating both national security imperatives and potential regulatory friction that could fragment the global quantum ecosystem."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Quantum leap"
+    },
+    {
+      "id": "22757537",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Norway's Equinor has exited its offshore wind division in Japan after eight years without securing any leases, following similar exits by Denmark's Orsted and a Mitsubishi-led consortium citing ballooning project costs. The newsletter examines structural headwinds in Japan's offshore wind sector, including regulatory delays under Prime Minister Sanae Takaichi's government, which has pivoted toward restarting nuclear reactors instead. Greenland is rejecting a rare earths miner's license renewal amid debates over resource extraction versus sustainable development alternatives.",
+      "keyTakeaways": [
+        "Offshore wind developers are abandoning high-cost markets: After repeated auction failures and cost overruns, major players like Equinor and Orsted are reallocating capital away from Japan, signaling that not all coastal, high-density markets support viable wind economics\u2014a critical lesson for renewable energy investors evaluating geographic expansion.",
+        "Policy risk is a major capital destroyer: Japan's policy shift toward nuclear over offshore wind, combined with postponed funding procedures, demonstrates how government pivot can strand developer investments; investors should scrutinize political stability and commitment to renewable energy roadmaps before committing to long-cycle projects.",
+        "Rare earths and critical minerals face scrutiny beyond geology: Greenland's rejection of mining licenses reveals that Indigenous sovereignty, environmental concerns, and alternative economic models (biotech, tourism) are reshaping resource extraction economics; ESG-conscious investors may find better risk-adjusted returns in jurisdictions with clearer stakeholder alignment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Sayonara, Equinor"
+    },
+    {
+      "id": "95ed63e3",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Comcast announced a tax-free spinoff splitting its media and entertainment assets (NBCUniversal and Sky) from its telecom business, with executives denying immediate M&A plans despite widespread speculation about follow-on deals. In the space sector, Rocket Lab agreed to acquire Iridium Communications for $8 billion, combining launch capabilities with Iridium's 66-satellite constellation to compete with SpaceX's integrated business model.",
+      "keyTakeaways": [
+        "The Comcast split unlocks significant downstream M&A opportunities: NBCUniversal could acquire content libraries like Lionsgate or become a takeover target itself, while the telecom entity may pursue Charter (post-Cox merger) or smaller wireless/broadband providers\u2014despite management's public denials of M&A plans.",
+        "Leadership changes signal execution capability: Cavanagh (JPMorgan, Carlyle Group) will lead NBCUniversal while Angelakis (ex-Comcast CFO, currently at PE firm Atairos) takes the telecom helm, but Roberts' continued involvement and fraught Trump relationship could constrain major acquisition strategies.",
+        "The Rocket Lab-Iridium deal validates the space economy consolidation trend by combining launch, manufacturing, and satellite network operations, potentially threatening SpaceX's end-to-end business model and signaling increased competition for space infrastructure dominance."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Comcast splits"
+    },
+    {
+      "id": "597e116e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Supreme Court decision on Monday significantly expands Trump's executive power over FERC, the Federal Energy Regulatory Commission, an agency that was already experiencing diminished independence. The ruling consolidates presidential control over energy infrastructure decisions and regulatory oversight, potentially reshaping how major energy projects and utilities are governed in the United States.",
+      "keyTakeaways": [
+        "Regulatory risk for energy infrastructure projects has fundamentally shifted\u2014FERC's quasi-independent status is now compromised, meaning executive decisions could override traditional regulatory processes for approvals of pipelines, transmission lines, and power generation facilities.",
+        "Utility companies and renewable energy developers should expect faster but more politically volatile project approvals; conversely, regulatory predictability\u2014a key institutional feature of energy markets\u2014has deteriorated, creating valuation and risk assessment challenges for long-term energy infrastructure investments.",
+        "The consolidation of executive power over energy regulation signals a major pivot away from the administrative state model that governed energy markets for decades, with implications for climate policy implementation, grid modernization investments, and the competitive positioning of different energy sources."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "FERC Was Already Losing Its Independence. Now It\u2019s Gone."
+    },
+    {
+      "id": "2b3d72a4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe's low air conditioning adoption during deadly heat waves may stem not from cultural resistance but from a structural obstacle: the continent's superior tilt-turn window technology, which provides better insulation and ventilation than American sash windows. This infrastructure incompatibility could create unexpected opportunities for window manufacturers and HVAC companies willing to redesign products for European markets, rather than the assumed wave of AC adoption following climate patterns seen in the Pacific Northwest.",
+      "keyTakeaways": [
+        "Europe's building infrastructure (tilt-turn windows) is fundamentally incompatible with window-unit AC systems, creating a structural barrier that capital allocators have overlooked; companies solving this design challenge could capture significant market share as European heat waves intensify.",
+        "The AC adoption narrative assumes rational consumer choice driven by temperature, but actual adoption depends on retrofitting existing building stock\u2014suggesting opportunities in renovation/retrofit companies and integrated HVAC-window solutions rather than standalone AC manufacturers.",
+        "Climate change is forcing infrastructure modernization across Europe, but the path forward likely involves building envelope upgrades (windows, insulation) rather than energy-intensive AC\u2014creating a macro shift toward efficiency-focused climate adaptation over cooling-focused solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "An Alternative Theory of Europe\u2019s AC Problems"
+    },
+    {
       "id": "c68b8188",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9609,22 +9717,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 60
+      "count": 61
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 218
+      "count": 220
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 208
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 20
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 205
     },
     {
       "name": "Deep Tech & Science",
@@ -9637,5 +9745,5 @@
       "count": 19
     }
   ],
-  "lastUpdated": "2026-06-29T11:52:53.938639Z"
+  "lastUpdated": "2026-06-30T10:26:06.053416Z"
 }
