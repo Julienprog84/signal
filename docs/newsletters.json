@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "2b945a58",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-01",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "BlaBlaCar is leveraging AI to expand into 20 new countries across Latin America, Southeast Asia, Europe, and North Africa, effectively doubling its international footprint. The newsletter also highlights France's vibrant startup ecosystem with 1,300 startups in the Auvergne-Rh\u00f4ne-Alpes region, while fintech Defacto pursues European banking credentials to scale PME financing and Pasqal accelerates quantum computing applications with Cr\u00e9dit Agricole CIB.",
+      "keyTakeaways": [
+        "BlaBlaCar's rapid geographic expansion powered by AI represents a maturing European tech company successfully scaling internationally\u2014investors should monitor how AI-driven operational efficiency becomes a competitive moat for ridesharing and marketplace platforms across emerging markets.",
+        "Defacto's pursuit of official EU banking credentials signals a critical inflection point for fintech scaling: regulatory approval unlocks pan-European operations and competitive advantages that venture-backed competitors cannot easily replicate, validating the fintech-to-bank conversion thesis.",
+        "France's tech ecosystem demonstrates sustained venture capital velocity with significant regional clusters beyond Paris; the quantum computing collaboration between traditional finance (Cr\u00e9dit Agricole) and startups (Pasqal) shows institutional capital increasingly backing deep-tech applications in operational markets rather than pure research."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "01.07 - BlaBlaCar d\u00e9barque dans 20 nouveaux pays !"
+    },
+    {
+      "id": "f1cef2ce",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-06-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US roofing is emerging as a major PE consolidation opportunity comparable to the HVAC rollup, with QXO's $17 billion TopBuild acquisition at 14.9x EBITDA setting valuation benchmarks. The fragmented $92.5 billion market\u2014dominated by 100,000 small owner-operated businesses with less than 4% concentration among top three players\u2014is experiencing a surge in PE activity (67 deals in 2025 vs. 13 in 2019), driven by a cyclical re-roofing wave as homes from the 2003-2006 housing boom enter their 20-25 year replacement window.",
+      "keyTakeaways": [
+        "Roofing consolidation offers durable, inflation-resistant cash flows with demand driven by replacement cycles rather than economic conditions\u201480% of 2025 market activity was re-roofing, not new construction. PE sponsors should use QXO's TopBuild deal as the valuation ceiling for platform acquisitions in this space.",
+        "Material cost headwinds are real: doubled steel/aluminum tariffs (now 50%) and crude oil price inflation tied to geopolitical tension are pressuring margins. Sponsors must stress-test pricing power assumptions and ensure portfolio companies can pass through cost increases to maintain returns.",
+        "The roofing sector mirrors HVAC's pre-consolidation profile\u2014extreme fragmentation, founder succession challenges, and predictable revenue growth at 5% annually. With 100,000 potential acquisition targets mostly under $10 million revenue, this represents a multi-year PE deployment opportunity comparable to previous specialty construction roll-ups."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The roof is on fire"
+    },
+    {
+      "id": "52e8299d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration paid Duke Energy $129 million to abandon its North Carolina offshore wind lease, marking the second major federal buyout of renewable energy projects in two weeks following a $765 million deal with Invenergy. Simultaneously, the Supreme Court stripped independence from FERC and the NRC by granting the president power to fire commissioners without cause, fundamentally altering regulatory oversight of energy infrastructure at a moment when transmission expansion faces mounting landowner challenges.",
+      "keyTakeaways": [
+        "Federal subsidies for abandoning renewable infrastructure signal a structural shift in energy capital allocation\u2014investors should reassess exposure to offshore wind developers and question future project viability in politically contested jurisdictions.",
+        "FERC's loss of independence creates regulatory uncertainty for long-term energy investments; decisions previously grounded in technical expertise may now face politicization, affecting the credibility and predictability of grid modernization approvals.",
+        "Transmission line development is fragmenting regionally\u2014while North Dakota approved the JETx line, Texas landowner challenges signal that project-level opposition remains a material risk factor that could slow grid expansion needed for renewable integration."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Duke Abdicates"
+    },
+    {
+      "id": "feb7b9ea",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-06-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Vicus Ventures, a newly launched VC firm founded by brothers Raj and Sunny Singh Sandhu, has closed a $55 million debut fund with a contrarian thesis that founders need operational support and network access rather than larger capital checks. The firm, backed by prominent LPs including General Catalyst, Kleiner Perkins, Jeff Wilke, Mike Novogratz, and others, focuses on delivering \"minimum dilution, maximum impact\" through a curated ecosystem approach rather than blank checks.",
+      "keyTakeaways": [
+        "Emerging managers are successfully differentiating on value-add and right-sizing funds rather than capital availability\u2014Vicus deliberately capped their debut at $55M despite interest in larger checks, betting that fund size matters less than operational impact and deal quality",
+        "LP quality and brand now matter more than LP quantity for emerging fund credibility; Vicus's roster of recognizable names and operators (not just institutional LPs) signals a shift toward founder-friendly, network-driven capital allocation",
+        "The \"network-as-a-service\" model represents a resurgence of old-school venture capitalism focused on relationship capital and founder support, positioning smaller, specialized funds as alternatives to mega-fund dry powder in an increasingly saturated market"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "The VCs building a village"
+    },
+    {
+      "id": "caaa59b1",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-06-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nippon Steel has invested less than $200 million of its promised $11 billion U.S. Steel acquisition commitment over the past year, with projections to reach only $580 million by August despite reaffirming its pledge. The article also covers FlexWork Sports' acquisition of ProCamps amid growing bipartisan scrutiny of PE involvement in youth sports, plus three venture capital rounds including LeapXpert's $180 million funding for external messaging app monitoring.",
+      "keyTakeaways": [
+        "Nippon Steel's leverage has nearly tripled post-acquisition with S&P maintaining a negative outlook, raising credibility questions about fulfilling the remaining $7.8 billion investment promise despite stable operations and strong 2026 profit projections.",
+        "PE consolidation in youth sports is accelerating despite regulatory headwinds\u2014FlexWork Sports' ProCamps acquisition signals operators see value in scale, but bipartisan congressional scrutiny could reshape deal economics in this emerging category.",
+        "Enterprise software for compliance and monitoring remains well-funded (LeapXpert's $180M round), while deep tech in semiconductors and industrial applications continues attracting institutional capital across geographies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Steely promises"
+    },
+    {
+      "id": "0d13b4de",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-06-30",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans examines fundamental limitations of AI models, arguing that certain tasks fall outside their effective scope because required knowledge isn't captured in training data or can't be easily articulated by humans. The newsletter also covers recent US government model restrictions on Anthropic and OpenAI, highlighting policy incoherence, and introduces Larridin, a tool measuring enterprise AI spending and ROI as corporate AI investment grows 13x year-over-year.",
+      "keyTakeaways": [
+        "AI automation potential is bounded by what can be documented or inferred from training data\u2014many human workflows involve tacit knowledge that's difficult to explicit or explain, making certain job categories less vulnerable to displacement than headline claims suggest.",
+        "Enterprise AI spending is accelerating rapidly (13x YoY growth), but most organizations lack visibility into actual ROI and AI fluency, creating a market opportunity for measurement and attribution tools that can justify continued investment.",
+        "Regulatory fragmentation and arbitrary government restrictions on model access are creating unpredictable capital allocation risks for AI companies, punishing safety-focused players like Anthropic despite their compliance efforts, while clarity on export controls and approved use cases remains absent."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 649"
+    },
+    {
+      "id": "71149a15",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-06-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a discussion one year after the GOP's One Big Beautiful Bill (OBBB) became law, examining what's preventing clean energy projects from moving forward despite record development levels. The conversation will cover specific bottlenecks including permitting lawsuits, tariff impacts on solar and wind economics, unclear FEOC tax credit guidance, and whether data center demand can offset federal headwinds. Jason Clark, founder and CEO of Power Brief, will join to discuss where projects are actually getting stuck in the system.",
+      "keyTakeaways": [
+        "Permitting and regulatory delays are emerging as the primary constraint on clean energy deployment post-OBBB, not capital availability\u2014investors should focus on companies solving permitting acceleration, environmental review optimization, or tariff cost modeling.",
+        "Clean energy-specific tariffs are materially reshaping project economics for solar and wind; investors need updated underwriting models and should track companies with supply chain diversification or domestic manufacturing solutions.",
+        "Incomplete FEOC (Foreign Entity Ownership Concern) rules create qualification uncertainty for tax credits\u2014a key lever in OBBB economics\u2014making regulatory clarity a critical risk factor for venture and growth-stage cleantech companies relying on federal incentives."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Joining us tomorrow?"
+    },
+    {
+      "id": "96beabfa",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-06-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Supreme Court ruling allowing President Trump to fire independent agency commissioners without cause could fundamentally reshape energy and climate policy governance. The decision affects key regulatory bodies including the Federal Energy Regulatory Commission (FERC), Nuclear Regulatory Commission, and SEC, potentially undermining decades of bipartisan consensus and deliberative processes that Congress designed to insulate technical expertise from political pressure.",
+      "keyTakeaways": [
+        "Presidential authority over independent agencies is now dramatically expanded, enabling rapid restructuring of regulatory commissions that oversee power markets, transmission infrastructure, and natural gas\u2014creating significant policy uncertainty for energy sector investors and operators.",
+        "FERC's historic culture of bipartisan cooperation and technical deliberation is at risk, which could accelerate or impede energy transition investments depending on administrative priorities\u2014making regulatory risk a primary factor in energy infrastructure and renewable energy project valuations.",
+        "The ruling represents a structural shift in how Congress can constrain executive power through agency design, weakening the independent commission model that has governed technical policy domains since the 19th century and potentially destabilizing long-term energy policy frameworks."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Congress Never Meant to Design This"
+    },
+    {
       "id": "9a7d3239",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9717,17 +9861,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 61
+      "count": 62
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 220
+      "count": 223
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 208
+      "count": 211
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 20
     },
     {
       "name": "Fintech",
@@ -9738,12 +9887,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 13
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 19
     }
   ],
-  "lastUpdated": "2026-06-30T10:26:06.053416Z"
+  "lastUpdated": "2026-07-01T10:37:50.455581Z"
 }
