@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "c25c9d42",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Withings, an 18-year-old French healthtech company, has announced its first year of profitability, establishing France as its third-largest market behind Germany and the US. The newsletter also covers broader European tech developments including regulatory approval for Poppins (an AI-assisted mobile app for dyslexic children), Italy's strengthened presence at VivaTech 2026 with 44 startups, and ongoing challenges to French digital sovereignty despite policy initiatives.",
+      "keyTakeaways": [
+        "Withings' path to profitability after nearly two decades demonstrates the long-term capital requirements for hardware-software hybrid businesses in healthtech, signaling potential exit opportunities in maturing medtech platforms that achieved early European market traction.",
+        "Poppins' HAS reimbursement approval represents an exceptional regulatory breakthrough for digital health in France, suggesting increasing willingness to fund health-focused tech solutions\u2014a significant tailwind for edtech and health-adjacent startups seeking institutional validation.",
+        "Italy's coordinated ecosystem push at VivaTech 2026 and concerns about French digital sovereignty indicate growing regional competition for tech talent and capital, with implications for cross-border European VC strategy and the viability of decentralized tech ecosystems outside Silicon Valley."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "02.07 - 18 ans plus tard, cet acteur phare de la French Tech devient rentable"
+    },
+    {
+      "id": "0c5b356a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook released new Q2 2026 dashboards showing a bifurcated private markets recovery: venture capital is experiencing a historic liquidity boom driven by SpaceX's $1.7 trillion IPO and upcoming OpenAI and Anthropic listings, generating nearly $2 trillion in total exit value for the quarter alone. Meanwhile, private equity is diverging negatively, with exits pacing below 2025 levels, weakest dealmaking since Q2 2023, and concentrated value in mega-deals. The SPAC market is resurging with 117 new vehicles in H1 2026 as VC-backed companies in quantum, energy, and AI infrastructure seek alternatives to traditional exit routes.",
+      "keyTakeaways": [
+        "VC liquidity is heavily concentrated: SpaceX's IPO alone surpassed all of 2021's exit value, raising the critical question whether broad LP returns materialize or value remains trapped with a few mega-deal investors through Q3-Q4 2026",
+        "PE investors face a liquidity crunch\u2014exits are slowing below prior year while continuation vehicles become the dominant exit mechanism, signaling GPs may need to extend hold periods or accept lower realized returns",
+        "SPACs are re-emerging as a viable exit alternative for VC-backed companies in policy-favored sectors (AI, energy, quantum), but new SEC disclosure rules have fundamentally changed risk dynamics compared to the 2020-22 bubble"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "New Q2 data, new dashboard"
+    },
+    {
+      "id": "31575aa2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Eli Lilly invested $40 million in Absci, an AI drug discovery company, as part of a $100 million funding round to develop ABS-201, an injectable antibody for baldness and endometriosis designed using generative AI. The deal signals Big Pharma's confidence in AI-designed drugs and Absci's thesis of combining AI discovery with China-based clinical trials to reduce development costs from $150 million to $15-20 million, while positioning injectables as the next consumer health category following GLP-1s' mainstream acceptance.",
+      "keyTakeaways": [
+        "AI drug discovery is attracting massive institutional capital\u2014Isomorphic Labs raised $2.1B, Earendil Labs $787M, and Xaira $1B\u2014but only Absci is publicly traded and already in Phase 1 trials, making it a rare publicly accessible play on this trend for investors seeking AI pharma exposure.",
+        "The real value play for Absci isn't licensing AI tools (which are becoming commoditized) but owning the final drug asset itself, combined with cost arbitrage through China-based trials; this model could compress timelines and reduce capital requirements, reshaping pharma economics.",
+        "The injectable market is shifting from medical necessity to lifestyle/wellness category\u2014GLP-1s normalized self-injection for weight loss, and combining hair regrowth, weight loss, and other biologics into single-shot \"total vitality\" products represents a $650 billion addressable market where DTC distribution becomes a key competitive advantage."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Hair apparent"
+    },
+    {
+      "id": "9d40dde8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. Trump administration is preparing to ban foreign-made inverters, particularly Chinese models from Huawei and Sungrow that dominate the global market, citing security concerns over rogue communications devices discovered in Chinese solar panels\u2014a move that could benefit domestic players like Texas-based SolarEdge. Meanwhile, Florida has prohibited municipalities from setting net-zero emissions goals through new legislation, while the Trump administration pressures New York to abandon solar development on prime farmland, reflecting broader political headwinds for renewable energy expansion.",
+      "keyTakeaways": [
+        "Inverter import bans create a protectionist windfall for U.S. manufacturers like SolarEdge but introduce supply chain risk and potential cost increases for solar developers, as the global inverter market is already contracting 2% annually due to policy uncertainty.",
+        "State-level climate policy rollback in Florida and federal pressure on New York's solar expansion signal a shift in regulatory environment that could reduce near-term solar project deployment and investor returns in these key markets.",
+        "Geopolitical tensions over Chinese solar supply chains are accelerating domestic manufacturing reshoring (SolarEdge Austin factory) but may slow overall solar market growth, particularly as the sector faces simultaneous headwinds from restrictive state policies and import controls."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Zeal of the Inverter"
+    },
+    {
+      "id": "18e3ca1b",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-01",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A podcast episode examining the collapse of Parker Card, an SMB-focused fintech credit card startup, explores critical lessons for the fintech industry regarding business model sustainability and risk management. The episode also covers emerging concerns around prediction markets (including Polymarket's alleged fake advertising and Meta's Arena launch) and the persistent debanking issue affecting crypto and fintech companies.",
+      "keyTakeaways": [
+        "Fintech credit card startups face structural challenges around unit economics and customer acquisition costs\u2014Parker Card's collapse signals that disruption alone isn't sufficient without sustainable revenue models or adequate capital reserves.",
+        "Regulatory scrutiny is intensifying across multiple fintech verticals simultaneously: prediction markets face CFTC rule proposals while debanking continues to threaten crypto and fintech access to traditional banking rails, suggesting capital should focus on regulatory-compliant infrastructure plays.",
+        "The combination of fintech failures, platform debanking, and proposed regulations indicates the sector is consolidating toward larger, well-capitalized players with banking relationships and compliance infrastructure rather than lean, growth-at-all-costs startups."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 75,
+      "originalTitle": "Fintech Recap: What Can We Learn From A Fintech Credit Card's Collapse?"
+    },
+    {
+      "id": "c401ee05",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Bending Spoons, an Italian holding company that acquires and revitalizes legacy tech brands like AOL, Eventbrite, and Vimeo, raised $1.7 billion in its IPO at $29 per share, valuing the company at $18.4 billion. CEO Luca Ferrari outlined the company's acquisition strategy, which targets predictable businesses with significant operational improvement potential, acquiring 4-5 companies annually and identifying over 1,000 possible targets globally.",
+      "keyTakeaways": [
+        "Bending Spoons' acquisition model prioritizes operational transformation over portfolio synergies, buying underperforming assets across verticals and rebuilding technology, products, and monetization strategies rather than cross-selling between portfolio companies.",
+        "The company's acquisition velocity is constrained by execution capacity rather than deal availability\u2014Ferrari estimates 90% of their 1,000 identified targets could be acquired with sufficient capital, but transformation timelines limit deals to 4-5 per year, suggesting significant dry powder remains underdeployed.",
+        "The $18.4 billion IPO valuation validates a new M&A model for distressed digital assets, potentially signaling increased capital allocation toward acquiring and operationally improving legacy tech rather than funding greenfield startups."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: AOL IPO"
+    },
+    {
+      "id": "66dbb981",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Oracle is challenging Wisconsin's collateral requirements for its massive 1-GW Stargate data center project, arguing the A-/A3 credit rating threshold requiring over $100 million in annual security is unusually strict. However, analysis shows Wisconsin's terms are comparable to or less stringent than collateral requirements from utilities like Santee Cooper and FPL, and the credit threshold is already established in Indiana and Ohio where Oracle's competitors have accepted similar terms. The case highlights a growing tension between hyperscalers and regulators over cost-sharing mechanisms for grid infrastructure serving large data center loads.",
+      "keyTakeaways": [
+        "Oracle's legal challenge to Wisconsin collateral rules may fail on precedent grounds\u2014Amazon, Google, and Microsoft all accepted A-/A3 thresholds in competing utility territories, potentially weakening any 'unfair treatment' argument.",
+        "Collateral sizing methodologies vary significantly by utility: Wisconsin's approach based on power plant net book value ($7B for Oracle) is more capital-intensive than bill-based models elsewhere, creating competitive disadvantages for data center developers in that region.",
+        "Data center regulation is becoming a critical battleground for infrastructure investment returns\u2014stricter collateral terms and credit thresholds may steer future mega-load projects toward utilities with more favorable tariff structures, reshaping regional competitive dynamics in AI infrastructure development."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Oracle vs. the Wisconsin PSC"
+    },
+    {
+      "id": "d0a2dfcc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Google and Amazon's latest sustainability reports reveal massive energy consumption surges driven by AI infrastructure buildout, with Google's greenhouse gas emissions up 18% and energy use jumping 37%, while Amazon's emissions increased 16%. A new Groundwork Collaborative report proposes policy solutions including voluntary utility-level electricity rate freezes paired with federal financing and easier permitting, designed to stabilize grid costs during a critical multi-year capacity crunch as power plants come online.",
+      "keyTakeaways": [
+        "Big Tech's AI infrastructure spending is outpacing grid decarbonization, creating both a near-term constraint on electricity supply and long-term risk to corporate sustainability commitments\u2014investors should monitor whether rate pressures force capex reductions in AI buildout plans.",
+        "The proposed rate-freeze mechanism with federal financing incentives could become a material policy tool affecting utility profitability and capex planning; utilities that opt in gain permitting advantages and low-cost capital, creating potential winners among regional grid operators and transmission companies.",
+        "The grid capacity crunch during 2026-2028 represents a macro inflection point where energy infrastructure, renewables deployment, and data center siting decisions converge\u2014early-stage companies in grid modernization, virtual power plants, and reconductoring technology may see accelerated adoption."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Here\u2019s One Way to Freeze Electricity Rates"
+    },
+    {
       "id": "2b945a58",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -9861,26 +10005,26 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 62
+      "count": 63
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 223
+      "count": 226
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 211
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 20
+      "count": 214
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
+      "count": 21
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
       "count": 20
     },
     {
@@ -9889,5 +10033,5 @@
       "count": 13
     }
   ],
-  "lastUpdated": "2026-07-01T10:37:50.455581Z"
+  "lastUpdated": "2026-07-02T09:53:28.545249Z"
 }
