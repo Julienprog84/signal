@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "011eabc0",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French tech newsletter highlights three investment opportunities: the Fundtruck 2026 entrepreneurial competition selected Athana and Zylio as finalists at VivaTech with record participation; BRED Banque Populaire is launching a dedicated hub with two open calls for startups to co-develop banking solutions by July 17; and Cisco is positioning itself to democratize AI adoption across enterprises with dedicated learning programs.",
+      "keyTakeaways": [
+        "Traditional financial institutions are actively opening innovation hubs to collaborate with startups\u2014BRED's dual call for proposals signals growing corporate venture appetite in France and represents potential acquisition or partnership targets for early-stage founders.",
+        "Competitive startup selection events like Fundtruck are consolidating deal flow and visibility, with record participation suggesting a strong pipeline despite macro uncertainty in European VC markets.",
+        "Enterprise AI democratization remains a major growth vector; large players like Cisco are investing in education and adoption programs, creating opportunities for B2B SaaS startups focused on AI implementation and workforce enablement."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "03.07 - Les Rencontres \u00e9conomiques d'Aix s'ouvrent dans \u00abun monde sans rep\u00e8res\u00bb"
+    },
+    {
+      "id": "0810767f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Market panic over AI disrupting enterprise software is creating a historic opportunity for margin expansion, as companies that successfully deploy agentic AI through orchestration layers will capture unprecedented value. Bending Spoons' 39.7% IPO pop demonstrates investor appetite for operational turnaround plays, while Medallia's $5.1 billion equity wipeout shows the cost of delaying AI adoption\u2014though new owners immediately committed $150 million to accelerate its digital labor capabilities.",
+      "keyTakeaways": [
+        "The true competitive moat in AI-driven software lies not in the large language models themselves (which will be commoditized) but in proprietary AgentOps orchestration layers that encode human judgment into scalable workflows. Investors should target distressed SaaS acquisitions where teams can rapidly build this AI infrastructure.",
+        "Timing is critical: the window to capitalize on AI-driven SaaS transformation is closing. Passive investors risk being left behind as strategic buyers (like Blackstone-Anthropic consortium) and aggressive sponsors capture the margin super-cycle through active capital deployment.",
+        "The SaaS sector is entering a historic margin boom driven by the transition from seat-based licensing to outcome-based digital labor, contradicting the 'SaaS-pocalypse' narrative currently depressing software valuations and creating tactical buying opportunities in the debt and equity markets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Software wins for the taking"
+    },
+    {
+      "id": "b4cad248",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Defense tech venture funding has exploded to record levels, with Q1 2026 seeing $19.8 billion deployed across 262 deals\u2014more than triple the $5.7 billion from Q1 2024. Companies like Anduril ($61B valuation), Saronic ($9.25B), and Shield AI ($12.7B) are leading a sector shift that even Anduril's CEO acknowledges shows signs of a bubble, with early-stage startups commanding valuations of 17-50x revenue. The critical question for investors is not whether a bubble exists, but which corners of defense tech funding will prove fragile versus resilient as the sector matures.",
+      "keyTakeaways": [
+        "Defense tech valuations have dramatically decoupled from fundamentals, with early-stage companies commanding multiples of 17-50x revenue. Investors should scrutinize which startups have sustainable government contracts versus those riding hype, as corrections are likely in overvalued segments.",
+        "Traditional Silicon Valley investors may lack the expertise and risk tolerance needed for defense sector economics, which operate on different timelines and procurement cycles than consumer or enterprise software. VCs should assess whether their existing playbooks translate to this market.",
+        "Despite bubble indicators, the sector has legitimate tailwinds: geopolitical tensions, AI-driven military innovation, and government procurement demand. The real risk isn't sector collapse, but consolidation and extended runways for companies that can't monetize hype."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Is there a defense tech bubble?"
+    },
+    {
+      "id": "7f999164",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Nuclear Regulatory Commission proposed major regulatory overhauls to accelerate nuclear energy deployment, including replacing radiation protection standards with hard dose limits and expanding licensing pathways for novel reactor designs. Three companies in the Department of Energy's reactor pilot program\u2014Deployable Energy, Aalo Atomic, and Valar Atomics\u2014have achieved reactor criticality, while PJM Interconnection faces growing concerns about its ability to forecast and meet surging electricity demand from data centers and air conditioning, with demand potentially exceeding summer projections by 10 gigawatts.",
+      "keyTakeaways": [
+        "Microreactor startups are rapidly advancing toward commercialization with three achieving criticality within the DOE's pilot timeline, signaling near-term revenue potential for specialized nuclear technology providers and supply chain companies serving this emerging sector.",
+        "The NRC's regulatory streamlining creates a clearer pathway for novel reactor designs to enter the market faster, potentially reducing capital requirements and timelines for advanced nuclear developers and making the sector more attractive for late-stage venture and growth equity investment.",
+        "Grid operators like PJM are systematically underestimating peak demand driven by AI data centers and climate change, creating urgent infrastructure investment opportunities in peaking power generation, grid modernization, and demand-side management solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Radioactive!"
+    },
+    {
+      "id": "123b0203",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Axios Pro Rata covers Sun Valley's exclusive guest list (359 attendees including five Mag 7 CEOs but notably excluding Nvidia, Tesla, and SpaceX leadership), reports on Lime's IPO with a 4% first-day pop after raising $167 million, and highlights Microsoft's $2.5 billion investment in a new forward-deployed engineering business embedding 6,000 AI experts into customer organizations. The newsletter also flags a slowdown in megadeals and PE exits in Q2 2026.",
+      "keyTakeaways": [
+        "Sun Valley attendance patterns signal shifting power dynamics in tech\u2014the absence of Nvidia and Tesla leadership while OpenAI gets two seats reflects investor sentiment tilting toward AI infrastructure plays over hardware and EV dominance.",
+        "Lime's profitable, cash-flow-positive IPO validates the winner-take-most thesis in micromobility after Bird's failure, suggesting venture-backed companies with unit economics can exit publicly if they achieve scale and operational efficiency.",
+        "Microsoft's $2.5 billion forward-deployed engineering play indicates enterprise AI service delivery is becoming a capital-intensive competitive moat, signaling a shift from software licensing to managed AI implementation services that could pressure traditional consulting firms."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Sun Valley"
+    },
+    {
+      "id": "398ff3c6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Wind and solar tax credits are set to expire, with Democrats in Congress pushing to restore them despite uncertain industry support. The newsletter teases a deeper analysis of the political and economic tensions surrounding renewable energy incentives and suggests the industry may have mixed motivations regarding credit renewal.",
+      "keyTakeaways": [
+        "Renewable energy tax credits face expiration with uncertain political backing\u2014investors should monitor Congressional activity closely as credit uncertainty could impact project economics and capital allocation in the wind and solar sectors",
+        "Industry opposition to credit restoration signals potential shifts in renewable energy economics; companies may be signaling confidence in standalone profitability or concerns about credit policy volatility affecting long-term business models",
+        "The misalignment between Democratic support for credits and industry hesitation suggests the renewable energy market may be transitioning from subsidy-dependent to market-competitive, with significant implications for future funding rounds and infrastructure investment valuations"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Wind and Solar Tax Credits Are About to Expire. Will They Come\r\n Back?"
+    },
+    {
+      "id": "2e299d27",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Electric vehicle sales are showing unexpected strength in Q2 2026 despite the expiration of federal tax credits, with Tesla reporting 25% year-over-year sales growth driven largely by European demand, while Rivian projects delivering 3,000 more vehicles than expected this year. The newsletter also examines the formal end of solar and wind tax credits on July 4, 2026, and the emerging debate among Democrats about whether to revive these incentives or prioritize permitting reform as a more fiscally efficient path to clean energy deployment.",
+      "keyTakeaways": [
+        "Tesla's 25% quarterly sales surge and Rivian's upward delivery guidance suggest EV demand resilience beyond U.S. tax credit incentives, particularly in Europe where high fuel prices and aggressive pricing strategies are driving adoption\u2014indicating the market may be maturing faster than policy assumptions.",
+        "The disconnect between clean energy experts prioritizing permitting reform and Democratic lawmakers' reluctance to engage Republicans on the issue signals that future climate policy may face political gridlock, creating opportunities for private solutions to infrastructure bottlenecks.",
+        "The expiration of both EV and renewable energy tax credits by mid-2026 combined with higher power prices and grid congestion reshapes the clean energy investment landscape toward cost-competitive technologies and away from subsidy-dependent models, affecting capital allocation decisions for infrastructure investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Some Decent News for EVs, Finally"
+    },
+    {
       "id": "c25c9d42",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10005,17 +10131,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 63
+      "count": 64
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 226
+      "count": 229
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 214
+      "count": 217
     },
     {
       "name": "Fintech",
@@ -10033,5 +10159,5 @@
       "count": 13
     }
   ],
-  "lastUpdated": "2026-07-02T09:53:28.545249Z"
+  "lastUpdated": "2026-07-03T09:50:06.017480Z"
 }
