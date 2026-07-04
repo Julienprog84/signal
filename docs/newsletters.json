@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "df21126d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Blackstone is taking Jersey Mike's Subs public via S-1 filing, targeting a valuation of at least $12 billion after acquiring the sandwich chain for $8 billion in late 2024. The IPO proceeds will primarily fund debt repayment on $760 million of refinanced debt and a dividend to Blackstone, while the PE firm retains majority voting control post-listing. The move reflects a broader 2026 trend of PE firms exiting portfolio companies through public markets, with Blackstone alone having nine companies in its IPO pipeline.",
+      "keyTakeaways": [
+        "Jersey Mike's $8 billion acquisition valuation expanding to $12+ billion IPO target signals strong multiple expansion and consumer brand strength, though debt paydown suggests the capital structure was aggressive and will benefit from public market liquidity.",
+        "Blackstone's strategy of retaining majority voting control post-IPO demonstrates the PE firm's confidence in the asset and intent to capture upside beyond the IPO, setting a template for sponsor-friendly exit structures in 2026.",
+        "The surge in PE-backed IPOs in 2026 reflects private equity's need to address a growing backlog of maturing assets and redemption pressures, particularly in private credit where Mark Goldberg warns redemption queues could take years to clear despite manager messaging suggesting faster resolution."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Jersey Mike's serves up S-1 sub"
+    },
+    {
+      "id": "1ae83182",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-03",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Cross River Bank announced an expanded partnership with Stripe to support agentic commerce, enabling card issuing for AI-driven autonomous transactions. The bank's Chief AI Officer Pravesh Rijal discusses how the partnership addresses risks associated with delegating financial transactions to AI agents and explores implications for consumers and businesses operating in this emerging commerce category.",
+      "keyTakeaways": [
+        "Cross River and Stripe are building infrastructure for agentic commerce, a nascent but potentially high-volume transaction category where AI agents autonomously execute purchases\u2014representing a significant banking revenue opportunity if adoption scales",
+        "Risk mitigation frameworks for autonomous agent transactions are now a competitive differentiator in fintech partnerships, suggesting investors should evaluate which payment processors and banking partners can credibly address fraud and liability in delegated transactions",
+        "The move signals that major fintech platforms (Stripe) and banking partners (Cross River) view agentic commerce as inevitable infrastructure rather than speculative technology, indicating capital is flowing toward enabling platforms ahead of mass consumer adoption"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 22,
+      "originalTitle": "Interview: Cross River's Chief AI Officer Pravesh Rijal [Exclusive]"
+    },
+    {
+      "id": "54b29a9d",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-07-03",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A synthetic cell built entirely from nonliving components has achieved a milestone by growing, replicating DNA, and dividing for the first time, demonstrating the feasibility of generating life from nonliving matter\u2014a decades-long goal in synthetic biology. The newsletter covers major deep tech developments including Anthropic's entry into drug development, Realta Fusion generating direct electricity from fusion reactions, a $5.7B chip plant by Infineon in Germany, and defense innovations like Esh-Tech's laser drone defense system.",
+      "keyTakeaways": [
+        "Synthetic biology is transitioning from theoretical research to demonstrable milestones with practical applications; investors should monitor companies developing artificial cellular systems and synthetic organisms for therapeutic and industrial uses.",
+        "AI companies like Anthropic are vertically integrating into biotech and drug development, signaling a major capital reallocation trend where machine learning platforms are moving into traditionally pharmaceutical territory with potentially faster development cycles.",
+        "Energy and defense sectors show accelerating government funding\u2014Europe's chip autonomy push ($5.7B Infineon), fusion commercialization breakthroughs, and emerging defense tech like directed-energy systems suggest sustained geopolitical competition driving capital into strategic tech sectors."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 169: A cell built from scratch grows and divides"
+    },
+    {
       "id": "011eabc0",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10129,14 +10183,24 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 230
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 22
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 14
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 64
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 229
     },
     {
       "name": "Climate & Energy",
@@ -10144,20 +10208,10 @@
       "count": 217
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 21
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 20
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 13
     }
   ],
-  "lastUpdated": "2026-07-03T09:50:06.017480Z"
+  "lastUpdated": "2026-07-04T09:14:03.974668Z"
 }
