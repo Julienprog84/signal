@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "4d84bf44",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private climate-investing funds have surpassed $1.5 trillion in AUM as the sustainable investing field grapples with fundamental questions about AI's net impact on sustainability goals, defense sector boundaries post-Ukraine, and whether ESG functions as a genuine investment filter. The newsletter highlights a major industry divide on whether AI's data-solving capabilities justify its environmental costs, with practitioners surveyed across regulatory effectiveness, LP allocation behavior, and definition of sustainable investing itself.",
+      "keyTakeaways": [
+        "The sustainable investing industry is split on AI: investors must determine whether AI's ability to solve measurement problems outweighs its significant energy and water consumption before committing capital to AI-dependent sustainability solutions.",
+        "Defense tech investing post-Ukraine represents a critical allocation decision for sustainable investors, signaling that geopolitical shifts are forcing ESG practitioners to redraw investment boundaries in real-time.",
+        "ESG frameworks' actual influence on LP capital allocation to GPs remains unvalidated; the survey suggests many institutional investors may be using ESG as a soft preference rather than a hard filter, potentially indicating misalignment between stated and practiced sustainability commitments."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Sustainable investing's toughest questions"
+    },
+    {
       "id": "df21126d",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -10185,7 +10203,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 230
+      "count": 231
     },
     {
       "name": "Fintech",
@@ -10213,5 +10231,5 @@
       "count": 20
     }
   ],
-  "lastUpdated": "2026-07-04T09:14:03.974668Z"
+  "lastUpdated": "2026-07-05T09:34:40.060820Z"
 }
