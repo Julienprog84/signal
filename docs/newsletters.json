@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "1ef727ef",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-06",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac1.046 billion in June 2026 across 34 deals, with H1 2026 totaling \u20ac4.26 billion\u2014exceeding 2025 but showing concentrated growth. Artificial intelligence captured half of all H1 funding at \u20ac2.132 billion, signaling a structural shift in capital allocation toward AI-focused ventures. The fundraising landscape is characterized by fewer but larger deals, with notable exits including Quantum Systems (German defense tech) raising $1.2 billion at $8 billion valuation and Qonto acquiring Acasi to expand financial services integration.",
+      "keyTakeaways": [
+        "AI concentration at 50% of French tech funding represents an unprecedented capital consolidation\u2014investors should assess whether non-AI European startups face structural funding headwinds",
+        "Deal sizes are increasing while deal count decreases, indicating a bifurcated market favoring late-stage/mega-round companies; seed and Series A funding likely becoming scarcer outside AI",
+        "Corporate open innovation (L'Or\u00e9al, others) is emerging as a meaningful distribution and validation channel for European startups, creating new capital pathways beyond traditional VC"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "06.07 - French Tech : l\u2019IA a capt\u00e9 la moiti\u00e9 des lev\u00e9es au premier semestre"
+    },
+    {
+      "id": "2a90b95c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Power grid technology has emerged as a critical but unglamorous bottleneck in the AI boom, with VC funding reaching $4.8 billion in 2025 and $3.1 billion in H1 2026, driven by larger deal sizes rather than volume\u2014median deals have more than doubled from $3.8 million to $11.4 million. Ukraine's defense tech sector, despite being combat-tested and possessing $35 billion in production capacity, has received only $57.2 million in equity investment across 28 deals in 2025, representing a massive funding gap relative to its $6.8 billion addressable market.",
+      "keyTakeaways": [
+        "Power grid and energy storage technologies supporting AI data centers and renewable integration are attracting mega-deals ($100M+), with non-lithium storage solutions gaining traction as lithium-based systems prove economical only for shorter-duration storage needs.",
+        "Ukrainian defense tech represents an underserved investment opportunity with significant production capacity ($35-55 billion potential) but minimal VC penetration, creating potential exits through foreign customers and international production partnerships rather than domestic M&A.",
+        "The shift toward experienced founders in European VC (securing 72% larger deals than first-timers) reflects a broader trend of LPs and GPs prioritizing proven execution over novelty, which may reshape how early-stage capital deploys across sectors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The VC hubs of the World Cup stage"
+    },
+    {
+      "id": "4159ac8f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI may delay its highly anticipated IPO to 2027 due to stock market concerns and mounting losses, a move that could reshape the timeline for other AI and software companies going public. The timing of OpenAI's IPO will likely determine whether rival Anthropic goes first and sets valuation benchmarks for the sector, or whether both companies delay to strengthen their competitive positions before entering the public markets. CEO Sam Altman's goal of a $1 trillion IPO valuation faces headwinds from profitability concerns, though analysts suggest OpenAI could still reach that milestone after going public.",
+      "keyTakeaways": [
+        "OpenAI's IPO timing acts as a market-clearing signal for the entire software and AI IPO pipeline\u2014if it delays to 2027, first-mover advantage shifts to Anthropic, which could define valuation multiples and success metrics for all subsequent AI company IPOs.",
+        "Anthropic should consider timing its IPO to Claude's technical capabilities and regulatory clarity rather than shadowing OpenAI's schedule, allowing the market to value the company on competitive moat rather than sequence of entry.",
+        "The $1 trillion valuation benchmark for OpenAI may be negotiable downward at IPO, but profitability concerns are creating a valuation floor issue that could affect investor appetite for the entire AI sector if not addressed before public market debut."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Three scenarios if OpenAI delays its IPO"
+    },
+    {
+      "id": "85a44ff4",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-05",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Congress is advancing H.R. 9330, the Earned Wage Access Consumer Protection Act, which passed the House Financial Services Committee 29-22 and would impose strict disclosure and consumer protection requirements on EWA providers, including mandatory no-cost options, transparent fee structures, and prohibitions on debt collection practices. The bill represents a regulatory tightening of the rapidly growing earned wage access market, following a similar but failed attempt in 2024, signaling sustained legislative focus on protecting gig and hourly workers from predatory tipping and fee mechanisms.",
+      "keyTakeaways": [
+        "EWA providers facing significant margin compression: mandatory no-cost options and strict fee transparency eliminate the current tip-based monetization model that drives profitability for fintech players like Dave, Earnin, and Instant Financial.",
+        "Regulatory risk is material for EWA-focused startups and those with embedded EWA features; companies should model scenarios where voluntary tips decline 50%+ and prepare for compliance costs in dispute resolution and disclosure infrastructure.",
+        "Broader fintech regulation trend: Congress is targeting consumer finance segments with high fees and vulnerable user bases (gig workers, hourly wage earners); this signals similar scrutiny may follow for payday alternatives, BNPL, and other subprime-adjacent products."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "Congress Mulls Earned Wage Access Bill (Again)"
+    },
+    {
+      "id": "190d483e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter covers critical developments in the renewable energy sector, including uncertainty around wind and solar tax credits' future status, Indiana Governor's energy policy push, and emerging opportunities in carbon removal from industrial waste. The coverage signals potential regulatory shifts that could reshape investment returns in clean energy infrastructure and carbon tech.",
+      "keyTakeaways": [
+        "Tax credit policy volatility presents both risk and opportunity\u2014investors should monitor legislative changes on renewable energy incentives, as these credits are foundational to project economics for solar and wind developers",
+        "State-level energy policy divergence (highlighted by Indiana's Governor actions) suggests winners and losers will be determined regionally; allocate capital with awareness of political headwinds in specific geographies",
+        "Carbon removal from industrial waste is emerging as a viable market segment with buyer demand, indicating potential investment opportunities in climate tech solutions beyond traditional renewables"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Solar and Wind Tax Credit Resurrection, Braun on the Warpath,\r\n and More"
+    },
+    {
       "id": "4d84bf44",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -10201,14 +10291,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 65
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 231
+      "count": 233
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 22
+      "count": 23
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 218
     },
     {
       "name": "Deep Tech & Science",
@@ -10216,20 +10316,10 @@
       "count": 14
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 64
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 217
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 20
     }
   ],
-  "lastUpdated": "2026-07-05T09:34:40.060820Z"
+  "lastUpdated": "2026-07-06T11:22:44.817727Z"
 }
