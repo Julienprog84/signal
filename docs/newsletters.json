@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "a41cc354",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-07",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Skello, a European workforce management platform, secured \u20ac200 million in Series C funding led by Bridgepoint Development Capital, with continued support from Partech and XAnge, marking its 10th anniversary and signaling confidence in European expansion. The newsletter also highlights broader European tech momentum, including Waymo's French expansion, strong AI ecosystem growth at Nexus Luxembourg 2026 with 9,600 participants, and Southern France's emergence as a clean energy tech hub.",
+      "keyTakeaways": [
+        "Large Series C rounds (\u20ac200M+) for European B2B SaaS platforms remain well-funded, indicating sustained investor appetite for scaled European companies ready for continental expansion despite macro headwinds.",
+        "Repeat investor participation (Partech, XAnge) suggests successful track records and strong portfolio performance are driving follow-on capital, making earlier-stage European tech a viable allocation opportunity.",
+        "Convergence of AI infrastructure development, regional innovation clusters (Southern France clean tech, Luxembourg AI), and international expansion by European unicorns points to a maturing European tech ecosystem increasingly competitive with US counterparts."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "07.07 - Skello obtient 200 millions d\u2019euros pour conqu\u00e9rir l\u2019Europe"
+    },
+    {
+      "id": "7cd06dcf",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook has integrated its private market intelligence platform into Microsoft 365 Copilot, enabling investment professionals to access comprehensive financial data and analyst research directly within their existing Microsoft enterprise environment. The integration allows users to query PitchBook's database using natural language without switching applications, combining private capital market data with AI-powered research workflows.",
+      "keyTakeaways": [
+        "Enterprise workflow consolidation: Investors can now access deal flow, company, and market data directly within Microsoft 365 without toggling between platforms, reducing friction in research cycles and potentially accelerating deal sourcing and due diligence processes.",
+        "Data security within existing infrastructure: By embedding PitchBook intelligence into Microsoft 365 Copilot rather than requiring external platform access, firms can maintain compliance and data governance within their existing enterprise security frameworks, addressing a key concern for institutional investors.",
+        "AI-driven investment research standardization: The natural language interface to private market data signals a broader trend toward AI-augmented investment decision-making, potentially democratizing access to institutional-grade research across deal teams and reducing dependency on specialist research roles."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 2,
+      "originalTitle": "Your research just got faster: PitchBook is now in Microsoft 365\r\n Copilot"
+    },
+    {
+      "id": "576f78ef",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "David Senra, host of the billion-dollar-audience podcast Founders, has repeatedly rejected acquisition offers valued above $50 million, prioritizing editorial independence over financial gain. The profile highlights a contrarian approach to wealth creation in media: building profitable standalone businesses rather than pursuing equity stakes in portfolio companies, exemplified by his decision to take zero equity in TBPBN despite vouching for the podcast before OpenAI's reported hundred-million-dollar acquisition.",
+      "keyTakeaways": [
+        "High-quality media properties with concentrated audiences of C-suite executives command premium valuations and unsolicited acquisition offers, but founders with strong conviction can maintain independence if cash flow is sufficient\u2014suggesting alternative monetization models (advertising, sponsorships) may be underexploited in podcast M&A.",
+        "Founders are increasingly selective about institutional capital, viewing investor involvement as a compromise to editorial control and creative autonomy; this trend may reduce acquisition targets in media as successful operators recognize standalone profitability outweighs liquidity events.",
+        "The podcast landscape shows bifurcation: while platforms like OpenAI acquire talent (TBPBN), independent creators with niche but high-value audiences (Founders reaching C-suite) can command comparable leverage without giving up equity, challenging traditional media consolidation narratives."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Not for sale"
+    },
+    {
+      "id": "b9a11604",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Holtec International has completed major restoration work on the Palisades nuclear plant in Michigan, marking a historic milestone as the first U.S. attempt to restart a permanently shuttered reactor. The project, approved under the Trump administration as part of a broader Department of Energy push to accelerate nuclear construction, faces final testing before startup while other decommissioned plants line up similar revival projects. Meanwhile, federal courts continue upholding state and local authority to regulate building emissions, including California's new industrial boiler rules that would slash nitrogen oxide pollution equivalent to half of Los Angeles's vehicle emissions.",
+      "keyTakeaways": [
+        "Palisades represents a new investment thesis: the nuclear restart market. If successful, it could unlock significant capital for decommissioned reactor refurbishment, creating opportunities for specialized contractors and technology providers beyond Holtec.",
+        "Regulatory tailwinds are shifting. The Trump administration's support for nuclear restarts contrasts with aggressive appliance efficiency rollbacks, signaling investors should focus on nuclear and traditional energy infrastructure while avoiding regulated building efficiency plays.",
+        "State-level environmental regulation is proving durable. Federal court victories for California, New York, Maryland, and D.C. building emission rules suggest long-term policy stability for decarbonization technologies targeting commercial real estate infrastructure, despite federal-level pushback."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "\u2018A Watershed Moment\u2019\u00a0"
+    },
+    {
+      "id": "72b55746",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "South Korean regulators are planning sanctions against MBK Partners, the country's largest PE firm, over its handling of a failed $6 billion Homeplus acquisition, potentially deterring PE investment in the region just as Japan becomes more PE-friendly. Meanwhile, defense contractors are aggressively consolidating autonomous maritime technology assets, with Lockheed Martin acquiring Ultra Maritime for $3.45 billion and Thales buying Exail Technologies for \u20ac3.9 billion, as undersea autonomous weapons demand surges.",
+      "keyTakeaways": [
+        "South Korean regulatory hostility toward PE could drive capital reallocation away from the market\u2014MBK's potential sanctions, even if limited in scope, signal government skepticism of standard PE restructuring practices and may chill fundraising for established firms in the region.",
+        "Unprecedented government coordination against a single PE firm mirrors the Coupang precedent and suggests systemic policy risk for PE operators in South Korea, making neighboring markets like Japan relatively more attractive for dealmaking.",
+        "Defense mega-deals in autonomous maritime systems indicate a shift from aerial to subsurface drone consolidation as geopolitical tensions (Strait of Hormuz) drive military procurement priorities\u2014investors should watch for further roll-ups in naval tech and autonomous weapons platforms."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Korea vs. PE"
+    },
+    {
+      "id": "bd3fffd6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "An MIT research paper argues that the U.S. energy transition remains largely on track with the trajectory established by the Inflation Reduction Act, despite changes in presidential administration. The analysis suggests that Biden-era clean energy policies are proving resilient and continuing to drive investment momentum in the sector.",
+      "keyTakeaways": [
+        "IRA-backed clean energy investments show institutional resilience independent of political leadership changes, indicating sustained capital deployment in solar, wind, batteries, and EV infrastructure regardless of policy shifts",
+        "Portfolio companies in clean energy sectors backed by IRA tax credits and funding mechanisms have stronger downside protection than previously assumed, reducing policy risk for growth and venture investors",
+        "The energy transition's self-reinforcing economics\u2014driven by falling technology costs, supply chain buildout, and private sector momentum\u2014may matter more than headline political rhetoric, reshaping how investors should model long-term clean tech returns"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Biden\u2019s Clean Energy Buildout Alive Under Trump"
+    },
+    {
+      "id": "4b873bec",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new MIT study finds that despite Trump's One Big Beautiful Bill Act curtailing clean energy tax credits and eliminating EV incentives, approximately two-thirds of the power-sector emissions reductions expected under Biden's Inflation Reduction Act will still occur. The research suggests the IRA successfully accelerated wind, solar, and storage investment in the U.S., though the tax credits' persistence through the end of the decade means both regulatory scenarios contain substantial portions of Biden's climate policies.",
+      "keyTakeaways": [
+        "The Inflation Reduction Act's core achievement\u2014spurring measurable investment in renewable energy infrastructure\u2014appears durable across political administrations, suggesting that once clean energy deployment reaches critical mass, it becomes economically self-sustaining and harder to reverse.",
+        "Investors should recognize that wind and solar tax credits remaining in force through 2030 create a floor for continued clean energy capital flows regardless of policy changes, reducing regulatory uncertainty for long-duration infrastructure investments in these sectors.",
+        "The resilience of climate policy's economic benefits suggests future administrations face structural constraints in rolling back green energy deployment, signaling that clean tech remains a defensible long-term investment thesis despite near-term policy volatility."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Biden\u2019s Climate Law Is Stickier Than It Seems"
+    },
+    {
       "id": "1ef727ef",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10293,22 +10419,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 65
+      "count": 66
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 233
+      "count": 236
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 221
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 23
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 218
     },
     {
       "name": "Deep Tech & Science",
@@ -10321,5 +10447,5 @@
       "count": 20
     }
   ],
-  "lastUpdated": "2026-07-06T11:22:44.817727Z"
+  "lastUpdated": "2026-07-07T10:19:12.900773Z"
 }
