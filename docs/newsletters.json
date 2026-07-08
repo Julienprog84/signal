@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "9e91e26e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's midyear update addresses how US private equity is navigating 2026 volatility amid tariffs, geopolitical conflicts, and AI disruption after the historic deal activity of 2025. The report revisits key questions about LBO momentum, exit capacity relative to 2025 peaks, and the consolidation trends among top PE managers. Sponsors are expected to adapt their strategies, with the report providing updated H1 data and revised projections for the second half of 2026.",
+      "keyTakeaways": [
+        "LBOs appear to be gaining momentum in PE despite macro headwinds\u2014investors should assess whether sponsor playbooks are successfully shifting toward leveraged deals in this volatile environment.",
+        "Exit activity may face pressure in H2 2026 after record 2025 volumes; capital allocators should calibrate LP distributions and deployment timelines based on whether deal flow can sustain previous highs.",
+        "PE manager consolidation is reshaping fund hierarchy\u2014limited partners need to evaluate how concentration among top-tier firms affects deal access, fee structures, and competition for assets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Midyear Outlook: Adjust your US PE strategy with our midyear report"
+    },
+    {
+      "id": "09a4fa92",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-08",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French politician Bruno Retailleau unveiled a \u20ac25 billion AI investment plan at Station F's Machina Summit, positioning AI as a tool for state transformation. Simultaneously, Polytechnique Ventures is dedicating 5% of its latest fund to pre-seed deeptech startups with tickets between \u20ac50,000-\u20ac200,000, while European AI startups are moving beyond prototypes into production phase, with cloud infrastructure from AWS and NVIDIA emerging as the primary acceleration lever for continental innovation.",
+      "keyTakeaways": [
+        "France is committing substantial public capital (\u20ac25B) to AI development, signaling major government backing for the sector and potential downstream opportunities for startups aligned with state priorities",
+        "Early-stage funding is becoming more accessible at pre-seed stage (\u20ac50K-\u20ac200K tickets), creating expanded entry points for deeptech founders and suggesting tier-2 VCs are filling gaps left by traditional seed rounds",
+        "European AI infrastructure dependency on US cloud providers (AWS, NVIDIA) indicates European startups require significant capex for compute, creating potential competitive disadvantages and suggesting opportunities in European cloud/infrastructure alternatives"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "08.07 - Bruno Retailleau pr\u00e9sente son plan \u00e0 25 milliards pour l\u2019IA"
+    },
+    {
+      "id": "e8f83994",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "FlexGen has released a white paper addressing critical energy infrastructure challenges facing AI data centers, arguing that battery-centric, software-controlled power architectures are essential as data center buildout outpaces grid capacity. The report identifies four major energy challenges: traditional interconnection timelines that can't keep pace with AI demand, power quality risks from volatile AI training workloads, complexity of coordinating multiple power assets in real time, and the need to rethink UPS and rack-level power architecture as compute density increases.",
+      "keyTakeaways": [
+        "Battery-centric power systems represent a foundational shift in data center infrastructure, suggesting significant near-term capital requirements for companies providing distributed energy storage, power orchestration software, and grid integration solutions.",
+        "The mismatch between data center buildout speed and grid interconnection timelines creates a structural market opportunity for on-site power solutions, potentially enabling rapid deployment without waiting for utility upgrades.",
+        "AI workload volatility is creating new infrastructure requirements that traditional UPS and backup power systems cannot handle, indicating consolidation opportunities for vendors who can provide software-orchestrated, multi-asset power management platforms at scale."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "How battery-centric power is solving the data center crunch"
+    },
+    {
+      "id": "fc745d75",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US private equity exits plummeted 46% quarter-over-quarter to $102.6 billion in Q2 2026, with M&A asset sales to corporates falling 63% as multiple arbitrage opportunities disappear in a higher interest rate environment. PE firms are increasingly turning to IPOs as an alternative exit route, with public offerings doubling to 12 deals in Q2 and now representing 31% of total PE exit value. Apollo Global Management's Hybrid Value strategy, which combines debt and equity characteristics, is gaining traction as PE managers seek liquidity solutions beyond traditional M&A.",
+      "keyTakeaways": [
+        "M&A exit channels are severely constrained: sponsor-to-sponsor sales hit a decade low with only 94 deals in Q2, forcing PE managers to explore alternative exit strategies like IPOs and hybrid structures rather than relying on traditional peer sales.",
+        "The IPO market is emerging as a critical relief valve for PE: 12 portfolio companies went public in Q2 with $27.6 billion in valuations, more than doubling from Q1 and capturing nearly a third of all PE exit value as the traditional playbook breaks down.",
+        "The era of easy returns through leverage and multiple expansion has ended: PE firms must now demonstrate genuine operational improvement and value creation within finite fund lives, making deal selection more disciplined and alternative structures like hybrid investing increasingly attractive."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE exits fall 46%"
+    },
+    {
+      "id": "23803a5b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Super.com, a Toronto-founded savings app targeting middle and lower-income Americans, raised $65 million in Series D funding led by TPG, valuing the company at $1.2 billion. The platform operates as a membership service (Super+) offering hotel discounts, cashback, prescription savings, and credit-building tools for $15 monthly, and has attracted nearly one million members who have collectively saved over $1 billion. The round reflects strong unit economics with the company surpassing $200 million net revenue, 50% year-over-year growth, and profitability, positioning it against established competitors like Rakuten and Chime in a personal finance market projected to reach $173.6 billion by 2035.",
+      "keyTakeaways": [
+        "Super.com has cracked a massive underserved market: 100-150 million Americans earning under $100,000 household income who were excluded from premium credit card rewards programs. A Series D at $1.2B valuation with profitability and $200M+ revenue demonstrates strong product-market fit in fintech's middle-market segment.",
+        "The shift from premium-focused loyalty programs to mass-market savings is reshaping consumer finance competition. TPG's participation and high-profile board additions (Shopify's president as observer, ex-Uber/Bird product leader) signal institutional conviction that mainstream savings apps represent significant capital allocation opportunity versus saturated premium segments.",
+        "The personal finance apps market is projected to grow 5.5x to $173.6 billion by 2035, but winner-take-most dynamics are intensifying with established players (Rakuten, Capital One, Chime) competing for wallet share. Super.com's NASCAR partnership and emphasis on accessibility suggest differentiation through cultural positioning and consumer trust rather than feature parity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Wallet relief"
+    },
+    {
+      "id": "c0369b6f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Eleven Western U.S. governors have committed to accelerating electrical grid expansion through the Western Transmission Expansion Coalition, with a new MIT study suggesting that 74% of clean energy capacity planned under Biden administration policies will still be built under Trump's framework by 2035. Federal regulators are overwhelmed with project approvals, creating bottlenecks even for critical $2 billion infrastructure investments in stressed grid systems.",
+      "keyTakeaways": [
+        "Regional grid infrastructure represents a $60 billion investment opportunity over the next decade, with bipartisan political support from Republican and Democratic governors making permitting acceleration a realistic near-term catalyst for transmission companies and developers.",
+        "The MIT study's finding that clean energy buildout remains 74% on track despite policy shifts suggests renewable and nuclear energy investments are less politically vulnerable than perceived, reducing regulatory risk for long-duration energy infrastructure plays.",
+        "Regulatory bottlenecks at FERC and other agencies represent a systemic constraint on grid modernization, creating potential opportunities for companies that can navigate permitting faster or for policy-focused advisory firms specializing in energy infrastructure approval processes."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Go West, Young Man"
+    },
+    {
+      "id": "04e852f3",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Microsoft is sharply pivoting away from gaming M&A after years of aggressive acquisitions, divesting five studios and acknowledging it lost 64 cents per dollar invested in small and mid-sized game studios, signaling a potential market reset for gaming-focused startups and their backers. Meanwhile, European fusion energy is attracting record venture capital with Proxima Fusion's \u20ac411 million raise at a \u20ac2.4 billion valuation, positioning the continent to compete with U.S. and Chinese innovation in the sector.",
+      "keyTakeaways": [
+        "Microsoft's retreat from gaming M&A after $70+ billion in acquisitions represents a major demand shock for gaming studio founders and their VC investors\u2014expect reduced exit multiples and slower acquisition activity in this vertical going forward.",
+        "The gaming divestiture strategy (returning studios to founders or finding new buyers) may create alternative acquisition opportunities for non-tech strategic buyers and smaller PE/VC firms willing to operate at lower-margin profiles.",
+        "European fusion energy is consolidating venture capital with a single round now exceeding \u20ac400 million, suggesting institutional VCs are betting heavily on non-U.S. fusion plays as geopolitical and regulatory incentives shift; U.S. IPOs like Standard Nuclear's $3.7B valuation indicate sector maturation."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 3,
+      "originalTitle": "Axios Pro Rata: M\u274cA"
+    },
+    {
+      "id": "de5f6c26",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-07-07",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Enterprise AI deployment is moving beyond failed Copilot rollouts toward comprehensive workflow re-engineering, creating significant demand for systems integrators and strategy consultants. Anthropic's export controls were lifted while OpenAI faces ongoing restrictions, highlighting the political volatility affecting AI lab access. Meta is planning an enterprise cloud business to monetize potentially over-built AI compute capacity.",
+      "keyTakeaways": [
+        "AI deployment companies and systems integrators will capture substantial value as enterprises shift from point solutions to full workflow transformation\u2014this is a multi-year, labor-intensive process that creates recurring revenue opportunities for consulting and integration services.",
+        "US government policy on AI model exports is unpredictable and weaponized based on political winds, creating existential business risk for AI labs; investors should discount the stability of market access for frontier models and consider jurisdictional diversification.",
+        "Meta's planned enterprise cloud rental business reveals how capital-intensive AI infrastructure plays may pivot to infrastructure-as-a-service if compute demand disappoints, indicating potential margin compression and competitive shifts in the AI compute market."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 650"
+    },
+    {
+      "id": "b0551cd6",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity firms are deeply embedded in Formula 1's supply chain beyond traditional team ownership, with portfolio companies like Greybull Capital's Motion Applied, KKR-backed Spectris (VI-grade), and Middleground Capital's Xtrac controlling critical components. PE ownership of F1 teams includes Dorilton Capital's majority stake in Williams Racing and Arctos Partners' minority position in Aston Martin, while Apple's new $140-160 million annual distribution deal lacks published viewership metrics, creating uncertainty around streaming viability for premium sports content.",
+      "keyTakeaways": [
+        "PE investors should consider vertical integration opportunities in F1's supply chain, where publicly traded industrial manufacturers (Brembo, Pirelli, Hexcel) still dominate but privately-held suppliers control critical components\u2014this represents acquisition targets with recurring revenue from long-term team contracts.",
+        "Team ownership in F1 carries strategic value beyond financial returns; it provides premium networking access and brand positioning for PE firms managing high-net-worth portfolios, as evidenced by Carlyle's Red Bull Racing partnership and hospitality activations.",
+        "The Apple streaming deal's lack of transparent viewership data signals a broader problem in sports media valuation\u2014PE investors betting on sports content should demand independent measurement standards before committing to long-term distribution partnerships."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Green flag"
+    },
+    {
+      "id": "6ca73f51",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rivian is preparing to begin serious construction on its second factory near Atlanta after securing a $4.5 billion Energy Department loan under revised Trump-era terms that allow faster capital draws. The company raised over $1 billion through a stock offering to fund escrow requirements, positioning it to start vertical construction in late 2026 with vehicle production expected by late 2028, marking a critical milestone for the EV startup's survival and growth strategy.",
+      "keyTakeaways": [
+        "Rivian's 18% stock drop was strategic, not catastrophic\u2014the company capitalized on a 37% rally to raise $1B+ in dilutive equity while securing federal loan mechanics, demonstrating sophisticated capital stack management during a funding-critical phase.",
+        "The Energy Department loan restructuring under Trump shows continued federal support for domestic EV manufacturing despite policy uncertainty, though at lower initial amounts ($4.5B vs. initially negotiated levels), suggesting selective rather than blanket backing for startups.",
+        "A second factory with 40% more capacity than its Illinois plant positions Rivian to scale production of its R2 SUV line\u2014a critical test of whether this startup can achieve profitability at volume, making 2027-2028 construction and 2028 production timelines key de-risking inflection points."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Rivian Is Close to Building Its Second Factory"
+    },
+    {
       "id": "a41cc354",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10417,19 +10597,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 66
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 236
+      "count": 241
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 67
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 221
+      "count": 224
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 21
     },
     {
       "name": "Fintech",
@@ -10440,12 +10625,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 14
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 20
     }
   ],
-  "lastUpdated": "2026-07-07T10:19:12.900773Z"
+  "lastUpdated": "2026-07-08T09:21:35.047110Z"
 }
