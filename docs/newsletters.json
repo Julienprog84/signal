@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "277b65b7",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-09",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Nvidia has invested in European AI infrastructure company Gradium, which has raised over $100 million and is expanding to Silicon Valley. The newsletter covers a broader European deeptech ecosystem including SambaNova's \u20ac1 billion funding round to rival Nvidia, regulatory compliance tools like Naaia's \u20ac6 million Series A, and emerging discussions around French AI sovereignty and strategic dependency management.",
+      "keyTakeaways": [
+        "Major US tech players (Nvidia, Intel) are directly investing in European AI infrastructure companies, signaling consolidation in the hardware/compute layer critical to AI development",
+        "Regulatory compliance is becoming a venture-fundable category\u2014Naaia's \u20ac6M raise shows EU AI Act implementation creates market opportunities for governance-focused startups",
+        "European deeptech ecosystem is maturing across robotics, semiconductors, and SaaS (Planity reached profitability after 10 years), but faces sovereignty questions requiring strategic capital allocation and public procurement leverage"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "09.07 - IA : Nvidia investit dans Gradium !"
+    },
+    {
+      "id": "0146ac67",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Evergreen fund outflows, while capturing headlines as a crisis, represent a normal market cycle stress test rather than systemic risk, according to PitchBook analysis. Redemptions have concentrated in private credit funds amid AI-driven software market concerns, but withdrawal caps are functioning as designed, and the broader evergreen fund universe ($600B+ in net assets) remains stable with healthy flows into equity strategies totaling nearly $25B year-to-date. The newsletter also highlights strong alternative fundraising momentum, including Arctos' $6.2B debut GP financing fund and emerging quantum computing opportunities like Oratomic's $300M Series A.",
+      "keyTakeaways": [
+        "Evergreen fund redemptions are a predictable lifecycle event, not a contagion risk\u2014performance metrics will be the key determinant of flow stabilization, which could take over a year with possible selective fund failures along the way",
+        "Private credit exposure to software companies facing AI disruption is driving concentrated outflows, but equity-focused interval and tender offer structures are capturing healthy capital flows, suggesting investor selectivity rather than broad deleveraging",
+        "The $600B+ evergreen fund universe and recent fundraising success in non-'40-Act structures demonstrate lasting investor appetite for perpetual capital vehicles despite near-term redemption noise"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Evergreen fund outflows are no crisis"
+    },
+    {
+      "id": "8df18b62",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe's extreme heat waves killed thousands in June 2026, with France experiencing approximately 2,700 heat-related deaths and Germany recording over 5,000 excess deaths, sparking political debate over air conditioning adoption and energy policy. The U.S. gas boom is accelerating dramatically, with the Energy Information Administration's forecasts for new gas plant capacity nearly tripling from initial 2025 predictions, even as global demand contracts. The newsletter covers climate impacts, energy infrastructure shifts, and emerging investment opportunities in cooling technology and fossil fuel expansion.",
+      "keyTakeaways": [
+        "Extreme heat mortality in Europe is creating a political opening for far-right parties championing air conditioning and energy expansion, signaling potential market demand for cooling infrastructure and technology startups addressing climate adaptation.",
+        "U.S. natural gas capacity forecasts are being dramatically revised upward despite global demand contraction, indicating policy shifts under the Trump administration are driving significant capital reallocation toward fossil fuel infrastructure investments.",
+        "The climate adaptation gap in Europe\u2014particularly around cooling technology\u2014represents an underexploited investment sector as demographic vulnerability to heat intensifies and political pressure mounts to expand air conditioning access across the continent."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Europe\u2019s Heat Deaths"
+    },
+    {
+      "id": "3a96cf89",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Outlander VC partners Paige and Leura Craig have developed a 38-point founder assessment framework across four domains\u2014vision, intelligence, character, and execution\u2014to identify generational entrepreneurs early. The framework, refined from an initial 14 points in 2014, emphasizes character and execution through intensive 15-20 hour due diligence processes using intelligence-gathering techniques, with the firm having backed 18 unicorns including Scale, SpaceX, and Gusto.",
+      "keyTakeaways": [
+        "Early-stage VCs should systematize founder evaluation using explicit frameworks that define excellence through shared vocabulary\u2014Outlander's approach demonstrates that repeatable assessment criteria significantly outperform gut instinct, particularly when emphasizing character traits like fortitude and irrational optimism.",
+        "Deep qualitative due diligence through 15-20 hour founder assessments using conversational elicitation tactics yields predictive signal that traditional pitch meetings cannot capture; firms should train teams in structured intelligence-gathering methods rather than relying on polished founder narratives.",
+        "Character and execution are statistically more predictive of founder success than pedigree, degrees, or product-market fit at founding\u2014this reframes founder selection away from traditional signals (Stanford, previous exits) toward behavioral and psychological traits that correlate with surviving startup attrition."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "The 38-point founder test"
+    },
+    {
+      "id": "b8e70cce",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-08",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Maple cofounder Joe Flanagan discusses the company's seven-year journey building in crypto through market cycles, highlighting increased institutional adoption of cryptocurrency and stablecoins. The interview covers Maple's recent partnership with Robinhood, signaling growing mainstream fintech integration with crypto infrastructure platforms.",
+      "keyTakeaways": [
+        "Institutional cryptocurrency adoption is accelerating, with partnerships like Maple-Robinhood indicating that legacy fintech platforms are integrating crypto infrastructure rather than competing separately",
+        "Long-term crypto infrastructure plays that survive multiple market cycles are positioning themselves as critical middleware for institutional capital entry\u2014relevant for identifying durable fintech investments",
+        "Stablecoin adoption alongside cryptocurrency suggests regulatory clarity and institutional comfort are advancing, creating expansion opportunities for platforms facilitating crypto-to-traditional finance bridges"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 37,
+      "originalTitle": "Interview: Maple Cofounder Joe Flanagan"
+    },
+    {
+      "id": "69c3317e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "An AI startup founder who raised $60 million from top-tier investors including Bessemer Venture Partners and Palantir secretly pleaded guilty to insider trading in June 2025, with federal prosecutors recommending two years in prison\u2014raising serious questions about whether major VCs and strategic partners like McKinsey and EY knew about the charges before announcing partnerships and funding. Meanwhile, Italy's UniCredit has secured 47.6% of German lender Commerzbank through a tender offer, positioning itself for what could be Europe's largest bank merger in nearly two decades, setting up a potential clash between Germany's government and the European Central Bank over cross-border consolidation.",
+      "keyTakeaways": [
+        "Due diligence gaps are widening: sealed court documents allowed a founder with admitted securities fraud to continue fundraising and securing partnerships months after his guilty plea, suggesting VCs and strategic partners may need enhanced background checks beyond public records.",
+        "Investor liability exposure is growing: firms like Bessemer, Palantir, McKinsey, and EY now face reputational and potential legal risks if they knowingly invested or partnered with a convicted insider trader, or face credibility damage if they claim ignorance.",
+        "Bank consolidation in Europe is accelerating despite political resistance: regulatory appetite from the ECB for cross-border M&A is overriding government opposition, signaling a structural shift in European financial services that could reshape competitive dynamics and create consolidation arbitrage opportunities."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Unsealed skulduggery"
+    },
+    {
+      "id": "df887b69",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Duke Energy proposed a new large load tariff for customers using 50+ megawatts, requiring 10-15 year contracts with 75% minimum demand charges and early exit penalties of 25% of remaining bills. The tariff is considered \"light-touch\" compared to competitors like Dominion Energy in Virginia, which requires 85% transmission/distribution demand and $1.5 million per MW in collateral, raising concerns that Duke's approach may not adequately isolate data center costs from other large industrial users.",
+      "keyTakeaways": [
+        "Duke Energy's tariff structure (75% minimum vs. Dominion's 85%) creates potential market arbitrage opportunities\u2014data centers may choose Duke territories over Virginia, affecting regional utility economics and renewable energy infrastructure investment priorities.",
+        "The tariff's failure to create a separate data center rate class leaves cost-shifting risk for residential customers; investors should monitor regulatory outcomes as this becomes a template for other utilities facing similar large load customer influx.",
+        "The 8 GW forecasted demand from large customers in Carolinas by 2035 signals a major infrastructure buildout opportunity, but tariff design will determine which companies (generators, grid operators, transmission developers) capture value versus pass costs to consumers."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "The problem with Duke Energy\u2019s large load tariff"
+    },
+    {
+      "id": "84443e9a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Two former defense officials argue that electric vehicle manufacturer Rivian holds strategic importance comparable to SpaceX for U.S. national security. The piece, published by Heatmap News on July 8, 2026, reframes EV development as a critical defense technology rather than purely an environmental initiative, suggesting government support for domestic EV production may be justified on national security grounds.",
+      "keyTakeaways": [
+        "EV manufacturers like Rivian are gaining credibility as strategic national security assets, potentially opening new pathways for government funding, policy support, and de-risking of capital investments in the sector",
+        "The defense-technology framing could shift institutional capital allocation toward EV companies, attracting defense-focused investors and spurring geopolitical competition in EV supply chains and battery technology",
+        "Energy independence and supply chain resilience are becoming primary national security concerns, elevating the importance of domestic EV manufacturing capacity and potentially justifying protectionist policies or subsidies that reshape competitive dynamics"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Ideas: Electric Vehicles Are a Defense Technology"
+    },
+    {
+      "id": "9d0b0e16",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. has resumed bombing Iran after a ceasefire collapsed, with President Trump claiming the conflict will be brief despite lacking clear control over its duration. Iran has gained leverage by closing the Strait of Hormuz and developing infrastructure to toll shipping, transforming a critical chokepoint into a sustained economic weapon that keeps global oil prices elevated at $80 Brent and $74 WTI.",
+      "keyTakeaways": [
+        "Energy investors should anticipate sustained oil price premiums of $70-80+ per barrel as long as the Strait of Hormuz remains contested; Iran's newfound ability to enforce tolls creates structural price support independent of U.S. military objectives",
+        "Short-term energy stocks and oil majors benefit from elevated prices, but the unpredictability of conflict duration makes long-term energy infrastructure investments riskier; renewable energy and decarbonization initiatives face headwinds from sustained high fossil fuel costs",
+        "Geopolitical risk has fundamentally shifted: Iran's control over a critical shipping chokepoint gives it asymmetric leverage over the global economy regardless of military outcomes, suggesting investors should hedge against prolonged energy cost inflation and potential supply disruptions"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Trump Isn\u2019t \u2018Looking for Long Term\u2019 in Iran"
+    },
+    {
       "id": "9e91e26e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -10597,19 +10759,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 241
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 67
+      "count": 68
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 244
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 224
+      "count": 228
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 24
     },
     {
       "name": "Strategy & Thesis",
@@ -10617,15 +10784,10 @@
       "count": 21
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 23
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 14
     }
   ],
-  "lastUpdated": "2026-07-08T09:21:35.047110Z"
+  "lastUpdated": "2026-07-09T10:18:54.525641Z"
 }
