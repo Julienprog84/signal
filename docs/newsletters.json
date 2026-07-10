@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e2390636",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac4.6 billion in the first half of 2026, a 65% year-over-year increase according to EY's latest venture capital report, but this rebound masks a concerning underlying trend: the growth is concentrated in a handful of mega-rounds while the total number of financing operations continues to decline. France remains positioned behind the UK and Germany in the European VC landscape, raising questions about the sustainability and breadth of its startup ecosystem.",
+      "keyTakeaways": [
+        "Mega-round concentration risk: the 65% funding increase is driven by a small number of large deals rather than broad-based capital deployment, suggesting potential overvaluation and reduced deal flow velocity across the broader market",
+        "Declining deal count despite nominal growth indicates a shrinking investor base or increasingly selective capital allocation\u2014VCs and growth funds should assess whether follow-on funding opportunities for mid-stage companies are becoming scarcer",
+        "France's lagging position relative to UK and Germany competitors suggests potential talent and capital flight, with implications for European VC fund positioning and the competitive positioning of French-backed companies in cross-border expansion"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "10.07 - Lev\u00e9es de fonds : ce que cache le rebond du premier semestre 2026"
+    },
+    {
+      "id": "efa556ea",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Record VC exits totaling $2.19 trillion in H1 2026 are concentrating wealth among established venture firms, as LP liquidity constraints force capital allocation toward larger, proven managers rather than emerging funds. Experienced firms captured 89% of all VC commitments and 62.2% of funds closed in H1 2026, while smaller and newer managers\u2014critical for pre-seed and seed investing\u2014face a fundraising squeeze. Meanwhile, Blue Origin is raising $10 billion at $130 billion valuation with outside investors for the first time, and Japanese PE dealmaking is booming despite local companies remaining skeptical of equity financing.",
+      "keyTakeaways": [
+        "LP dry powder constraints are creating a structural bias toward mega-funds and established managers, potentially starving the early-stage ecosystem of capital and threatening the pipeline of next-generation venture investors.",
+        "The concentration of exit liquidity among a small number of companies means most portfolio companies are not returning capital to LPs, forcing them to consolidate fund exposure and cut exposure to emerging and specialized managers.",
+        "Market consolidation around incumbent VC firms may reduce innovation and diversity in venture investing at a critical time when technological advancement and emerging sectors require fresh perspectives and specialized expertise."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Record VC exits don't help all"
+    },
+    {
+      "id": "72c58b0d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Global nuclear capacity is projected to surge 44% by 2035 to 535 gigawatts, driven primarily by China's rapid reactor construction, positioning the country to overtake the U.S. as the world's leading nuclear power by 2030. The U.S., Japan, and South Korea have signed a trilateral memorandum to jointly commercialize small modular reactor technologies, signaling a competitive shift in nuclear energy leadership and potential investment opportunities in advanced reactor development.",
+      "keyTakeaways": [
+        "China's dominance in nuclear capacity is accelerating\u2014it will surpass the U.S. by 2030 with 102 gigawatts, creating urgency for Western nations and investment in competing technologies like SMRs to maintain energy independence and geopolitical influence",
+        "The U.S.-Japan-South Korea nuclear partnership represents a strategic opening for investors in small modular reactor companies and supply chain firms supporting next-generation nuclear technology commercialization",
+        "Oil price volatility triggered by Iran-U.S. conflict resumption underscores the geopolitical risk premium on fossil fuels, strengthening the economic case for nuclear energy investment as a stable, long-term energy alternative"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "A Global Nuclear Renaissance"
+    },
+    {
+      "id": "581e66e3",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Mercor, a $10 billion AI unicorn founded by 23-year-old Brendan Foody, acquired Deeptune, an Andreessen Horowitz-backed startup that builds simulation environments for AI agent training. Foody had quietly invested as an angel in Deeptune's $43 million Series A three months prior, signaling a strategic acquisition play. The deal positions Mercor to control the full stack of AI training infrastructure\u2014from domain expert task-building to realistic software simulation environments\u2014as frontier labs like Anthropic and OpenAI increasingly require digital replicas of enterprise applications for agent practice.",
+      "keyTakeaways": [
+        "Mercor's acquisition strategy reveals insider deal-making: founder Foody invested as an angel investor three months before acquiring the target, gaining front-row access while a16z funded the eventual acquisition target. This raises questions about information asymmetries and fair valuation in high-growth AI companies.",
+        "The combined entity controls critical infrastructure for AI agent training\u2014Mercor's five million domain experts create tasks while Deeptune provides the simulation environments. This vertical integration across the training pipeline creates significant switching costs and defensibility for customers like Anthropic, OpenAI, and reportedly all Mag Seven companies except Tesla.",
+        "Mercor's resilience post-breach (March data exfiltration of four terabytes including sensitive contractor and client data) demonstrates that frontier labs have limited alternatives for AI training infrastructure at scale\u2014the company doubled ARR to $2 billion despite the security incident, suggesting the market will tolerate significant risk if alternatives are scarce."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Mercor\u2019s next move"
+    },
+    {
+      "id": "b1487303",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. venture capital disbursements hit a record $412.7 billion in H1 2026, up 29% from all of 2025 and 15% above the previous 2021 peak, driven largely by mega-rounds over $100 million. In a notable asset management deal, B Capital and CalPERS agreed to acquire Russell Investments, the 90-year-old asset manager, for approximately $2.8 billion from private equity firms TA Associates and Reverence Capital Partners, signaling a trend of venture capital firms acquiring legacy financial services businesses seeking AI-driven growth.",
+      "keyTakeaways": [
+        "Mega-round concentration is extreme: 81% of H1 2026 VC dollars went to rounds of $100 million or larger, with seven unicorn-creating rounds in Q2 alone, suggesting capital is clustering around late-stage and proven winners rather than distributing across early-stage companies.",
+        "Asset management M&A is accelerating as legacy financial services businesses turn to venture-backed acquirers for growth solutions, indicating VCs see artificial intelligence and operational transformation as the path to revitalize mature, fee-compressed industries\u2014a pattern likely to repeat across other traditional sectors.",
+        "The government's shift toward strategic equity investments in frontier AI labs, semiconductors, and rare earths manufacturing (under the current administration) represents a structural change in how public capital allocation works, removing the partisan stigma around picking winners and losers that once plagued Solyndra."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: VC record-stomper"
+    },
+    {
+      "id": "9039540c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza, a solar market intelligence platform, is offering a free sample of its Anza Pulse data product that tracks real-time pricing for U.S.-assembled solar modules, Foreign Energy Object Content (FEOC) policy compliance, and supplier financial health metrics. The offering highlights growing demand for granular supply chain data in the domestic solar market, particularly around regulatory compliance and tariff exposure as U.S. policy increasingly favors domestic content in clean energy manufacturing.",
+      "keyTakeaways": [
+        "Market intelligence platforms are becoming critical infrastructure for solar developers navigating complex domestic content regulations and tariffs; companies offering real-time pricing transparency and FEOC compliance tracking have significant B2B SaaS expansion potential.",
+        "The emphasis on supplier bankability, FEOC compliance, and domestic content indicates that supply chain resilience and regulatory navigation are now primary cost drivers for project development\u2014creating investment opportunities in companies serving these needs.",
+        "U.S. domestic solar manufacturing is consolidating around policy-compliant production; intelligence platforms tracking supplier viability and tariff dynamics suggest the market is transitioning from cost-driven to compliance-driven competition."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "FEOC-compliant and domestic content solar pricing and suppliers |\r\n Intel inside"
+    },
+    {
+      "id": "000f8796",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Microsoft's carbon emissions surged 25% year-over-year in fiscal 2025, reaching 21 million tons of CO2 equivalent, marking the largest single-year increase since the pandemic. The spike is driven primarily by massive electricity consumption for AI data centers, which jumped over 24% and grew from 2% to 13% of the company's total carbon footprint. The report reveals Microsoft is facing mounting pressure on water resources and local opposition to data center development, raising questions about the sustainability of its AI infrastructure ambitions.",
+      "keyTakeaways": [
+        "Major tech companies' climate commitments are straining under AI infrastructure demands\u2014Microsoft's 25% emissions jump despite being considered a climate leader suggests the AI boom may be fundamentally incompatible with near-term decarbonization goals, creating downside risk for ESG-focused investors in mega-cap tech.",
+        "Water scarcity is becoming a critical constraint for data center expansion: Microsoft's first-ever water replenishment milestone signals escalating local opposition and regulatory risk that could slow or redirect capital deployment in AI infrastructure buildouts.",
+        "The gap between corporate measurement methodologies matters: Microsoft's 20 million vs. 21 million ton figures show companies are using accounting flexibility to present more favorable climate narratives, suggesting reported ESG progress should be viewed with skepticism and standardized metrics are needed for comparative analysis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Microsoft\u2019s Emissions Surged Last Year"
+    },
+    {
       "id": "277b65b7",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10761,17 +10887,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 68
+      "count": 69
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 244
+      "count": 247
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 228
+      "count": 231
     },
     {
       "name": "Fintech",
@@ -10789,5 +10915,5 @@
       "count": 14
     }
   ],
-  "lastUpdated": "2026-07-09T10:18:54.525641Z"
+  "lastUpdated": "2026-07-10T10:15:18.557066Z"
 }
