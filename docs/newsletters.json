@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "6400982e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Global energy sector M&A surged to $217 billion in Q2 2026, growing 62% sequentially and nearly 5x year-over-year, driven primarily by AI data centers' explosive power demands. The $67 billion NextEra Energy-Dominion Energy merger exemplifies the trend, as developers bypass lengthy infrastructure permitting cycles (median 61 months) by acquiring existing power assets and transmission infrastructure. U.S. data center power demand is projected to nearly double from 75.8 gigawatts in 2026 to 134.4 gigawatts by 2030, making M&A the fastest path to securing grid access in high-demand regions like Virginia's 'data center alley.'",
+      "keyTakeaways": [
+        "Energy M&A has become a strategic shortcut for AI infrastructure players: Rather than navigate 5+ years of regulatory approvals for new power plants, acquiring existing assets with established grid connections is now the dominant deal driver in this sector.",
+        "Regional power infrastructure with data center proximity commands premium valuations: Assets in Virginia and other 'data center alley' regions represent critical chokepoints for AI expansion, making geographic transmission control a primary M&A motivation.",
+        "The AI power supply chain is creating a multi-year structural tailwind for energy consolidation: With projected 77% growth in data center power demand through 2030, expect sustained M&A velocity and valuation premiums for energy assets until supply constraints ease."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Energy M&A soars 5x"
+    },
+    {
+      "id": "b11c26fc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers three major climate and energy developments: PJM, the nation's largest power grid operator, shattered its all-time electricity demand record at 168+ gigawatts during a heat wave, with renewable energy playing a crucial stabilizing role. Fervo Energy achieved a significant breakthrough in geothermal drilling, completing a well 35% deeper than previous attempts in just 21 days for its Cape Station project in Utah. India and Australia finalized a major uranium supply deal to support India's aggressive nuclear power expansion plans, positioning New Delhi to compete with China's rapidly growing reactor construction pipeline.",
+      "keyTakeaways": [
+        "Renewable energy and demand-side solutions proved essential during peak demand, suggesting strong market tailwinds for solar, wind, and storage companies while exposing operational constraints in grid infrastructure that will drive significant capex investments.",
+        "Fervo's drilling efficiency gains (same timeline, 35% greater depth, 50% wider laterals) indicate geothermal technology is reaching commercial viability at scale, potentially unlocking a large untapped energy source and attracting capital to the enhanced geothermal systems sector.",
+        "India's uranium deal signals a structural shift in global nuclear fuel markets and indicates emerging markets are willing to commit long-term to nuclear baseload, creating opportunities for uranium miners, enrichment services, and reactor technology providers serving rapid-growth regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "False Summit"
+    },
+    {
+      "id": "9603efbe",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. venture capital deployed a record $412.7 billion in the first half of 2026, but the market is severely bifurcated with 86% flowing to AI deals and 91% to mega-rounds of $100M+. Exit value is dominated almost entirely by SpaceX's $1.7 trillion IPO, $250 billion from xAI, and upcoming $60 billion from Cursor, leaving mid-tier unicorns struggling to access IPO pathways as investment bank resources concentrate on mega-cap companies.",
+      "keyTakeaways": [
+        "Mid-market venture exits are effectively frozen out\u2014unicorns that would have been IPO candidates a decade ago now lack access to top-tier investment bankers and face an existential mismatch between their scale and current public market expectations.",
+        "Capital concentration is structural and persistent: with AI commanding 86% of deployed dollars and mega-rounds dominating allocations, generalist and smaller fund strategies face long-term headwinds and should consider specialized thesis-driven investing or later-stage exposure.",
+        "SpaceX's exit value represents 77% of total 2026 exit liquidity, signaling dangerous concentration risk in the venture ecosystem and highlighting how a single company's public offering can distort return narratives while masking weakness in broader exit environments."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "SpaceX or bust"
+    },
+    {
+      "id": "f94cff9d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Lachy Groom, the Stripe alum and Physical Intelligence co-founder, has raised $600 million across two new VC funds ($300 million each for early and seed-stage deals), bringing his total raised capital to over $2 billion despite maintaining a day job. Coinbase is restructuring its legal and corporate affairs leadership ahead of anticipated crypto regulation passage, with Ryan VanGrack becoming the company's No. 2 executive and signaling that crypto regulation is reaching a bipartisan consensus. The newsletter also highlights tensions around IPO timing in defense tech and emerging concerns about AI agents potentially automating deal negotiations.",
+      "keyTakeaways": [
+        "Solo GPs with strong operating experience and industry credibility can raise substantial capital ($2B+) without traditional VC marketing; Groom's success suggests a shift toward operator-backed vehicles competing with traditional firms.",
+        "Crypto regulatory clarity is now viewed as near-certain by major industry players, prompting companies to restructure for a post-regulation environment\u2014this represents a significant shift from defensive posturing to offensive growth positioning.",
+        "The continued IPO window-avoiding behavior among late-stage tech companies suggests founders prioritize valuation preservation over liquidity, indicating either private market repricing or genuine uncertainty about public market reception despite open windows."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Crypto clarity"
+    },
+    {
+      "id": "004d60d8",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-07-10",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Agricultural genomics is transitioning from theoretical research to commercial application, compressing 30 years of field trials into single growing seasons through AI-driven insights, satellite data, and precision farming techniques. The deep tech landscape is simultaneously advancing across nuclear energy (fourth U.S. reactor startup reached criticality), space infrastructure (first commercial nuclear satellite launched), and biotech (ARPA-H allocated $160 million for custom gene editing drugs), signaling broad capital momentum in hard science sectors.",
+      "keyTakeaways": [
+        "Agrigenomics is moving from R&D to revenue generation with traits expressible in single seasons versus historical 30-year timelines\u2014this represents a significant compression of time-to-market for agricultural biotech companies and creates near-term commercial opportunities in crops, fruits, and forestry.",
+        "Nuclear and space sectors are hitting inflection points: fourth advanced reactor reached criticality, first commercial nuclear satellite is operational, and uranium mining is expanding\u2014indicating policy tailwinds and capital deployment accelerating in energy infrastructure and space commercialization.",
+        "Deep tech across biotech, nuclear, and space is consolidating around AI integration and precision engineering; investors should watch for convergence plays where genomics, satellite data, and computational modeling combine to solve sector-specific problems at scale."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 170: Ag Genomics Begins to Bear Fruit"
+    },
+    {
+      "id": "934a700b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Virginia residents face a dual electricity price shock, with rates jumping 17% year-over-year in June 2026 according to the Electricity Price Hub, with additional increases anticipated. This represents a significant affordability challenge for consumers and signals broader regional energy market pressures.",
+      "keyTakeaways": [
+        "Double-digit utility rate increases in major Eastern markets create investment opportunities in energy efficiency, demand response, and distributed energy solutions as consumers seek cost mitigation strategies",
+        "Rapid rate escalation may accelerate regulatory scrutiny of utility rate structures and spur demand for alternative power generation sources, benefiting renewable energy and microgrid developers",
+        "Compounding price increases suggest structural energy market stress\u2014investors should monitor utility sector fundamentals, grid modernization capex cycles, and residential/commercial energy management technology adoption"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Virginians Are Getting an Electricity Price Doubly-Whammy"
+    },
+    {
+      "id": "5c308911",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Big Tech's carbon emissions are surging unexpectedly, with Microsoft up 25%, Amazon up 16%, and Google up 18% year-over-year, driven primarily by artificial intelligence infrastructure demands rather than just electricity procurement. These three companies control over half of U.S. data center capacity and their emissions trajectories now threaten their aggressive climate commitments\u2014Microsoft's 2030 carbon negative goal, Google's net-zero by 2030 pledge requiring 50% emissions cuts from 2019 levels, and Amazon's 2040 net-zero target.",
+      "keyTakeaways": [
+        "AI infrastructure buildout is creating massive new carbon liabilities for tech giants that weren't anticipated when their climate pledges were made, signaling potential stranded commitments and reputational risk for investors focused on ESG metrics.",
+        "The emissions surge reveals that Big Tech companies are becoming quasi-industrial energy operators rather than pure software companies, creating investment opportunities in carbon removal services, grid modernization, and alternative compute solutions.",
+        "With Amazon, Google, and Microsoft controlling majority data center capacity, their inability to decouple AI growth from emissions growth suggests the broader tech sector faces a structural carbon problem that could reshape competitive dynamics and regulatory pressure across cloud computing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: It\u2019s Not Just Electricity"
+    },
+    {
       "id": "e2390636",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -10885,19 +11011,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 69
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 247
+      "count": 250
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 231
+      "count": 234
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 15
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 69
     },
     {
       "name": "Fintech",
@@ -10908,12 +11039,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 21
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 14
     }
   ],
-  "lastUpdated": "2026-07-10T10:15:18.557066Z"
+  "lastUpdated": "2026-07-11T08:42:36.147503Z"
 }
