@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "02533dfb",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital has fundamentally transformed from a $40 billion market in 2008 to $412.7 billion invested in just the first half of 2026, with companies like SpaceX, OpenAI, and Anthropic staying private longer and reaching $1 trillion valuations. The industry's evolution reflects structural changes\u2014larger deal sizes, higher valuations, and institutional capital entry\u2014that represent permanent market maturation rather than temporary froth that will normalize. Three mega-exits (if OpenAI and Anthropic go public) will generate more value than all VC-backed exits since 2000, cementing large institutional players as permanent fixtures in venture investing.",
+      "keyTakeaways": [
+        "The VC market will not revert to its pre-2008 cottage industry structure; institutional capital is now permanently embedded in venture investing due to the scale of returns being generated, requiring investors to adjust expectations about market composition and deal dynamics.",
+        "Capital concentration is accelerating with fewer, larger checks going to AI companies, while non-AI startups face more selective funding\u2014this bifurcation means founders must reassess valuation timing and exit strategies as liquidity windows narrow for non-AI sectors.",
+        "The power law is becoming more extreme; three companies will soon represent more exit value than two decades of venture returns, signaling that the ability to stay private longer has become a competitive advantage that favors well-capitalized, late-stage companies over early-stage ecosystems."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The end of venture as we knew it"
+    },
+    {
       "id": "6400982e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -11013,7 +11031,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 250
+      "count": 251
     },
     {
       "name": "Climate & Energy",
@@ -11041,5 +11059,5 @@
       "count": 21
     }
   ],
-  "lastUpdated": "2026-07-11T08:42:36.147503Z"
+  "lastUpdated": "2026-07-12T08:58:02.813520Z"
 }
