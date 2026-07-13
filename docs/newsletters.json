@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "78bfc19e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Corporate venture capital arms are participating in a historic low of 21.1% of U.S. venture deals in H1 2026, yet are capturing a record 82.6% of deal value by concentrating on larger, later-stage AI investments. Rather than pursuing financial returns, major tech companies like Amazon and Microsoft are making multi-billion-dollar strategic investments in AI startups to secure proprietary access to models and preferred cloud positioning, with these decisions increasingly made at the C-suite level rather than through traditional venture divisions.",
+      "keyTakeaways": [
+        "CVC participation in deal count has hit a decade low while their share of deal value reached record highs, signaling a fundamental shift from broad portfolio investing to selective, strategic mega-rounds in AI startups.",
+        "Corporate development teams are now outcompeting venture arms for AI deal flow, driven by hyperscalers' need to secure exclusive compute and model access\u2014expect continued consolidation of AI investment power among the largest tech companies.",
+        "The spike in corporate AI spending is creating capital constraints: companies like Uber and Meta are hitting internal AI budget caps within months, suggesting sustained pressure on AI infrastructure costs and potential slowdown in non-strategic tech spending."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "CVCs focus on fewer, larger investments in AI"
+    },
+    {
+      "id": "9f05f170",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-12",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A Trump-linked fintech ecosystem involving World Liberty Financial's $1.5 billion investment in ALT5 Sigma (rebranded as AI Financial Corporation) has been linked to regulatory concerns through its subsidiary MSwipe, which operates no-KYC crypto card issuance services. MSwipe partners with major payment processors including Sutton Bank and Marqeta, and sources indicate these cards have been marketed for Iran sanctions evasion through platforms like Bitsika, raising compliance and reputational risks for partner institutions.",
+      "keyTakeaways": [
+        "Payment processors and bank partners (Marqeta, Sutton Bank, Wex Bank, ConnexPay, Corpay) face material compliance and regulatory risk through MSwipe relationships; due diligence on fintech partnerships involving no-KYC crypto rails is critical for institutional investors in traditional payments infrastructure.",
+        "World Liberty Financial's $1.5 billion capital deployment into ALT5 Sigma creates downstream liability exposure across the payments ecosystem; investors in competitor platforms or traditional payment networks should assess competitive and regulatory threats from Trump-adjacent crypto infrastructure.",
+        "The emergence of no-KYC crypto card networks explicitly marketed for sanctions evasion signals escalating regulatory scrutiny and potential enforcement action against complicit financial institutions, making exposure to unvetted crypto-rails partnerships a material portfolio risk factor."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Trump-Linked Fintech Tied To \"No KYC\" Crypto Cards Marketed for Iran Sanctions\r\n Evasion, Sources Say"
+    },
+    {
+      "id": "2472a086",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter edition covers five climate and energy stories including Europe's struggles to scale homegrown climate technology, the broader emissions impact of big tech companies beyond electricity consumption, Virginia's dual electricity price pressures, satellite-based wildfire detection systems, and the correlation between peak summer temperatures and air quality degradation.",
+      "keyTakeaways": [
+        "European climate tech companies face structural scaling challenges, suggesting potential investment gaps or policy failures in the continent's green transition infrastructure that may favor non-European climate tech vendors",
+        "Big tech's emissions profile extends significantly beyond direct electricity usage, indicating that carbon accounting and ESG frameworks may be incomplete, creating valuation risks and regulatory exposure for major tech players",
+        "Virginia's dual electricity price shock signals consumer vulnerability to energy market volatility, potentially accelerating demand for distributed generation, storage, and efficiency solutions as a hedge against grid price instability"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Europe\u2019s Climate Tech Struggles, an Electricity Price Double-Whammy, and More"
+    },
+    {
       "id": "02533dfb",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -11031,12 +11085,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 251
+      "count": 252
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 25
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 234
+      "count": 235
     },
     {
       "name": "Deep Tech & Science",
@@ -11049,15 +11108,10 @@
       "count": 69
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 24
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 21
     }
   ],
-  "lastUpdated": "2026-07-12T08:58:02.813520Z"
+  "lastUpdated": "2026-07-13T10:16:10.850493Z"
 }
