@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "ca76793e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Sequoia Capital maintains its four-year reign as the most active generative AI investor, while Q1 2026 AI funding has already surpassed all of 2025 at $255.5 billion, with just three mega-deals accounting for 67% of total funding. In parallel, wealth managers are increasingly establishing their own institutional-grade drawdown funds rather than routing capital through traditional middlemen, with US-domiciled fund assets reaching a record $607 billion across 567 funds as of March 31.",
+      "keyTakeaways": [
+        "AI funding concentration is accelerating: three deals drove two-thirds of Q1's AI VC funding, signaling that mega-rounds by players like OpenAI and Anthropic are reshaping deal flow dynamics and potentially crowding out earlier-stage investments.",
+        "Wealth advisers are building parallel GP infrastructure to capture alpha directly, suggesting traditional fund-of-funds models face margin pressure as ultra-high-net-worth investors increasingly demand institutional-quality deal access without intermediation costs.",
+        "Europe's VC market is rebounding with stronger H1 2026 dealmaking driven by AI adoption, while energy startups have raised $6.4 billion YTD and could hit $20 billion by year-end\u2014indicating AI infrastructure demand is reshaping sector capital allocation beyond pure software plays."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "AI's musical chairs"
+    },
+    {
+      "id": "4badf18d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Fusion energy companies raised $4.5 billion in the past 12 months\u2014a 69% increase over 2025\u2014with total funding since 2021 reaching $14.2 billion across 56 companies. Major rounds included Commonwealth Fusion Systems ($863M), Helion Energy ($456M), Inertia Enterprises ($450M), and European champion Proxima Energy ($518M). Meanwhile, Chile's copper production fell 18% year-on-year in May despite record prices, as major mines face declining ore quality.",
+      "keyTakeaways": [
+        "Fusion energy has become a high-conviction investment thesis: $4.5 billion raised in 12 months with 56 active competitors suggests the sector has moved from speculative to institutional backing, with major rounds from seasoned investors validating commercialization timelines.",
+        "The sevenfold increase in cumulative funding since 2021 ($14.2B total) indicates consolidation risk\u2014only the best-capitalized companies will survive, making competitive positioning and technological differentiation critical metrics for investors evaluating entry or exit.",
+        "Copper supply constraints amid strong demand create a macro headwind for green energy transition (solar, EVs, grid infrastructure); Chile's production decline despite high prices signals structural supply challenges that could support prices or drive substitution trends like the switch to copper in solar panels."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Monumental Change"
+    },
+    {
+      "id": "00ff5d33",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Valarian, a London-based defense tech startup, raised $50 million in Series A funding led by NEA to help governments and enterprises maintain control over AI systems and sensitive data outside American cloud infrastructure. The funding comes amid rising European defense spending and geopolitical concerns about U.S. regulatory overreach, particularly the CLOUD Act which allows American authorities to compel data disclosure from U.S.-based companies globally.",
+      "keyTakeaways": [
+        "Infrastructure sovereignty is transitioning from a policy debate to a commercial imperative\u2014Valarian's software layer (ACRA) addresses real demand from governments and enterprises seeking to avoid U.S. legal jurisdiction over their data, positioning it as a defensible B2B enterprise play rather than a capital-intensive defense contractor",
+        "NEA's first European defense/dual-use investment signals institutional capital recognizing that European defense tech and critical infrastructure cybersecurity represent a differentiated investment thesis amid NATO spending increases and U.S. tech export restrictions",
+        "Geopolitical fragmentation of cloud infrastructure is accelerating adoption cycles\u2014recent events like the Trump administration restricting Anthropic's international access validate the founder's thesis that data sovereignty must be architectural, not merely procedural, creating sustained demand for decoupled compute and control layers"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Digital borders"
+    },
+    {
+      "id": "6fb7cb0c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Tesla, Sunrun, and Renew Home announced a partnership to deliver over 16 GW of flexible distributed energy capacity to hyperscalers and utilities meeting AI data center demand, marking a significant industry shift toward collaboration in distributed resources. The Flex Summit 2026 (October 14-15 in Austin) will convene utilities, aggregators, investors, and policymakers to discuss critical questions around virtual power plants (VPPs), capacity accreditation for distributed resources, and whether distributed energy can serve hyperscaler needs.",
+      "keyTakeaways": [
+        "The Tesla-Sunrun-Renew Home partnership represents a major consolidation signal: distributed energy aggregators and manufacturers are now directly competing for hyperscaler contracts, suggesting significant margin compression and a shift away from utility-dependent VPP models toward direct B2B capacity sales.",
+        "The focus on AI data center demand as a primary driver for distributed capacity expansion reveals a new investment thesis: rather than traditional grid stability or peak shaving, distributed energy's growth is now anchored to hyperscaler capex cycles, making exposure to data center geography and AI infrastructure buildout critical variables.",
+        "The event's emphasis on accreditation and delivery mechanisms for distributed capacity to meet 'AI data center needs' suggests regulatory and technical barriers remain unresolved\u2014investors should track progress on interconnection standards, capacity market participation rules, and whether distributed resources can achieve parity with traditional generation in contracts."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Tesla, Sunrun, EnergyHub, and more join the Flex Summit 2026 lineup"
+    },
+    {
+      "id": "0a446948",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The U.S. IPO market is poised to break the 2021 record of $142.4 billion this week, driven by mega-deals like SK Hynix's $26.5 billion listing and upcoming offerings from data center operator Csquare and Standard Nuclear. Meanwhile, European defense technology is surging with German drone maker Helsing raising $1.8 billion at an $18 billion valuation, becoming mainland Europe's most valuable startup, as geopolitical tensions and defense spending reshape venture investment priorities.",
+      "keyTakeaways": [
+        "The U.S. IPO market is experiencing a historic boom fueled by mega-cap tech listings and investor confidence in AI mega-rounds like Anthropic and OpenAI, signaling strong exit opportunities but creating concentration risk if AI momentum falters.",
+        "European defense tech is now outpacing AI foundational models as a venture priority, with Helsing's $18 billion valuation reflecting geopolitical realities and sovereign tech ambitions that may redirect institutional capital away from traditional Silicon Valley bets.",
+        "The IPO surge remains a U.S.-centric phenomenon\u2014global 2026 IPO proceeds of $201 billion trail 2021's $394 billion significantly, suggesting U.S. market strength masks weaker international dealflow and potentially limiting portfolio diversification for cross-border VC funds."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Destroying the record"
+    },
+    {
+      "id": "c1130246",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New research suggests aspen tree stands can serve as natural fire barriers against large wildfires, challenging timber industry practices that treat them as pests to be removed. The findings could reshape forest management strategies in fire-prone regions, potentially creating investment opportunities in nature-based fire prevention and sustainable forestry practices that preserve aspen groves rather than harvesting them.",
+      "keyTakeaways": [
+        "Forest management practices may need fundamental shifts away from aspen removal toward preservation, creating opportunities for companies specializing in eco-friendly timber management and wildfire mitigation services",
+        "Climate-driven wildfire risks are increasingly validating nature-based solutions over traditional timber extraction, signaling capital reallocation toward sustainable forestry and climate adaptation investments",
+        "This research could drive regulatory changes in fire-prone states and regions, affecting timber company valuations and operational costs while creating new markets for firebreak management and prescribed aspen conservation"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Could More Aspens Have Stopped the Aspen Acres Fire?"
+    },
+    {
+      "id": "4a47209f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's polling data reveals that AI data center opposition is widespread among Americans, with majorities supporting a national moratorium. However, a distinct demographic profile emerges for data center supporters: they skew male, older than 50, include disproportionate third-party voters, and crucially, overwhelmingly believe AI will improve their lives while showing even stronger support for renewable-powered projects.",
+      "keyTakeaways": [
+        "Data center developers face significant headwinds with majority public opposition, but can improve project viability by securing renewable energy partnerships\u2014even data center supporters prioritize clean power sources, suggesting this is a key pathway to local approval.",
+        "The 'data center YIMBY' demographic skews toward politically independent and third-party voters rather than being locked into traditional political bases, indicating that pro-development messaging should target economically pragmatic, libertarian-leaning audiences rather than partisan groups.",
+        "Public sentiment on AI infrastructure remains highly polarized with only older male demographics showing net-positive sentiment on AI itself, suggesting the broader AI buildout narrative has significant credibility challenges that require addressing fundamental optimism about AI benefits, not just local development arguments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Who Actually Likes Data Centers?"
+    },
+    {
       "id": "78bfc19e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -11085,17 +11211,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 252
+      "count": 255
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 239
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 25
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 235
     },
     {
       "name": "Deep Tech & Science",
@@ -11113,5 +11239,5 @@
       "count": 21
     }
   ],
-  "lastUpdated": "2026-07-13T10:16:10.850493Z"
+  "lastUpdated": "2026-07-14T08:59:51.462084Z"
 }
