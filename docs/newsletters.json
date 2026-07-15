@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "46495efe",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-15",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Yann LeCun is raising a \u20ac200 million AI-focused fund following his work with AMI Labs, while Lovable targets a \u20ac13.2 billion valuation in its next fundraise. The EU launches phase two of its \u20ac80 billion European Champions Initiative to address Europe's startup scale-up financing gap and compete with American and Asian tech giants.",
+      "keyTakeaways": [
+        "Yann LeCun's \u20ac200M AI fund signals institutional validation of European AI talent and represents capital concentration around proven technical founders moving into venture, with potential to reshape European AI investment dynamics.",
+        "Lovable's trajectory to \u20ac13.2B valuation demonstrates strong market appetite for AI developer tools in Europe, but the broader pattern shows Europe excels at building promising startups that need external capital to scale\u2014a structural gap the EU is trying to address.",
+        "Europe's AI competitiveness challenge is shifting from technology/talent to market adoption and capital availability; the \u20ac80B ICTE initiative aims to close the mid-stage funding cliff, but success depends on creating enough domestic anchor customers and acquirers to retain value creation."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "15.07 - Apr\u00e8s AMI Labs, un fonds pour Yann LeCun ?"
+    },
+    {
+      "id": "176c2b9f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI is reportedly delaying its $1 trillion IPO to 2027, signaling management doubts about achieving that valuation in the near term and marking the first public indication it's underperforming rival Anthropic. Using Anthropic's valuation multiple of 20.5x, OpenAI would need $49 billion in annual revenue to reach $1 trillion\u2014nearly double its current level\u2014whereas at its own 34x multiple it would only need $29 billion, revealing a significant valuation premium disconnect. The delay increases OpenAI's reliance on private capital to cover an estimated $115 billion in cumulative cash burn through 2029, funding a business the company itself now appears to question at current private market valuations.",
+      "keyTakeaways": [
+        "OpenAI's IPO delay is a de facto admission that its 60% valuation premium over Anthropic ($188B vs $118B per unit of business quality) is not sustainable, creating potential repricing risk for recent private investors in the company.",
+        "The company faces a $115 billion cumulative cash burn through 2030, meaning delayed public capital markets access forces extended reliance on private fundraising at valuations management now questions\u2014a structural tension for cap table investors.",
+        "The AI sector's valuation multiples are fragmenting: Anthropic's 20.5x multiple versus OpenAI's 34x suggests the 'AI tax' premium is collapsing, signaling potential multiple compression across AI-focused VC portfolios if public markets demand comparable multiples at exit."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "OpenAI's trillion-dollar wait"
+    },
+    {
+      "id": "73dc39ae",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The UAE is building a new port in Fujairah to bypass the Strait of Hormuz amid geopolitical tensions with Iran, marking a major shift for Dubai's DP World as the Jebel Ali port saw 95% activity decline after U.S.-Israel bombing campaigns. The U.S. nuclear sector is experiencing a historic resurgence with 74 gigawatts of projects in development\u2014nearly doubling current capacity\u2014while the IBEW electrical workers union hit a record 30,000 new members this year, signaling strong labor demand in the clean energy transition.",
+      "keyTakeaways": [
+        "DP World's $12+ billion port infrastructure pivot to Fujairah represents a massive bet on de-risking Middle East supply chains; investors should monitor whether this signals broader port operator consolidation and infrastructure repositioning around geopolitical chokepoints.",
+        "The 74 GW nuclear pipeline represents $200+ billion in potential capital deployment; even 25-30% project completion would make nuclear the fastest-growing U.S. energy source, reshaping utilities, construction, and supply chain investment theses.",
+        "Record IBEW membership growth (25% year-over-year) coupled with nuclear policy reversals in Belgium and New Jersey suggests the political economy of clean energy is shifting\u2014labor-backed infrastructure spending is now a bipartisan priority, making union-adjacent construction and skilled trades plays increasingly attractive."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Dubai Bypass"
+    },
+    {
+      "id": "e6fffc8c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Toyota Racing Development is manufacturing structural components for satellite producer Apex Orbits, leveraging automotive-grade precision and high-volume production capabilities to address inefficiencies in traditional aerospace manufacturing. The partnership, initiated after Toyota Ventures' 2023 investment in the now-$2.3 billion Apex, represents a strategic convergence of racing expertise and space technology, with TRD producing parts like decks, bulkheads, and cylinders that require extremely tight tolerances for Apex's standardized, mass-produced satellites.",
+      "keyTakeaways": [
+        "Traditional aerospace manufacturing's low-volume, bespoke approach is being disrupted by automotive-grade production methods\u2014a significant arbitrage opportunity for companies that can apply manufacturing excellence from high-performance automotive sectors to space hardware.",
+        "Corporate venture arms like Toyota Ventures can create meaningful competitive advantages by connecting portfolio companies with specialized internal capabilities; this partnership likely strengthens Apex's unit economics and production roadmap significantly.",
+        "The satellite industry's shift toward standardization and manufacturing scale mirrors the automotive industry's evolution, signaling that space infrastructure is moving from a boutique, government-driven sector toward a commercial, volume-based market where traditional automotive suppliers may have structural advantages."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Toyota and Apex are racing to outer space"
+    },
+    {
+      "id": "10a3ed64",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Apple's trade secret lawsuit against OpenAI could significantly delay the AI company's hardware product launch, which was the primary rationale for its $6.5 billion acquisition of io last year. Meanwhile, Pophouse Entertainment acquired a 50% stake in Iron Maiden's publishing and master rights, capitalizing on a 12% surge in hard rock streaming among Gen Z. Venture funding remains robust across AI and robotics sectors, with major rounds including Chai Discovery's $400 million Series B and PixVerse's $439 million Series C.",
+      "keyTakeaways": [
+        "OpenAI's hardware ambitions face material legal risk that could delay or derail a key pillar of its business strategy, adding uncertainty to its planned IPO and potentially impacting investor sentiment around the company's diversification beyond language models.",
+        "Music and entertainment IP is attracting significant consolidation capital as legacy rock catalogs prove valuable beyond streaming through merchandise, licensing, and live experiences\u2014a model that could apply to other aging IP assets.",
+        "AI drug discovery and robotics remain well-capitalized, with Chai Discovery hitting a $3.8 billion valuation and LimX Dynamics reaching $2.2 billion, suggesting sustained institutional conviction in hard tech despite macroeconomic headwinds."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Pressing pause"
+    },
+    {
+      "id": "f5c7ba49",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-07-14",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "The AI model market is experiencing intense competition with no clear sustainable leader emerging, as Anthropic, OpenAI, and newer entrants like xAI continuously leapfrog each other monthly. The competitive dynamics have shifted from pure performance to price-performance ratios, with Meta and xAI gaining relevance by offering competitive models at lower costs, while OpenAI faces internal leadership disruption and product execution challenges in its applications layer.",
+      "keyTakeaways": [
+        "Model performance leadership is no longer defensible\u2014the top labs trade positions every 1-2 months with no sustainable advantage, suggesting commodity-like pricing pressures and margin compression ahead regardless of current supplier power",
+        "Price-performance ratio is rapidly becoming the primary competitive battleground rather than raw capability, particularly with Meta and xAI launching competitive alternatives\u2014investors should scrutinize which labs can achieve efficiency at scale",
+        "Enterprise adoption of AI tools is stalling due to unclear UX/use cases and internal organizational friction (evidenced by OpenAI's product chaos and leadership departures), indicating that winner-take-most dynamics may not materialize and that infrastructure plays may outperform application layer bets"
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 651"
+    },
+    {
+      "id": "c1a346cd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York Governor Kathy Hochul has issued an executive order pausing new hyperscale data center permits (50+ megawatts) for one year, positioning the state to develop stricter power generation and environmental review standards. Despite the headline, the moratorium has limited practical impact since only four of eight proposed large-scale data center projects remain active, with most municipalities already imposing their own bans or restrictions. Hochul's timing before a fall re-election campaign mirrors her previous congestion pricing pause, though the order is actually more lenient than a legislature-passed bill that would have blocked 20+ megawatt facilities.",
+      "keyTakeaways": [
+        "AI data center development in New York is already heavily constrained by local action\u20148 municipalities have outright bans and 3 have restrictive ordinances\u2014making the state-level moratorium largely symbolic rather than market-shifting. Investors should expect development pressure to move to less-restricted states.",
+        "The one-year moratorium is unlikely to be extended beyond 12 months given existing local restrictions have already addressed developer concerns, meaning this represents a temporary pause rather than fundamental policy shift. Monitor for policy reversal timing similar to the 2024 congestion pricing pattern.",
+        "New data center requirements for on-site power generation or higher electricity rates could increase capital costs for hyperscale facilities; this trend may advantage companies with existing power infrastructure or access to renewable energy resources over pure-play data center developers."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: I Spy NY\u2019s AI Moratorium"
+    },
+    {
       "id": "ca76793e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -11209,14 +11335,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 70
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 255
+      "count": 258
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 239
+      "count": 241
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 22
     },
     {
       "name": "Fintech",
@@ -11227,17 +11363,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 15
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 69
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 21
     }
   ],
-  "lastUpdated": "2026-07-14T08:59:51.462084Z"
+  "lastUpdated": "2026-07-15T09:04:59.708093Z"
 }
