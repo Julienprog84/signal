@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "dd143a4b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Le Slip Fran\u00e7ais, the French underwear brand, debuted on the Paris Stock Exchange on July 14 with a \u20ac20 million valuation, marking a significant milestone for the consumer goods startup. The newsletter also covers emerging policy discussions around VTC driver classification in France, the Basque Country's initiative to connect startups with public and private procurement, and KPMG's focus on trusted AI implementation at VivaTech 2026.",
+      "keyTakeaways": [
+        "French consumer brands are reaching public markets at modest valuations (\u20ac20M for Le Slip Fran\u00e7ais), suggesting a potential opportunity for VCs to build and scale direct-to-consumer businesses through IPO exits rather than M&A",
+        "Regulatory clarity around platform worker classification (VTC drivers) is emerging as a critical policy battleground in Europe, with startups being consulted on hybrid employment models that balance autonomy and social protection",
+        "Regional tech ecosystems (Basque Country) are gaining traction as alternative hubs by focusing on B2G and B2B procurement access rather than competing on venture capital availability, offering a differentiated go-to-market strategy for startups"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "16.07 - Quels d\u00e9buts \u00e0 la Bourse de Paris pour Le Slip Fran\u00e7ais ?"
+    },
+    {
+      "id": "34eb175c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The EU is considering reforms to its Emissions Trading System that could position the European Union itself as a major buyer of carbon credits, potentially transforming the carbon removal market. This proposed shift would create unprecedented demand for carbon removal solutions and establish the EU as a significant institutional customer in a previously fragmented market.",
+      "keyTakeaways": [
+        "The EU's potential entry as a carbon credit buyer could create stable, large-scale demand for carbon removal companies, reducing market volatility and de-risking investments in direct air capture and other removal technologies.",
+        "This represents a major policy-driven market creation opportunity for early-stage carbon removal startups and established climate tech firms to scale, as government procurement typically enables long-term contracting and pricing predictability.",
+        "EU regulatory leadership in formalizing carbon removal purchases could trigger similar buyer programs across other developed markets, signaling a shift from voluntary corporate carbon markets to government-backed institutional demand infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The Carbon Removal Buyer the World Has Been Waiting For"
+    },
+    {
+      "id": "af5bc74d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Independent sponsors are outperforming traditional buyout funds with a median equity IRR of 23.8% versus 18.5%, driven by favorable regulatory changes like the Investing in All of America Act that increased SBIC leverage caps to $250 million. The deal-by-deal funding model is attracting both talent and capital away from traditional PE funds as distribution slowdowns and delayed payouts make the fundless sponsor route increasingly attractive, though investors must tolerate higher volatility with about 5% of deals failing while a quarter return over 4x.",
+      "keyTakeaways": [
+        "Independent sponsors are delivering 5.3 percentage points higher IRR than buyout funds according to recent UNC research, signaling a structural shift in how private capital is being deployed in mid-market acquisitions",
+        "Recent legislative changes removing SBIC leverage restrictions have materially improved funding availability for deal-by-deal sponsors, making this model economically viable for sponsors previously unable to raise committed funds",
+        "The sector faces a bimodal risk profile\u2014meaningful tail risk with 5% loss rates but significant upside with 25% of deals achieving 4x+ returns, requiring sophisticated investors to properly evaluate sponsor quality and deal-level risk"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Fundless for the win"
+    },
+    {
+      "id": "364f4b5f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kevin Ryan's AlleyCorp raised a $335 million second fund focused on early-stage bets in healthcare, deep tech, and general tech, with an impressive 60% all-time IRR from previous investments. Ryan emphasizes that venture fundamentals remain unchanged despite market shifts, citing recent investments at $25 million valuations with minimal revenue, while cautioning that mega-rounds into companies like Anthropic and OpenAI should not be classified as traditional venture capital but rather as mega-funding of near-public companies.",
+      "keyTakeaways": [
+        "Early-stage conviction investing remains viable: AlleyCorp's willingness to invest at $25M valuations with only $500K revenue reflects confidence in founder-led execution and market timing rather than current metrics\u2014a contrarian approach as mega-cap AI deals dominate headlines.",
+        "Mega-funding distorts VC metrics: The concentration of capital into OpenAI, Anthropic, and SpaceX (tens of billions each) inflates reported VC deployment figures but represents a separate asset class from traditional venture, suggesting headline VC dollar figures may overstate genuine venture market health.",
+        "Portfolio concentration and long-term thinking drive returns: Ryan's shift from skepticism to backing psychedelics (resulting in Transcend's $1.2B exit) demonstrates that early conviction in emerging categories\u2014made before obvious market traction\u2014generates outsized returns when validated 5-10 years out."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Changing your mind"
+    },
+    {
+      "id": "b2df668c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "PJM Interconnection's capacity auction hit its price cap of $325 per megawatt-day for 2028-2029 while failing to secure sufficient supply margins, signaling growing electricity demand outpacing supply growth. Clean Core Thorium Energy achieved a critical milestone with peer-reviewed validation of its thorium fuel assemblies after multi-year testing at Idaho National Laboratory, positioning the Chicago startup closer to commercial power production. Google committed to purchasing the entire initial output of a 1.6-gigawatt solar project in Arkansas, demonstrating tech giants' continued aggressive renewable energy procurement.",
+      "keyTakeaways": [
+        "PJM's maxed-out auction prices indicate a structural undersupply problem in the nation's largest grid operator, creating both investment opportunities in new generation capacity and risk for consumers facing higher energy costs",
+        "Clean Core Thorium Energy's peer-reviewed fuel validation represents a potential inflection point for advanced nuclear technology; investors should monitor regulatory pathways and manufacturing partnerships as the company scales toward commercialization",
+        "Large corporate PPAs (like Google's Arkansas solar deal) continue driving renewable energy deployment faster than grid infrastructure can adapt, suggesting sustained capital deployment in both clean energy and grid modernization infrastructure"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "PJM Maxes Out"
+    },
+    {
+      "id": "ad5a4ddf",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-15",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A podcast episode featuring EDGE CEO Brian Reshefsky and Brigit CEO Zuben Matthews explores how cashflow analytics is evolving beyond traditional underwriting into loan lifecycle management, lead scoring, and cross-sell opportunities. The discussion examines the intersection of traditional bureau data with bank transaction analysis and the regulatory implications of becoming a Consumer Reporting Agency, highlighting a shift in how fintech lenders are leveraging transaction-level data for credit decisions.",
+      "keyTakeaways": [
+        "Cashflow data is becoming a critical alternative to traditional credit scoring, with companies like EDGE positioning bank transaction analysis as the foundation for underwriting decisions across the consumer credit lifecycle\u2014this signals a structural shift in how lenders evaluate creditworthiness beyond FICO scores.",
+        "The monetization opportunity extends well beyond underwriting: companies are deploying cashflow analytics for lead scoring, loan servicing optimization, and cross-sell identification, suggesting multiple revenue streams justify investment in transaction-data platforms.",
+        "The regulatory framework around CRA designation is becoming a competitive moat; fintech companies that properly classify as Consumer Reporting Agencies gain defensible advantages and compliance credibility, indicating that regulatory clarity is now a material factor in fintech lending infrastructure valuations."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 35,
+      "originalTitle": "Taking Cashflow Analytics Beyond the Underwriting Decision"
+    },
+    {
+      "id": "391ad25e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Former Virginia Governor Glenn Youngkin is joining venture studio Red Cell Partners as partner and chairman, marking his return to dealmaking after his gubernatorial tenure. In a separate major development, Stripe and Advent Capital have made a $53 billion acquisition offer for PayPal at $60.50 per share, which would represent the largest fintech acquisition ever and a rare instance of a venture-backed company acquiring an S&P 500 company.",
+      "keyTakeaways": [
+        "Red Cell Partners is raising a second fund that has already exceeded its first fund's $91.2 million, signaling strong investor confidence in the defense, healthcare, and cyber investment thesis; the firm also deploys capital through a $150 million holding company for company incubation.",
+        "The Stripe-Advent PayPal offer values the transaction at over $53 billion with $50 billion in committed bank financing, representing a potential watershed moment for venture-backed acquirers moving upstream to public company M&A.",
+        "The VC market is showing continued activity in deep-tech and healthcare sectors, with notable raises including DeepSeek's $1.5 billion funding round at a $71 billion valuation, Neko Health's $700 million Series C at $7 billion valuation, and AdvanCell's $315 million Series D, indicating sustained investor appetite despite broader market uncertainty."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Youngkin's back"
+    },
+    {
+      "id": "e95ff43e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US VC activity surged to record levels in H1 2026, driven largely by OpenAI's $122 billion funding round, according to PitchBook's midyear outlook report. While the asset class has proven resilient against energy price spikes and AI uncertainty, the market faces significant structural challenges including limited liquidity and increasing concentration among top-tier managers, making it harder for first-time fund managers to gain traction.",
+      "keyTakeaways": [
+        "OpenAI's mega-round at $122 billion signals continued concentration of capital in AI mega-deals\u2014investors should assess whether H2 opportunities exist outside this category or if deploying capital requires scale to compete",
+        "Liquidity remains scarce despite strong fundraising activity, meaning exit timelines are lengthening and portfolio companies will require extended runway\u2014this impacts fund management timelines and distribution expectations for LPs",
+        "The market is consolidating at the top tier, creating structural headwinds for emerging managers\u2014allocators with conviction in emerging talent may find valuation opportunities, but manager selection risk is elevated"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Midyear Outlook: Is your VC strategy ready for H2?"
+    },
+    {
+      "id": "6a829b0a",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is using federal settlement funds to pay offshore wind developers billions to abandon leases, raising concerns that the same mechanism could be applied to data centers operating on federal land. The PORTS Technology Campus in Ohio, a $33 billion, 10-gigawatt AI data center project backed by OpenAI, exemplifies the risk\u2014while it benefits from expedited permitting on federal land, it now faces potential policy disruption from the same administration that fast-tracked its approval.",
+      "keyTakeaways": [
+        "Data centers leasing federal land face new policy risk: the Trump administration's use of the Judgment Fund to buy out offshore wind developers ($2.7B for nine leases) establishes a precedent that could be weaponized against other federally-leased infrastructure, including the PORTS campus and similar projects.",
+        "The real economic value at stake is far higher than headline settlement costs\u2014Latitude Intelligence estimates the abandoned offshore wind leases alone were worth ~$100 billion, suggesting data center buyout costs could be substantial if pursued, creating valuation uncertainty for operators and investors.",
+        "Regulatory arbitrage is collapsing: data center developers betting on federal fast-track permitting via FAST-41 now face executive branch policy volatility that wasn't priced into their models, favoring private-land data center plays and potentially accelerating consolidation among operators with land control."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "Will Trump\u2019s attacks on offshore wind hurt data centers?"
+    },
+    {
+      "id": "e9926cd2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democratic-led states are developing sophisticated policy frameworks around AI data center development, with New York implementing a one-year moratorium while exploring grid acceleration funds and requiring developers to contribute to infrastructure upgrades. The emerging approach suggests states are attempting to harness the AI boom's infrastructure demands for public benefit through strategies like community benefit agreements and zero-carbon energy requirements, rather than outright bans, setting a template for other states like Pennsylvania and New Jersey.",
+      "keyTakeaways": [
+        "Data center developers face increasing state-level regulatory costs and infrastructure contribution requirements; companies planning major deployments in blue states should budget for grid modernization fees, renewable energy mandates, and community benefit negotiations that could significantly impact project economics.",
+        "The moratorium approach creates a 12-month window for policy clarification, suggesting investors should monitor which states implement grid acceleration funds and renewable energy requirements\u2014this could create opportunities in grid modernization, virtual power plant technology, and zero-carbon energy infrastructure suppliers.",
+        "The trend indicates data center site selection will increasingly favor states with clearer regulatory pathways and lower infrastructure burden; red states and states with deregulated electricity markets may become more attractive relative to densely-regulated Democratic states, shifting capital allocation patterns across the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Blue States\u2019 Good Problem"
+    },
+    {
       "id": "46495efe",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -11337,17 +11517,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 70
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 258
+      "count": 71
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 241
+      "count": 245
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 262
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 26
     },
     {
       "name": "Strategy & Thesis",
@@ -11355,15 +11540,10 @@
       "count": 22
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 25
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 15
     }
   ],
-  "lastUpdated": "2026-07-15T09:04:59.708093Z"
+  "lastUpdated": "2026-07-16T09:08:53.148894Z"
 }
