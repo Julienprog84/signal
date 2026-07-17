@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "ab7bac01",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-17",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "PayFit, a European HR and payroll software company, has achieved profitability after a decade and targets \u20ac150 million in revenue by 2028. In parallel wins for European tech, Scaleway secured a major cloud infrastructure contract with Airbus, while several regional startups from Normandy are gaining visibility through accelerator programs, and Septeo, a major software editor, is positioning itself around 'Business Intelligence' at VivaTech 2026.",
+      "keyTakeaways": [
+        "PayFit's path to profitability signals that European HR-tech companies can achieve sustainable unit economics at scale; investors should monitor whether the \u20ac150M ARR target by 2028 indicates expansion into adjacent markets or geographic scaling.",
+        "Scaleway's Airbus contract demonstrates that European cloud providers can compete for enterprise infrastructure deals against US incumbents, suggesting a viable exit/growth path for infrastructure startups in the region.",
+        "Regional innovation hubs (Normandy via Fundtruck) and established software companies repositioning around vertical AI solutions indicate a maturing European tech ecosystem focused on practical, industry-specific applications rather than horizontal platforms."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "17.07 - PayFit devient rentable et change de braquet !"
+    },
+    {
+      "id": "bb303371",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a webinar on August 12 featuring executives from Sunrun, Enphase Energy, and Antenna Group discussing how solar and storage companies can navigate shifting residential policy and regulatory landscapes. The discussion will focus on building customer and regulator trust while communicating the value of distributed energy in an environment of continuous regulatory change.",
+      "keyTakeaways": [
+        "Leading distributed energy companies like Sunrun and Enphase are prioritizing proactive policy communication strategies rather than reactive measures, signaling that regulatory navigation is becoming a competitive differentiator in the residential solar sector.",
+        "Brand trust and regulator relationships are emerging as critical assets for clean energy companies facing policy uncertainty, suggesting that investor evaluation of management teams should include communications capability and government affairs strength.",
+        "The residential solar and storage market is experiencing material regulatory volatility that requires sophisticated communications infrastructure, indicating potential consolidation advantages for well-capitalized players and risks for smaller competitors lacking policy expertise."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Communicating through change: a webinar on policy, perception, and\r\n growth"
+    },
+    {
+      "id": "0a40941f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Stripe and Advent International's reported $53 billion bid for PayPal at $60.50 per share represents a 28% premium but values the company at only 7x EBITDA\u2014below the 8-12x median for payments businesses\u2014suggesting an aggressive opening offer rather than a final bid. The move marks a significant milestone for late-stage startups attempting mega-acquisitions of public companies, though PayPal's strong market position of 439 million users and 44% global online payment market share may support a higher valuation.",
+      "keyTakeaways": [
+        "Stripe's bid values PayPal at a significant discount to comparable payments multiples, signaling room for negotiation and implying PayPal shareholders should expect a materially higher final price",
+        "Late-stage startups now possess sufficient capital to pursue transformational M&A of public companies, representing a structural shift in deal-making power away from traditional financial sponsors",
+        "The payments sector remains fragmented with leaders like PayPal losing ground despite market dominance, creating M&A consolidation opportunities as investors seek to rationalize disjointed technology stacks and compete with newer entrants"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Stripe and Advent's lowball bid"
+    },
+    {
+      "id": "da2cdd11",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Bunkerhill Health, an AI healthcare startup founded by Stanford computer scientists Nishith Khandwala and David Eng, closed a $25 million Series B led by Khosla Ventures, bringing total funding to $55 million. The company deploys AI agents within hospital systems to solve operational and clinical challenges like wait times, missed follow-ups, and paperwork backlogs, currently working with 15 health systems including Cleveland Clinic and Mayo Clinic. Major venture investors including Sequoia, Felicis, and Optum Ventures are betting that hospitals are increasingly motivated to adopt AI-driven solutions as healthcare systems prioritize artificial intelligence adoption.",
+      "keyTakeaways": [
+        "AI agents addressing specific hospital operational pain points (scheduling, follow-ups, administrative tasks) are attracting tier-one venture capital, signaling a shift from diagnostic AI to workflow automation in healthcare.",
+        "Prominent healthcare-focused VCs like Khosla Ventures and strategic investors like Optum Ventures are consolidating around startups that embed directly into existing hospital infrastructure rather than requiring institutions to replace legacy systems.",
+        "The healthcare AI sector is experiencing accelerated adoption momentum driven by industry-wide mandate pressure\u2014hospitals now actively seek AI solutions rather than requiring persuasion, fundamentally changing the sales and implementation dynamics for healthtech startups."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Agents, not apps"
+    },
+    {
+      "id": "9ae9b498",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Oil traders warn that depleted strategic petroleum reserves could amplify energy market disruption if U.S.-Iran conflict escalates over the Strait of Hormuz, with global crude inventories declining 5.1 million barrels per day in Q2 2026. Puerto Rico faces an expanding water infrastructure crisis as the state-owned utility PRASA loses over 50% of water to leakage and struggles to fund necessary upgrades amid the island's ongoing debt and electrical system challenges.",
+      "keyTakeaways": [
+        "Energy market volatility is set to intensify: with strategic reserves fully depleted after the previous Iran conflict phase, any major disruption to Hormuz shipping could spike crude prices without the government buffer that previously cushioned economic impact.",
+        "Water infrastructure presents both crisis risk and investment opportunity: Puerto Rico's failing PRASA system demonstrates the urgent capital needs for utility modernization in climate-stressed regions, signaling demand for infrastructure investment and management expertise.",
+        "Geopolitical and climate-driven supply shocks are compounding: simultaneous pressures from military conflict, depleted reserves, and climate-driven water crises (wildfire smoke in Northeast, London heat waves, Chilean storms) suggest investors should expect continued volatility across energy and essential services sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "La Brega de Agua"
+    },
+    {
+      "id": "4b4358be",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Uber is acquiring Germany-based Delivery Hero for $14.8 billion, with plans to divest in 14 overlapping markets and invest \u20ac2 billion in Germany over five years, positioning delivery as a potential core business alongside ride-hailing. Eli Lilly agreed to acquire psychedelic treatment developer ATAI for up to $3.8 billion\u2014the largest psychedelic deal to date\u2014signaling major pharmaceutical companies are entering the space as the Trump administration fast-tracks MDMA-like therapy research. Additional deal flow includes regulatory complexities around the Paramount-Warner Bros. merger with 12 blue states seeking an injunction, and a joint Stripe-Advent International bid for PayPal with unclear synergy rationale.",
+      "keyTakeaways": [
+        "Large strategic M&A in competitive spaces faces significant regulatory headwinds\u2014Uber's preemptive divestitures suggest the company expects antitrust scrutiny despite already controlling nearly 25% of Delivery Hero, indicating dealmakers must build regulatory strategy into valuation and deal structure upfront.",
+        "Psychedelics have moved from venture speculation into pharma blue-chips' core strategy, with Eli Lilly paying a 26% premium on a $2.8 billion cash upfront commitment plus $1 billion in milestones; this signals PE/VC investors should expect consolidation acceleration in biotech as traditional pharma derisks clinical timelines through acquisition.",
+        "State-level antitrust enforcement is increasingly fragmented along political lines (notably blue states leading the Paramount case), which creates asymmetric regulatory risk for mega-deals and may require different compliance playbooks depending on geographic and political exposure."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Details matter"
+    },
+    {
+      "id": "457cb8fe",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Senator Martin Heinrich introduced legislation to streamline power plant grid connections by adopting Texas's faster \"connect and manage\" approach, which bypasses lengthy interconnection studies and expensive equipment upgrades. The bill would allow new power plants to opt into expedited safety reviews and offer basic energy-only delivery to local markets, a model Texas has successfully used to add more new generation capacity than any other U.S. power market while keeping connection costs lower. The proposal signals Democratic support for broader bipartisan permitting reform expected later this year and could accelerate deployment of solar, battery, and natural gas projects nationwide.",
+      "keyTakeaways": [
+        "Permitting reform is moving into legislative reality with bipartisan backing; this Texas-modeled approach could materially reduce time-to-market and capital costs for renewable and storage developers, creating significant downstream investment opportunities in power generation projects.",
+        "States and grid operators that adopt faster interconnection models will likely see accelerated project deployment; investors should monitor which RTOs/ISOs adopt these standards first, as they'll become preferred markets for new generation development.",
+        "The shift from cost-maximizing \"worst-case scenario\" grid studies to faster market-based connection methods favors distributed renewables and battery storage over large, capital-intensive transmission projects, reshaping infrastructure investment priorities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Scoop: New Power Permitting Bill"
+    },
+    {
       "id": "dd143a4b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -11517,17 +11643,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 71
+      "count": 72
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 245
+      "count": 248
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 262
+      "count": 265
     },
     {
       "name": "Fintech",
@@ -11545,5 +11671,5 @@
       "count": 15
     }
   ],
-  "lastUpdated": "2026-07-16T09:08:53.148894Z"
+  "lastUpdated": "2026-07-17T09:03:59.508402Z"
 }
