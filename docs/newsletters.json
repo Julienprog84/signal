@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "6d82a15a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Iraq and Chevron are advancing plans to build a pipeline through Syria to bypass the Strait of Hormuz, partnering with TI Capital and the Syrian-Qatari Al-Khayyat brothers' investment group. The Nuclear Regulatory Commission is accelerating reactor licensing and siting processes while Spain's nuclear regulator approved extending the Almaraz plant's operation until 2030, reflecting a global reversal of nuclear phaseout policies. Constellation Energy, America's largest nuclear operator, is betting on small modular reactor (SMR) startups to develop next-generation atomic power technology.",
+      "keyTakeaways": [
+        "Geopolitical infrastructure plays are reshaping energy supply chains: the Iraq-Chevron-Syria pipeline project and UAE port construction signal major capital reallocation away from Strait of Hormuz dependency, creating opportunities in regional logistics, construction, and energy infrastructure sectors.",
+        "Regulatory tailwinds for nuclear are accelerating commercialization timelines: NRC's expedited licensing framework combined with global policy reversals (Switzerland, Belgium, Germany, Italy, Taiwan reconsidering nuclear) suggest massive institutional capital will flow into advanced reactor technologies and SMR platforms in the next 3-5 years.",
+        "The energy transition is bifurcating: traditional oil infrastructure continues expansion (pipeline projects), while simultaneously nuclear and clean energy regulation is being streamlined, indicating investors should position for both legacy hydrocarbons plays and next-gen atomic technology through diversified energy portfolios."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Oil\u2019s Road to Damascus"
+    },
+    {
+      "id": "1a517569",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Data center operator Csquare's IPO priced below its target range at $21 per share, raising $1.05 billion and signaling cooling investor appetite for AI infrastructure despite the sector's growth narrative. Meanwhile, physical AI\u2014systems that learn and adapt rather than following preprogrammed rules\u2014is attracting massive venture capital with $8 billion deployed in the first half of 2026 alone, more than double all of 2025, as investors bet on warehouse automation replacing labor-intensive operations.",
+      "keyTakeaways": [
+        "Csquare's lukewarm IPO reception despite AI infrastructure tailwinds suggests the market is discriminating between hype and fundamentals; investors are questioning whether data center economics can support high debt levels and capital-intensive expansion needs.",
+        "Physical AI funding has exploded to $8 billion in H1 2026 versus $3.8 billion for all of 2025, with mega-rounds becoming routine\u2014this represents a meaningful capital reallocation from traditional gaming VC toward AI infrastructure and automation tech.",
+        "The sector faces a structural constraint: much of existing data center capacity wasn't built for high-density AI workloads, forcing significant capex requirements that may pressure returns and limit viable exit valuations in near term."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Data center fatigue"
+    },
+    {
+      "id": "5eafa685",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Menlo Ventures led a $400 million funding round valuing music AI platform Suno at $5.4 billion, betting that the technology's consumer adoption will outpace ongoing copyright litigation from Sony and Universal Music Group. Despite lawsuits alleging Suno trained on millions of copyrighted tracks without permission, investor Amy Wu Martin is confident in the durability of \"single-player creation\"\u2014where users generate music for personal enjoyment rather than commercial purposes\u2014as a sustainable behavioral shift that justifies the valuation.",
+      "keyTakeaways": [
+        "Music AI platforms are achieving billion-dollar valuations despite active copyright litigation, suggesting VCs believe either favorable legal outcomes or new licensing models will resolve IP disputes without crippling the business.",
+        "The investment thesis hinges on a shift from professional content creation to casual \"single-player\" creation, where the addressable market expands dramatically as cost of content creation approaches zero\u2014a pattern with implications across creative software categories.",
+        "Investors are signaling that consumer behavior adoption may move faster than regulatory/legal frameworks, making early-stage positioning in AI music generation potentially more valuable than waiting for litigation clarity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Earworm economics"
+    },
+    {
+      "id": "7033f61a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Clarity Act, landmark crypto legislation determining agency jurisdiction over tokens, remains stalled in the Senate over provisions addressing Trump's $1.4 billion in crypto earnings since returning to office. Meanwhile, Beijing-based Moonshot AI's Kimi K3 model has rattled Silicon Valley by outperforming OpenAI and Anthropic offerings in independent evaluations while promising lower pricing, triggering 28.5% stock declines in Chinese AI competitors and 5.7% drops in U.S. AI-exposed ETFs.",
+      "keyTakeaways": [
+        "Trump's personal crypto wealth has weaponized what was a bipartisan industry narrative, creating political liability that could delay or reshape the Clarity Act\u2014critical clarity for crypto infrastructure investors betting on regulatory definition",
+        "Chinese AI models are directly threatening U.S. AI valuations and pricing power; Kimi K3's existence alone pressures the case for $100B+ data center spending, signaling potential margin compression for OpenAI and Anthropic investors before product superiority is even proven",
+        "The venture capital market remains active (Databricks at $188B, Crypto.com at $20B, Wonder at $9B) despite macro uncertainty, but investor appetite for AI-exposed assets is visibly fragmenting as geopolitical AI competition intensifies"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Waiting on Clarity"
+    },
+    {
+      "id": "31b3a5ca",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-07-17",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "China's Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-source model that matches performance of top U.S. systems from Anthropic and OpenAI, marking a significant escalation in the global AI arms race and a comeback for the company after DeepSeek's rise. The newsletter covers multiple deep tech developments including DeepMind's call for AI regulation, Pacific Fusion's prototype milestone, pancreatic cancer breakthroughs, and the Defense Innovation Unit's pursuit of space-based power generation.",
+      "keyTakeaways": [
+        "China's open-source AI models are now directly competitive with U.S. proprietary systems at scale, suggesting the competitive moat for Western AI companies may be eroding faster than previously assessed\u2014this has implications for valuations of companies relying on proprietary model advantages.",
+        "The open-sourcing of frontier-class models (2.8T parameters) by well-funded Chinese startups indicates a strategic shift toward democratizing AI capability, potentially compressing the timeline for AI commoditization and affecting investment returns in closed-model businesses.",
+        "Concurrent developments in fusion energy (Pacific Fusion), space-based power infrastructure (DIU), and quantum computing (PsiQuantum) suggest deep tech capital is diversifying beyond AI, with potential for significant returns in adjacent infrastructure and energy sectors that enable future computing paradigms."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 171: China's 2.8 trillion parameter open source model"
+    },
+    {
+      "id": "1be1137a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Utility watchdog Jamie Van Nostrand argues that National Grid's proposed \"rate stabilization\" plan is effectively a hidden rate increase that circumvents standard regulatory oversight. The proposal masks higher customer charges under the guise of price freezing while bypassing traditional utility commission review processes.",
+      "keyTakeaways": [
+        "Regulatory arbitrage risk: National Grid may be exploiting procedural gaps to increase revenue without full public scrutiny, signaling potential vulnerability in utility oversight frameworks that investors should monitor.",
+        "Utility sector governance concerns: This challenges the assumption that regulated utilities operate under strict rate-setting constraints, suggesting companies may find creative mechanisms to improve margins outside traditional rate case proceedings.",
+        "Policy reform catalyst: Growing watchdog pushback on \"stealth\" rate mechanisms could trigger stricter regulatory requirements, increasing compliance costs and limiting future revenue enhancement strategies for utilities nationwide."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "When a Rate Freeze Is a Rate Hike in Disguise"
+    },
+    {
+      "id": "4b96cc97",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A second major wildfire smoke event has blanketed the eastern U.S. in just over three years, shifting smoke from a rare occurrence to an emerging climate adaptation challenge. The essay argues this recurring phenomenon will force state and local governments, schools, sports leagues, hotels, and office buildings to develop new policies and infrastructure upgrades for air quality management, creating significant operational and regulatory demands across multiple sectors.",
+      "keyTakeaways": [
+        "Recurring smoke events are creating a new market for air filtration, HVAC upgrades, and indoor air quality monitoring systems across commercial real estate, institutional facilities, and hospitality sectors \u2014 vendors providing these solutions face expanding demand.",
+        "Municipal and state governments will need to allocate capital for emergency response planning, air quality monitoring infrastructure, and public health initiatives, representing potential contract opportunities for environmental consulting and emergency management firms.",
+        "The normalization of smoke days as extreme weather events increases liability and litigation risk for organizations without proper air quality protocols, driving urgent adoption of indoor air quality standards and creating competitive advantage for early movers in climate adaptation solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: What Worries Me Most About This Smoke"
+    },
+    {
       "id": "ab7bac01",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -11641,19 +11767,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 72
-    },
-    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 248
+      "count": 251
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 265
+      "count": 268
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 16
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 72
     },
     {
       "name": "Fintech",
@@ -11664,12 +11795,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 22
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 15
     }
   ],
-  "lastUpdated": "2026-07-17T09:03:59.508402Z"
+  "lastUpdated": "2026-07-18T08:43:28.166223Z"
 }
