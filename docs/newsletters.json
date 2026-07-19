@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "ddffe2c2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Global M&A activity in Q2 2026 reached $1.3 trillion, up 35% year-over-year, but deal volume grew only 3.4%, revealing that mega-deals are driving headline numbers while the broader market remains cautious. Strategic corporate acquirers have gained significant advantage over private equity sponsors due to rising interest rates making leveraged buyouts uneconomical, with corporations executing $892.7 billion in strategic M&A versus just $287.3 billion in PE buyouts. The continued momentum of mega-deals depends on three factors: interest rate movements, antitrust regulatory stance, and sustained AI investment appetite.",
+      "keyTakeaways": [
+        "PE firms face structural headwinds in competing for large assets as rising rates make LBO math untenable; strategic acquirers with strong equity valuations and stock-based deal capacity have seized the advantage, exemplified by the $118.5 billion Dominion Energy-NextEra merger",
+        "The M&A market is bifurcated\u2014mega-deals (34 transactions over $5B generating $553B) comprise 42% of value despite representing a tiny fraction of deal count, signaling that broad-based M&A recovery is illusory for most sponsors",
+        "Rate policy is the primary catalyst for PE resurgence; a Fed pivot would immediately improve LBO underwriting economics and restore sponsor competitiveness, while lighter antitrust scrutiny and ongoing AI demand provide additional tailwinds for large deals through 2026"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "M&A rebound is thinner than it looks"
+    },
+    {
       "id": "6d82a15a",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -11767,14 +11785,14 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 269
+    },
+    {
       "name": "Climate & Energy",
       "color": "#D97706",
       "count": 251
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 268
     },
     {
       "name": "Deep Tech & Science",
@@ -11797,5 +11815,5 @@
       "count": 22
     }
   ],
-  "lastUpdated": "2026-07-18T08:43:28.166223Z"
+  "lastUpdated": "2026-07-19T09:01:41.732091Z"
 }
