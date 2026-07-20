@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "00d3937f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-20",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac56 million last week with an average ticket size of \u20ac9 million, while Grenoble-based Engo closed a \u20ac5.1 million funding round led by Ventech for its sports smartglasses platform, which already generates 90% of revenue internationally. The newsletter also covers the contentious closure of Rakuten France's marketplace and commentary from French entrepreneurs calling for regulatory clarity rather than additional economic policies.",
+      "keyTakeaways": [
+        "Engo's \u20ac5.1M raise demonstrates continued investor appetite for European hardtech in wearables, with strong international revenue traction (90% ex-France, 50% from US) validating the product-market fit before scaling domestically.",
+        "French startup funding velocity remains robust at \u20ac56M weekly with healthy ticket sizes, but AI startups captured only \u20ac4.4M of that total\u2014suggesting potential concentration risk in non-AI sectors and opportunity in underserved verticals.",
+        "Regulatory uncertainty and mixed government signals are dampening French entrepreneur confidence despite strong capital availability, indicating that access to capital alone is insufficient without clear, consistent policy frameworks for business operations."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "20.07 - Rakuten France : Pixmania s'insurge"
+    },
+    {
+      "id": "594132e6",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are increasingly rushing to unload post-IPO shares by shortening or eliminating traditional lock-up periods, with Neos Partners' Forgent Power Solutions completing three follow-on offerings within five months of its February 2026 IPO, reducing the sponsor's voting stake from 81% to below 50% while raising $6.3 billion in proceeds. This trend raises questions about PE sponsors' actual conviction in their portfolio companies and whether the practice undermines the stabilizing purpose of lock-up restrictions designed to protect early public market investors.",
+      "keyTakeaways": [
+        "PE sponsors are negotiating away lock-up restrictions to capture IPO momentum and monetize positions faster, signaling potential weakness in long-term conviction and creating misaligned incentives between sponsors and public shareholders.",
+        "The aggressive share liquidation strategy (Neos reducing its stake from 81% to sub-50% in five months) suggests PE firms may be prioritizing near-term cash returns over sustained value creation, which could impact future IPO valuations if the market perceives this as a red flag.",
+        "This emerging pattern indicates a broader shift in post-IPO capital allocation dynamics where PE-backed IPOs may underperform traditional public companies due to sponsor exits, potentially reshaping how institutional investors evaluate PE-backed IPO investments."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The new rush to offload post-IPO shares"
+    },
+    {
+      "id": "f70c20a0",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-19",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Kraken Financial's Wyoming-chartered special purpose depository institution received Fed master account approval in March but remains unable to operationalize the account as of July, according to CEO testimony before a Wyoming legislative committee. The delays highlight the technical and political complexity surrounding Fed master account access for non-traditional financial institutions, particularly crypto-focused firms, despite regulatory approval.",
+      "keyTakeaways": [
+        "Fed master account approval is not operationalization: approval from regulators does not guarantee immediate access to Federal Reserve payment systems, creating extended implementation timelines and uncertainty for fintech applicants seeking direct access to central bank infrastructure.",
+        "Political friction remains high for crypto-focused financial infrastructure: even approved applicants face significant barriers to actually using Fed master accounts, suggesting incumbent financial institutions and the Federal Reserve system continue to resist crypto-focused competitors at the operational level.",
+        "The master account bottleneck is a critical chokepoint for fintech: inability to operationalize accounts limits expansion opportunities for non-traditional lenders and payment processors, potentially slowing crypto banking adoption and creating opportunities for firms that can navigate or bypass these barriers."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "Kraken Financial\u2019s \u201cSkinny\u201d Master Account Still Isn\u2019t Live, Its CEO Testified Last Week"
+    },
+    {
+      "id": "3fbf7272",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week's Climate & Energy newsletter covers major developments across carbon removal, hydrogen energy, data center regulation, and wildfire impacts. Key stories include a significant carbon removal buyer emerging in the market, advances in hydrogen technology, New York's balancing act on data center expansion, and the East Coast's growing wildfire smoke problem\u2014signaling both emerging opportunities and regulatory challenges in climate-adjacent sectors.",
+      "keyTakeaways": [
+        "Carbon removal is attracting major corporate buyers, indicating a maturing market with real demand signals\u2014investors should monitor which companies are securing long-term offtake agreements and at what price points",
+        "Hydrogen is advancing as a next-generation energy solution, representing a potential multi-billion dollar investment opportunity in industrial decarbonization and energy transition infrastructure",
+        "Regulatory friction around data centers and natural disaster impacts (wildfire smoke) are creating policy uncertainty on the East Coast, which could reshape real estate and energy infrastructure investment calculus in the region"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A Big Move in Carbon Removal, the East Coast\u2019s New Forever Problem, and More"
+    },
+    {
       "id": "ddffe2c2",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -11785,14 +11857,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 73
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 269
+      "count": 270
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 27
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 251
+      "count": 252
     },
     {
       "name": "Deep Tech & Science",
@@ -11800,20 +11882,10 @@
       "count": 16
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 72
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 26
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 22
     }
   ],
-  "lastUpdated": "2026-07-19T09:01:41.732091Z"
+  "lastUpdated": "2026-07-20T09:49:47.649496Z"
 }
