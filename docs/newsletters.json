@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "58b8b443",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-21",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "British events company Hyve Group has acquired Raise Summit, Machina Summit, and Signal Week (formerly Paris Blockchain Week), consolidating major European tech conferences. Fundora has launched a new 'Deal by Deal' investment format, starting with Jeff Bezos's AI startup Prometheus, expanding beyond Y Combinator portfolio access. Bpifrance appointed Charlotte Corbaz to lead its Large Venture fund, replacing Ma\u00eflys Ferr\u00e8re after 13 years, signaling continuity in France's most active growth-stage tech investor.",
+      "keyTakeaways": [
+        "Hyve Group's acquisition of flagship European tech conferences signals consolidation in the events-to-deal-flow pipeline; investors should monitor how this affects conference quality and networking opportunities at Raise Summit and related events.",
+        "Fundora's 'Deal by Deal' model democratizing access to late-stage deals like Prometheus suggests retail/community investment platforms are moving upstream into growth equity territory, potentially disrupting traditional VC fundraising dynamics.",
+        "Leadership transition at Bpifrance Large Venture indicates stability in French growth-stage investing despite market volatility; the fund's track record suggests continued capital availability for scaling French tech companies, though macro policy uncertainty around entrepreneurial support remains unresolved."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "21.07 - IA : c\u2019est d\u00e9j\u00e0 l\u2019heure du rachat pour le Raise Summit !"
+    },
+    {
+      "id": "2954bf9d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Large PE megafunds have underperformed middle-market peers over the past decade, with capital-weighted averages falling below the median for all buyout funds, suggesting that scale diminishes operational value-add in mature portfolio companies. Meanwhile, European VC is concentrating capital into fewer, larger rounds with AI commanding 60% of funding, while CoreWeave secures $2.6 billion in debt financing for GPU acquisition.",
+      "keyTakeaways": [
+        "Mega-fund PE performance is declining as scale eliminates operational improvements available in larger, already-optimized targets\u2014LP capital may generate better risk-adjusted returns selecting middle-market managers with genuine alpha generation capabilities",
+        "European VC consolidation around AI is accelerating, concentrating dry powder into mega-rounds rather than diversified portfolios, creating winner-take-most dynamics in the sector",
+        "Infrastructure-as-a-service plays like CoreWeave demonstrate leverage opportunities in AI compute\u2014debt markets are willing to finance GPU acquisition at scale, suggesting AI capex will increasingly flow through specialized infrastructure providers rather than generalist tech platforms"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Davids outslinging Goliaths"
+    },
+    {
+      "id": "80f9b5e2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The FDA is set to decide on July 23-24 whether to approve seven wellness peptides for legal pharmacy compounding, potentially creating a $30 billion market similar to the GLP-1 gold rush. Telehealth platforms like Hims & Hers, facing margin pressure from FDA restrictions on Ozempic compounding, are positioning peptides as their next major growth driver, with the company's chief medical officer testifying at the FDA hearing.",
+      "keyTakeaways": [
+        "Hims & Hers and other telehealth incumbents are strategically pivoting to peptides after GLP-1 compounding margins compressed\u2014the FDA approval could unlock a $30 billion addressable market and restore growth momentum for publicly traded telehealth platforms.",
+        "A wave of undercapitalized copycat peptide telehealth clinics will likely emerge post-approval (as happened with GLP-1), but well-funded platforms with compliance infrastructure will consolidate the market within 6 months through price and credibility advantages.",
+        "Unlike GLP-1 (single weekly injection), peptide users typically stack multiple compounds with no long-term safety data on combinations\u2014this creates regulatory and liability risks that could favor established, compliant operators over gray-market alternatives."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Wonder drugs"
+    },
+    {
+      "id": "857f7930",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The EU is integrating direct air capture (DAC) and carbon removal technologies into its Emissions Trading System for the first time, allowing companies to use carbon credits for compliance as 2040 approaches. Meanwhile, Britain's incoming Prime Minister Andy Burnham is maintaining a ban on North Sea oil and gas exploration licenses despite industry pressure, while Scotland moves forward with a 2-gigawatt offshore wind farm called Caledonia expected to begin construction in 2030.",
+      "keyTakeaways": [
+        "The EU's regulatory shift creates a near-term commercial opportunity for carbon removal companies, particularly those specializing in direct air capture and bioenergy with carbon capture, as carbon credits become a compliance mechanism in a major trading bloc.",
+        "Britain's anti-exploration stance on fossil fuels combined with aggressive offshore wind expansion signals sustained policy support for renewable energy infrastructure, while the U.S. and Canada present alternative markets for DAC companies seeking favorable regulatory environments.",
+        "The divergence between EU, UK, and North American carbon removal policies is creating fragmented regional markets with different incentive structures, requiring companies to tailor their strategies and geographic focus to regulatory frameworks."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "EU Backs DAC"
+    },
+    {
+      "id": "9051b613",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Amazon is reshaping its data center infrastructure strategy around grid optimization and nuclear power rather than pure renewable availability, as detailed in an interview with Brandon Oyer, who leads energy and water strategy for AWS. The company is pursuing small modular reactors (SMRs) to support scaling and has implemented efficiency measures like Project Rainier in Indiana, a 2.2-gigawatt campus using outside-air cooling 97-98% of the time, while committing to water replenishment programs across multiple states.",
+      "keyTakeaways": [
+        "Amazon's shift from 'build where renewables exist' to 'build where grid needs capacity' signals a maturation of hyperscale infrastructure strategy that prioritizes grid stability and ratepayer protection\u2014investors should monitor whether this becomes industry standard and impacts utility partnerships.",
+        "The focus on small modular reactors over utility-scale nuclear indicates Amazon believes distributed, flexible nuclear capacity addresses both decarbonization and reliability, creating investment opportunities in SMR technology, deployment infrastructure, and grid modernization companies.",
+        "Water management and grid-responsive siting represent emerging competitive advantages for cloud infrastructure operators; companies that master these constraints will attract enterprise customers with ESG mandates while reducing regulatory and operational risks in water-stressed regions."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Inside Amazon's approach to data center sustainability"
+    },
+    {
+      "id": "476e9924",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "De-extinction company Colossal is raising $20-30 billion at a significant valuation increase from $10.2 billion in early 2025, now generating revenue and having demonstrated artificial egg hatching technology with plans for mammalian artificial wombs. Jersey Mike's Subs is proceeding with a $6.7-7.8 billion IPO backed by Blackstone, potentially opening the door for restaurant chain IPOs as the public markets show appetite for QSR investments.",
+      "keyTakeaways": [
+        "Colossal's valuation nearly tripled in 18 months as it transitioned from pre-revenue to revenue-generating status, signaling investor confidence in synthetic biology and longevity applications despite scientific credibility questions\u2014this validates deeptech funding trends but carries execution risk.",
+        "Blackstone's $659.9 million stake sale in Jersey Mike's IPO demonstrates PE firms' ability to achieve significant returns on restaurant acquisitions, with the deal potentially unlocking a wave of QSR public offerings and validating the restaurant franchise consolidation strategy.",
+        "The deeptech boom is creating a bifurcated market: bleeding-edge life sciences (de-extinction, artificial reproduction) and energy/computing solutions attract mega-rounds despite skepticism, while traditional food service CPG companies achieve premium valuations through operational excellence and scale rather than innovation narratives."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: \ud83e\udda3 Colossal scoop"
+    },
+    {
+      "id": "5f6b564d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has announced 50% tariffs on over 500 Canadian imports including cement, plywood, beer, and construction materials, using an unprecedented legal mechanism (Section 338 of Smoot-Hawley) that could potentially override USMCA protections. Energy and critical minerals are explicitly exempted, suggesting the administration is attempting to avoid inflation while still pressuring Canada, though construction input costs and data center inflation risks could rise significantly.",
+      "keyTakeaways": [
+        "Construction and infrastructure investors face material headwinds: cement, plywood, and construction materials now face 50% tariffs, which will directly increase project costs for data centers, real estate development, and infrastructure buildouts already experiencing inflation pressures.",
+        "Automotive supply chains face renewed uncertainty despite USMCA: the use of Section 338 signals the administration believes it can override trade pact protections on any product category, creating new risk for Ford, GM, and their cross-border suppliers that previously relied on carve-outs.",
+        "Energy independence is being weaponized strategically: the explicit exemption of oil, gas, and electricity from tariffs reveals a deliberate policy choice that protects energy prices while targeting other sectors, potentially reshaping capital allocation away from tariffed materials and toward energy infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Trump Found a New Way to Punish Canada\u00a0"
+    },
+    {
       "id": "00d3937f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -11859,22 +11985,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 73
+      "count": 74
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 270
+      "count": 273
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 255
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 27
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 252
     },
     {
       "name": "Deep Tech & Science",
@@ -11887,5 +12013,5 @@
       "count": 22
     }
   ],
-  "lastUpdated": "2026-07-20T09:49:47.649496Z"
+  "lastUpdated": "2026-07-21T09:23:06.782960Z"
 }
