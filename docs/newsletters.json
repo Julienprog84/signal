@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "89d6f2fb",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-22",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Nabla appoints Brian Manning as new CEO following Alexandre Lebrun's departure, bringing US healthcare expertise to the French health tech company. Mistral AI, France's leading AI champion, secures a multi-billion dollar partnership with Microsoft that grants the tech giant access to European computing capacity, while the startup prepares a funding round targeting a \u20ac20 billion valuation. BlaBlaCar enters exclusive negotiations to sell its commute-focused subsidiary BlaBlaCar Daily to Karos, refocusing on long-distance carpooling as its core business.",
+      "keyTakeaways": [
+        "Mistral AI's Microsoft deal signals major institutional validation for European AI infrastructure play and suggests European tech companies can command significant valuations in strategic partnerships with US giants",
+        "Leadership transitions at healthtech (Nabla) and strategic portfolio rationalization at mobility (BlaBlaCar) indicate European startups are maturing by bringing in experienced executives and focusing on core competencies",
+        "France-UK investment partnership generating 4,200+ jobs demonstrates sustained cross-border VC activity in AI, clean energy, and life sciences despite macro uncertainty\u2014key growth sectors for European venture capital"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "22.07 - Nabla se dote enfin d'un nouveau PDG !"
+    },
+    {
+      "id": "13fa7fcd",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook and the National Venture Capital Association released their Q2 2026 Venture Monitor, analyzing a venture market at a critical inflection point. The report examines SpaceX's $1.7 trillion IPO and its implications for the VC liquidity pipeline, while tracking concentration dynamics in dealmaking, exits, and fundraising during the first half of 2026.",
+      "keyTakeaways": [
+        "SpaceX's massive $1.7 trillion IPO signals potential thawing in late-stage liquidity markets, which has major consequences for VC returns and exit velocity across the portfolio",
+        "Market concentration is accelerating\u2014capital, deals, and exits are consolidating among top-tier firms and companies, suggesting capital allocation is becoming more selective and competitive",
+        "H1 2026 concentration trends may indicate how the venture market will bifurcate in the second half of the year, with winners pulling further ahead while mid-market and lower-tier deals face headwinds"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "What Q2 venture data actually shows"
+    },
+    {
+      "id": "83a5922b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new LevelTen Energy report reveals diverging market dynamics in renewable energy, with solar advance purchase prices declining while wind prices are rising, suggesting political policy shifts are creating distinct investment opportunities across different clean energy subsectors.",
+      "keyTakeaways": [
+        "Solar market weakness presents potential acquisition or consolidation opportunities as project developers face pricing pressure, while wind projects command premium valuations indicating stronger demand or supply constraints",
+        "Policy uncertainty around Trump administration climate positions is creating asymmetric risk across renewable segments\u2014solar facing headwinds while wind remains supported, suggesting selective sector bets over broad clean energy exposure",
+        "The divergence signals that renewable energy is no longer a monolithic investment thesis; capital allocators must now differentiate between solar and wind based on regulatory tailwinds and power purchase agreement economics"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Trump Made the Renewable Power Market Weird"
+    },
+    {
+      "id": "655fc281",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook research reveals that cheaper AI models mask their true cost to customers through unreliability and repeated failures. Anthropic's Claude Opus 4.8, despite premium token pricing near $2.56 per task, outperforms Meta's Muse Spark ($5.83 effective cost) and Google's Gemini because lower error rates eliminate expensive retries and human intervention. The findings expose widespread AI model underpricing subsidized by parent-company cash and ad revenue\u2014a dynamic likely to face scrutiny when Anthropic goes public in fall 2026.",
+      "keyTakeaways": [
+        "Enterprise buyers should evaluate AI models on total cost of ownership, not per-token pricing, as reliability and error rates drive the majority of operational expense.",
+        "Many market-leading AI vendors are selling below production cost, creating an unsustainable subsidy model that will likely compress margins and shift pricing once public market scrutiny arrives.",
+        "Anthropic's IPO will serve as a critical market test for the viability of frontier AI business models; investors should monitor whether the company can achieve profitability at current pricing structures."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "AI's true cost"
+    },
+    {
+      "id": "d9444eeb",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Databricks cofounder Ion Stoica launched SkyPilot, a cloud-agnostic GPU orchestration platform, with $20 million in seed funding led by Lux Capital to solve enterprise cloud lock-in and GPU underutilization. The startup positions itself as a neutral broker between multiple cloud providers and hardware vendors, with the core value proposition of helping customers squeeze 10%+ additional GPU utilization from existing infrastructure\u2014potentially saving $10 million annually for companies spending $100 million on GPUs.",
+      "keyTakeaways": [
+        "GPU orchestration and optimization is becoming a critical infrastructure layer, with the market projected to grow from $14 billion in 2026 to $60 billion by 2034, validated by Nvidia's $700 million Run:ai acquisition in 2024.",
+        "SkyPilot's primary moat is vendor neutrality and the execution pedigree of its founders\u2014Stoica's track record of building Databricks and Anyscale signals the founding team's ability to attract top talent and identify large platform opportunities.",
+        "The profitability debate in AI shifts from model costs to infrastructure efficiency; companies like Cursor improved margins by moving away from rented models to custom training, a trend now accelerated by open-weight models competing with proprietary alternatives."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The cloud broker"
+    },
+    {
+      "id": "e293540c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center demand is surging with BloombergNEF raising its 2035 capacity forecast by 83% to 194 gigawatts, driven primarily by AI chip shipments potentially reaching 229 gigawatts by 2033. However, public opposition to data centers has shifted dramatically, with 70% of Americans now opposing facilities in their communities compared to an even split last year, creating significant infrastructure and permitting challenges for the sector.",
+      "keyTakeaways": [
+        "Data centers now command 38% ($6.3B of $16.4B) of PJM's capacity auction costs, signaling massive capital requirements for power infrastructure investment and potential bottlenecks in grid capacity that could limit AI buildout.",
+        "The 83% upward revision in data center capacity forecasts suggests previous market estimates severely underestimated AI infrastructure demand, presenting both opportunities for power generation companies and risks for those betting on slower adoption.",
+        "Deteriorating public sentiment (70% opposition) combined with explosive demand growth creates a permitting and NIMBY crisis that could force data center operators toward alternative locations, off-grid solutions, or corporate PPAs rather than grid reliance."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Data Center Paradox"
+    },
+    {
+      "id": "642b8295",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-07-21",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Chinese open-source model Kimi K3 from Moonshot AI has emerged as a near-frontier competitor, closing the gap with U.S. frontier models by only a few months while potentially serving 90% of use cases at today's pricing. Meanwhile, Thinking Machines\u2014founded by former OpenAI CTO Mira Murati\u2014released a credible open-source model partly distilled from Chinese models, marking the first significant U.S. open-source frontier effort since Meta's Llama stumbled, signaling a shift in competitive dynamics and the commoditization risk facing closed-model labs.",
+      "keyTakeaways": [
+        "Open-source models are rapidly narrowing the performance gap with frontier closed models; the marginal value of frontier performance may not justify premium pricing if 90% of use cases are adequately served by models only months behind at lower cost, creating downward pricing pressure on proprietary AI services.",
+        "The emergence of credible open-source alternatives from both China and new U.S. entrants (Thinking Machines) suggests the AI infrastructure layer is transitioning toward commoditization; investors should reassess valuation premiums of closed-model labs as competitive moats erode faster than anticipated.",
+        "Geopolitical technology arbitrage is enabling faster innovation cycles: Chinese models distilling Western research and vice versa creates cross-border knowledge spillovers that compress development timelines and reduce first-mover advantages, favoring investors positioned in infrastructure and applications rather than foundational model IP."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 652"
+    },
+    {
+      "id": "9d01c9b3",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Silicon Valley investors are mobilizing against proposed bans on Chinese AI models, fearing overreliance on Anthropic and OpenAI as costs balloon. The industry is increasingly focused on open-source alternatives like those from Thinking Machines and Reflection AI, though closed models currently dominate due to superior monetization pathways. Meanwhile, Carlyle is offloading its ESG consultancy Anthesis Group to lender Bridgepoint, reflecting broader corporate retreat from environmental and social initiatives.",
+      "keyTakeaways": [
+        "Open-source AI models are becoming a legitimate competitive alternative to closed models from incumbents, creating a fragmented vendor landscape that could reduce buyer lock-in but complicate the AI infrastructure market",
+        "The rapid pace of AI model development (leadership changing every 3-6 months) creates significant volatility for venture investors, requiring portfolio companies to stay agile rather than betting on any single technology becoming dominant",
+        "The ESG market correction is cascading into dealmaking and M&A, signaling that ESG-focused portfolio companies may face headwinds as corporate commitments fade and the sector becomes politically contentious"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: \ud83e\udd16 Sourcing AI"
+    },
+    {
+      "id": "05e9ee95",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. gasoline prices have surged back above $4 per gallon, erasing consumer gains from larger tax refunds and highlighting the economic drag from geopolitical conflict. The Trump administration's Iran war has cost Americans $71 billion in elevated fuel costs according to Brown University researchers, while defense spending reaches $37.5 billion, demonstrating how foreign policy directly translates into consumer pain and macroeconomic headwinds.",
+      "keyTakeaways": [
+        "Energy price volatility driven by Middle East geopolitics represents a significant tax on consumer purchasing power that can offset fiscal stimulus measures, making energy security and stable fuel prices critical macro variables for consumer spending forecasts.",
+        "Historical economic data shows Democratic administrations have outperformed Republicans on growth, employment, and markets partly due to fewer oil shocks and better foreign policy management; escalating Middle East conflicts create measurable economic drags through energy prices.",
+        "The $71 billion in excess fuel costs from the Iran war dwarfs the defense budget line item, illustrating hidden economic costs of military conflict that ripple through transportation, logistics, and consumer discretionary spending across the entire economy."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Gas Eats the Tax Cut"
+    },
+    {
       "id": "58b8b443",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -11985,17 +12147,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 74
+      "count": 75
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 273
+      "count": 277
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 255
+      "count": 258
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 23
     },
     {
       "name": "Fintech",
@@ -12006,12 +12173,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 16
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 22
     }
   ],
-  "lastUpdated": "2026-07-21T09:23:06.782960Z"
+  "lastUpdated": "2026-07-22T09:22:27.843058Z"
 }
