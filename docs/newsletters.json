@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "07602a7f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Carsup, a French startup managing a fleet of over 2,000 exceptional vehicles worth \u20ac400 million in assets, is expanding with backing from the Ferrari family, signaling growing investor interest in luxury automotive lifecycle management. The newsletter also covers Google's France launch of AI-powered search summaries, which threatens publisher traffic but creates opportunities for companies offering strategic SEO adaptation, while highlighting broader French entrepreneurship challenges around regulatory clarity.",
+      "keyTakeaways": [
+        "The Ferrari family's investment in Carsup validates the luxury vehicle management sector as a scalable business model, with \u20ac400M+ in managed assets suggesting significant recurring revenue potential for VCs targeting the automotive fintech space",
+        "Google's AI search overviews in France represent a structural disruption to organic traffic models\u2014companies offering SEO optimization and conversational search adaptation (like Datashake) are positioned as beneficiaries of this market shift",
+        "French regulatory uncertainty remains a competitive disadvantage for European startups; investor appetite exists but entrepreneurs signal the need for clearer policy frameworks rather than additional state intervention programs"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "23.07 - La famille Ferrari mise sur cette startup fran\u00e7aise"
+    },
+    {
+      "id": "9e052a4e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI agents are emerging as autonomous economic participants, creating a potential 'machine economy' valued at $20 trillion in exposed knowledge work, though currently only 1% is handled by agents. The market is accelerating rapidly\u2014Google processed 3.2 quadrillion tokens in May 2026 versus 9.7 trillion two years prior\u2014with global agent GDP currently at a $36 billion annual run rate. Investment opportunities are concentrating on enabling agent transactions and making products discoverable and usable by machines, while secondary market activity hit a record $120 billion in H1 2026 driven by sponsors holding trophy assets.",
+      "keyTakeaways": [
+        "The machine economy represents a massive addressable market with potentially no ceiling\u2014focus on companies building transaction infrastructure and products designed for machine consumption rather than human interfaces.",
+        "AI token adoption is still at 1% penetration of exposed knowledge work; investors should position for acceleration as token costs decline and agent autonomy increases, similar to early SaaS infrastructure plays.",
+        "Secondary market dynamics are shifting as sponsors hold prize assets longer; this creates opportunities in continuation funds and debut secondary vehicles like Clipway's $6.4B fund, signaling conviction in portfolio company growth rather than near-term exits."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "When AI agents buy and sell"
+    },
+    {
+      "id": "577e461e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Candid Health, a healthcare revenue cycle management startup, raised $120 million in Series D funding led by Sixth Street Growth, tripling its 2025 valuation. The company uses AI agents and rules engines to automate medical billing for healthcare providers, addressing a $280 billion annual administrative burden in the U.S. healthcare system. With 190% year-over-year ARR growth and nearly 200% net revenue retention, Candid has raised over $219 million total while growing primarily through organic word-of-mouth.",
+      "keyTakeaways": [
+        "Healthcare RCM automation represents a massive TAM opportunity\u2014$280 billion in annual billing administration spend with proven unit economics (customer examples show 40-98% improvement in manual work reduction and claim collection rates), making this an attractive sector for infrastructure-focused venture capital.",
+        "Candid's capital efficiency model\u2014achieving 6x, 5x, and 2.5x growth on successive years with minimal marketing spend\u2014demonstrates the power of solving acute pain points in fragmented industries; this suggests strong defensibility and potential for rapid scaling with moderate capital injection.",
+        "The shift toward AI-driven automation in healthcare administration could fundamentally compress the labor-intensive billing industry, creating both opportunity for software vendors and potential disruption for legacy RCM service providers, signaling a broader trend of AI replacing manual healthcare operations."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Pay dirt"
+    },
+    {
+      "id": "83f80321",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. power sector emissions rose 4% in 2025 driven by a 13% surge in coal generation despite renewables growth, while Watershed released an open-source framework for calculating AI data center emissions as companies face increasing investor and regulatory scrutiny. Oil prices spiked 3-5% following geopolitical tensions over potential U.S. strikes on Iranian nuclear facilities, with crude benchmarks rising to $85-91 per barrel.",
+      "keyTakeaways": [
+        "Coal's unexpected resurgence in U.S. power generation (up 13% in 2025) despite 34% solar growth suggests energy demand is outpacing renewable capacity additions\u2014a bullish signal for nuclear and natural gas infrastructure investments seeking to fill the baseload gap.",
+        "Watershed's AI emissions framework addresses a critical gap in corporate sustainability reporting; as investors and regulators demand AI emissions transparency, companies need standardized measurement tools, creating opportunities in climate tech software and data center efficiency solutions.",
+        "Geopolitical risk premiums are driving crude prices toward $85-91 as Iran tensions escalate, which could pressure renewable energy adoption timelines if oil volatility persists, but also strengthens the macro case for energy independence through distributed renewables and nuclear expansion."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Smokestacked"
+    },
+    {
+      "id": "aaba4843",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Mining M&A activity surged 68% quarter-over-quarter to $26.3 billion in Q2 2026, driven by rising gold prices and increased demand for critical minerals for AI infrastructure and energy transition. NovaGold's $4.2 billion acquisition of Donlin Gold represents the largest gold development project in the U.S., while separately, Samsung is in talks to invest roughly \u20ac1 billion in French AI foundry Mistral at a \u20ac20 billion valuation, signaling strategic capital flows toward both commodities and frontier AI models.",
+      "keyTakeaways": [
+        "Mining M&A has become a major capital allocation channel, with Q2 2026 reaching the second-highest quarterly volume on record since 2013\u2014this reflects structural demand from AI infrastructure buildout and energy transition, not just commodity speculation.",
+        "The consolidation trend in mining suggests M&A is preferred over greenfield development due to regulatory hurdles, environmental backlash, and high execution risk; investors seeking mineral exposure may see more roll-ups than new mine openings.",
+        "AI infrastructure demand is creating secondary investment opportunities in commodities (copper, lithium, rare earths, gold) alongside primary AI model funding\u2014strategic diversification into critical inputs may outperform pure-play AI equity in volatile markets."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: \ud83e\ude8f Gold digging"
+    },
+    {
+      "id": "2569899f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Inertia, a spinoff from Lawrence Livermore National Lab, has unveiled a comprehensive 10-point commercialization roadmap targeting grid deployment of laser fusion technology by the 2030s. This marks a significant milestone in the race to bring fusion energy from the laboratory to commercial power generation.",
+      "keyTakeaways": [
+        "Inertia's publicly detailed 10-point plan signals confidence in near-term commercialization timelines and may influence investor appetite for fusion-sector capital, particularly among early-stage and growth-stage energy companies",
+        "A 2030s grid-deployment target suggests the company believes it can overcome engineering and regulatory hurdles faster than competitors, making this a key competitive positioning statement in the crowded fusion landscape",
+        "Lawrence Livermore's recent fusion breakthroughs provide credibility to spinoff commercialization efforts, potentially validating fusion energy as a serious climate solution and attracting institutional capital to the broader clean energy sector"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Exclusive: Inertia\u2019s Roadmap to Commercialize Laser Fusion"
+    },
+    {
+      "id": "27143d54",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Power electronics and grid infrastructure are becoming critical bottlenecks in the AI data center boom, with companies like Crusoe Energy partnering with ON.energy to deploy five gigawatts of specialized uninterruptible power systems (UPS) designed to stabilize grid fluctuations caused by AI training workloads. Grid regulators are now requiring large loads to meet strict interconnection standards, such as ERCOT's mandate that 75+ megawatt loads maintain 90% power during disturbances, transforming power electronics from commodity infrastructure into strategically essential hardware.",
+      "keyTakeaways": [
+        "Power electronics manufacturers are moving from commodity suppliers to strategic partners in AI infrastructure \u2014 ON.energy and IONATE are securing long-term, large-scale contracts that insulate them from price competition and create switching costs for hyperscalers.",
+        "Grid interconnection standards are rapidly tightening, creating a moat for companies whose equipment meets regulatory requirements; this shifts investment focus from raw capacity to specialized hardware that solves grid stability rather than just moving power.",
+        "The AI data center buildout is hitting infrastructure constraints earlier than expected \u2014 power electronics bottlenecks suggest that grid-connected compute facilities will face interconnection delays unless they partner with specialized hardware vendors, creating a supply-side constraint on AI deployment growth."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "The strategic importance of securing power electronics\u00a0"
+    },
+    {
+      "id": "39a6497c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Bloom Energy survey of 156 data center industry players reveals that while power availability remains the top operational challenge, community opposition has intensified significantly, with 28% of respondents reporting worsening local resistance over the past six months. In response, data center developers are increasingly deploying on-site power generation to mitigate grid strain and address community concerns about water consumption, noise, and air quality, with industry leaders projecting that one-third of all U.S. data centers will operate entirely on on-site power by 2030.",
+      "keyTakeaways": [
+        "Community opposition to data centers is accelerating and becoming a material risk to project deployment timelines and costs; investors should factor in longer permitting cycles and higher infrastructure spending for grid-independent solutions when evaluating data center developers and AI infrastructure plays.",
+        "The shift toward on-site power generation represents a significant capital reallocation opportunity for distributed energy, fuel cell, and renewable power companies like Bloom Energy, as well as engineering and construction firms that can design self-sufficient data center campuses.",
+        "The macro implication is that the AI infrastructure boom cannot rely solely on grid expansion; distributed power infrastructure becomes a critical bottleneck, favoring companies with on-site generation capabilities and positioning this as a structural tailwind for energy technology vendors over the next 4-5 years."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "As community scrutiny grows, data centers turn to on-site power"
+    },
+    {
+      "id": "1b41170c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "France's summer 2026 heat wave killed between 2,700 and 5,700 people, making it the deadliest in over 20 years, with Europe experiencing more than 10,000 excess deaths during the same period. The wide disparity in death toll estimates stems from different methodologies\u2014the French government counts excess deaths compared to previous years, while climate scientists use temperature-mortality statistical models, highlighting ongoing challenges in quantifying climate change's human toll. This event underscores the accelerating real-world costs of global warming, particularly for vulnerable elderly populations, with 90% of victims over 65.",
+      "keyTakeaways": [
+        "Climate-related mortality events are becoming measurable macro economic shocks with real GDP and healthcare system impacts; investors should model heat-related mortality and infrastructure strain into climate risk assessments for European and vulnerable region exposures.",
+        "Methodological inconsistency in calculating climate deaths creates valuation uncertainty for climate adaptation and mitigation companies\u2014those with proprietary mortality modeling or early warning systems have competitive advantages as governments standardize measurement.",
+        "Elderly care infrastructure, pharmaceutical supply chains (cooling requirements), and public health systems in developed nations face increasing stress from heat waves; this signals rising operational costs and regulatory exposure for healthcare providers and essential service operators in affected regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: How to Count a Death"
+    },
+    {
       "id": "89d6f2fb",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -12147,17 +12309,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 75
+      "count": 76
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 277
+      "count": 280
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 258
+      "count": 263
     },
     {
       "name": "Strategy & Thesis",
@@ -12175,5 +12337,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-07-22T09:22:27.843058Z"
+  "lastUpdated": "2026-07-23T09:19:15.446701Z"
 }
