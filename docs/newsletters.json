@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "08737a85",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new podcast series explores how energy infrastructure is being shaped by geopolitical tensions, AI's massive power demands, and capital flows rather than technology alone. Key discussions include US-China competition over minerals and energy resources, how data center flexibility could unlock over 100 gigawatts of stranded grid capacity, and why infrastructure investors see unprecedented opportunities in grid modernization driven by electrification and digitalization rather than political cycles.",
+      "keyTakeaways": [
+        "AI's grid bottleneck is flexibility, not generation capacity\u2014data centers that can modulate loads could unlock 100+ gigawatts of stranded capacity, representing a massive infrastructure arbitrage opportunity for investors.",
+        "US-China competition over rare earth minerals and energy resources is reshaping capital allocation priorities; investors should view energy infrastructure through a geopolitical lens where supply chain resilience matters as much as returns.",
+        "Infrastructure buildout is now driven by economic fundamentals (electrification, aging grids, digitalization) rather than policy cycles, creating more stable and predictable cash flows for institutional capital\u2014Nuveen's $40 billion infrastructure portfolio signals major asset manager conviction in this sector."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Four conversations on energy's biggest bottlenecks"
+    },
+    {
+      "id": "2fd5315a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Lenders are increasingly structuring deals with built-in debt-for-equity conversion mechanisms and enhanced governance rights to prepare for future distress scenarios, learning from the high failure rate of liability management exercises in previous cycles. Meanwhile, consumer tech venture capital is being redirected by three major trends: AI-driven discovery tools, GLP-1 adoption, and growing subscription fatigue, while fintech concentration remains extreme with the top five deals capturing 43% of Q2 funding.",
+      "keyTakeaways": [
+        "Private credit managers are negotiating stacked holding company structures and governance control provisions at loan origination to enable faster equity foreclosure and conversion if borrowers default\u2014a structural shift that costs little upfront but dramatically improves lender optionality in distress scenarios.",
+        "LMEs (liability management exercises) are failing at high rates, but operationally-focused Chapter 11 restructurings that renegotiate leases, labor, and contracts perform significantly better than debt-only solutions, signaling that lenders should demand deeper operational control in credit agreements.",
+        "Consumer tech investment is rebounding but capital is reallocating away from traditional models toward AI discovery platforms and GLP-1 enabled companies, while fintech remains dangerously concentrated\u2014Revolut's $115 billion valuation reflects winner-take-most dynamics in the sector."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Inside the loan-to-own playbook"
+    },
+    {
+      "id": "0d0dadd8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has reached a landmark nuclear deal with Saudi Arabia that would allow the kingdom to enrich and recycle its own nuclear fuel domestically, reversing the stricter restrictions imposed in the UAE's 2009 agreement. The deal represents a significant geopolitical win for the U.S. in competing against Russian and Chinese nuclear export dominance, as it prevents Saudi Arabia from turning to Beijing for reactor technology amid regional tensions with Iran's expanding nuclear program.",
+      "keyTakeaways": [
+        "U.S. nuclear technology exports face a critical competitive window: American companies can capture major Middle Eastern deals if they move quickly, as China and Russia are aggressively undercutting U.S. pricing and timelines in reactor construction.",
+        "The Saudi deal signals a shift in U.S. nuclear policy toward less restrictive fuel agreements, which could open deal-making opportunities with other nations but may face domestic congressional scrutiny over non-proliferation concerns.",
+        "The nuclear sector is becoming a key battleground in U.S.-China-Russia competition for strategic influence in developing economies, with significant long-term implications for energy infrastructure investments and geopolitical alignment in the Middle East and beyond."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Saudi Atom"
+    },
+    {
+      "id": "3799362b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "China's leading AI companies are pursuing aggressive IPO strategies to fund an escalating competitive arms race. Moonshot AI is preparing a Hong Kong listing at a $30 billion valuation after releasing its K3 model, while DeepSeek is targeting Shanghai's STAR market at valuations reaching $71 billion, despite having significant internal funding from its hedge fund parent. The listing strategy reveals a clear pattern: companies positioned as \"national champions\" pursuing mainland Chinese exchanges (Shanghai, Shenzhen) to access domestic capital and avoid foreign restrictions, while others target Hong Kong's international investor base.",
+      "keyTakeaways": [
+        "Chinese AI startups are using IPO announcements strategically to both raise capital and retain talent amid intense poaching by rivals\u2014DeepSeek raised $7.4 billion partly to make equity compensation more attractive to researchers.",
+        "Geopolitical considerations are driving listing venue selection: companies developing alternatives to U.S.-restricted technology (like Moore Threads' GPUs and CXMT's memory chips) choose mainland exchanges, while others opt for Hong Kong's international access.",
+        "Valuations are escalating rapidly in this sector (DeepSeek at $71 billion, Moonshot at $30 billion+), suggesting either a speculative bubble in Chinese AI or genuine confidence in model advancement, particularly as these companies close gaps with U.S. frontier models."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "China\u2019s AI IPO rush"
+    },
+    {
+      "id": "52a51e20",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Venture capital firms are increasingly hiring chief AI officers to build proprietary investing tools and decision-support systems. B Capital appointed Andrew Jackson as its first CAIO to expand its Bee Hive platform, which currently automates memo-writing and deal analysis; the firm plans to eventually commercialize these AI tools for other investors. Meanwhile, private equity interest in sports assets is accelerating post-World Cup 2026, with deals underway for Liverpool FC (valued at $6-7 billion) and Leicester City.",
+      "keyTakeaways": [
+        "VCs are moving beyond internal AI experiments toward monetization: B Capital plans to spin out its AI tools to external investors, signaling a emerging market for investment tech that could create new revenue streams for leading firms.",
+        "AI in investing remains at an 'intern' level for decision-making\u2014QuantumLight Capital and General Atlantic are outliers in giving AI voting or non-voting committee seats, while most firms use it for diligence and analysis only.",
+        "Sports assets are entering a major PE wave following mainstream media validation (World Cup), with football clubs attracting multi-billion-dollar valuations as investors pursue exposure to global audiences and live events."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: VCs add CAIOs"
+    },
+    {
+      "id": "b6764591",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Lime, the e-scooter company, has achieved an 81% reduction in carbon intensity per kilometer traveled since 2019, according to its latest sustainability report. The company's supply chain emissions improvements demonstrate that micromobility operators can meaningfully reduce their environmental footprint through operational changes. This metric highlights the growing competitive advantage of sustainability-focused operations in the climate-conscious mobility sector.",
+      "keyTakeaways": [
+        "Lime's 81% carbon intensity reduction since 2019 validates the business case for supply chain decarbonization in last-mile mobility, signaling that operational efficiency and sustainability can align profitably",
+        "For investors in micromobility and urban transportation, this sets a new performance benchmark\u2014companies unable to demonstrate comparable emissions reductions may face competitive disadvantages and regulatory pressure",
+        "The sustainability performance metric positions well-managed micromobility operators as climate solution plays, potentially unlocking ESG-focused capital and favorable regulatory treatment in major markets"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "How E-Scooter Company Lime Cut Its Supply Chain Emissions"
+    },
+    {
+      "id": "f3f377de",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Regional grid operators across the nation's seven transmission organizations are implementing significant reforms to address interconnection backlogs that have delayed renewable energy deployment. A new report from Advanced Energy United evaluates progress on generator interconnection, analyzing how FERC Order 2023, automation, and transmission planning reforms are reshaping timelines and costs for connecting new energy resources to the grid.",
+      "keyTakeaways": [
+        "Interconnection delays represent a critical bottleneck for renewable energy deployment\u2014investors should monitor which regional operators are successfully implementing reforms and which remain constrained, as this directly impacts project feasibility and returns for clean energy developers.",
+        "FERC Order 2023 and automation technologies are reshaping interconnection timelines; companies providing grid modernization, software solutions, or transmission infrastructure services to accelerate these processes face significant market expansion opportunities.",
+        "The interconnection crisis affects capital allocation across the entire clean energy sector\u2014faster, more predictable interconnection processes reduce project risk and uncertainty, potentially lowering costs of capital for renewable developers and making a broader range of projects economically viable."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Interconnection Bottleneck: What's Better\u2014and What's Not"
+    },
+    {
+      "id": "6eee8868",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Crude oil has surged to $100 per barrel following Houthi attacks on Saudi tankers in the Red Sea, reaching levels not seen since May, while West Texas Intermediate stands at $92. The Trump administration has simultaneously announced new 10-12.5% tariffs on imports from over 80 countries effective immediately, with critical exemptions for drugs, cars, semiconductors, and energy commodities, but tariffs will heavily impact clean energy supply chains including solar panels, lithium-ion batteries, inverters, and power equipment, stacking on existing anti-dumping duties.",
+      "keyTakeaways": [
+        "Clean energy manufacturers face compounding cost pressures: new tariffs will stack on top of existing anti-dumping duties for solar panels and other renewable equipment, likely raising input costs and potentially delaying U.S. clean energy deployment timelines.",
+        "Supply chain bifurcation opportunity for domestic manufacturers: tariff exemptions on critical minerals and some electrical transformers may create competitive advantages for U.S.-based producers of clean energy components, though factory equipment costs will remain elevated.",
+        "Macro inflation risk re-emerging: combined pressure from $100 crude oil and broad-based tariffs threatens a new wave of price increases across energy and manufacturing sectors, which could impact both consumer costs and capital expenditure decisions in the clean energy transition."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Crude at $100, Tariffs at Midnight"
+    },
+    {
       "id": "07602a7f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -12307,19 +12451,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 76
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 268
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 280
+      "count": 283
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 263
+      "name": "European VC",
+      "color": "#059669",
+      "count": 76
     },
     {
       "name": "Strategy & Thesis",
@@ -12337,5 +12481,5 @@
       "count": 16
     }
   ],
-  "lastUpdated": "2026-07-23T09:19:15.446701Z"
+  "lastUpdated": "2026-07-24T09:15:05.046559Z"
 }
