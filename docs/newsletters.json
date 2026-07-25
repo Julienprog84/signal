@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "c7a6f9f0",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French Tech newsletter highlighting major developments in 2026, including France's rejection of Tesla's FSD Supervised autonomous driving system over safety concerns, and a major research initiative by Bpifrance and La French Touch identifying 10 transformative trends in creative industries, with AI, platforms, and attention economy reshaping the sector. The letter also examines how Google's AI-powered search overviews are forcing SEO strategy evolution rather than eliminating organic search value.",
+      "keyTakeaways": [
+        "Regulatory divergence presents both friction and opportunity: France's stricter autonomous vehicle safety standards versus other European approvals creates a fragmented regulatory landscape that may slow adoption but could attract safety-focused innovation and liability-conscious investors.",
+        "Creative industries experiencing structural disruption from AI and platform consolidation\u2014the Bpifrance Vision report signals that capital should focus on companies solving attention scarcity and creator monetization rather than traditional content distribution.",
+        "Search and discovery paradigm shift is underway: AI-powered summaries reducing organic traffic forces a strategic pivot toward semantic SEO, entity-based content, and alternative discovery mechanisms\u2014signaling opportunities in search infrastructure and vertical search platforms."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "24.07 - Les 10 grandes actus de la French Tech depuis le d\u00e9but de l\u2019ann\u00e9e"
+    },
+    {
+      "id": "e5832a6b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "China has significantly increased its renewable energy consumption targets by 53% through 2030, aiming for 1.8 billion tons of coal equivalent and 300 gigawatts of peak renewable capacity, while simultaneously accelerating nuclear reactor deployments. Meta has quietly exited the RE100 clean energy initiative while building at least a dozen gas-fired power plants for its data centers, creating a notable contradiction in corporate climate commitments. Tesla plans to dramatically expand U.S. solar panel manufacturing capacity by roughly tenfold from the current 70 gigawatts annually, signaling aggressive market expansion despite recent earnings misses.",
+      "keyTakeaways": [
+        "China's aggressive renewable targets and nuclear buildout present significant opportunities for energy storage, solar thermal, and marine energy technology companies\u2014investors should monitor suppliers to Chinese nuclear and renewable projects, particularly in battery storage and grid infrastructure.",
+        "Meta's departure from RE100 while expanding gas-fired generation reveals a widening gap between corporate climate pledges and actual capital allocation\u2014this creates reputational and regulatory risk for tech companies relying on energy-intensive data center models.",
+        "Tesla's plan to increase solar manufacturing capacity 10-fold indicates conviction in long-term solar demand growth, but the company's earnings pressures raise questions about execution risk and unit economics in scaling manufacturing at that magnitude."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "China\u2019s Renewed Focus"
+    },
+    {
+      "id": "b9873b82",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Francisco Partners raised $21 billion across two funds, defying a tech PE fundraising slowdown that has seen tech-focused PE collect only $26.24 billion through June versus $97 billion last year. The firm's thesis positions AI as a slow-motion disruption in healthcare IT, education technology, and fintech, betting that incumbent software providers have time to adapt rather than face immediate displacement. Meanwhile, a growing cohort of AI cost-cutting startups is emerging to help companies manage ballooning AI bills, though analysts question whether this represents a durable, standalone business opportunity.",
+      "keyTakeaways": [
+        "Francisco Partners' $21B fundraise signals that large, established tech PE firms with defensible theses can still access capital even as the broader market cools\u2014vintage and track record matter more than sector timing.",
+        "The 'slow-motion AI adoption' narrative is gaining credibility among institutional LPs and may reshape deal sourcing in software: focus shifts from disruption targets to incumbent enablers that can integrate AI into existing products.",
+        "The AI cost-optimization sector risks becoming commoditized utility functionality rather than standalone venture opportunity, suggesting investors should be skeptical of companies selling AI spend management as a primary business model."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Francisco's $21B bet on slow-motion AI"
+    },
+    {
+      "id": "c629207a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Neo, a startup founded by former SentinelOne executives, raised $100 million in seed and Series A funding from Andreessen Horowitz and Bessemer Venture Partners to address the growing problem of uncontrolled AI agent proliferation in enterprises. The company has built an endpoint sensor that inventories agentic software, assesses configurations, and enforces policies on AI tool permissions\u2014a critical gap as AI tools accumulate capabilities beyond their original intended use.",
+      "keyTakeaways": [
+        "A significant market opportunity exists in AI governance and security: enterprises are reportedly 'almost entirely blind' to the agentic capabilities of AI tools already installed on their systems, creating demand for visibility and control solutions.",
+        "The traditional security industry's chokepoint-monitoring approach is becoming obsolete as frontier AI models can directly call tools, operate computers, and route around monitored channels, requiring a fundamental shift in defensive architecture to endpoint-level control.",
+        "Strong operator pedigree and institutional backing signal confidence in this emerging category: Neo's founding team comes directly from SentinelOne's go-to-market and threat research functions, and dual board seats from A16Z and Bessemer indicate this is viewed as a foundational security layer for the AI era."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "AI zombie hunters"
+    },
+    {
+      "id": "47625c85",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Stripe is acquiring OpenRouter for approximately $10 billion as it expands beyond payments into AI infrastructure, recognizing that token usage is becoming a new currency requiring real-time streaming payments. The deal reflects a broader trend where companies like Ramp, Cursor, and Databricks are building routing products to help enterprises optimize AI spending, positioning intermediary firms as potentially less volatile winners than direct AI model providers. Meanwhile, Anduril is raising at a $100 billion valuation after its $5 billion Series C earlier this year, demonstrating continued investor appetite for defense tech despite questions about a potential IPO.",
+      "keyTakeaways": [
+        "Stripe's OpenRouter acquisition signals a strategic pivot to monetize AI infrastructure through fee-based routing, similar to its payments model but applied to token consumption\u2014investors should monitor whether this becomes a new economic moat for payment platforms.",
+        "Token routing and optimization products are emerging as a high-value middle layer in the AI stack; companies solving token cost management may generate more predictable, diversified revenue than single AI model providers facing commoditization risk.",
+        "The $100 billion Anduril valuation and rapid funding cycles in defense tech and AI infrastructure suggest venture investors are pricing in significant optionality, but execution risk remains high given the nascency of AI monetization models and regulatory uncertainty in defense applications."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Stripe's new \"money\""
+    },
+    {
+      "id": "ab1c9b29",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-07-24",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Electric aviation is experiencing a critical inflection point with eVTOLs moving from concept to deployment, exemplified by Vertical Aerospace's first eVTOL flight at Farnborough and hybrid version development. The newsletter covers a broader deep tech investment landscape including quantum computing applications for electrical grids, major funding rounds (Atoms' $1.7B for robotics, Dimension Capital's $800M fund, Sila's $300M for battery materials), and emerging technologies from AI-designed proteins to supercooled organ transplants.",
+      "keyTakeaways": [
+        "Electric aviation commercialization is accelerating with production eVTOLs entering service\u2014this represents a viable near-term revenue opportunity for investors focused on urban air mobility and aerospace electrification, with range improvements through hybrid systems addressing previous technical barriers.",
+        "Deep tech infrastructure funding is consolidating around robotics, quantum computing, and advanced materials with billion-dollar rounds (Atoms, Dimension Capital), signaling institutional confidence in long-duration capital requirements and suggesting winners are beginning to emerge in adjacent spaces like battery technology and autonomous systems.",
+        "The convergence of AI advances (autonomous robotics at RoboCup, protein engineering, quantum sensing) with infrastructure investment suggests the next wave of deep tech returns will flow through companies solving manufacturing and grid modernization problems rather than pure software applications."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 171: Electric aviation is taking off"
+    },
+    {
+      "id": "6cf4fe3a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Heatmap News podcast episode features Charm Industrial cofounder Peter Reinhardt discussing the company's carbon removal technology that uses 'liquid smoke' to permanently store CO2 at scale. The conversation explores how a biomass-derived product similar to barbecue sauce flavoring can serve as a mechanism for gigatonscale greenhouse gas sequestration and permanent carbon storage.",
+      "keyTakeaways": [
+        "Charm Industrial has developed a carbon removal solution using liquid smoke derived from biomass, suggesting that carbon capture technologies can leverage existing commodity-like production processes with potential for cost-efficient scaling",
+        "The approach of storing CO2 in a liquid form opens a pathway to gigatonscale deployment, indicating the company is positioning itself in the growing permanent carbon removal market that could attract significant climate tech investment",
+        "This represents innovation in the direct air capture and carbon removal sector, where companies are moving beyond traditional mineralization approaches to cheaper, more scalable chemical storage methods that could reshape climate tech venture investment priorities"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 25,
+      "originalTitle": "Shift Key: What Barbecue Sauce Has in Common With Carbon Removal"
+    },
+    {
+      "id": "05ed802d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. emissions grew over 2% last year driven primarily by surging electricity demand from data centers and AI infrastructure, with data center construction spending reaching nearly $60 billion annually\u2014exceeding all other office building combined. The economic boom is concentrated in a handful of sectors including data centers, power plants, semiconductor fabs, and grid-scale battery manufacturing, creating unusual economic dependence on the AI-driven stock market and hyperscaler capital expenditures.",
+      "keyTakeaways": [
+        "Data centers now represent the single largest category of U.S. private non-residential construction investment, with $60B spent annually\u2014a concentration risk if hyperscaler spending slows, as evidenced by Alphabet's 8% stock drop after announcing increased capex.",
+        "Significant capital opportunity emerging in electricity infrastructure, power generation, semiconductor manufacturing, and grid-scale battery production to support AI-driven demand growth.",
+        "Major transparency gap in carbon accounting for AI operations limits investor ability to assess ESG and regulatory risks; lack of per-token and per-model emissions data from hyperscalers creates information asymmetry in the market."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The U.S. Economy\u2019s Omni-Trend"
+    },
+    {
       "id": "08737a85",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -12451,19 +12595,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 77
+    },
+    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 268
+      "count": 271
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 283
+      "count": 286
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 76
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 17
     },
     {
       "name": "Strategy & Thesis",
@@ -12474,12 +12623,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 27
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 16
     }
   ],
-  "lastUpdated": "2026-07-24T09:15:05.046559Z"
+  "lastUpdated": "2026-07-25T08:55:09.157983Z"
 }
