@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "5b8126dc",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Corporate venture capital has emerged as the dominant force in US AI startup funding, accounting for 87.9% of deal value in 2026 while participating in only 18.2% of deals by count, signaling a market increasingly concentrated among mega-rounds for frontier labs like OpenAI and Anthropic. Nvidia has become the single largest corporate AI investor with $189.1 billion in deal value year-to-date, strategically backing competing labs to maintain ecosystem dependence on GPU compute. The divergence between deal count and value concentration raises questions about the sustainability of the mega-round dynamic as leading AI companies approach public markets and the conversion of strategic corporate bets into commercial relationships.",
+      "keyTakeaways": [
+        "A small set of corporate investors is writing disproportionately large checks into AI startups\u201487.9% of deal value but only 18.2% of deal count means traditional venture capital is being displaced in high-value AI rounds, shifting power dynamics and access in the startup ecosystem.",
+        "Different corporate investor types pursue distinct strategies: cloud hyperscalers (Amazon, Microsoft, Google) secure model access and cloud lock-in, while enterprise software companies (Salesforce, Cisco) embed AI in products, creating fragmented investment motivations rather than a unified capital market.",
+        "Nvidia's dominance as the ecosystem's linchpin\u2014backing OpenAI, Anthropic, xAI and Mistral simultaneously\u2014reflects a winner-takes-most dynamic in AI infrastructure where hardware suppliers may capture more value than software companies, with implications for where future returns concentrate."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "AI's new power brokers"
+    },
+    {
       "id": "c7a6f9f0",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -12595,6 +12613,11 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 287
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 77
@@ -12603,11 +12626,6 @@
       "name": "Climate & Energy",
       "color": "#D97706",
       "count": 271
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 286
     },
     {
       "name": "Deep Tech & Science",
@@ -12625,5 +12643,5 @@
       "count": 27
     }
   ],
-  "lastUpdated": "2026-07-25T08:55:09.157983Z"
+  "lastUpdated": "2026-07-26T09:07:12.067936Z"
 }
