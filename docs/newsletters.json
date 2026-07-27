@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "3303f887",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French government official rejoins the \u00c9lys\u00e9e as digital and AI advisor, while European startups capitalize on major events: French football-focused startups like Sorare and Mon Petit Prono leverage World Cup momentum, Alibaba launches agentic AI platform Accio Work in France to democratize enterprise capabilities for solo entrepreneurs, and Paris Metropolitan authorities prioritize innovation scaling at VivaTech.",
+      "keyTakeaways": [
+        "Agentic AI is moving from enterprise software toward SME and solo entrepreneur use cases in Europe\u2014Alibaba's Accio Work signals major tech companies are competing to make business operations accessible to individual entrepreneurs at scale.",
+        "Event-driven growth remains viable for sports-tech startups in Europe; major sporting events create concentrated user acquisition windows that French startups are successfully monetizing through fantasy sports and fan engagement platforms.",
+        "European cities and regional governments are actively seeking to deploy innovation solutions at metropolitan scale, creating procurement opportunities for startups that can pilot and scale solutions addressing urban, environmental, and digital challenges."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "27.07 - Clara Chappaz rejoint l\u2019\u00c9lys\u00e9e !"
+    },
+    {
+      "id": "e91d1e59",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are rapidly scaling AI adoption from pilot programs into daily deal operations without proper cost frameworks, creating significant budget overruns. As AI model pricing\u2014structured per token with output costs several times higher than input\u2014compounds with heavy usage, firms like those at PE shops lack visibility into spending mechanics, while examples like Uber's consumption of its entire 2026 AI budget in four months demonstrate the velocity of cost escalation. The trend raises concerns about both financial discipline and judgment quality, as over-reliance on AI is producing detectable, trust-damaging diligence work and dull deal analysis.",
+      "keyTakeaways": [
+        "PE firms deploying AI at scale need immediate cost governance frameworks; token-based pricing models with asymmetric input/output costs create exponential budget risk that most firms don't understand or budget for.",
+        "Anticipated IPOs of Anthropic and OpenAI could eliminate current subsidized pricing, materially increasing AI operating costs for PE operations\u2014this creates a near-term window to lock in economics before market repricing.",
+        "Quality degradation is emerging as an underappreciated risk: deal teams losing judgment and producing obviously AI-generated work undermines investor credibility and may signal a sector-wide productivity paradox where volume of analysis rises but decision quality falls."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "How AI comes at a cost"
+    },
+    {
+      "id": "c61b71df",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-26",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The FTC ordered Celsius Network's three top executives to pay a combined $16.1 million in penalties for deceptive marketing claims, with CEO Alex Mashinsky alone facing a $10 million penalty and permanent ban from crypto and financial services advertising. The action stems from Celsius's 2022 collapse after the company had raised $750 million at a $3.25 billion valuation in 2021 while promoting unsustainably high returns of up to 18.63% APY to retail investors. The newsletter also covers regulatory headwinds for fintech, including state AGs requesting pause on high-APR lender bank acquisitions and the OCC rejecting Wise's charter application.",
+      "keyTakeaways": [
+        "Regulatory enforcement is intensifying against crypto and fintech platforms that made unrealistic yield promises to retail customers; investors should scrutinize management credibility and marketing claims in crypto/DeFi pitches, as personal asset penalties and industry bans now attach to executives individually.",
+        "The Celsius precedent signals that regulators will pursue both corporate and personal accountability for deceptive financial product marketing\u2014$16.1M in fines across three executives suggests personal wealth exposure is material enough to deter future misconduct.",
+        "Broader fintech regulatory tightening is evident across multiple fronts (state AG coordination, OCC charter rejections, crypto enforcement), indicating a consolidation of VC risk factors and longer compliance timelines for fintech startups seeking regulated status or banking partnerships."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 5,
+      "originalTitle": "Celsius Execs Ordered to Pay Combined $16.1m Over Deceptive Claims"
+    },
+    {
+      "id": "0196985c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This week's climate and energy newsletter covers critical intersections between quantum computing and climate solutions, policy impacts on renewable energy markets, and emerging technologies in fusion and grid stability. Featured stories examine how the Trump administration redirected solar farm infrastructure toward data center development, how companies like Lime are reducing supply chain emissions, and exclusive insights into laser fusion commercialization efforts by Inertia.",
+      "keyTakeaways": [
+        "Quantum computing's role in climate tech is increasingly relevant\u2014investors should evaluate whether quantum startups can solve meaningful decarbonization problems or if they're speculative bets on infrastructure that may not materialize for years",
+        "Policy shifts directly reshape renewable energy market dynamics; the solar-to-data-center conversion signals how government priorities can redirect clean energy assets toward AI/computing infrastructure rather than grid decarbonization, affecting renewable energy investment theses",
+        "Emerging deep tech (laser fusion) and supply chain optimization (e-scooter logistics) represent two distinct paths to decarbonization with different capital requirements, timelines, and commercialization risks\u2014portfolio diversification across both near-term operational efficiency and long-term breakthrough tech is critical"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Quantum Question, How a Solar Farm Became a Data Center, and\r\n More"
+    },
+    {
       "id": "5b8126dc",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -12613,19 +12685,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 287
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 77
+      "count": 78
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 288
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 28
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 271
+      "count": 272
     },
     {
       "name": "Deep Tech & Science",
@@ -12636,12 +12713,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 23
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 27
     }
   ],
-  "lastUpdated": "2026-07-26T09:07:12.067936Z"
+  "lastUpdated": "2026-07-27T10:32:37.114776Z"
 }
