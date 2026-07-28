@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "2dde7766",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "OpenAI's decision to delay its IPO until 2027 rather than go public below a $1 trillion valuation signals that the company cannot achieve that valuation target in the current market. PitchBook's analysis reveals OpenAI scores significantly lower on their AI Business Quality framework (4.53 at $188B per quality point) compared to Anthropic (8.20 at $118B), and private investors will absorb approximately $63 billion in projected 2027 operating burn while waiting for a public exit.",
+      "keyTakeaways": [
+        "OpenAI's IPO delay is a valuation reality check\u2014the $1 trillion target is not achievable today, and the company is choosing to wait for market conditions rather than accept a lower public valuation, creating extended capital burn risk for existing investors.",
+        "Anthropic's expected October IPO at $340 billion will provide the first public market test of AI startup valuations, potentially validating or invalidating a significant portion of OpenAI's implied $1.7+ trillion private valuation assumptions.",
+        "Late-stage AI funding dynamics are shifting: the four-year path to profitability and massive operating costs mean private backers must be prepared for extended pre-exit capital absorption, favoring well-capitalized institutional investors over traditional venture players."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "OpenAI\u2019s IPO delay is the valuation signal"
+    },
+    {
+      "id": "f8e4f72f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-28",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Alexandre Mulliez, grandson of Auchan's founder and current president of FC Versailles, has expressed interest in acquiring Auchan France, signaling potential family office investment activity in French retail. The newsletter covers broader French tech developments including LinkedIn's AI integration for recruitment presented at VivaTech, the Love Tomorrow Summit's focus on sustainable technology, and a retrospective on major French tech developments in 2026.",
+      "keyTakeaways": [
+        "Family office M&A activity in French retail: Mulliez's stated interest in acquiring Auchan France represents potential large-scale consolidation in the struggling European retail sector, worth monitoring for distressed asset opportunities.",
+        "AI-driven HR tech acceleration: LinkedIn's deployment of French-language AI recruitment tools at VivaTech demonstrates enterprise adoption of generative AI for talent acquisition, indicating strong market demand for HR tech solutions in European markets.",
+        "Sustainable tech gaining institutional focus: The Love Tomorrow Summit's prominence at Tomorrowland suggests impact-driven ventures and ESG-aligned businesses are attracting mainstream attention and funding from European tech ecosystem players."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "28.07 - Alexandre Mulliez (FC Versailles) r\u00eave de racheter Auchan France !"
+    },
+    {
+      "id": "13db47da",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Artificial intelligence is accelerating private equity dealmaking volume but not necessarily improving deal quality, with investment bankers remaining essential for closing transactions, particularly in the mid-market. A record $34.4 billion in biopharma exits occurred in Q2 2026 as pharma giants pursued billion-dollar acquisitions, though sustainability remains uncertain. European corporate carveouts are building toward their second-strongest year on record, exemplified by Nestl\u00e9's $3 billion sale of half its water business to Platinum Equity.",
+      "keyTakeaways": [
+        "AI-generated due diligence is creating volume without substance\u2014deals are collapsing when founders rely on ChatGPT for fundamental business questions, signaling that banker gatekeeping remains valuable in founder-owned deal environments.",
+        "Biopharma has hit a rare exit peak but the rebound's durability is questionable; LPs should monitor whether pharma acquisition appetite sustains or contracts given historical cyclicality in the sector.",
+        "European carveouts are accelerating toward record levels, suggesting large corporates are actively monetizing non-core assets and creating mid-market deal flow opportunities for PE buyers."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "Bankers 1, Chatbots 0 (for now)"
+    },
+    {
+      "id": "d03ad48a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Boson AI, founded by ex-AWS scientist Alex Smola, is launching a speech-to-speech model called Higgs RealTime to compete with OpenAI and Meta in voice AI. The Santa Clara startup has raised $70 million from Chinese entrepreneur Su Hua and Temasek's venture arm, claiming its full-stack approach delivers voice AI at one-tenth the cost of competitors while targeting enterprise customers in finance, telecommunications, healthcare, and insurance sectors.",
+      "keyTakeaways": [
+        "Boson AI's cost advantage (10x cheaper than OpenAI/competitors) through full-stack architecture enabling on-premises deployment is a significant competitive positioning in an increasingly crowded voice AI market\u2014investors should track whether this cost model proves defensible as market scales.",
+        "The startup's focus on enterprise verticals (finance, telecom, healthcare, insurance) with data residency concerns suggests a viable TAM alternative to consumer-facing voice AI, reducing direct competition with well-funded incumbents while addressing specific regulatory and security needs.",
+        "Voice AI is transitioning from research frontier to infrastructure commodity, with full-duplex conversations becoming table stakes; the race is now on latency, cost, and customization rather than fundamental capability, benefiting specialized players with efficient architectures over generalist AI labs."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "How an ex-AWS scientist plans to take on OpenAI and Meta in voice AI models"
+    },
+    {
+      "id": "d71701d4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter covering major climate and energy developments includes unprecedented wildfires in France and Spain forcing 300,000 evacuations amid record European heat waves, a U.S.-Saudi nuclear deal featuring Westinghouse AP1000 reactors that may benefit Trump administration allies including Commerce Secretary Lutnick and the Trump family through various corporate ties, and discussions on rare earth supply chains and hydrogen energy transitions.",
+      "keyTakeaways": [
+        "Westinghouse AP1000 nuclear technology represents a significant export market opportunity as the U.S. competes with Russia and China for Middle East nuclear infrastructure contracts, with potential downstream benefits for related quantum computing and fusion energy investments tied to administration insiders.",
+        "Climate-driven disasters in Europe are accelerating infrastructure and lifestyle policy changes, creating investment opportunities in climate adaptation, renewable energy, and fire-resilient building technologies across the continent.",
+        "Supply chain vulnerabilities in critical minerals (rare earths, uranium) and the energy transition to hydrogen are emerging as geopolitical flashpoints, suggesting significant capital flows toward domestic production, alternative sourcing, and strategic energy independence initiatives."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Europa Europa"
+    },
+    {
+      "id": "4fdcbbd2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Venture capital faces a critical concentration risk with OpenAI and Anthropic capturing over 60% of U.S. startup VC dollars in H1 2026, betting on returns from frontier AI dominance. However, this thesis is fracturing due to rising competition from cheaper open-source models\u2014including China's Kimi K3\u2014and major tech companies like Microsoft, Meta, and Nvidia publicly endorsing open-weight alternatives, threatening the promised mega-IPO exits that justified LP patience with this concentrated portfolio.",
+      "keyTakeaways": [
+        "VC's concentration bet on two companies is vulnerable: if OpenAI and Anthropic fail to deliver the promised blockbuster returns or face commoditization from open-source competition, LPs may force a reallocation away from frontier AI and demand more diversified deal flow.",
+        "Open-source models are becoming a credible competitive threat despite OpenAI/Anthropic's safety arguments\u2014the fact that Nvidia, Microsoft, and A16z are publicly backing open-weight models signals industry consensus that this is the winning path, not a niche alternative.",
+        "SpaceX's 49% stock decline from highs serves as a momentum warning for AI lab valuations; if OpenAI and Anthropic experience similar sentiment shifts, the LP patience funding this concentration strategy could evaporate quickly."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Capital concern"
+    },
+    {
+      "id": "172efe49",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Clearway Energy, a major renewable energy developer, has requested permission from the Trump administration to convert a planned solar farm into a data center and natural gas plant, citing alignment with federal energy priorities. This strategic pivot signals how clean energy companies are adapting their portfolios in response to shifts in federal policy toward traditional energy infrastructure and data center demand.",
+      "keyTakeaways": [
+        "Large-cap renewable energy developers are actively repositioning assets away from solar toward natural gas and data center infrastructure in response to federal policy signals, creating near-term capital reallocation opportunities across the energy and tech sectors.",
+        "The request reveals growing investor appetite for hybrid energy solutions that combine conventional power generation with emerging AI/data infrastructure, suggesting portfolio diversification may outperform pure-play renewable strategies in the current policy environment.",
+        "This precedent could spark similar requests from other renewable developers, potentially accelerating the shift away from solar toward gas and infrastructure plays, which may pressure clean energy valuations while benefiting conventional energy and data center operators."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Scoop: Clearway Asks Trump to Swap Solar Farm for Data Center and\r\n Gas Plant"
+    },
+    {
+      "id": "25466860",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Bloom Energy's CCO Aman Joshi argues that businesses across power-intensive sectors now require deliberate energy strategies as electrification drives load growth and competition intensifies for grid interconnection, power equipment, and skilled labor. The forum highlights how data center developers' struggles with community resistance and project delays signal emerging challenges for retail, healthcare, higher education, and manufacturing sectors seeking on-site power solutions.",
+      "keyTakeaways": [
+        "Distributed energy and on-site power solutions are becoming critical competitive advantages for C&I customers, creating significant market opportunities for equipment providers and integration firms as businesses move from reactive to strategic power planning.",
+        "Community sentiment and local resistance are now material business risks alongside traditional cost and technical factors\u2014companies without proactive stakeholder engagement strategies face project delays and margin compression, suggesting demand for community-focused energy advisory services.",
+        "Data center sector pressures are an early indicator of broader electrification challenges across multiple industries, implying sustained multi-year demand for energy infrastructure, resilience solutions, and decarbonization pathways across the economy."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Why every business needs an energy strategy"
+    },
+    {
+      "id": "84f29eae",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "An intensifying El Ni\u00f1o event in the Pacific Ocean is expected to be the strongest on record, potentially exceeding the 2015-2016 El Ni\u00f1o that made 2016 the warmest year ever recorded. The phenomenon is already driving unprecedented wildfires across Europe and is forecast to trigger extreme storms, droughts, heat waves, and wildfires globally, while 2026 is tracking to be the world's second-warmest year on record with a one-third chance of being the warmest.",
+      "keyTakeaways": [
+        "Climate-related infrastructure and disaster management sectors are facing unprecedented demand as extreme weather events intensify\u2014investors should consider exposure to emergency response, grid resilience, and climate adaptation technologies.",
+        "Energy transition acceleration is now a financial necessity rather than an environmental choice; the newsletter's mention of grid interconnection delays signals investment opportunities in grid modernization and renewable energy infrastructure deployment.",
+        "Insurance, agriculture, and property-exposed sectors face material risk from record-breaking weather events, creating potential distress opportunities and heightened need for climate risk hedging strategies."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Coming El Ni\u00f1o"
+    },
+    {
       "id": "3303f887",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -12685,24 +12847,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 78
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 288
+      "count": 292
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 79
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 276
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 28
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 272
     },
     {
       "name": "Deep Tech & Science",
@@ -12715,5 +12877,5 @@
       "count": 23
     }
   ],
-  "lastUpdated": "2026-07-27T10:32:37.114776Z"
+  "lastUpdated": "2026-07-28T09:31:11.635699Z"
 }
