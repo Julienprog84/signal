@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "079e5435",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Commonwealth Fusion Systems, a fusion energy startup, has raised $1 billion in its latest funding round, marking a significant milestone in attracting institutional investors previously hesitant about the sector. The funding round represents a notable shift as risk-averse, capital-rich institutional investors are now joining traditional venture backers in betting on commercial fusion technology as a climate solution.",
+      "keyTakeaways": [
+        "Institutional capital is entering the fusion sector at scale, signaling growing confidence in near-term commercialization timelines and reduced perceived execution risk in deep-tech energy infrastructure.",
+        "CFS's ability to attract conservative institutional investors suggests the company has demonstrated sufficient technical progress or business milestones to overcome historical skepticism about fusion viability, potentially validating the entire sector's investment thesis.",
+        "The $1 billion raise indicates robust capital availability for climate tech solutions and may accelerate competition and follow-on funding rounds among other fusion startups, reshaping the clean energy investment landscape."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Commonwealth Fusion Systems Raises $1 Billion"
+    },
+    {
+      "id": "e954ab08",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-30",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French media platform Legend is in advanced negotiations to raise capital at a \u20ac60-80 million valuation with a minority investor stake. The newsletter also covers AB Tasty's significant restructuring with 78 job cuts in France (43% of workforce) as it shifts R&D to India, and The Exploration Company's discussions to raise $300 million at a potential $2 billion valuation, doubling its current worth in the space logistics sector.",
+      "keyTakeaways": [
+        "Legend's \u20ac60-80M valuation suggests strong investor appetite for digital media platforms in Europe, with founder Guillaume Pley retaining control through minority dilution rather than majority exit.",
+        "AB Tasty's layoffs and India-focused R&D shift signals cost pressures in European SaaS despite $63M raised and Next40 status, indicating potential challenges in unit economics for marketing tech startups post-Series C.",
+        "Space logistics emerges as a hot sector with The Exploration Company seeking $300M at unicorn+ valuation, reflecting growing institutional confidence in commercial space infrastructure independent of traditional aerospace players."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "30.07 - \u00abLegend\u00bb : bient\u00f4t un nouvel investisseur au capital du m\u00e9dia de Guillaume Pley ?"
+    },
+    {
+      "id": "ceaaee7c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A new independent medical AI benchmark called NOHARM tested healthcare AI systems from OpenEvidence, Doximity, OpenAI, and Anthropic on 1,100 real clinical cases, revealing that 76.6% of harmful errors across all models were omissions rather than factual errors. Doximity's enterprise-focused Ask tool outperformed competitors, while OpenEvidence\u2014which raised $700 million in a year and reached a $12 billion valuation\u2014contested the study's methodology, highlighting a critical tension in medical AI: even best-performing models maintain an \"illusion of readiness\" despite improvements.",
+      "keyTakeaways": [
+        "Errors of omission, not hallucinations, represent the core failure mode in medical AI\u2014this fundamentally changes how these systems should be validated and deployed, potentially favoring enterprise solutions with human review layers like Doximity's PeerCheck over free, consumer-facing models.",
+        "OpenEvidence's $12 billion valuation appears disconnected from performance reality; the company's rapid fundraising ($700M in one year) preceded rather than followed rigorous third-party validation, suggesting significant downside risk for late-stage investors entering at peak valuations.",
+        "Medical AI regulatory approval and adoption may shift toward vendors demonstrating systematic error reduction rather than raw capability\u2014this favors established healthcare companies with existing enterprise relationships and human-in-the-loop architectures over venture-backed startups betting on pure model performance."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Trust, but verify"
+    },
+    {
+      "id": "dd11654a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Investcorp, a $62 billion alternatives manager, has acquired Berger Financial Group, a $3 billion wealth management firm, marking its entry into US wealth management through a multi-year search. The deal exemplifies a broader PE wave targeting the fragmented RIA market, which controls $9.8 trillion in assets (up 12% annually since 2019) and has attracted $30.3 billion in PE investment this year, with major players like Bain Capital and Carlyle Group competing for larger platforms like Wealth Enhancement Group.",
+      "keyTakeaways": [
+        "Investcorp plans to use Berger as a platform for rolling up smaller RIAs, signaling that PE's wealth management strategy is shifting toward consolidation plays rather than standalone acquisitions\u2014investors should watch for acceleration in mid-market RIA roll-up activity.",
+        "With $9.8 trillion in AUM and favorable demographics, the RIA market remains attractive despite $30.3 billion deployed this year and intense competition from both PE and strategic buyers, suggesting valuations (11-16x EBITDA for mid-sized firms) may face pressure as deal flow intensifies.",
+        "PE's sustained focus on wealth management despite a pullback from $36 billion in deals (2025) to $30.3 billion (2026) indicates the sector remains strategically important for large fund families seeking recurring revenue and margin expansion opportunities."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Scoop: Investcorp's play for RIAs"
+    },
+    {
+      "id": "ad8f0906",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has banned Chinese power inverters and robots to protect U.S. AI supply chain infrastructure from potential cyber threats and sabotage, following discovery of rogue communications devices in Chinese inverters last year. U.S. solar manufacturers like T1 Energy face mixed signals from tariff protections offset by eliminated federal tax credits, while Tesla is pursuing vertical integration and long-term power purchase agreements. Electricity demand is projected to accelerate over the next 15 years with data centers driving 62-77% of growth through 2030, reshaping energy infrastructure investment.",
+      "keyTakeaways": [
+        "Chinese inverter ban creates immediate tariff protection for U.S. solar manufacturers, but winners remain unclear given contradictory Trump policies (tariffs + tax credit elimination); T1 Energy's recent $135M patent acquisition signals desperation amid quarterly losses.",
+        "Tesla's strategy of securing 90% output from KKR-backed Arizona solar/battery projects demonstrates how AI infrastructure players are locking in power supply outside traditional utility channels\u2014a structural shift favoring integrated energy platforms.",
+        "Data center electricity demand projected to reach 17% of total U.S. consumption by 2040, creating $100B+ infrastructure opportunity for grid modernization, battery storage, and generation assets; geopolitical supply chain concerns now directly embedded in energy infrastructure investment thesis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "FCC Won\u2019t Let Chinese Inverters Be"
+    },
+    {
+      "id": "c2651c6e",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-07-29",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A podcast episode featuring MidLyr CEO Wael ElSahhar and KLM Advisory's Kirsten Muetzel explores how AI is being deployed in financial compliance amid evolving regulatory pressures. The discussion covers differences in risk management approaches across fintechs, technology service providers, and banks, lessons from banking-as-a-service failures, and practical applications of AI in compliance operations alongside emerging risks from AI itself.",
+      "keyTakeaways": [
+        "AI is becoming a critical compliance tool for fintech firms navigating a fragmented regulatory landscape, with different stakeholder types (fintechs vs. banks vs. service providers) adopting divergent risk management strategies that may create systemic vulnerabilities.",
+        "Banking-as-a-service sector challenges offer cautionary lessons for compliance infrastructure investments\u2014firms need robust AI-driven monitoring that goes beyond point solutions to address interconnected risks across partnerships.",
+        "The compliance-as-a-service market represents a growing opportunity as regulatory complexity increases, but investors should scrutinize whether AI solutions adequately address tail risks and model failures that could expose regulated entities to enforcement action."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 50,
+      "originalTitle": "The Role of AI in Compliance in a Rapidly Changing Regulatory Environment"
+    },
+    {
+      "id": "cc112c82",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Connecticut Innovations, a state-backed quasi-public venture fund with nearly $600M in AUM, has quietly generated outsized returns through early-stage bets in life sciences, including a 550% gain on Veradermics and exits at $3.05B and $550M. Meanwhile, FIFA is raising up to $4.2B for a new commercial subsidiary at a $20B valuation led by Joshua Kushner's Thrive Eternal, marking the governing body's first-ever outside investment and offering each of its 211 member organizations a $20M payout.",
+      "keyTakeaways": [
+        "Regional venture capital vehicles with focused sector expertise and strong anchor tenants (Yale, UConn spinouts) can compete with traditional VCs\u2014Connecticut Innovations demonstrates that quasi-public structures need not underperform if they adopt professional comp, NVCA standards, and portfolio operations practices.",
+        "State-backed funds recycling returns without new taxpayer capital can achieve sustainability and scale; Connecticut Innovations' shift to a self-sustaining model while maintaining political board oversight represents a viable hybrid structure worth replicating.",
+        "Premium live sports rights remain highly valuable for alternative asset classes\u2014FIFA's ability to command a $20B valuation for a pure media/sponsorship subsidiary signals continued investor appetite for sports IP, even as traditional broadcasting models face disruption."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: World Cup cash"
+    },
+    {
+      "id": "9616d316",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A 3-gigawatt load disconnect in Virginia from data centers switching to backup power during a transmission fault highlights growing grid reliability risks, prompting regulators to mandate 'ride-through' rules requiring data centers to remain connected during minor voltage disturbances. NextEra's acquisition of Dominion Energy and regulatory actions in Texas and NERC underscore how data center growth is reshaping electricity infrastructure requirements and creating new compliance burdens for hyperscale facilities.",
+      "keyTakeaways": [
+        "Data center grid integration is becoming a critical infrastructure issue with material regulatory implications\u2014NERC is moving toward treating data centers like power plants with mandatory ride-through standards, creating compliance costs for new projects and affecting interconnection timelines across PJM and ERCOT regions.",
+        "Texas has already implemented mandatory ride-through rules effective August 1 for new large loads, signaling that grid operators will increasingly impose technical requirements during interconnection studies\u2014this reshapes the capex economics for data center development and favors operators with advanced power electronics like UPS systems.",
+        "The scale of risk is accelerating: the 3-GW disconnect was the largest on record and nearly triggered cascading blackouts, suggesting data center concentration in certain grids (PJM, ERCOT) is approaching critical thresholds that will force either infrastructure investment, load management, or geographic dispersion of new facilities."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "A 3-GW load drop in Virginia and the rise of \u2018ride-through\u2019 rules"
+    },
+    {
+      "id": "c6a477d2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Microsoft's cloud business revenue surged 43% as AI investments begin generating returns, while Meta missed earnings estimates and saw profits fall 14% year-over-year despite increasing capital expenditure plans to $130-145 billion on data centers. The divergent performance highlights how the AI boom is reshaping energy demand and creating winners and losers among hyperscalers, with permitting reform negotiations advancing as a potential major clean energy policy by year-end.",
+      "keyTakeaways": [
+        "Microsoft's 43% cloud revenue growth and 8% stock surge signals AI infrastructure investments are monetizing faster than expected, making cloud computing capacity a high-return asset class for the next 18-24 months.",
+        "Meta's 14% profit decline despite massive capex commitments suggests execution risk in converting data center spending into profitable AI services\u2014investors should scrutinize which hyperscalers can achieve unit economics at scale.",
+        "Permitting reform jumping to 77% probability on prediction markets indicates major clean energy infrastructure (transmission, geothermal, water) could see accelerated deployment timelines, benefiting energy infrastructure and renewable equipment companies in H2 2026."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Meta Down, Permitting Up"
+    },
+    {
       "id": "717893aa",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -13009,19 +13171,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 296
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 283
     },
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 80
+      "count": 81
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 279
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 299
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 29
     },
     {
       "name": "Strategy & Thesis",
@@ -13029,15 +13196,10 @@
       "count": 24
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 28
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 17
     }
   ],
-  "lastUpdated": "2026-07-29T09:32:52.617096Z"
+  "lastUpdated": "2026-07-30T09:25:34.446702Z"
 }
