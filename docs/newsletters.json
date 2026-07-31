@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "8821a96a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-07-31",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Thibault Chassagne, co-founder of Virtuo, is joining Hexa as a Partner to lead the Hexa Scale program, which targets SaaS startups struggling to reach their growth potential. Separately, Deepki acquires UK-based Camion, an AI-powered real estate startup, marking its second British acquisition after Fabriq in 2022. The EU has launched a major tender for Europe's first AI gigafactories, with construction expected to begin in Q1 2027 and operations starting in 2028.",
+      "keyTakeaways": [
+        "Experienced founders from successful exits (Virtuo) are being recruited to support growth-stage SaaS companies, signaling investor focus on scaling infrastructure and mentorship as critical value-adds beyond capital",
+        "Deepki's continued UK acquisition strategy in AI-driven real estate indicates consolidation trends in PropTech and enterprise AI verticals, with established players expanding through bolt-on acquisitions rather than organic growth",
+        "EU's AI gigafactory initiative represents significant capital reallocation toward infrastructure and manufacturing, which could reshape European AI competitiveness and create downstream opportunities for startups in hardware, chips, and AI applications"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "31.07 - Le co-fondateur de Virtuo rejoint Hexa"
+    },
+    {
+      "id": "62a579c3",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The top 30 VC firms have consolidated their dominance in AI investing, raising over a third of global venture capital this year and doubling the collective valuations of their portfolio companies to $7 trillion since 2023. Meanwhile, Ares Management is exploring an acquisition of Leonard Green & Partners to strengthen its sub-scale PE business, while manufacturing sees renewed investment opportunity through physical AI and automation amid a broader sector decline.",
+      "keyTakeaways": [
+        "Concentration in VC is accelerating: the top 30 firms now control the majority of AI deal flow and have achieved 2021-2022 level valuation step-ups, creating a potential winner-take-most dynamic in the venture ecosystem",
+        "Mega-managers like Ares are using M&A to fill strategic gaps\u2014acquiring PE capabilities to diversify revenue streams and boost AUM, signaling that scale and cross-product offerings are becoming critical competitive advantages",
+        "Physical AI and automation present the strongest manufacturing investment thesis in over 20 years despite overall PE deal value decline, suggesting sector-specific opportunities exist outside the AI concentration trend"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "VC\u2019s  alchemists of AI"
+    },
+    {
+      "id": "305dfc18",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Foundational Industries, founded by Jonathan Winer (ex-Alphabet Infrastructure Partners), raised a $25 million seed round led by BoxGroup and Zigg Ventures to build AI-native factories designed from scratch rather than retrofitting existing ones. The startup's thesis challenges the conventional wisdom about competing with China by leveraging American advantages in AI models and compute to create factories that can generate bills of materials and manufacturing processes in days rather than months. The company is initially targeting data-center hardware makers and chipmakers needing custom configurations for new AI silicon.",
+      "keyTakeaways": [
+        "AI-native manufacturing represents a potential differentiation strategy for U.S. factories rather than attempting to compete on China's automated assembly line model, suggesting a shift in how VCs should evaluate domestic manufacturing plays going forward.",
+        "The $25M seed validates investor appetite for infrastructure automation software that can compress months of engineering design into automated processes, indicating a growing deal flow in manufacturing software rather than hardware.",
+        "Winer's argument that China's advanced factories still depend on constant utilization due to state subsidies implies their model may be structurally vulnerable to disruption by more flexible, AI-driven American competitors\u2014a thesis worth monitoring as geopolitical manufacturing policy evolves."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Factory reset"
+    },
+    {
+      "id": "7e5463fd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Commonwealth Fusion Systems raised $1 billion in its latest funding round, bringing total capital raised to $4 billion since 2018 and representing 30% of all private fusion investment. The funding round marks a significant shift, with institutional investors like pension funds and sovereign wealth funds now comprising the majority of backers, signaling mainstream confidence in the sector's maturation\u2014evidenced further by CFS hiring Goldman Sachs veteran Lorence Kim as CFO, known for taking Moderna public. Meanwhile, the Department of Energy announced a $100 billion data center development partnership at Kentucky's Paducah nuclear enrichment site, transforming a Superfund location into a commercial hub.",
+      "keyTakeaways": [
+        "Institutional capital is now dominant in fusion funding: the shift from venture capitalists to pension funds and sovereign wealth funds suggests fusion energy has moved beyond speculative startup phase into infrastructure-class investment, with CFS's SPARC tokamak expected to achieve net energy gain in 2027.",
+        "CFS's CFO hire signals IPO preparation: hiring Moderna's former CFO indicates management is building toward a public listing, creating potential exit opportunities and suggesting private fusion companies may become publicly tradeable within 18-24 months.",
+        "Federal infrastructure repurposing creates new asset classes: converting cold war-era nuclear sites into data centers for AI/computing demonstrates how energy-intensive infrastructure can drive valuations in adjacent sectors, with $100 billion+ invested in single-site transformations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Uncommon Wealth"
+    },
+    {
+      "id": "a3494cff",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jersey Mike's completed a $1 billion IPO at a $9.4 billion enterprise value just one year after Blackstone's $8 billion acquisition, signaling strong investor appetite for restaurant chains despite industry headwinds from food costs. The deal should accelerate IPO timelines for other portfolio companies like Inspired Brands' Dunkin' Donuts and Arby's. Meanwhile, Commonwealth Fusion Systems raised $1 billion in new equity funding for nuclear fusion, and Antora Energy secured $550 million in Series C for energy storage, reflecting continued capital concentration in climate tech.",
+      "keyTakeaways": [
+        "Blackstone's quick-flip strategy on Jersey Mike's validates the 'camera-ready' acquisition thesis\u2014PE firms can now monetize well-positioned platforms within 12-18 months as public markets remain hungry for growth narratives, even in challenged sectors.",
+        "The restaurant IPO window is widening despite structural headwinds; investors are selectively backing differentiated concepts (Jersey Mike's fresh positioning) over commodity players, suggesting sector bifurcation will accelerate through 2026.",
+        "Deep-tech funding remains robust at scale\u2014Commonwealth Fusion and Antora Energy are raising mega-rounds with institutional backing (Breakthrough Energy, venture arms of corporates), indicating patient capital is still flowing to climate/energy despite macro slowdown (Q2 GDP at 1.5%)."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "\ud83d\udc2c Axios Pro Rata: Dolphin dollars"
+    },
+    {
+      "id": "4fa57eb1",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anza is hosting a webinar on August 4 addressing a critical pain point for solar project developers: understanding the cost-benefit of FEOC compliance and domestic content sourcing relative to the 10% Investment Tax Credit bonus. The session will provide real-time data on which module suppliers currently offer FEOC-compliant and domestic cell options, pricing premiums, and optimization strategies to minimize costs while capturing the ITC incentive.",
+      "keyTakeaways": [
+        "FEOC compliance and domestic content requirements create material cost differentials for solar projects, but accurate pricing and supplier data are fragmented\u2014creating a market opportunity for compliance intelligence platforms like Anza.",
+        "The 10% ITC bonus is a significant capital allocation lever for solar developers, but capturing it requires real-time data on supplier capabilities and pricing blends; teams without this data are making suboptimal go/no-go decisions on projects.",
+        "The solar supply chain is in transition toward domestic content and FEOC compliance, with supplier capabilities changing dynamically over 6-12 month horizons\u2014suggesting ongoing volatility in project economics and a structural shift in U.S. solar manufacturing."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "See solar suppliers with FEOC-compliant and domestic cell options |\r\n Webinar"
+    },
+    {
+      "id": "b8789d6f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "More than 500 U.S. counties and municipalities have enacted severe restrictions or outright bans on new data centers since the start of 2026, with nearly 190 restrictions passed since June 1 alone. This grassroots regulatory backlash has already killed more than 50 data center projects this year\u2014double the cancellations from all of 2025\u2014signaling a fundamental shift in real estate development economics for the AI infrastructure sector.",
+      "keyTakeaways": [
+        "Data center developers face a rapidly fragmenting regulatory landscape that could materially impair project economics; investors in data center REITs and infrastructure plays must account for local zoning risk as a material factor in site selection and project viability",
+        "The acceleration of local bans (190 in two months) suggests this is no longer isolated NIMBY resistance but an organized movement that could constrain AI compute capacity buildout and drive up land costs in unrestricted jurisdictions, benefiting existing operators with secured sites",
+        "Commonwealth Fusion Systems' recent $1 billion raise and this data center constraint trend point to a broader energy infrastructure crunch: demand for power (from AI) is outpacing regulatory and physical capacity, creating tailwinds for fusion, nuclear, and renewable energy companies that can solve the supply problem"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Local Data Center Bans Are Surging"
+    },
+    {
       "id": "079e5435",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -13171,19 +13297,19 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 283
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 81
+      "count": 82
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 299
+      "count": 302
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 286
     },
     {
       "name": "Fintech",
@@ -13201,5 +13327,5 @@
       "count": 17
     }
   ],
-  "lastUpdated": "2026-07-30T09:25:34.446702Z"
+  "lastUpdated": "2026-07-31T09:37:15.132973Z"
 }
