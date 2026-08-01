@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "de70d81e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-07-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The venture secondary market faces a concentration crisis as mega-companies like SpaceX, OpenAI, and Anthropic prepare to exit through IPOs, with the top five startups accounting for 50% of Q2 2026 trading volume. While conventional wisdom suggests this will redistribute capital to emerging companies like Stripe, Databricks, and Anduril, analysts warn of an inevitable lag as investors unwind positions, with direct secondary volume reaching $121.7 billion annualized. Meanwhile, the broader PE market shows divergence\u2014KKR thrives while Blue Owl's individual fundraising dropped 41% in Q2, and Jersey Mike's cautious IPO debut signals investor selectivity despite strong operational metrics.",
+      "keyTakeaways": [
+        "Secondary market concentration is unsustainable: the top 20 companies represent 86% of trading value, creating a structural vulnerability when these anchors exit. Watch Stripe, Databricks, and Anduril as the next generation of secondary trading hubs.",
+        "Timing risk is acute\u2014the secondary market is near peak activity at $121.7B annualized, meaning investors need clear exit strategies before momentum potentially reverses post-IPO wave.",
+        "PE bifurcation is widening: elite firms like KKR are insulated while mid-market players face redemption pressures (Blue Owl down 41% in individual fundraising), suggesting capital is concentrating at the top of the market structure."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Secondary  market\u2019s  heirs apparent"
+    },
+    {
+      "id": "d6f001eb",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-07-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Professional sports teams have transformed from trophy assets into serious multi-billion dollar investment targets, with global PE deal volume in the sector surging from 13 deals worth $1.9 billion in 2014 to 71 deals worth $18.45 billion by end of 2025. Major North American sports leagues removed institutional ownership restrictions between 2019-2024 (MLB first in 2019, followed by NBA/NHL in 2021 and NFL in 2024), enabling this capital influx as team economics improved dramatically through expanded media rights, real estate development, and operational efficiency. Sports teams have significantly outperformed the S&P 500 since 2014, signaling a structural shift that positions sports franchises as legitimate institutional investments rather than vanity purchases.",
+      "keyTakeaways": [
+        "Institutional capital is aggressively flowing into sports ownership following regulatory changes; investors should track league policy shifts and team valuations as PE mega-funds ($15 trillion in AUM) increasingly target franchise ownership as alternative investments",
+        "Sports franchises now generate genuine financial returns through diversified revenue streams (media rights, real estate, operational improvements) rather than relying on appreciation alone\u2014this fundamental shift makes them comparable to other alternative asset classes for portfolio allocation",
+        "The 27x increase in deal value over 11 years (from $1.9B to $18.45B) suggests sports franchise investment is entering mainstream institutional playbooks, likely creating exit opportunities for early movers and attracting larger capital competitors to the space"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Pro sports playbook"
+    },
+    {
+      "id": "92966f52",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe faces severe energy constraints as extreme heat dries critical rivers like the Danube and Rhine, forcing nuclear plant shutdowns and causing shipping costs to spike 400%, with potential 0.2% GDP impact for Germany. Meanwhile, U.S. data center restrictions are proliferating (530+ local laws enacted mostly in 2026), yet Anthropic is securing $15 billion in debt financing from a Morgan Stanley-led consortium for a Texas facility with a 1.6-gigawatt natural gas power plant. Trump's inverter import ban poses minimal near-term risk to solar deployment since previously approved models can still enter the U.S. market.",
+      "keyTakeaways": [
+        "Climate-driven infrastructure vulnerabilities are creating macroeconomic headwinds in Europe: the Danube and Rhine crises expose how energy systems dependent on water cooling lack resilience, threatening industrial output and creating investment risk in power-dependent sectors.",
+        "Data center consolidation opportunity: localized backlash against new facilities (530+ restrictions) is pushing capital concentration toward large, well-funded players like Anthropic and Google, suggesting winners will be companies with balance sheet strength and secured power infrastructure rather than dispersed builders.",
+        "U.S. energy policy is shifting toward domestic natural gas reliance: the Anthropic-Google deal highlights how domestic power generation (1.6-GW gas plant) is becoming a prerequisite for AI infrastructure investment, while inverter restrictions signal protectionism that won't materially slow solar but may fragment supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Europe Braces to Bake"
+    },
+    {
+      "id": "12fb9ac4",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-07-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jersey Mike's shares fell 6% following its $1 billion IPO, with CEO Charlie Morrison discussing the evolution of IPO processes and the chain's growth strategy targeting 7,500 U.S. stores and 15,000 total globally. In a parallel convenience store consolidation play, Alimentation Couche-Tard agreed to acquire Polish operator Zabka for $8.7 billion, outbidding Seven & i Holdings in a move that reflects ongoing competition in the convenience retail space.",
+      "keyTakeaways": [
+        "Jersey Mike's IPO underperformance (6% decline on $1B raise) signals investor caution around QSR valuations despite strong unit economics and international expansion potential\u2014relevant for PE-backed restaurant exits in 2026",
+        "Convenience store consolidation accelerating: Couche-Tard's $8.7B Zabka acquisition and SoftBank's ~$400M investment in Seven & i indicate private capital sees structural value in convenience retail, even as traditional quick-service restaurant IPOs face headwinds",
+        "CEO commentary reveals white-space opportunity thesis still dominates restaurant expansion strategy\u2014Morrison indicates 5,200+ additional U.S. unit potential and 15,000-store global ceiling, suggesting QSR franchising model remains viable despite market saturation concerns"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Sub speak"
+    },
+    {
+      "id": "8ca769bc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Over 530 local ordinances enacted across the United States are now seeking to ban or restrict data center development, with the overwhelming majority passed in 2026. This regulatory surge is driving an unprecedented wave of data center project cancellations, signaling a major shift in how communities are responding to the infrastructure demands of AI and cloud computing.",
+      "keyTakeaways": [
+        "Data center development faces significant headwinds from local regulation, creating opportunities for investors in alternative infrastructure solutions, renewable energy integration, and companies helping data centers achieve regulatory compliance.",
+        "The sharp increase in local restrictions suggests a fragmented regulatory landscape that could favor large tech companies with resources to navigate complex permitting versus smaller operators, potentially consolidating the market.",
+        "This represents a critical constraint on AI/cloud infrastructure expansion that could impact deployment timelines and costs for hyperscalers, making energy efficiency and community relations key value drivers for infrastructure investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Exclusive: Over 530 Local Laws Now Seek to Ban or Restrict Data\r\n Centers in U.S."
+    },
+    {
+      "id": "5b2ad7f7",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-07-31",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Montana has enacted unique right-to-try legislation allowing biotech companies to sell experimental drugs to any consenting adult for $12,500 application fees after minimal testing, creating a novel regulatory arbitrage opportunity distinct from other jurisdictions that limit access to terminal patients. The newsletter also covers significant developments across deep tech including Zoox's regulatory clearance for paid robotaxi services, a $470M raise by Antares, new Intel space computing chips, and emerging technologies in medical imaging and AI.",
+      "keyTakeaways": [
+        "Montana's experimental drug approval framework creates a direct-to-consumer biotech distribution channel with minimal regulatory friction, representing a potential $12,500+ per application revenue model for early-stage drug developers willing to operate in this regulatory environment.",
+        "The expansion of right-to-try laws beyond terminal illness to include longevity and preventive therapies signals growing investor appetite in the longevity tech sector and suggests regulatory arbitrage opportunities for companies targeting aging-related indications.",
+        "Concurrent advances in autonomous vehicles (Zoox), space computing (Intel), and AI infrastructure (30-company open-source alliance) indicate deep tech is maturing across multiple verticals simultaneously, suggesting capital should diversify across the ecosystem rather than concentrate in single segments."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 173: Montana pushes frontier of experimental medicine"
+    },
+    {
+      "id": "86793822",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Data Center Coalition is executing a coordinated advertising campaign across streaming platforms and social media in eight states, signaling intensified lobbying efforts around data center expansion and regulatory issues. This 'quiet ad blitz' suggests the industry is mobilizing to shape public and political opinion on data center development, likely in response to growing climate and energy concerns surrounding large-scale data infrastructure.",
+      "keyTakeaways": [
+        "Data center operators are shifting to consumer-facing advertising strategies rather than traditional lobbying, indicating regulatory or public opposition is becoming a material business risk that requires direct narrative control.",
+        "Multi-state coordination across eight jurisdictions suggests data center expansion faces localized resistance on climate/energy grounds; investors should monitor state-level regulatory momentum that could restrict or impose new costs on data center projects.",
+        "The scale and sophistication of this ad campaign reflects how critical data center zoning, water rights, and power grid access have become to valuations\u2014any sector facing this level of defensive messaging faces structural headwinds that could materially impact CAPEX returns."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Inside the Data Center Lobby\u2019s Quiet Ad Blitz"
+    },
+    {
+      "id": "933e2a89",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-07-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The distributed capacity market is experiencing a fundamental shift as electricity demand surges driven by AI growth, making previously optional demand-side management and distributed energy resources now essential for grid reliability. Key trends include new partnership models (Voltus's BYOC, Octopus and Lunar's battery plans), rising institutional capital interest, state-level policy initiatives across Virginia, New Jersey, and California, and the emergence of grid stressors from climate change and AI-driven load growth.",
+      "keyTakeaways": [
+        "Distributed energy aggregators and battery companies (Voltus, Octopus Energy, Lunar Energy, EnergyHub) are consolidating market leadership through innovative partnership models and asset management platforms\u2014early movers with proven operational infrastructure are positioning themselves as essential intermediaries between utilities and distributed assets.",
+        "Institutional capital is increasingly targeting distributed capacity assets as a recession-resistant, inflation-hedged infrastructure play tied to grid reliability, suggesting a maturing asset class ripe for significant PE/infrastructure fund deployment over the next 24 months.",
+        "The convergence of AI-driven electricity demand, state affordability mandates, and climate-driven extreme weather has compressed the timeline for distributed capacity adoption from 'promising future' to 'immediate necessity,' creating a rare window for venture and growth-stage companies to scale before larger utility and infrastructure players dominate the market."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Five trends defining the distributed capacity market"
+    },
+    {
+      "id": "a08766de",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-07-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rivian delivered 12,200 vehicles in Q2 2026, its best quarter since Q3 2025, with forward guidance of 65,000-70,000 deliveries for the full year, implying record quarters ahead as its new affordable R2 crossover ramps production. The company narrowed losses to $379 million despite continuing to burn cash, though investor skepticism persisted with stock falling 8% after earnings. Meanwhile, oil companies posted exceptional quarterly results driven by Iran war-related price surges, though underlying data reveals persistent decline in global oil demand.",
+      "keyTakeaways": [
+        "Rivian's R2 crossover is converting customers at significantly higher rates than management projected, suggesting the company has successfully cracked the mass-market EV segment and may finally achieve profitability trajectory\u2014a critical inflection point for the company's viability.",
+        "Rivian's planned Georgia factory will begin drawing on its Energy Department loan in early 2027, signaling capital intensity ahead; investors should monitor whether the company can scale production profitably before cash burn accelerates.",
+        "The divergence between oil majors' blockbuster profits (driven by geopolitical supply shocks) and underlying demand decline suggests energy transition dynamics are shifting\u2014traditional energy faces structural headwinds even as cyclical tailwinds mask weakness, while EV makers like Rivian are approaching mainstream adoption."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Rivian\u2019s Rebound"
+    },
+    {
       "id": "8821a96a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -13297,19 +13459,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 82
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 302
+      "count": 305
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 286
+      "count": 291
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 18
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 82
     },
     {
       "name": "Fintech",
@@ -13320,12 +13487,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 24
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 17
     }
   ],
-  "lastUpdated": "2026-07-31T09:37:15.132973Z"
+  "lastUpdated": "2026-08-01T09:00:47.885573Z"
 }
