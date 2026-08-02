@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "665e6d5f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A research analysis stress-tests modern private market strategies against historical economic crises\u2014including 1970s stagflation, the Gulf War oil shock, and the dot-com bust\u2014finding that diversified modern VC portfolios would likely experience 29% peak-to-trough declines versus the 66% realized losses of concentrated dot-com-era funds. The analysis raises concerns about current portfolio concentration, with AI representing 65% of U.S. VC deal value in 2025, suggesting outcomes in a downturn would heavily depend on diversification across companies, sectors, and vintages. Meanwhile, enterprise SaaS valuations entered a second correction phase in Q2 2026, with public investors demanding proof of AI monetization before restoring valuations to pre-February levels.",
+      "keyTakeaways": [
+        "Portfolio concentration is the critical risk variable: modern diversified VC could sustain 29% declines in a severe repricing scenario, but concentrated AI-heavy portfolios could face losses approaching historical bubble levels of 66%\u2014managers should audit their exposure to megadeals in narrow sectors.",
+        "Stress-testing using historical analogs reveals that private markets lack real performance data from severe downturns, making current valuations based on benign conditions of modest inflation and low rates potentially vulnerable to underestimation of drawdown risk.",
+        "The SaaS-pocalypse entering its second phase signals that AI infrastructure investors require demonstrable revenue traction, not just deployment hype\u2014this monetization threshold is now the gating factor for valuation recovery across the enterprise software sector."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Stress-testing private markets with history"
+    },
+    {
       "id": "de70d81e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -13461,7 +13479,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 305
+      "count": 306
     },
     {
       "name": "Climate & Energy",
@@ -13489,5 +13507,5 @@
       "count": 24
     }
   ],
-  "lastUpdated": "2026-08-01T09:00:47.885573Z"
+  "lastUpdated": "2026-08-02T09:04:30.950911Z"
 }
