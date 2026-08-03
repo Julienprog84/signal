@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "faf9f8b1",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A European tech newsletter covering executive activity on X platform, the acquisition of French coworking operator Comet by Icade, and a critical push from European tech leaders including Brevo founder Armand Thiberge for public investment in frontier AI models to compete with US-China dominance. Additional coverage includes Tomorrowland's innovation lab expansion in Belgium and Hong Kong's strengthened tech partnerships with European investors at VivaTech 2026.",
+      "keyTakeaways": [
+        "European tech leadership is mobilizing for coordinated public investment in frontier AI models, signaling that private VC capital alone is insufficient to compete with US and Chinese incumbents\u2014this represents a significant policy shift opportunity for institutional investors aligned with European tech sovereignty",
+        "Real estate and workspace consolidation continues with strategic acquisitions like Comet-Icade, while innovation hubs (Tomorrowland Lab) and international pavilions (Hong Kong) are repositioning as venture ecosystems rather than standalone services",
+        "High-profile executive engagement on X platform may signal a strategic pivot in corporate communication and stakeholder access, potentially reshaping how VCs source deal flow and monitor founder sentiment in tech markets"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "03.08 - Pourquoi les grands patrons reviennent ou d\u00e9barquent sur X"
+    },
+    {
+      "id": "b7795b4d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capitalists are backing robotics companies targeting elder care as the primary market to achieve scalable physical AI, with Toyota Ventures-backed Intuition Robotics' ElliQ serving as a flagship example of AI-enabled companion robots addressing senior loneliness. However, the strategy raises ethical concerns about whether robots can effectively treat loneliness, as investors like Rethink Impact push companies to develop emotional intelligence capabilities rather than task-oriented functionality.",
+      "keyTakeaways": [
+        "Elder care represents the beachhead market for scaling physical AI and social robotics to mainstream adoption\u2014VCs are positioning this sector as the pathway to commercially viable humanoid robots beyond task automation.",
+        "The competitive advantage shifting toward emotional intelligence and human-relationship capabilities in robotics rather than task-completion, signaling a major pivot in how founders should approach product development and investor evaluation criteria.",
+        "Ethical questions around using robots to treat loneliness in vulnerable populations may create regulatory risks and reputational exposure that could impact fund returns\u2014investors should conduct deeper due diligence on efficacy claims and long-term liability frameworks."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The road to scalable robotics"
+    },
+    {
+      "id": "a9c75ac1",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-02",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Lineage, a former Tennessee community bank that grew assets 790% in two years through fintech partnerships with Synapse and Synctera, is facing new regulatory enforcement action. The newsletter highlights how Lineage's aggressive deposit-gathering strategy via banking-as-a-service intermediaries gave it a cost of funds advantage (0.15% versus 0.40% peer average in Q3'22), but exposed it to systemic risk when Synapse collapsed in 2023, validating earlier warnings about the fragility of fintech-dependent bank growth models.",
+      "keyTakeaways": [
+        "Fintech-powered deposit arbitrage creates hidden concentration risk: Banks exploiting lower deposit costs through BaaS partnerships face existential threats when middleware partners fail, making rapid asset growth appear deceptively profitable until the foundation crumbles.",
+        "Regulatory enforcement is now catching up to fintech banking relationships: After Synapse's bankruptcy exposed systemic weaknesses, regulators are systematically targeting banks that over-relied on third-party deposit sourcing, signaling tighter scrutiny ahead for BaaS-dependent institutions.",
+        "The fintech banking infrastructure remains fragile: The collapse of key intermediaries like Synapse demonstrates that the entire ecosystem of small banks growth-hacking through fintech partnerships is vulnerable to cascading failures, not just isolated incidents."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Lineage, One-Time Partner to Bankrupt Synapse, Hit With New Enforcement Action"
+    },
+    {
+      "id": "24c3e3e0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Over 530 local laws across the U.S. are now seeking to ban or restrict data center development, signaling a significant regulatory headwind for the data center industry amid growing concerns about energy consumption and environmental impact. The newsletter covers emerging trends in climate and energy policy, including a potential permitting reform deal, corporate emissions standards, and the data center lobby's advertising response to these restrictions.",
+      "keyTakeaways": [
+        "Regulatory risk is escalating dramatically for data center operators and AI infrastructure companies\u2014with 530+ local restrictions in place, investors should scrutinize permitting timelines and regulatory exposure in data center and AI hardware portfolios.",
+        "A permitting reform deal could unlock significant value for infrastructure developers, making policy developments around federal permitting a key capital allocation signal for energy and infrastructure investors.",
+        "The data center lobby's quiet advertising campaign suggests industry recognition of existential regulatory threats; investors should monitor whether these efforts succeed in shifting local sentiment, as political outcomes will materially impact sector growth and returns."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A Surge in Anti-Data Center Laws, Permitting Deal Predictions, and\r\n More"
+    },
+    {
       "id": "665e6d5f",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -13477,14 +13549,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 83
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 306
+      "count": 307
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 30
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 291
+      "count": 292
     },
     {
       "name": "Deep Tech & Science",
@@ -13492,20 +13574,10 @@
       "count": 18
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 82
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 29
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 24
     }
   ],
-  "lastUpdated": "2026-08-02T09:04:30.950911Z"
+  "lastUpdated": "2026-08-03T10:32:49.080434Z"
 }
