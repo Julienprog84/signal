@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "2b2ec833",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "S&P Global Energy's July 2026 PPA market report reveals three key market dynamics shaping North American clean energy contracting: developers are repricing basis risk as transmission congestion widens node-to-hub spreads, Section 232 tariff uncertainty is driving buyers to demand renegotiation rights in contracts, and solar contracting is rebounding despite weak capture prices, presenting a near-term pricing opportunity in ERCOT. The report combines real-time PPA price assessments with market analysis to help investors evaluate project viability and competitive contract positioning.",
+      "keyTakeaways": [
+        "Transmission congestion is creating locational pricing volatility\u2014developers must now price basis risk more aggressively, signaling that transmission infrastructure constraints are becoming a material deal factor affecting project economics",
+        "Tariff policy uncertainty (Section 232) is shifting contract risk allocation, with buyers increasingly negotiating renegotiation rights, indicating that policy risk premiums are rising and long-term contract certainty is deteriorating",
+        "Solar market rebound with depressed capture prices in ERCOT suggests a tactical buying window for PPAs before prices normalize, but the weakness in realized pricing indicates the solar supply-demand balance remains oversaturated despite recent contracting activity"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "The most complete view of the North American PPA market"
+    },
+    {
+      "id": "d9037cf9",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are shifting focus to insurance defense law firms, with Tyson & Mendes\u2014a 250-attorney San Diego-based firm\u2014in talks with multiple PE investors to establish a management services organization structure. This follows successful MSO deals like Trive Capital's backing of Masumi + Consoli, as PE investors recognize insurance defense as a stable, recurring-revenue business comparable to municipal bonds, offering consolidation opportunities in a fragmented regional market.",
+      "keyTakeaways": [
+        "Insurance defense law is emerging as a new PE target within legal services, valued for predictable, consistent cash flows rather than high growth rates\u2014similar to how PE has already penetrated personal injury and M&A-focused law firms.",
+        "The MSO structure enables PE to acquire back-office and technology functions without compromising attorney independence, allowing firms to fund expensive tech upgrades and consolidate regional practices while maintaining regulatory compliance.",
+        "Multiple established PE firms (Interlock Equity, Lightyear Capital, Renovus, Littlejohn, Riverside) are actively pursuing legal services deals, signaling a broader strategy to build fragmented-to-consolidated platform plays in professional services with recurring revenue characteristics."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE's plan to defend insurers"
+    },
+    {
+      "id": "2e8a62a2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Washington State faces catastrophic wildfires with over 640 homes destroyed in Spokane, while the Trump administration imposes major water cuts on Arizona as part of Colorado River drought management. Separately, Elon Musk is exploring the sale of Tesla's Chinese business to facilitate a potential merger between Tesla and SpaceX, signaling geopolitical hedging and corporate restructuring in the EV sector.",
+      "keyTakeaways": [
+        "Extreme weather events are accelerating asset destruction and infrastructure risk in the American West, creating opportunities for disaster recovery, climate adaptation, and resilience infrastructure investments across real estate, insurance, and construction sectors.",
+        "Water scarcity policy shifts and federal allocation mechanisms are becoming volatile and unpredictable; investors should reassess exposure to water-dependent industries in the Southwest and monitor regulatory changes that affect Arizona-based agriculture, manufacturing, and real estate valuations.",
+        "Elon Musk's strategic separation of Tesla's Chinese operations signals mounting geopolitical risk in U.S.-China business relationships; the potential Tesla-SpaceX merger reflects a broader trend of tech consolidation around core competencies amid rising international tensions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Washington's \u2018Wall of Flames\u2019"
+    },
+    {
+      "id": "e3001fef",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Mariana Minerals, a software-focused mining startup founded by ex-Tesla executives, raised $310 million in Series B funding led by Khosla Ventures with participation from Andreessen Horowitz and others, valuing the company at $1.5 billion. The round reflects growing VC interest in mining modernization as critical mineral supply chains face geopolitical risks, particularly China's dominance of 90% of global rare earth processing. The startup aims to reduce metal extraction costs across copper, lithium, and other essential commodities needed to power AI infrastructure and the electrified economy.",
+      "keyTakeaways": [
+        "Tier-1 VCs are now actively betting on mining as an infrastructure play for AI and electrification, with Khosla and a16z backing a company that has operationalized two actual mines rather than remaining software-only\u2014a signal that capital is flowing toward vertically integrated commodity solutions.",
+        "China's chokehold on critical minerals processing (92% for rare earths, 90% overall) is creating a geopolitical urgency that attracts both traditional miners (BHP Ventures) and climate-focused LPs (Breakthrough Energy), suggesting mining tech deals may see faster deployment capital than typical deep-tech rounds.",
+        "The framing of metals as foundational to AI infrastructure\u2014not just EVs\u2014opens a new investment narrative: as semiconductor and power demands surge, mining becomes a direct input bottleneck for AI deployment, not just energy transition."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Mining\u2019s AI moment"
+    },
+    {
+      "id": "46ad48b7",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Joshua Kushner's Thrive Capital led a $4.2 billion investment to create a FIFA commercial subsidiary that would have provided equity stakes and annual funding to 211 national soccer bodies, but the deal collapsed within a week due to regional confederation rejection. Separately, AstraZeneca and Bristol-Myers Squibb are in merger talks that could create a $400 billion pharmaceutical giant, though regulatory scrutiny around antitrust and redomiciling concerns may complicate the transaction. Base Power, an Austin-based home battery startup, raised $1 billion in Series D at a $13 billion valuation from prominent VC and growth equity firms.",
+      "keyTakeaways": [
+        "Even well-capitalized PE investors with strong founding credentials can misread geopolitical and stakeholder dynamics: Thrive's failure to account for FIFA governance politics, regional confederation leverage, and anti-corruption sentiment demonstrates that financial engineering alone cannot overcome institutional distrust and cultural resistance to privatization.",
+        "Sports investments remain attractive to mega-funds but carry outsized political and reputational risk\u2014the botched FIFA rollout illustrates how information asymmetry and leaked negotiations can transform a value-creation thesis into a narrative of grift, potentially damaging future sports capital formation opportunities.",
+        "Energy storage continues attracting massive late-stage capital at premium valuations ($13B for Base Power), signaling institutional conviction in electrification and grid infrastructure, though the breadth of investors (12+ firms) suggests capital competition and potential valuation pressure in the sector."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\u26bd Axios Pro Rata: Red card"
+    },
+    {
+      "id": "65a66730",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a webinar on clean energy communications strategies, featuring executives from Sunrun, Enphase Energy, and Antenna Group discussing how the sector is evolving beyond product promotion toward building public trust and shaping policy. The discussion will address regulatory uncertainty, brand management, and positioning distributed energy as critical infrastructure as the clean energy sector matures.",
+      "keyTakeaways": [
+        "Industry leaders recognize communications as a strategic business function tied to regulatory outcomes and market positioning, signaling that messaging and public affairs capabilities are now core competitive differentiators in clean energy rather than peripheral marketing activities.",
+        "The emphasis on navigating regulatory uncertainty and managing policy conversations indicates growing volatility in clean energy investment returns, making it essential for investors to assess portfolio company capabilities in government relations and stakeholder management.",
+        "The sector's shift toward positioning distributed energy as essential infrastructure reflects a maturation phase where growth depends on policy support and social license rather than technology innovation alone, suggesting consolidation pressure and a premium for companies with strong regulatory relationships."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "The new playbook for clean energy communications"
+    },
+    {
+      "id": "0a0bff0a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Clearway Energy, a major renewable energy developer, has canceled its plan to convert a solar farm into a data center and gas plant following investigative reporting by Heatmap News. The reversal signals potential pressure on energy companies regarding their environmental commitments and the tension between renewable energy development and data center expansion driven by AI infrastructure demands.",
+      "keyTakeaways": [
+        "Media scrutiny and public reporting can directly influence corporate project decisions at major energy companies, creating reputational risk for deals perceived as contradicting stated climate goals",
+        "The growing demand for data center power is creating competitive pressure for land and renewable energy resources that developers previously allocated to clean energy projects, presenting a capital allocation conflict in the energy sector",
+        "Energy developers face increasing stakeholder expectations that their business decisions align with climate positioning, potentially limiting their ability to pivot away from renewables despite higher-margin data center opportunities"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Scoop: Clearway Cancels Plan to Swap Solar Farm for Data Center and\r\n Gas Plant"
+    },
+    {
+      "id": "271fdddd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Oil majors Chevron and Exxon posted record profits in Q2 2026 following supply shocks from Iran conflict and Strait of Hormuz closure, with Chevron achieving its best quarterly results ever while Exxon posted its largest profit in four years. President Trump publicly criticized both companies for \"making too much money\" and called for price cuts, reviving discussions about windfall profits taxes similar to those implemented by the U.K. and European countries following Russia's Ukraine invasion.",
+      "keyTakeaways": [
+        "Geopolitical supply disruptions (Iran war/Hormuz closure) are driving outsized energy sector profits, creating political vulnerability for oil companies and increasing likelihood of windfall tax proposals that could materially impact shareholder returns",
+        "Trump's unexpected criticism of supermajor profits signals policy risk to energy sector valuations; windfall taxes could compress margins despite strong commodity prices, making energy exposure less attractive on a risk-adjusted basis",
+        "The sector faces a structural profitability challenge: while commodities volatility creates investment appeal, it also invites populist political backlash during supply shocks, creating regulatory overhang that defensive energy investors should monitor closely"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Why Trump \u201cIsn\u2019t Happy\u201d"
+    },
+    {
       "id": "faf9f8b1",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -13549,24 +13693,24 @@
   ],
   "themes": [
     {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 297
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 310
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 83
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 307
-    },
-    {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 30
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 292
     },
     {
       "name": "Deep Tech & Science",
@@ -13579,5 +13723,5 @@
       "count": 24
     }
   ],
-  "lastUpdated": "2026-08-03T10:32:49.080434Z"
+  "lastUpdated": "2026-08-04T09:34:20.480897Z"
 }
