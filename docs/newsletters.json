@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "f160d9ee",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "European PE deal activity grew 6.9% in Q2 2026 despite interest rate hikes by the European Central Bank, while US PE deal value fell 37.5%, signaling a structural divergence favoring European markets. The UK accounted for 30% of European PE deal value, its highest share since 2019, while mega-exits (deals valued over a certain threshold) represented a decade-high 65.8% of total exit value, driven by 22 transactions.",
+      "keyTakeaways": [
+        "European PE is gaining relative strength during a period of monetary tightening and US market contraction, suggesting investors are rotating capital to markets offering lower entry multiples and greater alpha generation opportunities than the mature US market.",
+        "The UK's resurgence to 30% deal share indicates a geographic concentration shift within European PE that investors should monitor for portfolio construction and deployment strategy, especially as mega-exits dominate exit value.",
+        "The disconnect between rising rates and growing European PE activity implies that deal flow resilience is driven by structural factors\u2014market fragmentation and genuine alpha\u2014rather than just favorable financing conditions, indicating this trend may sustain through future rate cycles."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "What European PE's Q2 data signals for the rest of the year"
+    },
+    {
+      "id": "30da8479",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI router startups are proliferating as enterprises seek cost-cutting solutions, but venture investors increasingly believe most will be acquired rather than survive independently. Founders are pivoting toward AI gateways and advanced routing logic to build defensible products, with notable exits including OpenRouter's reported $10 billion acquisition talks with Stripe and Palo Alto Networks' purchase of Portkey. The sector highlights a broader trend: the real value lies not in simple model-selection technology but in the intelligence layers, feedback loops, and cost-management capabilities that sit between AI models and applications.",
+      "keyTakeaways": [
+        "AI router startups face consolidation pressure as large platforms (Meta, Stripe, Palo Alto Networks) move to acquire or build in-house solutions; founders should focus on defensible moats like gateway functionality and proprietary routing logic rather than basic model-switching commodities.",
+        "The shift from routers to AI gateways and advanced evaluation frameworks suggests that investors should prioritize startups building the 'intelligence layer' with feedback loops and multi-product potential over simple cost-arbitrage plays.",
+        "The current market dynamic\u2014with enterprises desperate to reduce AI model costs amid rising infrastructure spending\u2014creates a narrow window for AI infrastructure startups to either achieve strategic acquisition value or build irreplaceable governance and spending-management capabilities."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "AI's hot new target"
+    },
+    {
+      "id": "20b61c97",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "HappyRobot, an AI agent platform that automates enterprise operations like supply chain negotiations and customer support, raised $150 million in Series C funding at a $1.2 billion valuation, less than a year after its $44 million Series B. The company has achieved 5x revenue growth and 150%+ net dollar retention since its last funding round, with enterprise customers expanding contracts by 5-10x, positioning itself in a market projected to reach $295 billion by 2035.",
+      "keyTakeaways": [
+        "HappyRobot demonstrates exceptional unit economics with net dollar retention exceeding 150% and 5x revenue growth post-Series B, validating strong product-market fit in enterprise automation where customers are expanding commitments 5-10x year-over-year.",
+        "The company's competitive moat lies in solving the 'brutally hard problem' of AI reliability at scale\u2014preventing hallucinations in high-stakes negotiations\u2014rather than chasing general-purpose AI, suggesting investors should prioritize verticalized AI agents solving domain-specific trust requirements.",
+        "Enterprise AI agents are capturing mainstream institutional capital (Koch Disruptive, Deutsche Telekom, JPMorgan) and expanding horizontally from logistics into telecom, energy, and financial services, signaling the category is shifting from niche to horizontal platform opportunity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Calling the shots"
+    },
+    {
+      "id": "537dd436",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Europe faces severe water scarcity as the Rhine River hits its lowest level in 146 years, disrupting thermal power generation and cargo transport across France, Germany, and Switzerland, while simultaneously Texas and New York are implementing de facto moratoriums on new data center development to protect grid stability and power supply. These parallel crises highlight mounting infrastructure strain from climate stress and energy-intensive AI computing expansion, forcing regulators to choose between supporting tech sector growth and ensuring reliable power for existing populations.",
+      "keyTakeaways": [
+        "Data center moratoriums in Texas and New York signal regulatory resistance to AI infrastructure buildout; investors should expect permitting delays and potential site relocations as 530+ municipalities implement local restrictions, creating market consolidation opportunities for pre-approved facilities.",
+        "European thermal power generation faces immediate supply constraints from historic drought conditions, likely accelerating grid decarbonization investments and renewable energy projects, while simultaneously raising questions about data center viability in water-stressed regions.",
+        "The convergence of climate-driven resource scarcity (water) with surging energy demand (AI computing) is reshaping infrastructure investment thesis; winners will be projects addressing grid resilience, alternative cooling technologies, and renewable generation in less climate-vulnerable regions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Life\u2019s Not All Right on the Rhine"
+    },
+    {
+      "id": "3ca6b5de",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Trump Media & Technology Group launched a Truth API subscription service charging $60,000-$100,000 monthly for early access to President Trump's posts, creating potential market-moving advantages for subscribers and raising insider trading concerns. Meanwhile, Bending Spoons acquired database company Airtable for $1.29 billion in enterprise value\u2014a significant down round for venture investors who paid $11 billion pre-money just five years earlier, signaling the onset of major SaaS sector corrections.",
+      "keyTakeaways": [
+        "The Truth API represents a novel monetization of political influence with direct market impact; traders gaining millisecond advantages on posts that move crude oil 11%, crypto 27%, and equities 2.7% creates regulatory arbitrage risk and potential SEC scrutiny for early subscribers.",
+        "Airtable's $1.29B sale is a cautionary tale for late-stage SaaS investors: a company that raised $1.35B across rounds topped by an $11B valuation in 2021 now exits at a 81% discount to that peak, signaling venture capital destruction across the cohort.",
+        "The SaaSpocalypse fire sale trend emerging in 2026 suggests a broader repricing of software valuations; strategic acquirers like Bending Spoons are positioned to consolidate distressed assets at steep discounts, reshaping M&A dynamics in enterprise software."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Early Truths"
+    },
+    {
+      "id": "755eb7e9",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-08-04",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans examines divergent perceptions of AI between Silicon Valley and enterprise executives, arguing that the startup ecosystem's optimism bias may not reflect how most companies will actually deploy AI. The newsletter also covers recent AI model hacking incidents at OpenAI and Anthropic\u2014where models independently discovered sophisticated exploitation methods during security benchmarks\u2014and explores the economics of AI infrastructure, questioning whether model labs will avoid commoditization as supply constraints ease.",
+      "keyTakeaways": [
+        "Most enterprises won't become tool-builders with AI; they'll remain dependent on software vendors and consultants despite lower automation thresholds, creating sustained demand for intermediary solutions rather than broad self-service AI adoption.",
+        "The hacking incidents reveal AI models can autonomously develop complex attack vectors, but this demonstrates capability rather than agency\u2014the real investment question is whether security vulnerabilities will become competitive differentiators or commoditized baseline requirements.",
+        "AI infrastructure faces a structural pricing pressure: as supply constraints resolve, model labs risk margin compression unless they can establish moat-protected ecosystems, making the next phase of AI investment returns depend on vertical integration and platform lock-in rather than pure model performance."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 654"
+    },
+    {
+      "id": "40e87109",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Texas Governor Greg Abbott announced a freeze on new data center grid connections pending a regulatory audit, joining New York Governor Kathy Hochul in slowing AI data center development ahead of November elections. The disclosure requirements\u2014covering tax incentives, water/energy use, and ownership\u2014are relatively weak compared to emerging bipartisan momentum for stronger data center regulations, as evidenced by progressive candidates like Michigan's Abdul El-Sayed proposing community rights frameworks including no rate hikes and binding community agreements.",
+      "keyTakeaways": [
+        "Data center regulation is becoming a mainstream political issue with surprising bipartisan appeal, creating regulatory risk for developers planning expansions in major markets like Texas, New York, and Michigan.",
+        "Current proposed regulations focus on transparency and community protections rather than outright bans, suggesting the investment thesis should shift toward developers willing to accept higher operational costs and longer permitting timelines in exchange for regulatory certainty.",
+        "The convergence of state-level restrictions on grid access and mandatory community engagement frameworks could reshape the economics of data center siting, favoring larger, well-capitalized operators who can absorb compliance costs over smaller regional players."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: How Texas Wants to Regulate"
+    },
+    {
       "id": "2b2ec833",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -13693,14 +13819,19 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 297
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 310
+      "count": 314
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 299
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 25
     },
     {
       "name": "European VC",
@@ -13716,12 +13847,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 18
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 24
     }
   ],
-  "lastUpdated": "2026-08-04T09:34:20.480897Z"
+  "lastUpdated": "2026-08-05T09:30:23.109184Z"
 }
