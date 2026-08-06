@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "442a171c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US venture capital returns remain anemic with 2021 vintage funds posting a record-low 0.05x DPI, masking concentrated gains in a handful of mega-deals while LPs face negative net cash flow of $202 billion since 2022. The market's 17.1% IRR is largely driven by valuation momentum rather than realized liquidity, creating risk if AI valuations compress when growth fails to meet expectations. Meanwhile, PE's rush to deploy AI in portfolio companies is backfiring, with 83% of firms running pilots but only 18% achieving measurable EBITDA impact.",
+      "keyTakeaways": [
+        "VC fund performance is being artificially inflated by a small number of mega-winners\u2014four companies account for 93.5% of 2026 exit value\u2014while the median fund experience remains weak, signaling most LPs should scrutinize manager quality and track record before deploying capital.",
+        "The negative $202 billion net cash flow since 2022 is strangling LP flexibility to rebalance portfolios or back emerging managers, accelerating a dangerous concentration of capital into elite mega-funds that can overprice deals.",
+        "AI enthusiasm is creating a bubble-like dynamic in both VC valuations and PE implementation; unless realized business outcomes match current price expectations, investors face significant downside as conviction could 'compress future returns' and pilot-heavy strategies without EBITDA linkage are destroying rather than creating value."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "\ud83c\udf4b  2021 was a lemon"
+    },
+    {
+      "id": "2e94bc21",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Westinghouse and Holtec International have filed IPO paperwork with the SEC, positioning themselves as established \"pure play\" nuclear investments amid a U.S. reactor buildout supported by an $80 billion federal deal. Meanwhile, U.S. diesel prices have averaged $4.09 since Trump took office in January 2025\u2014surpassing Biden-era averages due to Iran War-related inflation\u2014while the incoming British prime minister may reshape the country's fusion energy strategy.",
+      "keyTakeaways": [
+        "Westinghouse and Holtec IPOs could unlock serious capital allocation opportunities in nuclear energy for the first time, offering established companies with real balance sheets and operational track records\u2014a contrast to pre-IPO startups like X-energy and Oklo that dominate current nuclear investment options.",
+        "The $4.09 average diesel price and potential Iran nuclear deal signal geopolitical volatility and energy market repricing that could impact broader energy sector valuations and inflation expectations through 2026.",
+        "The U.K.'s leadership transition under Andy Burnham signals potential policy shifts in fusion energy strategy, adding uncertainty to the emerging fusion investment thesis at a critical moment for early-stage fusion companies seeking government backing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Sour Diesel"
+    },
+    {
+      "id": "bcf459e4",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Noa Khamallah's $10 million fund, Don't Quit Ventures, has achieved a 2.5x return multiple with nearly one in five investments becoming unicorns\u2014compared to one in seventy industry-wide. The fund's second close revealed three portfolio companies valued above $1 billion, including positions in Mira Murati's Thinking Machine Lab, AMI Labs, and Replit, while smaller funds under $10 million continue outperforming larger vehicles in cash returns and paper value growth.",
+      "keyTakeaways": [
+        "Small funds ($10M) significantly outperform mega-funds on a percentage basis because a 10x return changes fund economics fundamentally differently\u2014a $10M fund turning into $100M reshapes outcomes, while the same in a $1B fund barely registers.",
+        "First-time fund formation has collapsed to 101 launches in 2025 (14-year low) while the ten largest funds now capture a third of all capital raised\u2014concentration is accelerating, creating opportunity for differentiated small fund operators with strong deal access and founder networks.",
+        "Solo GP structures are statistically safer than conventional wisdom suggests; the insurance math favors single managers over multi-partner firms where splits are common, but durability and avoiding regression to the mean becomes the real challenge for scaling DQV into Fund II."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Noa Khamallah\u2019s unlikely journey"
+    },
+    {
+      "id": "a94ca033",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-05",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A fintech podcast episode hosted by Jason Mikula and Alex Johnson examines three major developments: the controversial case of ALT5 Sigma and its connection to MSwipe and no-KYC card issuance; middleware provider Increase's announcement that it is launching its own bank; and renewed regulatory scrutiny around Federal Reserve master accounts. The episode explores operational complexity and regulatory challenges facing fintech infrastructure providers.",
+      "keyTakeaways": [
+        "Middleware providers like Increase are moving upstream into banking operations, signaling consolidation pressure in fintech infrastructure and potential margin compression for pure-play service providers",
+        "No-KYC card schemes remain a regulatory minefield\u2014the ALT5 Sigma narrative demonstrates ongoing compliance risks for platforms operating across multiple jurisdictions without proper identity verification frameworks",
+        "Fed master account access has become a competitive bottleneck and headline risk, suggesting that direct central bank connectivity is now a critical differentiator for fintech viability rather than a commodity service"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 78,
+      "originalTitle": "Fintech Recap: ALT5 Sigma, Increase & Fed Master Accounts"
+    },
+    {
+      "id": "f33e35a2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Disney divests its 50% stake in A+E Global Media to Hearst for $1.2 billion as the company continues abandoning legacy cable assets to focus on streaming growth, while separately the venture and private equity markets show a reversal in bonus trends with PE and VC compensation remaining flat to negative despite strong deal activity.",
+      "keyTakeaways": [
+        "Disney's strategic pivot away from profitable cable businesses signals that growth potential now outweighs immediate cash generation in major corporate capital allocation decisions, with the company redirecting proceeds toward share buybacks.",
+        "Venture and private markets are experiencing a significant compensation reset with VC and small PE bonuses flat and private credit down 10%, marking a structural shift after over a decade of outperformance relative to banking and suggesting capital allocation pressures across the alternative asset space.",
+        "New fund formation remains robust with Revenant VC closing $78M on direct secondaries, Blake Masters launching $150M Industrial Capital Fund, and Commonwealth Fusion Systems securing $1B (with CalPERS as major investor), indicating continued LP appetite despite bonus compression and shifting market conditions."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Disney divests"
+    },
+    {
+      "id": "77887613",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "AI-driven data center power demand is creating significant financial uncertainty for both tech companies and utilities, as evidenced by Amazon's $551 million accounting gain on electricity derivatives and Dominion Energy's new $1.5 million per megawatt collateral requirement for data center customers. The mismatch between long-term power commitments (up to 20 years) and uncertain actual consumption is forcing utilities and tech giants to hedge their exposure differently, with regulators caught between industry demands for favorable terms and utilities' need for revenue protection.",
+      "keyTakeaways": [
+        "Data center power contracts are increasingly treated as financial derivatives rather than ordinary procurement, creating accounting volatility and regulatory friction that could impact both utility profitability and tech company capital planning",
+        "Collateral requirements and derivative accounting indicate the market hasn't priced AI power demand risk consistently\u2014utilities are protecting downside while tech companies are booking gains on optionality, suggesting significant pricing inefficiency for investors",
+        "Regional regulatory frameworks (Virginia's approach vs. industry standards) are diverging on risk allocation, creating arbitrage opportunities and barriers to entry that will favor well-capitalized players with regulatory relationships"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "What\u2019s the price of AI power demand risk?"
+    },
+    {
+      "id": "9d38100c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A D.C. appeals court ruled that the Trump administration cannot terminate the $20 billion Greenhouse Gas Reduction Fund, a Biden-era program that capitalizes national green banks to finance climate projects in disadvantaged communities. The court mandated continued fund disbursement to eight nonprofit awardees while the case proceeds, though the EPA could appeal to the Supreme Court. The ruling potentially restores a significant climate financing mechanism that had faced termination despite being fully obligated before the election.",
+      "keyTakeaways": [
+        "The $20 billion GGRF program faces legal resurrection after court intervention, creating renewed opportunity for clean energy financing infrastructure if funding reaches the eight designated nonprofits\u2014investors should monitor whether the EPA appeals and track which green banks gain capital access.",
+        "Green banks that were starved of funding for months (like Climate United, which lost its CEO) now have potential runway to deploy capital at scale, but organizational damage from the freeze may impact execution velocity and fund deployment efficiency.",
+        "This case signals broader policy uncertainty around climate funding\u2014venture investors in clean energy should expect continued legal battles over IRA programs and factor regulatory risk into climate tech portfolio construction and exit planning."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Green Banks\u2019 Second Act"
+    },
+    {
       "id": "f160d9ee",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -13821,12 +13947,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 314
+      "count": 317
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 299
+      "count": 302
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 31
     },
     {
       "name": "Strategy & Thesis",
@@ -13839,15 +13970,10 @@
       "count": 83
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 30
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 18
     }
   ],
-  "lastUpdated": "2026-08-05T09:30:23.109184Z"
+  "lastUpdated": "2026-08-06T09:34:44.297959Z"
 }
