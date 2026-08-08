@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "5b1755d7",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital funds have sharply improved returns since Q2 2025, finally reversing four years of private equity dominance following the Fed's 2022 interest rate hikes. The newsletter covers VC's market revival, PE's continued strong performance, retail investor disappointment with pre-IPO funds like SpaceX, and the struggling adoption of model portfolios by wealth managers seeking to offer private market exposure to mass affluent clients.",
+      "keyTakeaways": [
+        "VC returns have rebounded meaningfully in recent quarters, suggesting the extended PE dominance since 2022 may be ending\u2014investors should reassess fund performance across both asset classes rather than defaulting to PE conviction.",
+        "Pre-IPO-focused retail vehicles are facing headwinds as scarcity premiums evaporate; secondary market anchors like Stripe, Databricks, and Anduril are becoming the focus for liquidity-seeking investors.",
+        "Model portfolio adoption by wealth advisors remains challenged despite industry momentum; the shift from 60/40 to 50/30 equity-to-alternatives allocation is progressing slower than alternative managers anticipated, indicating distribution infrastructure remains the bottleneck."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "VC (finally) lands a glove on PE  \ud83e\udd4a"
+    },
+    {
+      "id": "466120f0",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Live commerce platform Whatnot reached a $20 billion valuation in its Series G funding round of $545 million, nearly doubling its $11.5 billion valuation from October 2025. Led by ICONIQ, Lightspeed, and Avra, the round includes new investors like Kleiner Perkins and Wellington Management alongside returning backers including Andreessen Horowitz and Alphabet's CapitalG. The company's growth defies the current AI-dominated venture landscape, having crossed one billion orders and expanded from five collectibles categories in 2021 to hundreds of categories across multiple countries.",
+      "keyTakeaways": [
+        "Counter-trend investment opportunity: While Silicon Valley capital concentrates on AI companies, Whatnot demonstrates that consumer platforms with strong network effects and unit economics can attract significant funding and achieve unicorn-scale valuations even outside the AI hype cycle.",
+        "Successful expansion strategy validates initial focus: Whatnot's evolution from niche collectibles marketplace to multi-category platform across geographies suggests that starting with a tightly-defined, engaged community rather than attempting broad horizontal platforms from inception can be a superior capital-efficient path to scale.",
+        "Macro shift in VC allocation: The deal signals potential rebalancing toward non-AI consumer companies after years of concentrated venture investment in generative AI, with established firms like CapitalG and new entrants both participating, suggesting broader portfolio diversification among institutional VCs."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Buyer\u2019s market"
+    },
+    {
+      "id": "665cedda",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration imposed 15% tariffs on polysilicon and solar components while simultaneously offering $1.2 billion to German developer RWE to abandon offshore wind projects in New York Bight and off California and Louisiana coasts. The policy creates a paradox: protecting domestic solar manufacturers through tariffs while the Solar Energy Industries Association warns this will raise electricity costs and worsen inflation, even as the administration continues dismantling renewable energy projects through settlement payments.",
+      "keyTakeaways": [
+        "U.S. solar manufacturing protection via tariffs ($0.22-$0.38 per watt for panels/cells) creates margin expansion opportunities for domestic manufacturers but risks supply chain disruption and higher input costs for developers\u2014a fundamental conflict within the renewable energy sector that could fragment the industry.",
+        "Offshore wind faces existential regulatory risk with billion-dollar buyout payments incentivizing project abandonment; developers with Atlantic and Pacific leases should reassess regulatory runway and consider strategic exits while buyout programs remain available.",
+        "The renewable energy sector is bifurcating into protected manufacturing segments versus decimated project development\u2014investors should focus on domestic solar manufacturing and battery storage plays while avoiding utility-scale wind development exposed to administrative termination risk."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Clouds Part for Solar Manufacturers"
+    },
+    {
+      "id": "09b268bb",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Democratic Party lacks a coherent artificial intelligence policy ahead of the 2026 midterm elections, creating investor uncertainty about potential regulatory direction compared to the Republican laissez-faire approach. Meanwhile, media measurement firm DoubleVerify is being acquired by Nielsen for $2.15 billion, exemplifying a trend of software and media tech companies going private as AI pressure weighs on public valuations.",
+      "keyTakeaways": [
+        "Policy uncertainty around AI regulation creates a competitive advantage for Republicans and tech companies aligned with deregulation; investors should monitor Democratic policy announcements closely as they could significantly impact AI infrastructure and software company valuations.",
+        "The DoubleVerify acquisition at $13.60/share (down from a $27 IPO and $43.52 all-time high in 2021) signals that traditional software businesses face sustained valuation pressure and private equity is willing to take stakes in mature digital media assets at significant discounts.",
+        "AI infrastructure companies continue to command substantial valuations ($5.5B+ for Lumilens, $10.5B+ for Firmus) despite broader software sector weakness, suggesting capital is bifurcating between foundational AI infrastructure plays and legacy software businesses being rationalized through privatization."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Dems' AI absence"
+    },
+    {
+      "id": "699c4ac1",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-08-07",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Elon Musk announced SpaceX plans to build robotic satellite factories on the moon as part of a profitability strategy, claiming this infrastructure could scale Earth's economy by 1,000 to 1 million times in space-based intelligence. The newsletter also covers major deep tech developments including Tesla and SpaceX's $16.8B investment in Terafab semiconductor manufacturing in Texas, concerns about U.S. interceptor shortages relative to China, talent exodus from DeepMind, emerging AI security threats, and IBM's quantum computing claims.",
+      "keyTakeaways": [
+        "Lunar manufacturing represents a major new capital allocation frontier for space economy investors\u2014SpaceX is signaling this is near-term strategic priority, not distant speculation, despite Musk's historical timeline challenges.",
+        "The $16.8B Terafab investment signals massive private sector commitment to domestic semiconductor manufacturing, creating opportunities in advanced reactor technology (NuScale, Framatome) and specialized equipment suppliers.",
+        "AI talent concentration risk is accelerating (DeepMind exodus, Discovery Loop AI launch) while AI security vulnerabilities multiply (worms/viruses emerging), creating dual investment thesis around defensive AI infrastructure and specialized talent retention in frontier labs."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 174: Satellite Factories on the Moon"
+    },
+    {
+      "id": "0d41835e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Ford is launching the Fathom, an all-electric compact pickup priced just over $28,000, developed by a Tesla-alumni-led skunkworks team using a new universal EV platform. The vehicle targets the affordable EV market where Chinese competitors are gaining ground, positioning itself competitively against Ford's own $27,000 gas-powered Maverick while offering crew-cab seating comparable to the Toyota RAV4.",
+      "keyTakeaways": [
+        "Ford's $28,000 price point for the Fathom signals the automaker is finally pursuing profitability in affordable EVs after losing money on premium vehicles like the F-150 Lightning (which started at $40,000 but sold for ~$55,000). This represents a strategic pivot toward competing with Chinese EV makers at the mass market.",
+        "The skunkworks model with Tesla alumni suggests Ford recognizes it cannot innovate at the low end using legacy processes. Success here could unlock shareholder value given Ford's flat stock performance over five years while the broader market surged 70%, but execution risk is high given previous pricing misses.",
+        "The compact EV pickup segment is becoming a competitive battleground. If Ford delivers on the Fathom's promise, it could slow Chinese EV market penetration in North America; if it fails like the F-150 Lightning pricing debacle, it reinforces that traditional Detroit automakers struggle with cost discipline in the EV transition."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: Ford\u2019s Fathom, Drive"
+    },
+    {
       "id": "20fc0929",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14109,12 +14217,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 320
+      "count": 323
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 308
+      "count": 310
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 19
     },
     {
       "name": "Fintech",
@@ -14130,12 +14243,7 @@
       "name": "European VC",
       "color": "#059669",
       "count": 83
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 18
     }
   ],
-  "lastUpdated": "2026-08-07T08:07:27.932678Z"
+  "lastUpdated": "2026-08-08T07:41:03.026924Z"
 }
