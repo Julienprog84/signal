@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "9a913e3b",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Bloom Energy and Latitude Media are hosting a webinar examining how power-intensive industries\u2014including data centers, manufacturers, hospitals, and universities\u2014must develop comprehensive energy strategies to manage skyrocketing load growth and competitive pressures. The discussion will address on-site power solutions, community resistance to development, cost management, and decarbonization as interconnected business imperatives rather than isolated initiatives.",
+      "keyTakeaways": [
+        "Data center community backlash is reshaping energy strategy across multiple sectors; companies that fail to address local opposition and integrate stakeholder concerns face project delays and margin compression regardless of technical capability",
+        "On-site power solutions (fuel cells, distributed generation) are becoming competitive differentiators for C&I customers seeking energy independence; this signals strong tailwinds for distributed energy providers like Bloom Energy amid grid constraints",
+        "The shift from reactive to deliberate energy strategy represents a material business risk; delayed action on integrated power, decarbonization, and community planning is creating a widening competitive moat for first-movers in power-intensive industries"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "One week out: How to future-proof your energy strategy"
+    },
+    {
+      "id": "9177d0ce",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Tomorrowland, the Belgian music festival, is positioning itself as a hub for entertainment technology innovation by launching Lab of Tomorrow, Europe's first accelerator dedicated to entertainment tech startups. The festival is actively partnering with emerging startups to enhance its 2026 edition through AI, immersive sound, and sustainable technologies, while simultaneously establishing Flanders as a potential 'Silicon Valley' for entertainment innovation through the Lab of Tomorrow initiative.",
+      "keyTakeaways": [
+        "Lab of Tomorrow represents a significant B2B opportunity in the European entertainment-tech ecosystem, positioning the first dedicated accelerator for this vertical and potentially creating a defensible market position in a high-growth segment",
+        "The festival's direct startup integration model (using emerging tech companies for event production and experience design) demonstrates proven product-market fit for entertainment tech solutions, offering validation signals for investor due diligence",
+        "Flanders/Belgium is emerging as a potential secondary tech hub focused on entertainment and immersive technologies, suggesting geographic diversification opportunities away from traditional VC clusters and potential government support for tech infrastructure development"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "10.08 - Plongez dans la magie de Tomorrowland !"
+    },
+    {
+      "id": "19eb077d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are racing to deploy AI on factory floors as part of a broader $2 trillion manufacturing investment wave, yet evidence suggests actual productivity gains remain rooted in traditional automation and lean manufacturing rather than generative AI. MiddleGround Capital exemplifies this trend, assembling robotic work cells for portfolio companies, while industry experts caution that many claims about AI-driven manufacturing transformation are currently overblown, with real value creation coming from conventional robotics and process optimization.",
+      "keyTakeaways": [
+        "Distinguish between hype and reality: PE firms should scrutinize vendor claims about AI-powered factory solutions, as actual manufacturing productivity improvements are still driven by robotics and lean principles rather than generative AI, suggesting significant valuation risk in AI-first manufacturing plays.",
+        "Capital allocation opportunity in specialized automation: MiddleGround Capital's model of building custom robotic work cells for portfolio companies represents a defensible competitive advantage and value-creation lever that doesn't rely on unproven AI capabilities, making it a potentially superior investment thesis than pure-play AI manufacturing platforms.",
+        "Macro headwinds for AI manufacturing unicorns: With $2 trillion in manufacturing commitments but limited evidence of AI-driven factory floor improvements, companies like Prometheus (Bezos's $41B startup) face execution risk and potential down-round pressure if they can't deliver ROI, mirroring the SaaS unicorn repricing trend mentioned in the ICYMI section."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Automation, not AI, boosts US manufacturing"
+    },
+    {
+      "id": "a5a246e3",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-09",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The FDIC and major banking/fintech industry groups are collaboratively developing standards for how banks manage third-party risk with fintech and technology service providers. The effort aims to clarify the regulatory perimeter around banking services and establish consistent oversight practices across an ecosystem where banks increasingly depend on dozens of external vendors for core functions, from core banking systems (FIS, Fiserv, Jack Henry) to payment networks and credit reporting.",
+      "keyTakeaways": [
+        "Standardized third-party risk frameworks could reduce compliance friction and accelerate bank-fintech partnerships, creating near-term opportunities for vendors offering compliance infrastructure and risk management solutions.",
+        "Regulatory clarity on the banking perimeter may reshape capital allocation decisions in fintech\u2014companies operating in gray zones will face pressure to either obtain banking licenses or restructure operations to clearly sit outside regulated banking.",
+        "This industry-regulator collaboration signals a shift toward collaborative standard-setting rather than adversarial regulation, which could improve innovation velocity but may also entrench incumbent fintech players who help define the standards."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 5,
+      "originalTitle": "Can Standards Fix Bank-Fintech Third Party Risk Management?"
+    },
+    {
       "id": "63e1547c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14251,14 +14323,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 324
-    },
-    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 311
+      "count": 312
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 84
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 325
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 32
     },
     {
       "name": "Deep Tech & Science",
@@ -14266,20 +14348,10 @@
       "count": 19
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 31
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 25
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 83
     }
   ],
-  "lastUpdated": "2026-08-09T07:45:03.803532Z"
+  "lastUpdated": "2026-08-10T08:21:08.811145Z"
 }
