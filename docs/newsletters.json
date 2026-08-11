@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "ba7e4b85",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "2021-vintage US VC funds are posting the lowest DPI multiples since 1997 at their midpoint, but research suggests this metric shouldn't alarm LPs as total value to paid-in capital (TVPI) is a more reliable predictor of future performance. Meanwhile, Alumni Ventures tops PitchBook's inaugural ranking of most active VCs in AI infrastructure, reflecting surging investor appetite for picks-and-shovels plays as AI funding hit record levels in Q1 2026.",
+      "keyTakeaways": [
+        "Low DPI at year 5 for 2021 funds is misleading\u2014focus on TVPI instead, which shows 2021 is mediocre but far from worst-case, with five years remaining for distributions from AI expansion and improving liquidity markets.",
+        "AI infrastructure has become a dominant capital allocation focus, with Alumni Ventures leading venture investors backing companies solving chip access, power, and cost constraints that are becoming more acute as AI funding eclipses all of 2025 in just Q1 2026.",
+        "The shift from IRR to distributions as the primary LP return metric signals a structural change in how venture performance is evaluated, potentially reshaping which sectors and fund strategies attract fresh capital commitments."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Looking beyond DPI"
+    },
+    {
+      "id": "40c9fa37",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Fidji Simo, former OpenAI executive and ex-Instacart CEO, launched ChronicleBio to use AI for analyzing blood biomarkers to segment chronic disease patients into more granular cohorts, starting with POTS (Postural Orthostatic Tachycardia Syndrome). The startup aims to make clinical drug trials more targeted by applying AI to complex multisystem diseases that have historically been difficult to solve due to their data complexity. The newsletter also covers recent VC funding rounds including Osmo's $5M seed round led by Bain Capital Ventures and BlossomHill Therapeutics' $150M IPO.",
+      "keyTakeaways": [
+        "High-profile tech talent is increasingly moving into AI-driven healthcare, signaling a shift in capital allocation toward disease-solving applications beyond productivity software, with experienced operators like Simo bringing proven execution capability from major tech platforms.",
+        "ChronicleBio's approach of using AI for patient segmentation in drug trials addresses a genuine market inefficiency where clinical trials fail due to heterogeneous patient populations\u2014this has clear paths to revenue through pharma partnerships and potentially higher trial success rates.",
+        "The macro trend of applying large language models and AI to healthcare data problems is accelerating at the executive talent level, suggesting investor conviction is growing that chronic disease management represents a more durable business model than enterprise software automation."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Fidji Simo\u2019s next chapter"
+    },
+    {
+      "id": "ac7f75fd",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is deploying $2 billion in Department of Defense funding for domestic battery and critical mineral production, including $1.4 billion to Sila Nanotechnologies and $400 million to Sunrise Energy Metals, while global mining stocks hit $2.3 trillion in value. Amazon has been identified as the developer behind GW Ranch, a 7.7-gigawatt natural gas plant in Texas designed to power a data center campus, marking a significant pivot by major tech companies toward fossil fuel infrastructure despite climate commitments. The U.S. faces one of its worst wildfire seasons in years, with over 44,000 fires burning 5.2 million acres and displacing tens of thousands of people across multiple states.",
+      "keyTakeaways": [
+        "Critical minerals are becoming a national security and geopolitical priority with direct federal backing\u2014companies in lithium, rare earths, and specialty materials like scandium face less execution risk but more regulatory/political exposure as defense-linked assets.",
+        "Tech giants including Amazon, Microsoft, Google, and Meta are openly investing in natural gas infrastructure at scale, signaling that AI compute demands are driving a near-term return to fossil fuels rather than renewable energy, contradicting net-zero commitments and creating valuation disconnect risks.",
+        "Climate-driven disasters (wildfires, extreme weather) are intensifying while energy demand from AI data centers is pulling capital toward natural gas, creating a widening gap between stated ESG priorities and actual capital allocation in the technology sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Gimme Ore"
+    },
+    {
+      "id": "31a8c512",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Delaware Chancery Court ordered Verisk to proceed with its $2.35 billion acquisition of AccuLynx despite the company's December termination attempt, ruling that Verisk must use commercially reasonable efforts to obtain regulatory approval. The decision marks a rare invocation of specific performance, triggered by Verisk's missteps with the FTC\u2014including an initial false statement about terminated integration talks with competitor ServiceTitan that caused regulators to demand full compliance. Separately, Cambridge Aerospace, a British air defense startup, raised $300 million in Series C funding at a $3.4 billion valuation to develop low-cost drone and missile interceptor systems.",
+      "keyTakeaways": [
+        "Specific performance remains an underestimated enforcement mechanism in M&A disputes\u2014Verisk's legal miscalculation and FTC coordination misstep made it executable here, signaling acquirers cannot rely on regulatory delays to escape deals even after termination notices.",
+        "Transparency failures in regulatory submissions carry existential costs; Verisk's initial denial of ServiceTitan negotiations destroyed FTC trust and escalated information requests from standard to comprehensive, ultimately costing the company a $2.35B deal it wanted to exit.",
+        "Defense tech funding is accelerating around asymmetric threats\u2014Cambridge Aerospace's $3.4B valuation reflects investor appetite for low-cost counter-drone systems driven by Ukraine and Iran conflicts, indicating a structural market shift from expensive legacy interceptors to affordable alternatives."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Termination terminated"
+    },
+    {
+      "id": "3d8c7a21",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration's USDA is proposing changes to implement a Cold War-era farmland protection law that would impose significant reporting requirements on renewable energy and pipeline companies. Democrats argue this regulatory shift could create operational burdens for energy infrastructure projects on agricultural land, potentially affecting project timelines and compliance costs across the renewables and fossil fuel sectors.",
+      "keyTakeaways": [
+        "Regulatory risk for renewable energy developers: New USDA reporting requirements could increase project compliance costs and extend timelines for solar, wind, and energy infrastructure sited on farmland or agricultural areas.",
+        "Infrastructure investment implications: Pipeline companies and distributed energy projects may face unexpected administrative burdens, affecting capital allocation decisions and project economics for energy infrastructure investors.",
+        "Political weaponization of regulation: This represents a potential shift in how agricultural protection laws are enforced\u2014signaling that energy sector regulation could become increasingly politicized, creating uncertainty for long-term energy transition investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Trump\u2019s USDA Using Farmland Rule to Go After Energy Companies, Democrats Say"
+    },
+    {
+      "id": "d8e1abea",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has spent nearly $4 billion to cancel offshore wind projects that were already financially unviable, including a $1.2 billion deal with German energy company RWE to abandon three wind farms off New Jersey's coast. These cancellations mark the collapse of America's first offshore wind boom, reducing expected East Coast capacity from 14 gigawatts to roughly 6 gigawatts by 2030, while paradoxically paying developers for projects that likely would never have been built anyway due to post-Ukraine inflation, rising interest rates, and supply chain constraints.",
+      "keyTakeaways": [
+        "The offshore wind sector faces a structural viability crisis\u2014projects are economically unworkable at current interest rates and supply costs, meaning government buyouts may become the expected exit strategy rather than exceptions, fundamentally altering risk calculations for energy infrastructure investors.",
+        "Regional electricity markets face critical supply shortfalls; the Northeast, particularly New York City, now depends on aging barge-mounted plants to avoid blackouts, creating urgent capital needs that could shift investment toward alternative generation sources and grid infrastructure rather than renewables.",
+        "Policy reversals in energy infrastructure create asymmetric payoff structures where developers profit regardless of execution, reducing market discipline and potentially encouraging speculative bidding in future auctions\u2014a cautionary signal for any investor evaluating government-dependent energy projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: What's So Strange About Trump\u2019s Wind Deals"
+    },
+    {
       "id": "9a913e3b",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -14323,19 +14431,19 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 328
+    },
+    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 312
+      "count": 315
     },
     {
       "name": "European VC",
       "color": "#059669",
       "count": 84
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 325
     },
     {
       "name": "Fintech",
@@ -14353,5 +14461,5 @@
       "count": 25
     }
   ],
-  "lastUpdated": "2026-08-10T08:21:08.811145Z"
+  "lastUpdated": "2026-08-11T08:03:57.835634Z"
 }
