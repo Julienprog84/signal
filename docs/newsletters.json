@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "000b8811",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's latest report argues that agentic AI is evolving from a software category into organizational infrastructure, fundamentally changing competitive dynamics and value capture patterns. Rather than following SaaS economics where better products quickly displace incumbents, agentic AI is adopting ERP-like characteristics with high switching costs and winner-take-most dynamics, meaning early movers who identify the right verticals and build information advantages now will create defensible competitive positions.",
+      "keyTakeaways": [
+        "Agentic AI value will concentrate among vendors who establish early dominance in specific verticals, not those with superior technology\u2014similar to ERP rather than SaaS, making competitive position defensible and creating a narrow window for differentiation that closes in approximately one year",
+        "Investors optimizing for near-term revenue multiples may be using the wrong evaluation framework; the scorecard should emphasize market positioning, vertical penetration depth, and switching cost creation rather than traditional SaaS metrics like growth rates and margins",
+        "The shift from software to infrastructure dynamics means capital allocation strategy must prioritize identifying which verticals will benefit most from agentic AI automation before competitors map the landscape, as this information advantage will compound significantly"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Identify where agentic AI value is concentrating ahead of\r\n competitors"
+    },
+    {
+      "id": "30a2d632",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI startups raised $407 billion in H1 2026, more than double 2025's full-year total, but OpenAI and Anthropic captured over half of that capital, signaling extreme concentration in frontier models rather than broad-based AI innovation. While vertical application companies generated 63% of deal count, they captured only 13% of capital, as investors heavily favor large language model platforms over derivative applications. The overall deal count fell to 3,500 from 8,290 the prior year due to Fed rate policies and macro uncertainty, with OpenAI reportedly delaying its IPO to 2027.",
+      "keyTakeaways": [
+        "The AI funding boom is concentrated in two companies\u2014OpenAI and Anthropic together received $217B of $407B in H1 2026. This creates significant portfolio risk for diversified VC funds and suggests the frontier model layer may be overheated relative to application-layer opportunities.",
+        "A massive valuation arbitrage exists: AI Series D+ companies command 6.6x multiples versus non-AI peers, but whether these premiums survive IPO and public markets remains untested\u2014particularly concerning given OpenAI's delayed public debut and reported internal performance misses.",
+        "Deal selectivity is increasing sharply (3,500 deals in H1 2026 vs. 8,290 in all of 2025) as Fed tightening reshapes capital allocation, suggesting that sub-frontier AI companies and traditional tech will face meaningful fundraising headwinds through year-end."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "When 'diversified' means two companies"
+    },
+    {
+      "id": "2f519df4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. recorded its hottest month in 130+ years in July 2026, with Lake Mead hitting record lows amid severe western drought conditions. China is launching weekly Arctic container shipping through Russia's northern coastline, branded as the \"Ice Silk Road,\" while the Trump administration halted NOAA Arctic climate research funding. The Trump administration secured court approval to reconsider the Atlantic Shores offshore wind project, which lost Shell as a joint venture partner but faces potential regulatory delays under Interior Department review.",
+      "keyTakeaways": [
+        "Arctic shipping infrastructure is becoming commercially viable as climate change opens polar routes\u2014investors should monitor China's Ice Silk Road development and competing Western Arctic logistics ventures, as this represents a structural shift in global shipping economics.",
+        "Offshore wind projects face regulatory uncertainty under the current administration; Atlantic Shores' reopened environmental review signals potential delays and bureaucratic obstacles that could impact renewable energy capital deployment timelines.",
+        "Severe drought conditions and record heat are creating urgent infrastructure needs in water management and grid resilience, particularly in the Western U.S.\u2014this signals sustained investment opportunity in desalination, water efficiency technologies, and climate adaptation solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Hot Hot Heat"
+    },
+    {
+      "id": "c4fd673d",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Zach Dell's Base Power, a residential electricity and home battery storage company, has reached a $13 billion valuation after raising $1 billion in Series D funding, more than tripling its $4 billion valuation in under a year. The startup offers a membership-based model with low upfront costs ($695 installation, $19/month) targeting the $200 billion U.S. residential electricity market, and has begun manufacturing batteries at its own Austin facility with a second factory under construction for 2027.",
+      "keyTakeaways": [
+        "Base Power's valuation jump from $4B to $13B in under 12 months signals extreme investor confidence in the residential energy storage market, attracting tier-one VC firms (a16z, Thrive Capital) and strategic capital from JPMorgan Chase.",
+        "The $19/month membership model with minimal upfront customer acquisition costs ($695) creates a long-tail profitability question\u2014investors should scrutinize unit economics and cash flow timeline before this model scales to 'every neighborhood in America.'",
+        "Vertical integration into battery manufacturing (Base Factory 1 operational, Factory 2 launching 2027) suggests the sector is consolidating around hardware-software hybrids rather than pure software plays, with significant capex requirements competing for venture scale-up capital."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Michael Dell\u2019s son raised billions. What's next?"
+    },
+    {
+      "id": "c1aa382a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia is raising $500 billion for AI infrastructure financing through GPU securitizations with six major investment firms (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR), spreading risk across insurance companies, pension funds, and sovereign wealth funds. The deal reflects a major bet that compute demand will remain unwavering, though the newsletter warns of structural risks including potential efficiency breakthroughs, political restrictions on data centers, and unexpected commodity supply shifts. In separate news, Francisco Partners agreed to acquire Canadian fintech Moneris for C$2 billion, signaling banks' preference for maintaining merchant relationships without building costly acquisition infrastructure.",
+      "keyTakeaways": [
+        "The Nvidia securitization structure allows major institutions to deploy capital through different vehicles (balance sheet, insurance arms, credit funds), creating multiple entry points and suggesting this could become a template for future mega-scale infrastructure financing across the investor base.",
+        "Wall Street is betting heavily on sustained AI compute demand with limited hedges against disruptive scenarios\u2014investors should scrutinize whether the 25% residual-value support mechanism Nvidia is providing adequately protects against the risk of efficiency improvements, policy constraints, or quantum computing disruption.",
+        "The Moneris acquisition demonstrates how financial institutions are exiting costly customer acquisition and payment processing operations in favor of pure-play fintech operators, a trend that could reshape how banks allocate capital toward core competencies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Frontier financing"
+    },
+    {
+      "id": "405d48e0",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-08-11",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Google faces a significant talent exodus as Chief Scientist Jeff Dean and senior colleagues departed to launch a blue-sky research lab, while Demis Hassabis transitions from CEO to chairman of DeepMind. The newsletter examines critical technology disruption patterns through SpaceX's cellular ambitions and Airtable's market challenges, alongside emerging opportunities in AI-driven enterprise software and concerns about whether frontier AI models will remain high-margin or become commodity infrastructure.",
+      "keyTakeaways": [
+        "Google's leadership departure of Jeff Dean (tenure since 1999) signals potential internal friction over AI strategy direction; investors should monitor whether this accelerates or impedes Google's frontier model development relative to competitors like OpenAI and Anthropic.",
+        "The recurring pattern of failed mobile disruption attempts (WiMAX, mesh networks) versus SpaceX's cellular push highlights that true disruption requires both technological breakthrough AND understanding of underlying economics\u2014key framework for evaluating other moonshot claims in the AI era.",
+        "As AI token pricing faces a supply crunch, the critical investment question is pricing power sustainability: will frontier model providers maintain high margins or compress toward commodity infrastructure pricing, fundamentally changing the unit economics for AI-dependent software companies."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 655"
+    },
+    {
+      "id": "4e3100da",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. grid-scale battery storage industry is experiencing explosive growth, with utility-scale capacity expanding 70% annually over the past three years and 8.3 gigawatts added in just the first half of 2026, positioning batteries as the rare exception to America's infrastructure development challenges. Lithium-ion technology has enabled rapid, modular deployment across the country compared to traditional storage methods, with solar farms leading adoption, while the Inflation Reduction Act's tax incentives continue to drive investment despite political headwinds.",
+      "keyTakeaways": [
+        "Grid-scale battery storage is the fastest-growing segment of U.S. energy infrastructure, with 70% annual growth and 14 additional gigawatts projected by early 2027\u2014creating a significant capital deployment opportunity across manufacturing, development, and supply chain companies.",
+        "Despite 74 gigawatts of pending projects and 6.1 gigawatts in canceled projects, the sector is achieving a meaningful success rate in overcoming permitting and public opposition, suggesting improving regulatory conditions and de-risking for investors in this space.",
+        "Major automotive manufacturers (Ford, GM) are pivoting production capacity toward grid-scale batteries, indicating this sector is becoming systemically important to decarbonization and attracting diversified capital from traditional industrial players seeking energy transition exposure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: 70% Annual Growth"
+    },
+    {
       "id": "ba7e4b85",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14433,12 +14559,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 328
+      "count": 332
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 315
+      "count": 317
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 26
     },
     {
       "name": "European VC",
@@ -14454,12 +14585,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 19
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 25
     }
   ],
-  "lastUpdated": "2026-08-11T08:03:57.835634Z"
+  "lastUpdated": "2026-08-12T08:09:22.172227Z"
 }
