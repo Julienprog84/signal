@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "74098c19",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Boston-based Reservoir has closed an $8 million seed round to commercialize heat pump technology for residential water heaters, targeting a significant energy efficiency opportunity in the residential heating market. The funding reflects growing investor interest in climate tech solutions that reduce household energy consumption through alternative heating technologies.",
+      "keyTakeaways": [
+        "Heat pump water heaters represent a substantial market opportunity in residential energy efficiency, with Reservoir's $8M seed indicating investor confidence in the technology's commercialization potential and consumer demand for lower-cost heating solutions.",
+        "The funding reflects a clear capital allocation trend toward tangible, retrofit-friendly climate solutions that address residential energy consumption\u2014a sector seeing increased venture activity as utilities and homeowners prioritize decarbonization.",
+        "Water heating accounts for a significant portion of residential energy use, making heat pump electrification a high-impact climate tech vertical with clear policy tailwinds (IRA incentives, building codes) and expanding competitive dynamics."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Reservoir Raises $8 Million for Sexy Water Heaters"
+    },
+    {
+      "id": "22058997",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Despite AI companies representing 62% of unicorn value, the largest model builders like Anthropic and OpenAI rank only 11th and 15th on PitchBook's Business Quality framework due to thin margins from rented computing power, while cleantech leads in capital efficiency with a 330% relative velocity of value creation. Bank CEOs highlighted AI's impact on M&A strategy, with some predicting increased take-privates of healthy companies struggling to regain valuations, while the private credit market faces challenging loan performance particularly in software.",
+      "keyTakeaways": [
+        "High unicorn valuations in AI don't correlate with operational quality\u2014investors seeking better risk-adjusted returns should examine cleantech and robotics sectors where capital efficiency is demonstrably superior to AI model builders",
+        "The concentration of unicorn value in two companies (OpenAI and Anthropic at $1.8 trillion of $8.2 trillion total) suggests significant valuation risk; diversified exposure across sectors with proven unit economics may outperform mega-cap AI bets",
+        "Strategic acquirers are reconsidering large M&A deals due to AI capabilities and instead targeting take-privates of struggling software companies with impaired valuations\u2014this signals a structural shift in deal flow away from traditional mega-rounds"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The best unicorns aren't the biggest"
+    },
+    {
+      "id": "2ef5edc5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A newsletter covering climate and energy policy developments in August 2026, including Wisconsin's Democratic gubernatorial primary where moderate David Crowley defeated leftist Francesca Hong who campaigned on banning data center tax credits, a new bipartisan bill to incentivize offshore wind developers to reject Trump administration buyout payments (totaling $4+ billion for already-defunct projects), and rising copper prices driven by a global smelter outage.",
+      "keyTakeaways": [
+        "AI infrastructure and data center development is becoming a contested political issue with real electoral consequences\u2014voters in swing states may reject candidates opposing tech expansion, signaling market appetite for continued AI facility buildout despite environmental concerns.",
+        "Trump administration's renewable energy cancellation strategy via direct corporate payouts is economically inefficient, subsidizing dead projects rather than replacing them\u2014creating potential political opening for renewable advocates and indicating policy instability in clean energy investments.",
+        "Commodity price pressures in copper suggest supply-chain vulnerabilities in the energy transition; smelter disruptions have outsized effects on global markets, indicating that transition metals infrastructure is a critical bottleneck for renewable energy deployment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Not So Midwest Nice"
+    },
+    {
+      "id": "b7f4dafb",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-12",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Katie Perry, CMO at zerohash and former marketing lead at Public.com, discusses how corporate communications and investor relations have transformed due to retail investor influence, social media communities, and AI in her new book 'Ticker Shock.' The interview explores the convergence of investing and gambling, the rise of corporate executive 'fandoms,' and the critical importance of trust-building for fintech companies navigating this new landscape.",
+      "keyTakeaways": [
+        "Retail investors now wield significant influence over corporate communications strategy, forcing companies to engage directly on platforms like X and Reddit rather than relying solely on traditional IR channels\u2014fintech firms that build authentic communities outperform those using legacy communication approaches.",
+        "The blurring lines between investing and gambling represent a regulatory and reputational risk for fintech platforms; companies must prioritize transparent communication and trust-building to differentiate from meme-stock trading venues and maintain institutional credibility.",
+        "Executive personal brands and company 'fandoms' are becoming material business assets in fintech, suggesting that founder-led marketing and community engagement strategies are now core competitive advantages requiring dedicated capital allocation and executive time."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 51,
+      "originalTitle": "Interview: Katie Perry, Author of Ticker Shock"
+    },
+    {
+      "id": "191e9be0",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "PitchBook's Q2 2026 data reveals a starkly bifurcated venture market where AI companies captured 87.5% of all U.S. venture dollars, with Series D+ AI valuations jumping 6.6x compared to 1.6x for non-AI peers. The median velocity of value creation at Series D and beyond surged nearly 10x year-over-year to over $1 billion, driven by mega-rounds in companies like Anthropic, while non-AI startups face severe capital constraints and massive secondary market discounts unless recently funded.",
+      "keyTakeaways": [
+        "AI companies command a structural premium in late-stage funding with 6.6x median valuation step-ups at Series D+, while non-AI companies see only 1.6x growth\u2014investors should expect this dynamic to persist and plan accordingly for sector-specific capital allocation.",
+        "Secondary market data reveals a harsh bifurcation: recent AI startups trade at 0-5% discounts while 2021-2022 vintage companies face 54-59% discounts, signaling that non-AI portfolio companies from the exuberant era face severe liquidity challenges and potential write-downs.",
+        "The venture market is consolidating around winners with record acquisition values ($375.4 billion in 2026) masking highly variable outcomes\u2014M&A multiples range from 1.2x to 1.9x, indicating acquirers are cherry-picking AI assets while applying significant haircuts to legacy deals."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "AI or bust"
+    },
+    {
+      "id": "28debc61",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Kingswood Capital Management's Alex Wolf signals that software valuations remain unattractive but expects further compression as 2021-era debt maturities force events, positioning the firm to potentially deploy capital into depressed SaaS assets. Meanwhile, podcast media company Unwell secured $500 million pre-money funding from WTSL to fuel M&A and expansion despite recent workplace controversy allegations, exemplifying continued investor appetite for profitable media platforms with diversified revenue streams.",
+      "keyTakeaways": [
+        "SaaS valuations are poised for further decline as debt maturities crystallize losses, creating a timing opportunity for disciplined buyers willing to wait rather than chase current prices.",
+        "Midmarket companies are outpacing large enterprises in AI ROI implementation due to organizational agility, suggesting PE investors should scrutinize portfolio AI strategies and competitive positioning carefully.",
+        "The private credit market remains functional despite headline redemptions and control situations; traditional bank financing and private lenders will coexist, requiring deal sponsors to evaluate optimal capital structure by situation rather than applying blanket strategies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Podcasting purse"
+    },
+    {
+      "id": "40dae7ef",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A landmark lawsuit between Nevada utility NV Energy and data center developer Tract signals deteriorating relationships between utilities and hyperscale data center operators. The dispute centers on power allocation agreements and rates, with NV Energy demanding a 90% minimum commitment for 25 years\u2014the longest such requirement in the U.S.\u2014while Tract argues the utility is retroactively changing bilateral agreements despite having already invested $125 million in Nevada infrastructure with $1 billion more committed.",
+      "keyTakeaways": [
+        "Utility-data center partnerships are shifting from cooperative to adversarial, with utilities now using aggressive contractual terms (25-year 90% demand commitments) to secure long-term revenue and shift infrastructure costs to existing ratepayers\u2014creating litigation risk for data center developers planning major expansions.",
+        "Data center operators are increasingly pushing back through private arbitration and legal challenges rather than accepting utility terms, signaling that the era of utilities willingly absorbing interconnection costs and infrastructure burdens for data centers is ending, which could slow buildout timelines and increase capex requirements.",
+        "State-level PUC review of utility frameworks for large loads is becoming a critical regulatory flashpoint; the outcome in Nevada and other jurisdictions will determine whether data center expansion economics remain attractive or face structural headwinds from utility-imposed cost-sharing and long-term commitment requirements."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Is the utility-data center honeymoon over? \u00a0"
+    },
+    {
+      "id": "6267f48c",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A webinar featuring GridBeyond executives examines how AI data center developers are navigating constrained grid access, which has become the primary bottleneck replacing chip availability. The discussion covers interconnection frameworks, portfolio sizing strategies across 25-year horizons with 25+ modeled configurations, and real-time dispatch operations on tight grids.",
+      "keyTakeaways": [
+        "Grid access has replaced chip supply as the binding constraint for data center development, creating a three-part decision framework: interconnection method, backend infrastructure design, and operational management\u2014representing a significant shift in capital planning priorities.",
+        "Flexible and interruptible interconnection models are emerging as market solutions across U.S. grids, suggesting investors should monitor regulatory arbitrage opportunities and infrastructure companies that enable demand flexibility for data centers.",
+        "Long-duration portfolio modeling (25-year horizons) is becoming standard practice for data center power planning, indicating that companies solving energy reliability and optimization for AI infrastructure face substantial addressable markets with sticky, capital-intensive contracts."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Webinar: Powering AI on a tight grid"
+    },
+    {
+      "id": "034163ca",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "An unusually intense El Ni\u00f1o event is unfolding in the Pacific Ocean, with sea surface temperatures already 2.6 degrees Celsius above normal by August\u2014making it the third strongest on record and potentially reaching 4 degrees above normal. The phenomenon, which typically costs the global economy over $3 trillion, is expected to serve as a preview of normal climate conditions in the 2030s and will likely push 2027's average global temperature above the 1.5\u00b0C Paris Agreement threshold.",
+      "keyTakeaways": [
+        "Climate-adjacent infrastructure and disaster recovery sectors face unprecedented economic disruption\u2014this El Ni\u00f1o could exceed the $3 trillion historical average damage, creating both risk and opportunity in climate adaptation and resilience technologies",
+        "The 2027 milestone of exceeding 1.5\u00b0C warming will accelerate regulatory and policy shifts favoring clean energy, carbon management, and climate tech investments, making early-stage climate solutions more attractive to capital allocators",
+        "This El Ni\u00f1o serves as a real-time stress test for global supply chains and commodity markets (agriculture, energy, water)\u2014investors should monitor emerging vulnerabilities in weather-dependent sectors and position accordingly for the climate baseline shift expected by 2030"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: A Climate Change Turbo-Boost"
+    },
+    {
       "id": "000b8811",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14557,14 +14719,19 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 332
-    },
-    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 317
+      "count": 322
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 335
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 33
     },
     {
       "name": "Strategy & Thesis",
@@ -14577,15 +14744,10 @@
       "count": 84
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 32
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 19
     }
   ],
-  "lastUpdated": "2026-08-12T08:09:22.172227Z"
+  "lastUpdated": "2026-08-13T08:11:57.995635Z"
 }
