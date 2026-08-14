@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "9ea5f755",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The Lakers sale for $12.5 billion represents a record price for an American sports franchise under Mark Walter's ownership. Meanwhile, venture capital is discovering superior returns in secondary cities like Washington DC (11.7x MOIC), Philadelphia, and Miami compared to coastal hubs like the Bay Area (3.74x MOIC) and New York (3.18x MOIC), driven by founders seeking alternatives to oversaturated rounds in top metros. The private markets face a structural liquidity crisis as PE NAV older than 7 years has grown from 28.6% to 40% since 2021, threatening capital recycling and industry growth.",
+      "keyTakeaways": [
+        "Geographic arbitrage is real: VCs targeting secondary hubs like DC, Philadelphia, and Miami are capturing multiples 3-4x higher than coastal markets, suggesting capital allocation should flow away from oversaturated coasts toward tier-two cities with emerging founder networks.",
+        "PE's aging asset base is a ticking time bomb for LPs\u201440% of PE NAV is now over 7 years old, creating a distribution drought that starves reinvestment and threatens the entire capital recycling mechanism the industry depends on.",
+        "The broader VC market is heating up with 9,366 deals worth $443.8B through August 2026, already exceeding 2025 volumes, indicating strong momentum in AI-driven rounds despite the distribution liquidity crisis limiting LP capacity to deploy capital."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "NBA's priciest sale yet: Lakers"
+    },
+    {
+      "id": "839ae9a8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration cancelled three federal transmission corridors designed to expedite grid expansion, citing concerns over costs and climate-focused priorities, though existing projects like NextEra Energy's Lake Erie Connector may still proceed independently. Tesla is advancing a $10 billion solar manufacturing facility in Texas as part of Musk's ambitious 100-gigawatt solar capacity expansion plan, a bold move amid fierce Chinese competition and the expiration of U.S. federal solar tax credits.",
+      "keyTakeaways": [
+        "Federal transmission corridor cancellations remove regulatory tailwinds for grid infrastructure but don't eliminate underlying projects\u2014investors should focus on which utilities can secure approvals independently and which projects become stranded.",
+        "Tesla's $10B solar factory bet signals aggressive vertical integration in renewable energy despite a hostile domestic policy environment; this represents either a major growth opportunity or a capital misallocation depending on manufacturing competitiveness versus Chinese producers.",
+        "The policy shift from Biden to Trump administration creates winners (utilities with in-house capital and political relationships) and losers (transmission-dependent renewable developers), making sector and company-level due diligence critical for clean energy investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Project Crystal Sun"
+    },
+    {
+      "id": "c0b31fa1",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "DeepMind is experiencing significant organizational turmoil as CEO Demis Hassabis stepped down to a chairperson role and chief scientist Jeff Dean departed, signaling leadership instability at Google's flagship AI research division. The company is losing critical talent to competitors\u2014including Gemini co-lead Noam Shazeer to OpenAI and AlphaFold co-inventor John Jumper to Anthropic\u2014while its latest models have fallen behind rivals on intelligence benchmarks and suffered repeated delays, marking a sharp reversal from its market-leading position just months earlier.",
+      "keyTakeaways": [
+        "DeepMind's organizational restructuring, consolidating power back to Mountain View and under Sundar Pichai's oversight, risks eroding the research autonomy and institutional identity that defined the unit, potentially making it a conventional Google division rather than an independent powerhouse.",
+        "Aggressive talent poaching by well-capitalized competitors (OpenAI, Anthropic, xAI) combined with equity incentives tied to rival IPO timelines is creating a brain drain that could compound DeepMind's technical setbacks\u2014losing founders and co-leads of marquee projects like Gemini and AlphaFold is strategically damaging.",
+        "Despite structural advantages in chips, cloud infrastructure, and distribution, Google's failure to maintain model-level leadership suggests the AI landscape is fragmenting along organizational lines, with smaller, focused teams at well-funded startups potentially outpacing large bureaucratic incumbents on pure research velocity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "DeepMind\u2019s difficult year"
+    },
+    {
+      "id": "360e8e87",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data centers face mounting water scarcity challenges as communities like Corpus Christi, Texas confront potential water shortages, forcing the industry to shift from treating environmental concerns as communications issues to embedding water solutions into site selection. Arbor Energy is commercializing an innovative approach using modular turbines with oxy-combustion technology that generate water as a byproduct rather than simply minimizing consumption, representing a scalable alternative to traditional liquid cooling and wastewater reclamation systems already being deployed.",
+      "keyTakeaways": [
+        "Water scarcity is becoming a material site selection constraint for data center development, creating first-mover advantage for companies with proven generation or recycling technologies that can operate at scale in water-stressed regions.",
+        "The market opportunity extends beyond efficiency to regenerative infrastructure\u2014companies solving the water problem through innovation (like Arbor's oxy-combustion turbines) may command premium valuations as regulatory pressure and community opposition increase around traditional data center sites.",
+        "This signals broader ESG-driven capital reallocation: investors should expect data center feasibility studies to increasingly require validated water solutions upfront rather than post-hoc mitigation, reshaping project economics and site portfolios across the sector."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Data centers don't have to drink the town dry"
+    },
+    {
+      "id": "1293c15a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Josh Kushner has agreed to buy the Los Angeles Lakers from Mark Walter for $12.5 billion, a $2.5 billion premium over Walter's $10 billion purchase price from last October, likely driven by Walter's federal investigation into his sports and business empire. In a separate deal, Anthropic is in advanced talks to acquire Decart, a world models and chip optimization software developer, for around $6 billion as it prepares for an autumn IPO, positioning the AI company to potentially design its own chips and reduce compute costs.",
+      "keyTakeaways": [
+        "Premium pricing for trophy assets persists in VC/PE deal-making even without competitive auctions\u2014Kushner paid $2.5B above recent valuation to preempt negotiations and secure control, reflecting modern VC willingness to overpay for desired acquisitions.",
+        "Anthropic's vertical integration into chip design and compute optimization signals AI companies are shifting from pure software plays to becoming infrastructure competitors, potentially reshaping the tech supply chain and Nvidia's customer base.",
+        "Federal regulatory pressure on established asset owners (Walter) is creating unexpected M&A opportunities for well-capitalized VC-backed buyers willing to move quickly at premium valuations, particularly in illiquid trophy asset classes."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Luka lucre"
+    },
+    {
+      "id": "332f57e4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Misan Lychee represents an emerging consumer product trend that integrates direct air capture (DAC) technology into beverages, combining captured CO2 with traditional carbonation. This signals growing commercial viability of climate tech innovations in mainstream consumer goods, though the vague quantification of captured carbon and high sugar content raises questions about the actual environmental impact versus marketing narrative.",
+      "keyTakeaways": [
+        "Direct air capture technology is moving from industrial applications into consumer products, indicating DAC companies are finding near-term commercialization pathways beyond traditional carbon removal markets",
+        "Beverage companies are using climate credentials as a differentiation strategy, creating potential investment opportunities in food/beverage brands integrating verified carbon removal claims",
+        "High sugar content alongside environmental claims suggests regulatory and consumer scrutiny will likely focus on whether climate-positive marketing can coexist with health concerns, impacting brand valuation"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "This Soda Asks: Would You Drink a Greenhouse Gas Emission?"
+    },
+    {
+      "id": "eb32af38",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. clean energy and transportation investment surged to over $75 billion in Q2 2026, marking the second-largest quarter since 2018, driven primarily by consumer adoption of electric vehicles and residential batteries which hit an all-time high of $11 billion in quarterly sales. The rebound was fueled by high gasoline prices and the end of Republican EV incentives, with the EV supply chain accounting for 88% of clean manufacturing investment, while similar trends emerged globally with 50 countries setting new EV sales records.",
+      "keyTakeaways": [
+        "Residential battery storage emerged as a breakout investment category with $11 billion in Q2 sales\u2014an all-time high\u2014suggesting strong consumer demand for distributed energy assets independent of policy incentives.",
+        "EV supply chain investments (minerals, batteries, assembly, charging) dominated clean manufacturing at 9% of total U.S. clean investment, indicating capital concentration in automotive electrification over other renewable sectors.",
+        "Global demand destruction from oil price shocks is accelerating EV adoption across emerging markets (India, Brazil, Australia), creating significant international expansion opportunities for battery and EV infrastructure companies."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Why Clean Surged in Q2"
+    },
+    {
       "id": "74098c19",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -14719,14 +14845,14 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 322
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 335
+      "count": 338
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 326
     },
     {
       "name": "Fintech",
@@ -14749,5 +14875,5 @@
       "count": 19
     }
   ],
-  "lastUpdated": "2026-08-13T08:11:57.995635Z"
+  "lastUpdated": "2026-08-14T08:07:28.871145Z"
 }
