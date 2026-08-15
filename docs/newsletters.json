@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "3f121582",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Major buyout firms including Warburg Pincus, Leonard Green & Partners, and Accel-KKR are entering the secondary PE market with dedicated GP-led deal units, leveraging their sector expertise and platform resources to compete with traditional secondaries specialists. Meanwhile, OpenAI faces significant executive turnover with 25 senior leaders departing since January 2024, including recent exits by revenue chief Denise Dresser and other C-suite executives, raising concerns about organizational execution ahead of a potential IPO.",
+      "keyTakeaways": [
+        "Buyout shops are using deep sector underwriting capabilities and platform resources as competitive advantages in secondaries investing, where single-asset continuation funds are growing rapidly\u2014this could reshape the $100+ billion secondaries market dynamics.",
+        "OpenAI's executive exodus, particularly in revenue and operations roles, signals potential execution risks for enterprise scaling and IPO readiness that institutional investors should monitor closely relative to competitors like Anthropic.",
+        "Regulated vertical SaaS remains a high-priority acquisition target for PE (evidenced by Workday's potential $43B take-private and Thoma Bravo's $4B insurtech deal), suggesting sustained PE appetite for software with recurring revenue and regulatory moats."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "AI-proof take-private splash"
+    },
+    {
+      "id": "690aed4f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. is poised to set another natural gas production record in 2026 with 122.5 billion cubic feet per day, driven by expanded drilling in the Permian and Haynesville regions. Democrats are challenging the Trump administration's mineral equity acquisitions, citing potential conflicts of interest as the federal government simultaneously acts as investor and regulator on federal lands. Mitsubishi Heavy Industries' gas turbine backlog has nearly doubled to 35 gigawatts by mid-2026, signaling sustained demand for natural gas infrastructure.",
+      "keyTakeaways": [
+        "U.S. natural gas production hitting record levels creates sustained demand for gas turbines and downstream infrastructure\u2014investors should track equipment manufacturers like Mitsubishi and GE as backlog-to-delivery ratios indicate multi-year revenue visibility.",
+        "The Trump administration's direct equity stakes in mining companies represent an emerging industrial policy trend, but regulatory scrutiny from Congressional Democrats could create investment uncertainty and potentially affect deal economics for mineral-dependent sectors.",
+        "Rising global energy demand and geopolitical competition for critical minerals are driving simultaneous expansion in fossil fuel infrastructure and mineral extraction, creating a complex macroeconomic environment where climate transition investments must compete against traditional energy upside."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Insane in the Methane"
+    },
+    {
+      "id": "42351703",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Code Metal, a Salesforce Ventures-backed software unicorn valued at $1.25 billion, secured an $80 million Pentagon contract in under 12 months to modernize WarMatrix, the Department of War's wargaming simulation platform with AI capabilities. The rapid approval process and full funding via Other Transaction Authority represents an unusual acceleration for defense contracting, signaling Pentagon urgency around AI-enabling legacy military software infrastructure.",
+      "keyTakeaways": [
+        "Defense tech startups can now access Pentagon capital at venture scale ($80M+) with dramatically compressed timelines (under 12 months vs. historical years), creating a new arbitrage opportunity for VC-backed companies willing to navigate defense compliance requirements.",
+        "The business model of adding AI software layers to decades-old validated military code, rather than replacing it, unlocks significant contract value while reducing technical and regulatory risk\u2014a playbook other defense startups can replicate.",
+        "Approximately 10,000 new defense companies entering the market combined with Pentagon's stated need for AI modernization and willingness to move at startup speeds suggests sustained capital deployment opportunities in defense tech, with established primes increasingly acting as partners rather than competitors to venture-backed firms."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "$80 million from the Pentagon"
+    },
+    {
+      "id": "bd791b6f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Researchers from Heatmap and MIT's Electricity Price Hub argue that summer electricity bill volatility\u2014not just absolute affordability\u2014is a critical pain point for consumers. The analysis suggests that unpredictable pricing swings create financial stress beyond the average cost of electricity, pointing to potential market inefficiencies in how utilities structure and communicate rates.",
+      "keyTakeaways": [
+        "Bill volatility represents an underappreciated consumer pain point that could drive demand for fixed-rate energy products, hedging solutions, or demand-response technologies that smooth consumption patterns.",
+        "This framing opens investment opportunities in fintech solutions for energy bill predictability, smart grid technologies, distributed energy resources, and energy management platforms that help consumers manage price volatility.",
+        "The focus on volatility over pure affordability suggests regulatory and policy shifts toward rate design reform, which could reshape utility business models and create tailwinds for alternative energy providers and storage solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Ideas: Summer Electricity Bills Don\u2019t Have to Be This Crazy"
+    },
+    {
+      "id": "c9261122",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-08-14",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "A Stanford University and Arc Institute research team used AI to design 16 previously unknown viruses capable of infecting bacteria, marking the first time artificial intelligence has created functional novel pathogens from scratch rather than replicating known variants. The breakthrough offers potential benefits for combating antibiotic resistance but simultaneously raises biosecurity concerns about weaponization. The newsletter also covers developments in electric aviation (Heart Aerospace's largest electric aircraft), U.S. policy shifts on corporate cyberattacks, critical mineral supply chain constraints driven by AI infrastructure demand, and SpaceX's expanding missile defense contracts.",
+      "keyTakeaways": [
+        "AI-designed biologics represent an emerging dual-use technology sector with significant investment potential in therapeutics and vaccine development, but portfolio companies will face unprecedented regulatory scrutiny and biosecurity vetting that could slow commercialization timelines.",
+        "Critical minerals infrastructure is becoming a compelling deep-tech investment thesis\u2014the bottleneck in copper, rare earth elements, and specialty materials needed for AI data centers and renewable energy transition represents a multi-billion dollar opportunity for geology-focused AI platforms and mining technology companies.",
+        "U.S. defense spending is increasingly channeling toward private aerospace and space companies (SpaceX, Joby Aviation's $500M defense expansion) and cybersecurity capabilities, signaling a shift in how government contracts flow to commercial deep-tech firms in national security applications."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 175: Scientists create 16 new viruses with AI"
+    },
+    {
+      "id": "0c0251ed",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The U.S. is experiencing a surge in copper processing startup investments as AI-driven demand for data center infrastructure intensifies, with companies like Red Metals and Still Bright raising capital to build domestic refining capacity. Separately, Silver Lake is in advanced discussions to take Workday private for approximately $51 billion, potentially ranking among the largest software buyouts ever and signaling confidence that enterprise systems-of-record are resilient against AI disruption.",
+      "keyTakeaways": [
+        "Copper processing represents an underinvested deeptech category with government tailwinds: the Trump administration has prioritized domestic critical minerals, creating runway for startups like Red Metals and Still Bright to scale production facilities with backing from major VCs and strategic miners.",
+        "The Workday take-private signals that large, embedded enterprise software platforms remain defensible assets even amid AI disruption concerns\u2014likely to trigger a wave of similar consolidation plays in the systems-of-record space.",
+        "Copper has become a strategic commodity proxy for AI infrastructure buildout; supply chain control over processing (not just mining) is now viewed as critical to U.S. competitiveness in the AI era, attracting both VC and government attention."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Copperhead road"
+    },
+    {
       "id": "9ea5f755",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14847,12 +14955,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 338
+      "count": 341
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 326
+      "count": 328
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 20
     },
     {
       "name": "Fintech",
@@ -14868,12 +14981,7 @@
       "name": "European VC",
       "color": "#059669",
       "count": 84
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 19
     }
   ],
-  "lastUpdated": "2026-08-14T08:07:28.871145Z"
+  "lastUpdated": "2026-08-15T07:22:19.326977Z"
 }
