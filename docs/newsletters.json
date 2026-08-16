@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "57b94f82",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Food and beverage PE sponsors are shifting strategy away from multiple expansion plays toward ingredient and manufacturing suppliers that can drive organic revenue growth. With multiple expansion accounting for only 16% of buyout returns in recent deals versus 58% in the 2013-2018 era, firms like CVC Capital Partners ($3.45 billion IRCA acquisition) are targeting suppliers of enzymes, natural colors, and functional ingredients that serve multiple brands chasing health-and-wellness trends, generating recurring higher-margin revenue.",
+      "keyTakeaways": [
+        "Multiple expansion is dead in F&B PE\u2014sponsors must now generate returns through revenue growth and operational improvements rather than selling at higher multiples, fundamentally changing deal selection criteria.",
+        "Ingredient and manufacturing layer suppliers are increasingly attractive acquisition targets because they sell solutions to multiple brands simultaneously, creating diversified customer bases and better exit optionality than single-brand plays.",
+        "Public food company portfolio reshuffling (Keurig Dr Pepper, Conagra, Hormel) is expected to push more ingredient platforms to market, creating a pipeline of carveout opportunities for PE investors in H2 2026."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "No multiple expansion? Buy the supplier."
+    },
+    {
+      "id": "9202aeb3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy-focused newsletter highlighting five major stories: the hype cycle around small modular reactors (SMRs) driven by data center power demands, a significant El Ni\u00f1o weather event with economic implications, rising summer electricity costs, structural changes in the Northeast's carbon markets driving electricity inflation, and a novelty beverage product. The coverage emphasizes the intersection of energy infrastructure, climate phenomena, and grid economics.",
+      "keyTakeaways": [
+        "Small modular nuclear reactors are experiencing renewed investor interest driven by data center operators seeking reliable, low-carbon baseload power, suggesting a potential capital reallocation toward advanced nuclear technology and energy infrastructure.",
+        "El Ni\u00f1o weather patterns and electricity market dynamics are creating pricing pressures in regional power markets, particularly the Northeast, indicating opportunities and risks in climate-exposed energy and utilities investments.",
+        "Structural changes in carbon markets and grid electrification are creating inflation in electricity costs, signaling that energy transition investments must account for policy-driven market mechanism shifts and customer affordability constraints."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Tiny Nukes, a Monster El Ni\u00f1o, and More"
+    },
+    {
       "id": "3f121582",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14955,12 +14991,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 341
+      "count": 342
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 328
+      "count": 329
     },
     {
       "name": "Deep Tech & Science",
@@ -14983,5 +15019,5 @@
       "count": 84
     }
   ],
-  "lastUpdated": "2026-08-15T07:22:19.326977Z"
+  "lastUpdated": "2026-08-16T07:22:55.673292Z"
 }
