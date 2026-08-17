@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "8b451a6d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-17",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "This French VC newsletter curates five expert perspectives on European startup innovation and growth. Key themes include rethinking speed in innovation (Allianz France accelerator), identifying hidden market inefficiencies rather than creating new needs (Village by CA), reducing policy uncertainty for French entrepreneurs (Fretbay CEO), leveraging earned media strategies for visibility, and preparing for mandatory e-invoicing compliance by 2026 (Indy).",
+      "keyTakeaways": [
+        "Speed may no longer be the primary success metric\u2014a decade of accelerator data suggests identifying invisible market imbalances and revealing existing demand outweighs first-mover advantage",
+        "French startup ecosystem needs regulatory clarity and consistent policy signals rather than additional economic support programs, suggesting VCs should focus on companies with strong unit economics over subsidy-dependent models",
+        "B2B SaaS founders should prioritize compliance-ready solutions (e-invoicing example) and earned media strategies early, as regulatory tailwinds create market expansion opportunities"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "17.08 - 5 tribunes qu'il ne fallait pas manquer cet \u00e9t\u00e9 \u2600\ufe0f"
+    },
+    {
+      "id": "0acb31b8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital is aggressively funding semiconductor companies as investors increasingly view hardware as the critical bottleneck in AI's infrastructure buildout. AI and machine learning semiconductor funding reached $14.1 billion in the first half of 2026, already tracking to exceed the previous year's total by nearly 50%, while industry leaders like Nvidia are simultaneously raising $500 billion from major asset managers through dedicated 'AI factories' initiatives. VCs are betting that semiconductors offer rare defensibility in the AI space, as AI faces mounting constraints from processor limitations, power supply, memory, and network connectivity\u2014bottlenecks that software alone cannot solve.",
+      "keyTakeaways": [
+        "Semiconductor funding is experiencing unprecedented velocity, with H1 2026 already positioning the year to deliver 50% more capital than 2025\u2014this represents a structural shift in where returns are being hunted as software-only AI plays saturate.",
+        "The real investment thesis centers on defensibility: unlike crowded AI software markets, semiconductors face supply constraints that won't ease until 2027 at earliest, creating a multi-year window for chip companies to command premium valuations and margins.",
+        "AI data center demand will exceed supply by 2027 with one-fifth of planned projects potentially delayed due to grid limitations\u2014this suggests semiconductor and infrastructure plays will outperform pure AI application bets through the remainder of this decade."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Why VCs are chasing chips"
+    },
+    {
+      "id": "01149dfa",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-16",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Coastal Community Bank reported a $42 million loss in Q2 2024, primarily driven by losses from its fintech partner LendingPoint, highlighting the risks banks face when partnering with consumer lending platforms. The newsletter also covers regulatory challenges for fintech charter applicants, including bunq's rejection by the OCC, alongside coverage of emerging trends like World Liberty Financial's preliminary bank approval and Revolut's French banking license.",
+      "keyTakeaways": [
+        "Bank partnerships with fintech lenders carry significant credit risk that can crater earnings; Coastal's massive Q2 loss suggests regulatory and credit quality issues at LendingPoint warrant investor scrutiny of other bank-fintech relationships",
+        "Regulatory barriers to fintech banking charters are hardening, with the OCC's bunq denial signaling stricter capital and compliance standards for crypto-adjacent applicants seeking federal charters",
+        "The fintech banking landscape is bifurcating between well-capitalized players securing licenses (Revolut in France, World Liberty Financial preliminary approval) and traditional bank partners absorbing losses from consumer lending exposure"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "LendingPoint Drove Coastal's $42M Q2 Loss"
+    },
+    {
       "id": "57b94f82",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -14989,9 +15043,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 85
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 342
+      "count": 343
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 34
     },
     {
       "name": "Climate & Energy",
@@ -15004,20 +15068,10 @@
       "count": 20
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 33
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 26
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 84
     }
   ],
-  "lastUpdated": "2026-08-16T07:22:55.673292Z"
+  "lastUpdated": "2026-08-17T07:43:31.284553Z"
 }
