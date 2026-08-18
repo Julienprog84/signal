@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "8667c74a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The $120 billion pre-IPO stock market is entering a scaling phase as major financial institutions like Morgan Stanley and Charles Schwab acquire private stock trading platforms to offer retail investors access previously reserved for VCs and institutions. Separately, defense tech funding surged over 30-fold in Q2 2026 to $665 million, driven by Pentagon demand for missile production, though manufacturing constraints in motors, explosives, and precision components create a bottleneck between capital availability and actual production capacity.",
+      "keyTakeaways": [
+        "Wall Street's major players are making structural bets on retail pre-IPO trading as a permanent market segment, not a temporary trend\u2014this signals consolidation opportunities for fintech platforms and a shift in wealth management business models.",
+        "Defense tech investors are deploying capital into weapons production before the supplier base can scale, creating execution risk and suggesting that manufacturing infrastructure startups solving bottlenecks in motors, explosives, and precision components could be high-value targets.",
+        "The convergence of retail access to private markets and increased defense spending represents two distinct capital reallocation cycles\u2014one democratizing private equity access and the other militarizing industrial capacity, both reshaping private market deal flow."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Pre-IPO stock enters its scaling era"
+    },
+    {
+      "id": "386e5429",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Tropical Storm Lala knocked out power to 200,000 homes across Hawaii's Big Island, exposing infrastructure vulnerabilities in a region rarely hit by direct storms. OpenAI's $20 billion Georgia data center faced regulatory delays as the state's Public Service Commission signaled rejection of the electricity supply contract, reflecting growing political resistance to AI infrastructure projects despite competing state incentives.",
+      "keyTakeaways": [
+        "AI data center projects face material regulatory and political risk at the state level\u2014Georgia's delay signals a pattern that could spread, threatening capital deployment timelines and economics for major tech infrastructure investments.",
+        "Climate resilience of critical infrastructure is becoming a tangible cost factor; Hawaiian Electric's warnings about multi-month outages suggest utilities and their customers face significant capex needs to harden systems against increasingly severe weather events.",
+        "States are competing fiercely for AI investment through tax incentives (West Virginia's income tax elimination proposal), but public opposition and regulatory uncertainty are creating friction that could reshape which jurisdictions attract major data center projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Lala Lashes Hawaii"
+    },
+    {
+      "id": "056be173",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Wispr, a voice AI and dictation startup founded by Stanford classmates Tanay Kothari and Sahaj Garg, has raised a $280 million Series B led by Menlo Ventures, bringing its valuation to $2 billion. The company, which achieved over 150% revenue growth for four consecutive quarters with millions of consumer users and 100,000 businesses, has attracted elite athletes and major venture firms as new investors alongside existing backers like NEA and Notable Capital.",
+      "keyTakeaways": [
+        "Voice as a primary interface represents a massive TAM expansion beyond dictation\u2014Wispr is positioned against workflow tools, meeting software, and AI model text boxes rather than just transcription competitors, suggesting significant pricing power and cross-category disruption potential.",
+        "Strong unit economics and revenue growth (150%+ YoY) at $2B valuation with capital efficiency (investors re-upping after 6 months) indicates the product-market fit threshold has been crossed, creating a compelling risk-adjusted entry point for follow-on capital allocation.",
+        "Despite competitive threats from tech giants (Apple, Google, Microsoft, OpenAI, Anthropic), Wispr has solved a user experience problem none of them have prioritized at scale\u2014the startup's accessibility appeal (ADHD, dyslexia, blindness, quadriplegia) and consumer adoption signal a defensible moat around voice as the practical AI interface."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Wispr\u2019s worth $2 billion"
+    },
+    {
+      "id": "eace114e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "AI founder retention is collapsing as top executives like Lilian Weng abandon their companies mid-mission to rejoin competitors like OpenAI, driven by researcher-focused cultures, low barriers to entry, and lucrative secondary liquidity opportunities that reduce incentives to see ventures through. Meanwhile, Stripe is acquiring AI model marketplace OpenRouter for over $7 billion to strengthen its position in the AI infrastructure stack, marking a major strategic bet despite the payments giant's continued refusal to go public.",
+      "keyTakeaways": [
+        "VCs should urgently strengthen founder retention mechanisms beyond secondary liquidity access: AI founders lack traditional entrepreneurial commitment, making term sheet protections critical as golden handcuffs prove ineffective in a market where every startup appears valuable.",
+        "The AI infrastructure layer is consolidating around payment and platform providers\u2014Stripe's OpenRouter acquisition signals that non-traditional tech companies are capturing disproportionate value by positioning themselves as neutral intermediaries between model developers and users.",
+        "AI startup valuations are decoupling from founder loyalty and mission commitment; the sector is experiencing a structural shift where capital efficiency and rapid scaling matter more than long-term team stability, presenting both risk (execution failures) and opportunity (faster competitive cycles) for investors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Founder flux"
+    },
+    {
+      "id": "17265655",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "OpenAI is leasing a massive data center in Pike County, Ohio that will consume 10 gigawatts of electricity, requiring a 9.2-gigawatt natural gas power plant to be built on federal land and financed by the Japanese government. This project represents the largest power plant in the United States and signals the emergence of a new trend: AI companies are driving demand for mega-scale natural gas generation facilities, with Amazon and other developers also planning similarly enormous gas plants in Texas.",
+      "keyTakeaways": [
+        "AI infrastructure is creating unprecedented demand for baseload power generation, with individual data center projects now requiring power plants larger than existing U.S. utility-scale facilities\u2014this represents a major capital opportunity for energy developers and natural gas suppliers.",
+        "Creative off-balance-sheet financing structures (government backing, foreign capital, chip manufacturer partnerships) are enabling AI mega-projects that traditional utility models couldn't support, suggesting new templates for infrastructure funding.",
+        "The shift toward natural gas mega-plants for AI workloads contradicts clean energy narratives and may entrench fossil fuel infrastructure for decades, creating political risk for AI companies and regulatory uncertainty around future deployments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Natural Gas Mega-Plant"
+    },
+    {
       "id": "8b451a6d",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -15043,24 +15133,24 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 346
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 331
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 85
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 343
-    },
-    {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 34
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 329
     },
     {
       "name": "Deep Tech & Science",
@@ -15073,5 +15163,5 @@
       "count": 26
     }
   ],
-  "lastUpdated": "2026-08-17T07:43:31.284553Z"
+  "lastUpdated": "2026-08-18T07:29:42.791052Z"
 }
