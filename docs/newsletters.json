@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "03a34b4a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private markets achieved their best quarterly returns since 2020 according to PitchBook's nowcast model, but the PE industry faces a worsening zombie fund problem with 40% of US PE-backed companies held for over seven years\u2014well beyond the traditional 3-5 year exit window. Funds deploying capital between 2018-2022 are particularly challenged, with 2021 vintage funds returning just 0.14x, and more than half of PE-backed companies held for 5+ years having completed no add-on acquisitions or recaps since 2021.",
+      "keyTakeaways": [
+        "LPs should scrutinize fund vintage years 2018-2022 closely; these cohorts face severe mark credibility issues as paper gains stubbornly fail to convert to cash distributions, signaling potential valuation inflation",
+        "The traditional 3-5 year PE hold period is effectively obsolete\u2014nearly half of all US PE-backed companies now exceed 7-year holds, forcing investors to recalibrate return expectations and liquidity timelines",
+        "The zombie fund phenomenon indicates widespread overpayment during 2018-2022's low-rate era; upcoming market exits may face significant valuation haircuts, potentially depressing sector-wide returns for years"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "Zombies are multiplying"
+    },
+    {
+      "id": "0e3c1d5d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major AI infrastructure buildout is driving unprecedented demand for natural gas power generation, with OpenAI and Nvidia planning a 9.2-gigawatt gas plant in Ohio\u2014larger than America's current biggest power station\u2014to fuel data centers. This trend reflects a critical infrastructure bottleneck in the U.S. AI race against China, as energy constraints are becoming the primary limiting factor for computational capacity expansion rather than technical capability.",
+      "keyTakeaways": [
+        "Massive capital allocation toward fossil fuel infrastructure by AI leaders signals that renewable energy cannot currently meet AI compute demands at scale, creating a structural investment opportunity in natural gas and traditional power generation despite climate headwinds",
+        "The 9.2-gigawatt Ohio project ($105 billion Nvidia investment) reveals AI infrastructure buildout will likely drive energy sector M&A and utility modernization, with potential winners in gas infrastructure, pipeline companies, and grid management technologies",
+        "Geopolitical competition with China over AI dominance is overriding climate commitments in infrastructure planning, suggesting near-term energy policy will favor rapid deployment of fossil fuels over transition timelines, impacting regulatory risk for clean energy investments"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "A Gas Colossus"
+    },
+    {
+      "id": "6d156c62",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The SEC has charged The Spaventa Group, a Long Island-based firm, with operating a pre-IPO boiler room scam that raised $74 million from over 800 retail investors and retirees by selling shares in private companies including SpaceX, Anduril, Anthropic, and Perplexity with markups averaging 46% above acquisition costs, reaching as high as 91% in some cases. The scheme operated from December 2020 to June 2025 through more than 100 agents making thousands of phone calls, targeting unsophisticated investors while concealing the substantial hidden fees, representing a significant escalation in pre-IPO market fraud compared to previous SEC enforcement actions.",
+      "keyTakeaways": [
+        "Secondary pre-IPO markets remain a high-risk, largely unregulated environment where retail investors face systematic exploitation; due diligence on share provenance and pricing verification is critical before participating in private secondary transactions.",
+        "The scale and sophistication of this alleged boiler room operation\u2014$74M from 800+ investors over 4.5 years\u2014signals that fraud in private markets is becoming increasingly organized and lucrative, likely attracting more bad actors as AI company valuations continue to surge.",
+        "Regulators are escalating enforcement in this space but remain reactive; investors should expect more disclosure requirements and oversight measures for secondary pre-IPO markets, and the SEC's willingness to prosecute suggests this enforcement trend will intensify as the private markets bubble expands."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "A $74 million boiler room scam"
+    },
+    {
+      "id": "cdaf0a8f",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A webinar featuring PG&E, Seneca, and The Ad Hoc Group explores utilities' expanding role in wildfire suppression through AI-piloted aircraft technology. The discussion addresses emerging questions around dispatch authority, airspace coordination with CAL FIRE, liability exposure, and regulatory cost recovery as companies like Seneca develop suppression capabilities that can respond within the critical first ten minutes of ignition\u2014a window historically controlled solely by state and local fire agencies.",
+      "keyTakeaways": [
+        "Seneca is commercializing AI-piloted wildfire suppression aircraft that can operate from unimproved terrain and respond to remote ignitions within the crucial first-10-minute window\u2014representing a significant shift in how utilities can participate in active suppression rather than just prevention.",
+        "Regulatory and legal frameworks remain unsettled: investors should monitor how regulators address liability exposure for utilities investing in suppression assets, cost recovery mechanisms, and airspace coordination protocols\u2014these policy decisions will determine market viability and capital requirements.",
+        "The utility wildfire mitigation sector is consolidating around integrated prevention-and-suppression models, with major utilities like PG&E exploring active response capabilities, signaling potential infrastructure investment cycles and M&A opportunities in climate resilience technology."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "You're invited: The utility role in wildfire suppression"
+    },
+    {
+      "id": "8b745336",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The DOJ is investigating Andreessen Horowitz for potential antitrust violations under Section 8 of the Clayton Act, specifically examining board seats held by partners Ben Horowitz at Databricks and Martin Casado at Fivetran, which compete in overlapping areas. This marks the first major antitrust scrutiny of venture capital firms' interlocking directorates, a practice previously spared from investigation due to emerging tech's murky competitive landscape and size exemptions that no longer apply to billion-dollar AI startups. The investigation signals potential industry-wide compliance pressure that could fundamentally alter how VC firms structure board participation and governance roles.",
+      "keyTakeaways": [
+        "VC firms face new regulatory risk: if the DOJ pursues interlocking directorate cases against prominent firms like Andreessen Horowitz, portfolio company governance structures and board seat strategies will require immediate legal review across the industry.",
+        "The de minimis exemptions shielding VC-backed startups are eroding as AI companies raise multi-billion rounds, exposing previously protected arrangements to enforcement action and forcing firms to choose between board influence and compliance.",
+        "Reduced VC board participation could weaken investor influence on portfolio company strategy and operations, potentially shifting competitive advantages toward firms that find alternative governance models to maintain strategic oversight without formal directorates."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Director dispute"
+    },
+    {
+      "id": "b12edb01",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-08-18",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic is on track for $100-120bn run-rate revenue by end of 2026, prompting investor discussions of a $2-3 trillion IPO valuation based on 30x revenue multiples, though actual GAAP revenue figures and margin details remain unclear. The newsletter examines fundamental uncertainty around AI model pricing power, supply-demand equilibrium, and competitive dynamics, drawing parallels to Amazon's volatile 1999-2007 trajectory to illustrate the unpredictability of frontier AI valuations.",
+      "keyTakeaways": [
+        "Anthropic's valuation multiples (30x revenue) rest on assumptions about sustained pricing power and growth that lack historical precedent in infrastructure markets; investors should demand transparency on actual net revenue attributable to Anthropic versus gross cloud provider payments before anchoring valuations.",
+        "The AI infrastructure market's margin profile and competitive moat remain unproven\u2014current high valuations assume model labs retain pricing power, but commoditization risk and potential 'dark chip' gluts could compress returns dramatically, making near-term IPO timing unusually speculative.",
+        "The macro uncertainty mirrors pre-2000 internet valuations; being right about 20-year AI trends doesn't protect against 70-90% drawdowns over 2-3 year windows, suggesting caution on near-term capital allocation to frontier model companies despite long-term secular tailwinds."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 656"
+    },
+    {
+      "id": "bb65e4aa",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Wisconsin Democratic gubernatorial primary revealed that despite significant anti-data center sentiment among voters, the issue failed to reshape electoral coalitions along expected ideological lines, with progressive candidate Francesca Hong losing even in jurisdictions that had fought data centers hardest. However, data centers have since become a dominant issue in the general election, with Republican nominee Tom Tiffany weaponizing the issue against Democrat David Crowley by misrepresenting his moderate position on data center regulation, exposing a political vulnerability that could complicate the industry's expansion plans.",
+      "keyTakeaways": [
+        "Data center opposition is geographically and politically fragmented rather than a unified voting bloc, limiting its power to shape electoral outcomes or policy direction\u2014a crucial insight for companies planning facility expansions in contested regions.",
+        "The issue has become a political attack vector allowing Republicans to frame Democratic moderation as pro-corporate, suggesting data center policy could become increasingly weaponized in swing states, creating regulatory and reputational risk for operators regardless of their actual environmental commitments.",
+        "The backlash reveals a structural tension: communities want data centers' economic benefits but oppose their infrastructure footprint, which threatens both the AI/cloud computing industry's growth strategy and Democratic climate coalition-building, as opposition could block renewable energy projects needed to power these facilities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Data Centers' Trojan Horse"
+    },
+    {
       "id": "8667c74a",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15135,12 +15261,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 346
+      "count": 349
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 331
+      "count": 334
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 27
     },
     {
       "name": "European VC",
@@ -15156,12 +15287,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 20
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 26
     }
   ],
-  "lastUpdated": "2026-08-18T07:29:42.791052Z"
+  "lastUpdated": "2026-08-19T07:31:00.907947Z"
 }
