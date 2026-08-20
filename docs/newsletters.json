@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "f80340ce",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's new venture league tables rank the top 50 VC firms globally based on measurable outcomes since 2010, with Accel, Index Ventures, and Sequoia leading across exit rates, follow-on funding, and valuation growth metrics. The obesity drug market has shifted from gold rush to consolidation, with late-stage clinical failures punishing crowded GLP-1 pipelines and forcing investors toward higher-risk, differentiated mechanisms. Legal services are experiencing a PE consolidation wave, with Wood Smith Henning & Berman agreeing to a roughly $700 million deal at 18x EBITDA, signaling an emerging trend in law firm institutional investment.",
+      "keyTakeaways": [
+        "VC performance can now be benchmarked against 37,000+ firms using standardized metrics (exit rate, follow-on rate, valuation growth), enabling LPs to move beyond reputation-based evaluation to data-driven manager selection",
+        "The obesity drug market has become a cautionary tale: massive TAM and proven biology alone don't guarantee returns when capital chases the same mechanism; investors must shift to differentiated approaches or accept compressed margins",
+        "PE's entry into law firms at 18x EBITDA multiples signals institutional capital is seeking recurring-revenue professional services businesses with scale\u2014expect similar consolidation plays across legal, accounting, and consulting verticals"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "50 VCs that actually delivered"
+    },
+    {
+      "id": "17aacd41",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Behind-the-meter battery storage is emerging as a critical infrastructure solution that serves dual purposes: protecting vulnerable customers who depend on electricity for medical equipment during outages while simultaneously strengthening grid resilience by reducing peak demand and increasing flexibility. Resource Innovations explores how utilities are designing battery programs that balance immediate customer protection with long-term grid optimization, positioning energy storage as essential infrastructure amid increasingly frequent outages and rising customer expectations.",
+      "keyTakeaways": [
+        "Behind-the-meter battery systems represent a growing market opportunity at the intersection of resilience and grid modernization, with utilities actively designing programs that create recurring revenue streams from both customer protection services and grid ancillary services.",
+        "The dual-benefit model (protecting vulnerable populations while delivering grid services) creates a compelling narrative for capital allocation\u2014combining social impact with operational efficiency improvements that improve utility economics.",
+        "This trend signals accelerating investment in distributed energy resources and grid flexibility solutions, as utilities shift from centralized generation models to edge-based battery infrastructure to handle increasing outage frequency and renewable energy integration."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Beyond backup: Batteries that strengthen the grid"
+    },
+    {
+      "id": "54abdc21",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers major climate and energy policy developments including the Trump administration's plan to open 45 million acres of national forests to logging by rescinding Clinton-era roadless protections, and Google's launch of Operation Blue Skies, an AI-powered initiative partnering with the British government and airlines to reduce contrails' climate impact in the North Atlantic, which account for roughly one-third of aviation's total warming effect.",
+      "keyTakeaways": [
+        "Google's Operation Blue Skies represents a significant commercial opportunity in climate tech, deploying AI to optimize flight paths for environmental benefit\u2014this could establish Google as infrastructure provider for aviation decarbonization and create templates for carbon offset monetization",
+        "The Trump administration's reversal of forest protections signals regulatory risk for ESG-focused investors; companies reliant on stable environmental policies should anticipate similar rollbacks, while timber and extraction-focused firms may see asset value increases",
+        "Aviation's contrail mitigation emerges as a critical climate lever that requires tech coordination between governments, airlines, and platforms\u2014investors should watch for emerging standards, potential carbon credit mechanisms, and which airlines capture first-mover advantages in this space"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Operation Blue Skies"
+    },
+    {
+      "id": "57fcc16b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Joshua Kushner and Bob Iger's $12.5 billion acquisition of the Los Angeles Lakers is driven by significant tax optimization strategies. Sports team ownership allows billionaires to generate substantial paper losses through asset depreciation\u2014with up to 80% of a team's value classified as intangible assets like player contracts and media rights\u2014enabling owners to offset carried interest income and capital gains from other holdings like SpaceX, OpenAI, and Stripe.",
+      "keyTakeaways": [
+        "Sports team ownership offers superior tax sheltering compared to real estate: by amortizing intangible assets over 15 years under Section 197 of the tax code, owners can deduct depreciation against team income while the asset appreciates in actual value.",
+        "High-net-worth investors with concentrated gains in private companies (Kushner's positions in SpaceX, OpenAI, Stripe) are using sports franchises as strategic tax vehicles to offset carried interest income\u2014a critical consideration for fund managers planning exit strategies.",
+        "The economics of sports ownership are increasingly driven by tax arbitrage rather than operational fundamentals, suggesting valuations may reflect tax-advantaged buyers' willingness to pay premiums that traditional operational analysis wouldn't justify."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Teams and taxes"
+    },
+    {
+      "id": "bfdf0f47",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-19",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "zerohash, a crypto and stablecoin infrastructure platform, announced strategic partnerships with Visa Direct for prefunded stablecoin payouts and with Marqeta for stablecoin-powered spend cards. The company is also playing a key role in enabling tokenized Treasury trading, positioning itself at the intersection of traditional finance and blockchain infrastructure.",
+      "keyTakeaways": [
+        "Major payment networks (Visa) are actively integrating stablecoin rails into their settlement infrastructure, signaling institutional acceptance and creating a path for stablecoins to enable real-time B2B payouts at scale.",
+        "The convergence of stablecoin spend cards with card issuers like Marqeta represents a critical consumer-facing use case that bridges crypto and traditional payments, potentially unlocking mainstream adoption beyond speculative trading.",
+        "Tokenized assets (Treasuries, stablecoins) are moving from experimental pilots to infrastructure partnerships with legacy financial networks, indicating that blockchain-based settlement could become a significant portion of institutional financial flows in the next 3-5 years."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 44,
+      "originalTitle": "Interview: Agentic Finance, Partnering with Visa Direct & More with zerohash's\r\n Edward Woodford"
+    },
+    {
+      "id": "6d0a87d2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Mark Walter's sale of the Los Angeles Lakers is exposing regulatory scrutiny over alt asset firms' use of captive life insurance capital to fund private credit deals, with federal regulators investigating loans between Walter-controlled insurers and businesses. Meanwhile, JBS is making a $1.2 billion offer to acquire the remaining 18% stake in Pilgrim's Pride it doesn't own, which would consolidate control of America's second-largest poultry producer after securing a 2025 NYSE listing that enables stock-based acquisition currency.",
+      "keyTakeaways": [
+        "The Walter-Lakers sale is catalyzing regulatory focus on conflicts of interest where PE-backed insurers systematically overpay for affiliated assets using captive life insurance capital\u2014expect increased scrutiny of Delaware insurance reviews and Nvidia's new $500 billion financing deal with insurance capital flows.",
+        "Life insurance money deployed through alt asset firms creates moral hazard risk: academic research shows PE-owned insurers pay higher prices for affiliated securities, putting policyholders' assets at systemic risk for poor returns.",
+        "JBS's ability to now acquire Pilgrim's Pride after its 2025 NYSE listing demonstrates how cross-border capital structure unlocks M&A opportunities\u2014expect similar consolidation plays in commodity-linked industries where foreign acquirers previously faced currency constraints."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Walter's ripples"
+    },
+    {
+      "id": "51fc7705",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Thermal battery maker Antora Energy, which just raised $550 million in Series C funding, is pivoting to market its heat storage systems to data centers as a secondary revenue stream, converting stored thermal energy back into electricity for long-duration power needs. Competitors like Tempo Energy and Rondo Energy are pursuing similar data center strategies, though none have announced major partnerships yet. The shift reflects growing demand from hyperscalers for long-duration storage solutions and the speed-to-market advantages thermal batteries offer compared to traditional alternatives.",
+      "keyTakeaways": [
+        "Thermal battery makers see data center power backup as a high-growth market opportunity, but this remains unproven commercially\u2014investors should monitor whether announced deals materialize, as no major partnerships have been disclosed despite aggressive marketing pivots by multiple competitors.",
+        "The data center storage market is consolidating around multiple long-duration technologies (thermal batteries, gravity storage via Energy Dome, iron-air via Form Energy), suggesting heterogeneous demand and capital flowing to multiple competing solutions rather than a winner-take-most dynamic.",
+        "Regulatory headwinds are emerging: Pennsylvania's new limits on data center development could constrain addressable market growth and shift geographic demand patterns, affecting which thermal battery companies succeed based on deployment location."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Why is Antora marketing its heat batteries to data centers?"
+    },
+    {
+      "id": "5b7b16b8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Average summer electricity bills have surged 71% from April to July 2026, driven by complex utility pricing mechanisms rather than simple air conditioning usage increases. A virtual briefing featuring MIT researchers and Heatmap News analysts will examine regional pricing variations, utility rate structures, and systemic issues affecting residential customer costs, highlighting questions about how the U.S. power system serves consumers.",
+      "keyTakeaways": [
+        "The 71% summer bill spike signals potential inefficiencies or market failures in residential electricity pricing that could attract regulatory scrutiny and create opportunities in energy management, demand response, and distributed energy solutions.",
+        "Dramatic pricing variations across utilities suggest significant arbitrage opportunities and potential consolidation or modernization plays for investors in utility tech, smart metering, and grid modernization platforms.",
+        "Growing consumer cost pressure and awareness of pricing mechanisms may accelerate adoption of residential solar, battery storage, and demand-side management tools, representing a structural shift in the energy market with implications for utility business models and cleantech investment thesis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "August Subscriber Briefing: Why Your Summer Electricity Bill Is So\r\n High"
+    },
+    {
+      "id": "b740ad6e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new Heatmap Pro poll shows 75% of Americans now oppose building data centers near their homes, marking an all-time high and a dramatic 33-point swing against the facilities over the past 12 months. Opposition has grown across all demographic groups\u2014from 43 points underwater with Republicans to 75 points with Democrats\u2014while strong support has plummeted from 13% last August to just 4% today. The rapid deterioration in public sentiment is creating significant political headwinds for data center developers amid surging AI infrastructure demand.",
+      "keyTakeaways": [
+        "Data center developers face severe permitting and regulatory risks as grassroots opposition has reached mainstream consciousness, with bipartisan skepticism creating political vulnerability for local approvals and potential federal policy restrictions on facility expansion.",
+        "The 33-point opinion shift in 12 months represents faster public opposition than historical precedent on major issues, signaling this could become a political liability for any administration supporting AI infrastructure buildout\u2014creating uncertainty for hyperscaler capex plans.",
+        "Rural communities\u2014traditionally Republican strongholds\u2014show 63 points net opposition despite being prime locations for data center development due to land availability and power infrastructure, suggesting the sector faces a fundamental clash between economic incentives and constituent preferences that may require policy intervention to resolve."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: New Data Center Polling"
+    },
+    {
       "id": "03a34b4a",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15261,12 +15423,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 349
+      "count": 352
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 334
+      "count": 339
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 35
     },
     {
       "name": "Strategy & Thesis",
@@ -15279,15 +15446,10 @@
       "count": 85
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 34
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 20
     }
   ],
-  "lastUpdated": "2026-08-19T07:31:00.907947Z"
+  "lastUpdated": "2026-08-20T07:33:20.409948Z"
 }
