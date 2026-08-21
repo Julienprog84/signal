@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "9c67fd56",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Stripe's acquisition of OpenRouter for $7B+ signals a strategic pivot to AI infrastructure monetization, applying its proven payments-intermediary model to developer-to-model-provider transactions. Simultaneously, private credit markets show deteriorating loan quality with non-accrual rates hitting three-year highs across major BDCs, with exposure jumping to 3.95% in Q2 2026 and aggregate bad loans reaching $3.3 billion.",
+      "keyTakeaways": [
+        "Stripe sees AI infrastructure as the next major monetization opportunity\u2014by positioning itself between developers and LLM providers (similar to its cards-and-banks model), the company is building essential economic plumbing for the AI era with a take rate on inference spend.",
+        "Private credit portfolios are deteriorating faster than headline numbers suggest: non-accrual debt across BDCs jumped 39% in Q1 2026 to $10 billion, signaling growing credit stress that investors should monitor for potential covenant breaches and portfolio impairments.",
+        "The market is bifurcating between infrastructure winners (AI plumbing plays like Stripe/OpenRouter) and credit risk concentrators (overleveraged borrowers in private credit), making due diligence on counterparty exposure and sector exposure critical for fund-level risk management."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Stripe's $7B+ AI plumbing play"
+    },
+    {
+      "id": "7dbb28df",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center power demand threatens to spike U.S. power sector emissions by over 20%, with developers proposing 99 new gas-fired plants that could emit 318 million metric tons of CO2 annually. The Trump administration is fast-tracking permitting for data centers and utility infrastructure along federal transit corridors through its 'America's Great Corridors of Commerce' initiative, while major tech companies like Amazon, OpenAI, and Nvidia are backing massive new power plants to support AI infrastructure.",
+      "keyTakeaways": [
+        "Data centers represent an emerging, massive source of carbon emissions that could fundamentally reshape U.S. power sector decarbonization efforts\u2014this creates both regulatory risk for tech infrastructure investments and opportunity for gas utility and renewable energy companies.",
+        "Federal permitting acceleration for data center corridors signals strong policy tailwinds for infrastructure buildout, but growing political opposition from state candidates creates long-term regulatory uncertainty that could delay or derail projects.",
+        "The 'gas mega-plant' era reveals a critical tension: AI infrastructure development is outpacing renewable energy capacity, forcing reliance on fossil fuels and potentially requiring massive capital reallocation toward accelerated renewable buildout and energy storage solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "ChatCO2"
+    },
+    {
+      "id": "eecd2aa7",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "As AI advances rapidly, venture capitalists are forced to reassess portfolio companies, with deals that seemed promising in 2024 becoming obsolete by 2026. The article explores how the accelerating pace of AI development has shortened the useful lifespan of investment theses, requiring VCs to categorize their holdings into four lanes: AI consensus bets, efficient-growth companies, companies with paths to product-market fit in tough industries, and those directly threatened by large AI models like OpenAI and Anthropic.",
+      "keyTakeaways": [
+        "Portfolio companies now require categorization into four strategic buckets based on AI exposure: only regulated/licensed businesses and those with proprietary data have meaningful insulation, while most other companies face existential threats from rapid AI advancement.",
+        "The 'agentify or die' principle is reshaping software valuations\u2014SaaS companies that successfully integrate AI agents into their platforms will survive, while those that don't will struggle to justify their existence in mission-critical industries like construction.",
+        "The half-life of a VC thesis has dramatically shortened; previously high-flying companies like Perplexity have lost differentiation as large tech companies (Google) rapidly caught up, forcing VCs to reconsider whether portfolio value lies in people, products, or distribution rather than the original core thesis."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "\"The half-life of a thesis\""
+    },
+    {
+      "id": "cc111710",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Stripe confirmed its acquisition of AI model marketplace OpenRouter for over $8 billion, mostly in stock, positioning itself as a trusted infrastructure layer for the token economy and AI agent transactions. The deal reflects Stripe's strategy to leverage its payments platform into emerging AI infrastructure while remaining private, and signals growing M&A activity around AI security and marketplace infrastructure.",
+      "keyTakeaways": [
+        "Stripe's $8B+ OpenRouter acquisition reveals a new defensibility thesis: controlling the infrastructure layer where AI models and developers transact tokens protects against fraud and rogue agent behavior, creating a moat in the emerging token economy.",
+        "The persistence of mega-rounds and large strategic acquisitions by private companies challenges the necessity of going public\u2014Stripe's letter to investors explicitly argued staying private enables better long-term strategy and sufficient liquidity through secondaries.",
+        "Venture capital is increasingly decentralizing geographically: Khosla Ventures opening its first non-Silicon Valley office in NYC reflects both the rise of startup ecosystems outside the Bay Area and how personal factors (proximity to power centers like DC) now drive VC location decisions."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Stripe's singularity"
+    },
+    {
+      "id": "20d44655",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News released three resource reports covering critical growth areas in clean energy infrastructure: a 2026 data center and power market outlook examining project siting decisions and investment dynamics, a generator interconnection reform report evaluating progress across regional transmission organizations, and a climate communications series featuring insights from major journalism outlets on energy coverage trends. These resources highlight interconnection bottlenecks, data center siting risks, and evolving media narratives shaping clean energy investment decisions.",
+      "keyTakeaways": [
+        "Data center interconnection and siting sentiment are becoming critical investment filters\u2014the outlook maps project opposition and permitting risk, suggesting investors need sophisticated geographic and regulatory analysis before committing capital to power infrastructure serving AI/cloud computing demand.",
+        "Generator interconnection reform remains a systemic constraint on capital deployment; tracking progress across seven regional transmission organizations will directly impact renewable energy and storage project timelines and returns, making interconnection queue positions a key due diligence metric.",
+        "Major media outlets are intensifying energy and climate coverage in 2026, signaling sustained editorial focus that will shape public perception, regulatory momentum, and investor sentiment toward clean energy\u2014understanding journalist sourcing preferences and beat evolution is now part of strategic communication and reputation management for the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Resources: Data Center Outlook, Generator Connection Progress, and\r\n the latest in Energy and Climate Coverage"
+    },
+    {
+      "id": "66d345c7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "California's unique liability laws are forcing utilities like PG&E to absorb massive wildfire prevention costs through electricity rate increases, making the state's electricity the most expensive in the continental U.S. According to a new Breakthrough Institute report, this regressive approach to funding wildfire mitigation is inefficient and contributes to broader economic pressures on housing and insurance markets. The analysis suggests that reforming these liability structures could simultaneously reduce energy costs, stabilize the home insurance market, and improve wildfire risk management.",
+      "keyTakeaways": [
+        "Regulatory arbitrage opportunity: California's constitutional liability framework creates a cost-shifting mechanism that passes wildfire expenses to ratepayers rather than taxpayers, making utilities attractive targets for infrastructure investment but requiring policy reform for sustainable returns.",
+        "Insurance and housing market linkage: The elevated electricity costs driven by utility wildfire liabilities are directly connected to California's broken home insurance market, suggesting that investors in property insurance, housing, and energy infrastructure must track coordinated policy changes affecting all three sectors simultaneously.",
+        "Fire-tech sector tailwind: The push for utilities to adopt wildfire prevention technology (as evidenced by PG&E's post-bankruptcy shift) creates a growing market for climate tech solutions, but this demand is fundamentally dependent on regulatory structures that may face reform pressure in the coming years."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: California\u2019s Power Trilemma"
+    },
+    {
       "id": "f80340ce",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15423,12 +15531,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 352
+      "count": 355
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 339
+      "count": 342
     },
     {
       "name": "Fintech",
@@ -15451,5 +15559,5 @@
       "count": 20
     }
   ],
-  "lastUpdated": "2026-08-20T07:33:20.409948Z"
+  "lastUpdated": "2026-08-21T07:34:51.321066Z"
 }
