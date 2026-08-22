@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "ab3eee8f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Arctos Partners has acquired a 10% stake in the Atlanta Falcons valued at $10.6 billion, marking the firm's fourth NFL investment as sports franchises attract significant PE capital. The newsletter explores whether the 'semiliquid' label for evergreen funds is misleading, with industry leaders like Franklin Templeton's Jenny Johnson arguing these products are simply illiquid private market investments and the term should be abandoned. Additionally, PE-backed healthcare rollups in dental, mental health, and musculoskeletal services are facing an exit challenge after seven years, as businesses have grown too large for strategic buyers and too expensive for public markets.",
+      "keyTakeaways": [
+        "Sports franchises are becoming increasingly attractive PE targets, with Arctos' repeated NFL investments suggesting sustained confidence in valuations and future monetization opportunities despite long holding periods.",
+        "The 'semiliquid' fund debate reveals investor protection concerns\u2014the real issue isn't terminology but whether wealth managers and LPs fully understand lock-up periods and redemption limitations before deploying capital.",
+        "PE rollup consolidation strategy faces a structural exit problem: mature platforms outgrow their original buyer universe (strategics and lower-tier PE), creating a 'too big to sell' phenomenon that may force extended hold times or down-round exits."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Arctos\u2019 NFL shopping spree \ud83c\udfc8"
+    },
+    {
+      "id": "74bcc68d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Republican strategists are alarmed that opposition to data centers threatens their Senate prospects in Ohio and beyond, as three-quarters of Americans now oppose new data center construction near their homes. Meanwhile, the Department of Energy awarded $100 million to Lilac Solutions to build a lithium extraction facility at the Great Salt Lake, advancing critical mineral supply chains essential for AI infrastructure and clean energy.",
+      "keyTakeaways": [
+        "Data center opposition has become a major political liability for Republicans, forcing even Trump-backed candidates like Greg Abbott and Mike Rogers to embrace restrictions\u2014creating regulatory risk for AI/cloud infrastructure investments.",
+        "The federal government is directly investing in critical mineral extraction (lithium via Lilac Solutions) to reduce China's dominance in AI supply chains, signaling massive capital deployment opportunities in domestic mining and refining infrastructure.",
+        "The bottleneck for AI expansion has shifted from chip availability to power and minerals: the government is now funding both utility-scale power plants and direct lithium extraction technologies, indicating this will be the investment frontier through 2027."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Ohio Isn\u2019t for Data Center Lovers"
+    },
+    {
+      "id": "cbd69c07",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Allen Control Systems raised $200 million led by Smash Capital for its Bullfrog drone defense platform, which can neutralize aerial threats in seconds at a fraction of the cost of traditional missiles like Patriot systems that cost $4 million per shot. The startup is scaling production from 10 units weekly to thousands monthly with new plants in Texas and Alabama, while recent Pentagon procurement reforms\u2014including Amazon AWS-powered online marketplaces for military tech\u2014are enabling Silicon Valley startups to compete for defense contracts.",
+      "keyTakeaways": [
+        "ACS represents a significant arbitrage opportunity in defense tech: Bullfrog systems cost significantly less than incumbent solutions (Patriot/THAAD missiles at $4M per shot) while addressing an acute operational need demonstrated in Middle East deployments and recent war games where U.S. forces were 'whupped' by drone units.",
+        "Pentagon procurement democratization through online marketplaces (Army UAS, C-UAS) is opening $10M-scale revenue companies to rapid scaling\u2014ACS grew from ~$10M revenue last year to $200M Series A, signaling that agile defense contractors with proven solutions can achieve venture-scale returns.",
+        "Geopolitical urgency is driving capital allocation: China's drone production capacity vastly exceeds U.S. Pentagon targets (200,000 annually), making defensive counter-UAS technology a sustained sector tailwind independent of traditional defense budget cycles."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Don\u2019t get blown up"
+    },
+    {
+      "id": "8637dedd",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Data center investments are surging with strong returns across operators and related energy plays, but political opposition is hardening on a bipartisan basis across numerous states including New York, Pennsylvania, and Texas through moratoriums and new regulations. Investors believe much pushback will dissipate after midterms and that capital can simply flow to friendlier states, but the newsletter warns that federal intervention and nationalization of local fights\u2014particularly if tied to presidential ambitions\u2014could meaningfully slow industry growth despite the sector's fundamental demand tailwinds.",
+      "keyTakeaways": [
+        "Data center political risk is being systematically underpriced by capital markets; investors relying on post-midterm regulatory relief face tail risk from federal intervention or politicized opposition tied to rising electricity costs and AI competitiveness concerns.",
+        "Geographic arbitrage between pro- and anti-data center states may offer short-term deployment optionality, but cannot fully hedge against federal-level policy shifts, making concentrated exposure to single-state operators or pipelines riskier than current valuations reflect.",
+        "The broader AI infrastructure investment thesis faces structural vulnerability: the 10-30 year capital underwriting horizon mismatches with electoral and political cycles that move on 2-4 year intervals, creating potential for sudden repricing if local opposition becomes national policy."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Data center disconnect"
+    },
+    {
+      "id": "273988d9",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-08-21",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Moderna and Merck announced that their personalized mRNA cancer vaccine intismeran met primary endpoints in Phase 3 trials for melanoma, reducing recurrence risk by 49% when combined with Keytruda. The newsletter covers a range of deep tech breakthroughs including Zeno Power's first nuclear moon mission, Anthro Energy's solid-state battery factory groundbreaking, self-driving truck deployments in California, and emerging challenges in gene therapy manufacturing and AI-driven scientific research.",
+      "keyTakeaways": [
+        "mRNA cancer vaccine validation represents a major inflection point for personalized oncology\u2014intismeran's Phase 3 success significantly de-risks the therapeutic approach and validates the neoantigen vaccine platform that multiple companies are pursuing",
+        "Capital is flowing toward complementary deep tech infrastructure (nuclear power for space, solid-state batteries, autonomous vehicles, gene therapy manufacturing) suggesting investor confidence in enabling technologies despite execution challenges",
+        "The sector faces critical bottlenecks in vector production for gene therapies and manufacturing scale for solid-state batteries, creating investment opportunities in specialized CMOS and supply chain solutions rather than consumer-facing applications alone"
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 176: A breakthrough in mRNA cancer vaccines"
+    },
+    {
+      "id": "7e3b3146",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is fast-tracking permitting for the largest natural gas project ever built, with approval expected in just 7 months. The facility will supply power to OpenAI's massive 10-gigawatt data center being constructed in Pike County, Ohio, representing a significant convergence of AI infrastructure investment and energy policy shifts.",
+      "keyTakeaways": [
+        "OpenAI's massive data center expansion in Ohio signals continued heavy capex into AI compute infrastructure, with energy supply being a key bottleneck that policy is now helping to solve",
+        "Accelerated permitting timelines for energy projects under the new administration could unlock significant capital deployment in traditional energy infrastructure supporting AI and tech clusters",
+        "The pairing of large-scale natural gas infrastructure with AI data centers suggests a structural shift in how energy and tech policy are aligning, with implications for regional economic development and fossil fuel demand durability"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Scoop: Trump to Permit Largest-Ever Gas Project in Just 7 Months"
+    },
+    {
+      "id": "3a8e2d86",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Americans' opposition to local data center development has surged from 50-50 to 75% against in just one year, triggering a political backlash across key swing states and prompting developers to file constitutional lawsuits against local moratoria. The Trump administration is simultaneously fast-tracking permits for America's largest natural gas power plant to support an OpenAI data center in Ohio by Christmas, while $90 billion in climate funding remains frozen pending legal resolution.",
+      "keyTakeaways": [
+        "Data center NIMBYism has become a major political liability in competitive races, creating regulatory risk for large-scale infrastructure projects and favoring distributed energy solutions over centralized mega-facilities.",
+        "Litigation over data center moratoria will likely reshape local zoning and land-use policy nationwide, with constitutional challenges potentially opening opportunities for specialized legal and real estate advisory services.",
+        "The tension between rapid AI infrastructure buildout (natural gas permitting in 7 months) and public resistance signals that data center growth will increasingly depend on alternative energy sources and community benefit agreements rather than traditional grid expansion."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Data Center Tipping Point"
+    },
+    {
       "id": "9c67fd56",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15531,12 +15657,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 355
+      "count": 358
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 342
+      "count": 345
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 21
     },
     {
       "name": "Fintech",
@@ -15552,12 +15683,7 @@
       "name": "European VC",
       "color": "#059669",
       "count": 85
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 20
     }
   ],
-  "lastUpdated": "2026-08-21T07:34:51.321066Z"
+  "lastUpdated": "2026-08-22T07:24:07.518335Z"
 }
