@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "7dde181c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity portfolios are accumulating zombie companies at unprecedented scale, with extended hold periods, elevated leverage, and covenant-light debt structures masking deterioration that could trigger a larger reckoning. The analysis identifies four zombie stages based on holding period, leverage profile, entry valuation, and features like payment-in-kind interest, with the concerning trend that 92% of leveraged loans now lack maintenance covenants that would force resolution of struggling assets. Healthcare services PE faces particular macro headwinds while the venture market sees improving liquidity and shifting valuations between AI and non-AI companies.",
+      "keyTakeaways": [
+        "Zombie risk in PE isn't determined by any single metric\u2014a five-year hold with high leverage, rich entry multiple, and PIK interest can already be zombie-stage even with shorter duration than traditional benchmarks suggest.",
+        "The near-universal adoption of covenant-light loans (92% of outstanding leveraged loans) has eliminated early warning mechanisms that would historically force sponsors to address deteriorating assets, allowing zombie drift to continue longer and potentially create larger losses.",
+        "Healthcare services and software-exposed PE portfolios face compounding pressure from macro headwinds and structural factors, while venture liquidity improvements may accelerate exits in AI-focused companies, creating uneven capital deployment dynamics across sectors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "What kind of zombie is in your portfolio?"
+    },
+    {
       "id": "ab3eee8f",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15657,7 +15675,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 358
+      "count": 359
     },
     {
       "name": "Climate & Energy",
@@ -15685,5 +15703,5 @@
       "count": 85
     }
   ],
-  "lastUpdated": "2026-08-22T07:24:07.518335Z"
+  "lastUpdated": "2026-08-23T07:25:20.111318Z"
 }
