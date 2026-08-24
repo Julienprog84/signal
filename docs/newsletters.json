@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "187a1de9",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Bloom Energy is hosting a webinar on August 27 addressing the infrastructure challenges of scaling AI data centers, focusing on power availability, infrastructure readiness, and community sentiment. The company's Power Report identifies critical coordination gaps across power strategy, AC/DC architecture transitions, and deployment timelines that hyperscalers and operators must address to meet accelerating AI demand.",
+      "keyTakeaways": [
+        "Power infrastructure has become the primary constraint for data center scaling, requiring operators to simultaneously solve availability, readiness, and community acceptance\u2014suggesting significant capital requirements for power solutions companies",
+        "The AC/DC transition represents a major architectural shift in data center power systems, creating opportunity for infrastructure providers who can facilitate faster, future-proof deployment strategies aligned with aggressive hyperscaler timelines",
+        "Data center operators are prioritizing speed-to-market and community-friendly deployment models, indicating that power solution providers offering integrated, rapid deployment capabilities will capture disproportionate value in the AI infrastructure buildout"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Live webinar: As AI scales, can your power strategy?"
+    },
+    {
+      "id": "de87c7f8",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "European venture activity remained robust through summer 2024, with notable exits and funding rounds across fintech, AI, and healthtech sectors. Key developments include Revolut securing its French banking license, Lovable raising $400M at doubled valuation with backing from Menlo Ventures and Balderton Capital, Mistral AI signing a multi-billion dollar Microsoft partnership, and PayFit achieving profitability after a decade. The quarter also saw strategic divestitures, including BlaBlaCar's sale of its commute-focused subsidiary to Karos, and acquisitions like Icade's purchase of coworking operator Comet.",
+      "keyTakeaways": [
+        "French fintech and AI companies are reaching inflection points: Revolut's banking license and Mistral's Microsoft deal signal regulatory maturation and major corporate partnerships validating European tech talent, creating potential exit opportunities for early investors.",
+        "The profitability inflection in European SaaS is accelerating\u2014PayFit's transition to profitability after 10 years while targeting \u20ac150M ARR by 2028 suggests the era of pure growth-at-loss models is ending and disciplined uniteconomics now drive valuations.",
+        "Sector consolidation is underway as market leaders refocus: BlaBlaCar divesting non-core assets and Comet's acquisition by Icade reflect investors' preference for focused, profitable businesses over sprawling platforms, reshaping competitive dynamics in mobility and real estate."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "24.08 - 10 actus qu'il ne fallait pas manquer cet \u00e9t\u00e9 \ud83c\udfd6\ufe0f"
+    },
+    {
+      "id": "83aedcd7",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Ethos Capital, a $7 billion Boston-based PE firm, has built Petra, an AI system trained on 50,000+ data sources that now manages nearly every aspect of its business\u2014from initial pitch screening to portfolio monitoring and employee oversight. The AI has compressed deal screening from 2-4 weeks to 30 minutes and provides executives with real-time insights by aggregating emails, calendar invites, and Slack messages across the firm.",
+      "keyTakeaways": [
+        "AI-driven operational efficiency can meaningfully compress deal sourcing timelines: Ethos reduced initial pitch evaluation from weeks to half hours, suggesting significant competitive advantages for firms that successfully implement end-to-end AI diligence systems.",
+        "Employee monitoring via AI raises governance questions within PE: Petra's tracking of all internal communications (emails, calendar, Slack) creates operational transparency but introduces data privacy and compliance considerations that LPs and regulators may scrutinize.",
+        "AI-native PE models may become table stakes: As leading firms like Ethos demonstrate tangible productivity gains and portfolio company insights through AI, laggard firms risk operational disadvantage in deal sourcing speed and investment decision quality."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "This PE firm lets AI run its business"
+    },
+    {
+      "id": "de20a4b5",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-23",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The newsletter analyzes Q2 call reports for two prominent fintech banks, Varo and Evolve Bank & Trust, examining their operational performance and trajectory. Varo, credited as the first fintech to win an OCC de novo charter after spending nearly $100 million and years of regulatory effort, faces scrutiny on its current financial health alongside Evolve's operational metrics in a challenging regulatory environment.",
+      "keyTakeaways": [
+        "De novo fintech banking charters carry massive capital requirements and regulatory friction\u2014Varo's ~$100M spend and multi-year approval process (2017 onwards) demonstrates the barriers to entry that protect existing players but strain startup economics",
+        "Q2 call report data on Varo and Evolve provides early signals on whether fintech bank models can achieve sustainable profitability, directly informing whether additional de novo applicants should expect viable pathways to capital efficiency",
+        "Rising regulatory scrutiny (FDIC interventions, AML enforcement, disparate impact standards) combined with fraud evolution creates headwinds for fintech banks competing on slim margins against traditional institutions"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Q2 Call Reports: How Are Evolve & Varo Faring?"
+    },
+    {
       "id": "7dde181c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -15673,14 +15745,24 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 359
-    },
-    {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 345
+      "count": 346
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 86
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 360
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 36
     },
     {
       "name": "Deep Tech & Science",
@@ -15688,20 +15770,10 @@
       "count": 21
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 35
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 27
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 85
     }
   ],
-  "lastUpdated": "2026-08-23T07:25:20.111318Z"
+  "lastUpdated": "2026-08-24T07:50:16.471323Z"
 }
