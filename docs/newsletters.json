@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "6a269a44",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-25",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Morocco's tech ecosystem is rapidly maturing, positioning itself as a hub for innovation ahead of the 2030 FIFA World Cup with activity spanning Casablanca, Rabat, Ben Guerir, and Marrakech. Verkor, a European battery electric vehicle unicorn, undergoes leadership transition as Laurent Debrue replaces founder Beno\u00eet Lemaignan following shareholder pressure from Renault. The newsletter also highlights AI's emerging role in FoodTech, particularly in reducing food waste through predictive intelligence and resource optimization.",
+      "keyTakeaways": [
+        "Morocco's startup ecosystem is deliberately leveraging the 2030 World Cup as a catalyst for tech investment and infrastructure development, presenting a emerging market opportunity for VCs seeking exposure to North African innovation hubs beyond traditional Western European markets.",
+        "Unicorn governance instability at Verkor signals investor activism and management shifts in deep-tech ventures, suggesting heightened scrutiny on operational execution in capital-intensive battery manufacturing despite strong market tailwinds.",
+        "AI-driven FoodTech solutions are transitioning from niche to mainstream with enterprise focus on waste reduction and operational efficiency, indicating a maturing category ready for growth capital deployment beyond early-stage funding."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "25.08 - Immersion dans la tech marocaine de Casablanca \u00e0 Marrakech \ud83c\uddf2\ud83c\udde6"
+    },
+    {
+      "id": "19e0acb7",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity and venture capital funds posted their strongest quarterly returns in years during Q2 2026, with PE showing 4.9% implied returns and VC at 5.5%, driven by rallying public equities and low market volatility. Anthropic is expected to file its S-1 by end of August 2026 and could rival SpaceX's IPO valuation, while Shein is pursuing a Hong Kong listing at $26-27 billion valuation\u2014down 73% from its peak\u2014after failed attempts in the US and UK, with existing backers now being asked to invest as cornerstone investors.",
+      "keyTakeaways": [
+        "PE and VC fund performance is at multi-year highs with Q2 returns exceeding 4.9% and 5.5% respectively, suggesting favorable exit windows for LPs seeking distributions from portfolio companies",
+        "Anthropic's imminent S-1 filing signals major liquidity event in AI sector; investors should monitor valuation against SpaceX's IPO benchmark to gauge market appetite for late-stage tech",
+        "Shein's retreat from $100B+ valuations to $26-27B reflects prolonged IPO challenges and regulatory hurdles; existing investors are being diluted through cornerstone investor rounds rather than achieving clean exits"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Sunshine, rainbows for fund returns  \ud83c\udf08"
+    },
+    {
+      "id": "b6ca5545",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Flock Safety, valued at $8.3 billion with $500 million in annual recurring revenue, faces mounting data privacy controversies that threaten its venture darling status. Major cities including Boston, Flagstaff, and Santa Clara have dropped the surveillance camera platform following concerns about police misuse, unauthorized data sharing with ICE, and Flock's ability to retain customer data for AI model training. The backlash has sparked widespread vandalism of Flock cameras across 36 states and prompted police departments to renegotiate contracts with explicit data restrictions.",
+      "keyTakeaways": [
+        "Regulatory and reputational risk can rapidly destroy venture valuations regardless of strong unit economics: Flock's $8.3 billion valuation and 5,000+ community deployments are now under existential threat as municipalities exit contracts due to governance concerns, not product performance.",
+        "Data ownership and control clauses in B2G contracts are becoming deal-breakers for public sector customers, creating leverage for governments to demand renegotiations\u2014investors should scrutinize data rights language in all surveillance, monitoring, and AI training businesses.",
+        "The venture capitalists backing Flock (a16z, Tiger Global, Founders Fund) face portfolio risk from regulatory backlash against civic tech; the broader surveillance and public safety tech sector may face increased congressional and municipal scrutiny that could slow customer acquisition and complicate future fundraising."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Trouble at Flock"
+    },
+    {
+      "id": "df882b19",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is forcing Arizona, California, and Nevada to cut Colorado River water usage amid record drought conditions, while redirecting $500 million in Department of Energy green steel grants from Cleveland-Cliffs' modern integrated mill to upgrading a coal-fired blast furnace in Ohio\u2014a move critics say may violate Congressional intent. Separately, congestion costs on the PJM Interconnection grid spiked 43% to $6 billion in the first half of 2026, signaling critical transmission bottlenecks during extreme weather events.",
+      "keyTakeaways": [
+        "Infrastructure policy reversals are creating legal and market uncertainty: redirecting clean steel funding to coal upgrades signals the administration's industrial priorities shift, but potential illegality and stranded assets create litigation risk for investors in legacy versus green energy infrastructure.",
+        "Water scarcity is becoming a binding constraint on Western economic growth, forcing federal intervention and likely driving capital toward water management, desalination, and drought-resistant agricultural technologies rather than traditional development.",
+        "Grid congestion costs nearly doubling year-over-year reveals acute transmission constraints that could accelerate investment in grid modernization, storage, and distributed generation, while exposing legacy utility business models to revenue volatility during peak demand periods."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Thirst Trap"
+    },
+    {
+      "id": "a8f230ee",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Canada's venture capital industry is leveraging the U.S. trade dispute to push the government to deploy C$1.75 billion in already-budgeted funding programs and implement QSBS-style tax incentives for startup equity, aiming to reduce dependence on American investors who participated in 28% of Canadian VC deals in H1 2026. Separately, Shein is proceeding with a Hong Kong IPO targeting $1.8 billion at a $26.8 billion valuation, representing a dramatic markdown from its $100 billion Series F valuation in 2022, though early investors have downside protections cushioning the loss.",
+      "keyTakeaways": [
+        "Canadian VC is seizing a political moment to unlock C$1.75 billion in government capital and reform equity tax treatment\u2014success here could materially shift capital flows away from U.S. dominance in cross-border deal participation.",
+        "Shein's IPO at $26.8 billion (versus $100 billion in 2022) signals severe correction in late-stage private valuations and validates the need for downside protections; investors without such protections face substantial write-downs.",
+        "Geopolitical friction is accelerating capital market regionalization\u2014Canada's push for self-sufficiency and foreign investor diversification suggests multi-jurisdictional VC strategies are becoming essential competitive advantages."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Canadian competition"
+    },
+    {
+      "id": "48d09d42",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A growing \"none of the above\" movement is emerging in rural America, with 21 counties now blocking data centers, solar farms, and battery storage simultaneously, predominantly in Kansas, Iowa, and Indiana. The trend, which accelerated dramatically in 2026, suggests local governments are linking clean energy infrastructure to farmland concerns, potentially weaponizing anti-data-center sentiment to slow renewable deployment\u2014as evidenced by Wisconsin gubernatorial candidate Tom Tiffany's campaign messaging connecting industrial solar/wind development to the data center threat.",
+      "keyTakeaways": [
+        "Regional permitting risk is concentrating in the Midwest: 21 counties with combined bans on solar, batteries, and data centers represent a significant bottleneck for clean energy developers and large compute facilities seeking to expand in these markets, requiring revised site selection strategies.",
+        "The anti-infrastructure coalition is politically potent: Conservative politicians are weaponizing data center backlash to restrict renewables by framing them as threats to agricultural land, creating a unified opposition that could spread beyond current Midwest hotspots if successful in 2026 midterms.",
+        "Renewable energy infrastructure faces an unprecedented regulatory headwind: The rapid acceleration of multi-technology bans (most passed in 2026) suggests a coordinated national trend that could fragment the U.S. energy transition market and fragment capital deployment across clean energy, storage, and AI compute sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: The Rise of \"None of the Above\""
+    },
+    {
       "id": "187a1de9",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -15745,19 +15853,19 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 346
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 86
+      "count": 87
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 360
+      "count": 363
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 348
     },
     {
       "name": "Fintech",
@@ -15775,5 +15883,5 @@
       "count": 27
     }
   ],
-  "lastUpdated": "2026-08-24T07:50:16.471323Z"
+  "lastUpdated": "2026-08-25T07:36:24.632139Z"
 }
