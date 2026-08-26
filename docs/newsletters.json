@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "4131f34f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-26",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A European VC-focused newsletter highlighting four key trends: large enterprises should adopt scale-up recruitment flexibility to retain talent; entrepreneurship is becoming a lower-risk career alternative amid labor market instability; SaaS companies must pivot toward AI integration rather than viewing AI as a threat to the model; and energy infrastructure, not GPU capacity, is emerging as the critical bottleneck for AI scaling.",
+      "keyTakeaways": [
+        "Large enterprises face a talent drain to scale-ups due to inflexible hiring practices\u2014companies that adopt rapid, elastic recruitment models will gain competitive advantage in talent acquisition",
+        "The SaaS sector isn't declining but consolidating around AI capabilities; investors should focus on B2B software companies actively transforming their products rather than those maintaining legacy offerings",
+        "Energy infrastructure and sovereign power access are becoming the new competitive moat in AI, not GPU procurement\u2014this signals opportunity in energy tech and infrastructure-as-a-service plays targeting AI workloads"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "26.08 - La le\u00e7on d'\u00e9lasticit\u00e9 que les grands comptes devraient emprunter aux scale-ups"
+    },
+    {
+      "id": "bb9228ab",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook has integrated its private capital market intelligence platform into Google's Gemini Enterprise for Financial Services, allowing investment teams to access deal sourcing, comp analysis, and portfolio monitoring directly within their existing workflow tools. The integration enables users to query PitchBook data in natural language and receive answers grounded in cited sources, combined with firms' internal CRM, deal pipeline, and Workspace data without requiring platform switching.",
+      "keyTakeaways": [
+        "Investment teams can now accelerate due diligence workflows by accessing PitchBook's authoritative private market data directly within Gemini Enterprise, eliminating manual lookups and platform switching that previously slowed deal analysis",
+        "The integration combines external market intelligence with internal firm data (CRM, deal pipeline), enabling better-informed investment decisions by contextualizing market trends against proprietary portfolio and sourcing information",
+        "This partnership signals growing adoption of AI agents in institutional investment processes, with major platforms embedding specialized financial data to reduce friction in deal sourcing and analysis\u2014a potential competitive advantage for firms with early access"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 2,
+      "originalTitle": "Your due diligence just got faster: PitchBook is now integrated\r\n into Gemini Enterprise for Financial Services"
+    },
+    {
+      "id": "f82d8b7e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SSC Partners' middle-market buyout fund family achieved a perfect 100 performance score for the second consecutive year according to PitchBook's 2025 Global Manager Performance League Tables, with its latest vintage still open for commitments. Collateralized fund obligations have emerged as a major fundraising trend in secondaries, with Franklin Templeton raising $1.5 billion in CFO-structured debt, enabling insurance companies and other risk-averse investors to gain PE exposure through rated securities backed by diversified secondary asset pools.",
+      "keyTakeaways": [
+        "SSC Partners' sustained top-tier performance suggests that consistent outperformance in middle-market buyouts can sustain LP demand even as the fund remains open to new capital, making manager selection increasingly competitive based on historical returns",
+        "CFO securitization is unlocking a massive new capital source for secondaries managers by converting PE cash flows into rated debt products that satisfy regulatory constraints for insurers and conservative allocators, fundamentally expanding the addressable market for secondary investments",
+        "The secondary market's shift toward structured products reflects broader institutional trends toward downside protection and diversification, signaling that LPs are prioritizing risk management alongside returns in the current PE environment"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Ranking PE's top 30 funds"
+    },
+    {
+      "id": "340ab636",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. gas-fired power plant pipeline has nearly doubled to 189 gigawatts of planned projects worth over $647 billion, driven largely by data center demand, though many projects remain in early development stages. Simultaneously, the Trump administration's One Big Beautiful Bill Act is projected to eliminate 390-540 gigawatts of planned solar, wind, and battery projects by 2040, costing American households an average of $4,500 each. China's oil demand likely peaked in 2025, signaling a structural shift in global energy markets that could reshape geopolitical power dynamics.",
+      "keyTakeaways": [
+        "Gas infrastructure represents a $647B+ investment opportunity in the near term, but execution risk is high given that many of the 189 GW pipeline projects are in nascent stages and may never materialize\u2014particularly relevant for project finance and construction firms evaluating counterparty risk",
+        "The repeal of clean energy tax credits under Trump's policies creates a $4,500-per-household economic headwind and shifts capital allocation from renewables to gas, presenting a significant market timing signal for energy infrastructure investors to reassess sector positioning",
+        "Peak oil demand in China marks a structural inflection point in global energy markets that undermines the geopolitical rationale for Middle East conflicts over energy security and accelerates the long-term transition away from fossil fuel dependency"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Gas Bloat"
+    },
+    {
+      "id": "9b619e2e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Approximately 33.8% of the 13,509 U.S. PE-backed companies have been held for five years or more, creating an estimated $860 billion in zombie portfolio assets among funds over seven years old. The zombie problem stems from the cheap-debt era of 2020-2021 when companies were acquired at peak valuations (12x multiples), making exits difficult as interest rates rose to 40-year highs in 2023, forcing PE firms to improve operations in a constrained economic environment.",
+      "keyTakeaways": [
+        "Over 4,500 PE-backed companies are stuck in zombie status with no clear exit path, suggesting significant dry powder will remain trapped in mature funds and limiting GPs' ability to raise new capital until portfolio companies are successfully exited or written down.",
+        "The structural mismatch between acquisition multiples (12x) and current valuations (10x) means many deals require operational improvements to achieve returns, but GPs lack urgency to force exits without external pressure, creating a capital allocation bottleneck across the industry.",
+        "While not yet a systemic crisis, the zombie overhang poses macro risk if multiple external shocks occur simultaneously, as private markets have historically relied on timing flexibility rather than forced liquidations, which could rapidly destabilize valuations if conditions deteriorate further."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "PE zombies"
+    },
+    {
+      "id": "2b43bde8",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity's involvement in sports team ownership is accelerating through deals like the Lakers acquisition by Thrive Eternal and Arctos' stake in the Atlanta Falcons, but leagues actively welcome PE because it increases asset liquidity and valuations while enabling partial sales that let owners maintain control. Meanwhile, Finnish smart ring maker Oura is preparing for an IPO potentially valued above $16 billion, testing whether Wall Street views wearables as health-care services rather than consumer electronics, while notable funding rounds include Lambda raising $3 billion at a $12 billion valuation and AI companies like General Intuition securing Series B funding at billion-dollar valuations.",
+      "keyTakeaways": [
+        "PE ownership in sports is structural and permanent because it directly increases owner wealth through improved liquidity and valuation multiples\u2014fan concerns about financial optimization over winning are economically irrelevant to the decision-makers.",
+        "Oura's IPO timing signals potential market inflection in wearables-as-healthcare; investors should monitor whether public market valuations support the $16B+ expectations set by recent VC rounds, as this determines downstream funding for the entire fitness tech category.",
+        "AI infrastructure and safety layers continue commanding venture capital at massive valuations ($6B-$12B), suggesting a structural reallocation of capital toward foundation models, compute, and governance tools over traditional enterprise software."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: PE's pastime"
+    },
+    {
+      "id": "bdebabd0",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-08-25",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Stripe's $8 billion acquisition of OpenRouter signals a strategic shift in AI infrastructure toward routing and brokerage layers rather than model development, positioning Stripe to capture basis points on AI transactions similar to its payments business model. The newsletter explores how AI models may become commodified commodities, creating value capture opportunities in middleware layers, while separately examining fragmented concerns driving an American AI backlash that don't align with the loudest public voices.",
+      "keyTakeaways": [
+        "Model commoditization creates a new value layer: If AI models become interchangeable for most tasks, routing, matching, and brokerage infrastructure becomes the profitable chokepoint\u2014Stripe's acquisition demonstrates this thesis and mirrors its proven 3% tax on payment flows applied to AI transactions.",
+        "Strategic M&A in AI is shifting upstream: Rather than just competing on model speed and size, sophisticated acquirers are positioning for value capture beyond near-term product roadmaps, suggesting overlooked leverage points exist in the AI stack for capital allocation.",
+        "AI backlash concerns are data-driven, not rhetoric-driven: The loudest voices don't reflect actual public concerns about AI, implying market narratives may be misaligned with real friction points that could affect deployment velocity and regulatory risk."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 657"
+    },
+    {
+      "id": "78df1181",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Critical Capital podcast series explores what makes energy investments durable through conversations with Senator Thom Tillis and Emergence Capital's Jake Saper, revealing two competing frameworks: stable, bipartisan energy policy versus AI-driven infrastructure modernization. The newsletter highlights emerging opportunities in grid flexibility, software-enabled power electronics, and aging infrastructure replacement, with Jessica Bailey from Nuveen noting that economic fundamentals\u2014not politics\u2014are now driving the energy buildout.",
+      "keyTakeaways": [
+        "Policy durability matters more than subsidies: Senator Tillis argues that energy investments survive best under 'all-of-the-above' approaches that transcend political cycles, suggesting investors should favor sectors and companies with bipartisan support rather than those dependent on single-party policy continuity.",
+        "AI data center flexibility could unlock 100+ gigawatts of stranded grid capacity, signaling major capital allocation toward demand-side management and grid optimization companies rather than just generation assets.",
+        "Infrastructure hardware modernization\u2014particularly replacing aging transformers with software-enabled solid-state power electronics (per Tesla veteran Drew Baglino's Heron Power)\u2014represents a multi-decade replacement cycle opportunity as electrification and digitalization collide with aging grid assets."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "What actually makes energy investment durable?"
+    },
+    {
+      "id": "256c157e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration's EPA is eliminating a federal rule requiring states to publicize air pollution permits for new industrial sites, including data centers and power plants\u2014a move that obscures transparency around the country's massive gas power plant buildout for AI infrastructure. Two of the nation's largest proposed natural gas plants were announced in recent weeks specifically to power data centers, highlighting the enormous energy demands of artificial intelligence deployment.",
+      "keyTakeaways": [
+        "Data center buildout for AI is driving major new gas power plant construction, with two of America's largest proposed natural gas facilities announced in the past two weeks\u2014a significant capital deployment opportunity in energy infrastructure that warrants tracking despite reduced regulatory transparency.",
+        "Regulatory deregulation around permit disclosure may initially benefit developers but creates political risk: even Republican voters oppose local data center development, suggesting backlash could emerge against projects lacking public scrutiny.",
+        "The lack of transparent data on AI energy consumption and infrastructure buildout creates information asymmetry for investors trying to assess true scale and long-term viability of the data center/energy boom, particularly as climate concerns drive public opinion against large fossil fuel projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Heatmap Daily: Data Center Hush-Up?"
+    },
+    {
       "id": "6a269a44",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -15855,17 +16017,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 87
+      "count": 88
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 363
+      "count": 367
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 348
+      "count": 351
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 28
     },
     {
       "name": "Fintech",
@@ -15876,12 +16043,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 21
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 27
     }
   ],
-  "lastUpdated": "2026-08-25T07:36:24.632139Z"
+  "lastUpdated": "2026-08-26T07:38:37.364910Z"
 }
