@@ -1,6 +1,222 @@
 {
   "newsletters": [
     {
+      "id": "0efc0a66",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "S&P Global Energy's July 2026 PPA Market Report highlights three critical trends reshaping North American power purchase agreements: developers are repricing basis risk as congestion widens node-to-hub spreads, Section 232 tariff uncertainty is driving buyers toward renegotiation rights, and a solar contracting rebound is creating near-term pricing opportunities in ERCOT. The report combines Platts price assessments with forward forecasts to help investors evaluate project viability and structure decarbonization strategies.",
+      "keyTakeaways": [
+        "Congestion-driven basis risk repricing signals structural changes in power markets\u2014investors should reassess transmission bottleneck exposure and node-specific contract valuations, particularly in congested regions.",
+        "Tariff uncertainty creating buyer demand for renegotiation rights presents a contract structuring opportunity; deals with flexibility provisions may command premiums or faster closes as risk-averse offtakers hedge policy exposure.",
+        "ERCOT solar repricing window indicates cyclical contracting volatility; investors timing solar project financing or acquisitions should act decisively as pricing windows can close rapidly with market shifts."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "The most complete view of the North American PPA market"
+    },
+    {
+      "id": "a2a3927d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French business leaders express significant pessimism about economic policy ahead of the 2027 presidential election, according to a Medef survey of CEOs. The newsletter highlights emerging tech ecosystems in the region, including StartGate, a Morocco-based incubator near Marrakech modeled after Station F and Y Combinator, and profiles 30 influential figures driving France's technological and AI infrastructure development through the MAD30 AI Backbone index.",
+      "keyTakeaways": [
+        "French executive sentiment is deteriorating on the eve of 2027 elections, signaling potential policy uncertainty that could impact venture funding decisions and corporate investment timelines in the region.",
+        "North African tech infrastructure is scaling with StartGate positioning Morocco as a secondary innovation hub, potentially offering lower-cost alternatives to Paris-based founders and attracting cross-border venture activity.",
+        "France is consolidating its AI and data infrastructure leaders\u2014the MAD30 AI Backbone identifies 30 key personalities building France's tech sovereignty, suggesting institutional focus on domestic tech champions and potential investment concentration in this ecosystem."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "27.08 - Pr\u00e9sidentielle 2027 : les patrons fran\u00e7ais s'inqui\u00e8tent !"
+    },
+    {
+      "id": "d4440122",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Fi, a smart pet collar startup approaching $100 million in ARR, is deliberately avoiding venture capital fundraising despite investor interest, with founder Jonathan Bensamoun calling VC 'a trap' that dilutes ownership and control. The aerospace and defense sector is experiencing a strong exit environment, with PE-backed company exits already reaching $26.8 billion in the first half of 2026\u2014surpassing all of 2025\u2014driven by major IPOs including a $4.9 billion listing for DPC Holdings and demand for new aircraft to modernize aging fleets.",
+      "keyTakeaways": [
+        "Bootstrap-focused founders are rejecting dilutive capital rounds even when investors actively seek to participate; Fi's sevenfold growth since its last $30M Series B in 2021 suggests capital efficiency can outperform traditional VC-backed growth trajectories",
+        "Aerospace and defense PE exits are accelerating due to structural tailwinds (aging commercial aircraft fleets, geopolitical tensions) and strong public market appetite, creating window opportunities for portfolio exits before market conditions shift",
+        "The Juicero cautionary tale is reshaping founder philosophy toward capital discipline\u2014there's emerging investor demand for founder-friendly, control-retaining structures over high-burn growth-at-all-costs models"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "VC is 'a trap'"
+    },
+    {
+      "id": "470ee43f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "David Tisch's BoxGroup achieved a $1 billion return on a $750,000 initial investment in AI coding startup Cursor, which was acquired by SpaceX for $60 billion\u2014the largest VC-backed acquisition ever. The deal exemplifies Tisch's investment philosophy of prioritizing founder and investor quality over initial product-market fit, as Cursor pivoted from its original AI-for-CAD concept to become a dominant AI coding platform.",
+      "keyTakeaways": [
+        "Early-stage investors who bet on exceptional founders and operators can achieve 1,300x returns even when the original business thesis shifts\u2014Cursor's success came from team quality, not initial product vision, suggesting founder pedigree matters more than early product-market fit validation",
+        "The $60 billion SpaceX acquisition signals that AI coding tools have become strategically critical infrastructure, potentially reshaping acquisition multiples and capital allocation toward developer tools and AI automation rather than traditional enterprise software",
+        "BoxGroup's sourcing through junior partner Claire Smilow demonstrates the importance of institutional conviction in emerging talent within your own firm\u2014the deal was identified and championed by a young investor, suggesting distributed decision-making can unlock outsized returns"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "David Tisch\u2019s Cursor home run"
+    },
+    {
+      "id": "c5d8d09a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A catastrophic flash flood triggered by an avalanche on the Nepal-China border killed over 330 people, highlighting climate risks to infrastructure in mountainous regions. Meanwhile, the Trump administration is expanding restrictions on foreign-made grid equipment including transformers, citing national security concerns amid a years-long supply backlog driven by data center buildout and extreme weather repairs.",
+      "keyTakeaways": [
+        "Transformer supply constraints are intensifying as the White House restricts foreign imports while data centers and grid repairs compete for limited domestic manufacturing capacity, creating significant pricing and allocation pressure for utilities and energy infrastructure investors.",
+        "Climate-related disasters in vulnerable regions are accelerating, suggesting increased demand for resilience infrastructure, early warning systems, and climate risk modeling\u2014areas where venture capital and infrastructure funds should evaluate exposure.",
+        "U.S. energy equipment nationalism is creating a dual-track supply chain (domestic/restricted foreign), which favors domestic transformer and grid equipment manufacturers but may increase costs and timelines for grid modernization projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Catastrophe in Nepal"
+    },
+    {
+      "id": "d642d7f0",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Boston's iconic Mount Money venture capital hub in Waltham, Massachusetts is being rezoned for mixed-use residential and commercial development after over a decade of firm exodus, marking the end of an era for East Coast venture capital concentration. In separate news, KKR settled a $250 million DOJ penalty for HSR Act violations across deals in 2021-2022, the largest civil penalty for such violations, though the firm avoided major operational restrictions and will have the fine reimbursed by outside counsel.",
+      "keyTakeaways": [
+        "The physical concentration of venture capital in geographic hubs is no longer a prerequisite for success; the dispersal of Boston's VC ecosystem mirrors Silicon Valley's own decentralization trend, suggesting founders and investors increasingly operate in distributed networks rather than clustered office parks.",
+        "KKR's settlement demonstrates that even mega-cap PE firms face regulatory enforcement gaps, but the outcome\u2014external reimbursement, no co-CEO signature requirements, and no legal precedent set\u2014signals weak enforcement teeth that may not deter similar HSR violations across the PE industry.",
+        "Macro shift: Real estate formerly anchored by financial services is becoming obsolete as institutional capital decentralizes, creating investment opportunities in adaptive reuse and mixed-use conversion but challenging traditional office park economics."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Requiem for an office park"
+    },
+    {
+      "id": "8966b5df",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Space tech venture funding surpassed 2025's full-year total in just the first half of 2026, raising $11.3 billion across 244 deals as investors shifted toward larger checks in companies approaching manufacturing and production. Meanwhile, secondaries-driven returns of 20.6% at private foundations appear inflated by mark-to-par accounting practices rather than actual cash distributions, raising questions about sustainable performance as secondary deal volumes hit $120 billion in H1 2026.",
+      "keyTakeaways": [
+        "Space tech funding is consolidating around capital-intensive companies with near-term revenue visibility\u2014median rounds doubled to $14.5M\u2014while seed funding collapsed to 1.5% of capital, signaling a potential future pipeline shortage for early-stage innovation",
+        "The secondaries 'markup mirage' reveals that strong foundation returns are largely accounting artifacts from discounted purchases marked to par rather than genuine PE exits generating cash, suggesting investor returns may disappoint when actual distributions occur",
+        "The shift toward industrial-scale manufacturing in space and heavy reliance on secondaries mark-ups indicate mature alternative asset classes are optimizing accounting rather than generating organic growth, with implications for LP expectations across PE and venture portfolios"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Space tech has already blown past 2025  \ud83d\ude80"
+    },
+    {
+      "id": "6a3af4d1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is rolling back EPA rules requiring public disclosure of air pollution permits for data centers and power plants, limiting community input as opposition to data center development reaches record levels\u2014with 75% of Americans now opposing facilities near their homes. Nevada has launched federal litigation against the administration's Colorado River water cuts, challenging a plan that would reduce the state's allocation by over 70% while exempting upstream states from contribution requirements.",
+      "keyTakeaways": [
+        "Data center developers face reduced regulatory friction but heightened political risk; the permit streamlining could accelerate project timelines while the moral-panic-level public opposition suggests future regulatory reversals and community blockades remain significant threats to ROI.",
+        "Water scarcity in the Southwest is becoming a hard constraint on data center expansion and other infrastructure development; Nevada's litigation signals states will aggressively challenge federal allocation decisions, creating multi-year legal uncertainty for capital-intensive projects in water-stressed regions.",
+        "The policy divergence\u2014EPA deregulation paired with Colorado River cuts\u2014reveals fragmented federal climate/energy strategy; investors should expect sector-specific winners (data center infrastructure in water-abundant regions) and losers (Southwest-based facilities), with ESG and community relations becoming material business risks."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Mic Drop"
+    },
+    {
+      "id": "c0eab9f5",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "OpenAI hired Dali Rajic, former president and COO of Wiz, as its new Chief Revenue Officer to lead the company toward a 2027 IPO. Rajic, known as a disciplined enterprise sales leader, replaces Denise Dresser who departed after less than a year in what sources indicate was a termination rather than a voluntary exit. The hire signals OpenAI's focus on revenue growth and operational discipline as it races to go public ahead of competitor Anthropic.",
+      "keyTakeaways": [
+        "OpenAI's executive instability continues with its fifth C-suite change in one year, suggesting internal challenges despite the company's market prominence\u2014a potential red flag for IPO readiness.",
+        "The appointment of a revenue-focused operator over a brand-name CEO indicates OpenAI prioritizes sales execution and financial rigor ahead of public markets, likely signaling pressure to demonstrate sustainable unit economics.",
+        "Rajic's track record at Wiz (a cybersecurity unicorn) suggests OpenAI may be targeting enterprise deals and software-like recurring revenue models to justify valuations in a more skeptical IPO environment."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "OpenAI\u2019s new money man"
+    },
+    {
+      "id": "0238c17a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Breedr, an Australian-founded cattle tracking platform, raised $27 million in Series B funding led by Partech to digitize livestock management and reduce uncertainty in beef production amid historically high cattle prices. The newsletter also reports major venture deals including Dogotix ($900M), Kalshi ($120M additional Series F), Unrivaled ($106M Series C), Gatik ($200M), and Stability AI ($75M), alongside Meta's $11.7 billion settlement with state attorneys general over child safety issues, which could reshape how tech and AI companies approach marketing.",
+      "keyTakeaways": [
+        "Agricultural technology is attracting significant VC capital as a solution to commodity price pressures\u2014Breedr's individual animal tracking can create $600-$1,000 value differential per head, addressing a market where cattle herds are at 50-year lows and beef prices remain elevated.",
+        "Meta's settlement establishes regulatory precedent for social media economics; the $5 billion contingent liability if competitors settle signals that child safety compliance costs could meaningfully impact tech platform margins going forward.",
+        "Autonomous vehicles and AI infrastructure continue to dominate deal flow across sectors\u2014self-driving trucks (Gatik, $200M), prediction markets (Kalshi, $1.12B total), and AI audio models (Stability, $75M) demonstrate investor conviction in automation and prediction market infrastructure despite regulatory uncertainty."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Beef bucks"
+    },
+    {
+      "id": "940e0aff",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-08-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. has nearly doubled its gas power generation capacity in development for data centers to 189 GW in the first half of 2026, driven primarily by AI infrastructure demands from companies like OpenAI and Amazon. The federal government is actively facilitating this expansion through partnerships like the SB Energy project in Ohio, which includes 9.2 GW of new gas generation backed by DOE and funded through the U.S.-Japan trade agreement. This buildout risks reversing recent emissions gains and positions the U.S. as building twice as much gas capacity as China, raising questions about the sustainability of current AI infrastructure growth.",
+      "keyTakeaways": [
+        "Data center developers are locking in long-term gas infrastructure to secure reliable power for AI workloads, creating a 10+ year revenue stream opportunity for energy infrastructure investors and gas generation companies despite climate concerns.",
+        "Federal government backing of gas projects through land access, ownership of generation assets, and trade agreements signals that policymakers view gas as essential to maintaining U.S. AI competitiveness, creating regulatory certainty for fossil fuel infrastructure investors over the next decade.",
+        "The 189 GW data center gas pipeline represents a potential reversal of U.S. climate progress and could face mounting pressure from environmental advocates and future administrations, creating execution risk for projects that lack long-term offtake agreements or face supply chain constraints."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "A US passion for new gas generation"
+    },
+    {
+      "id": "3cfc2384",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data centers have become a rare political lightning rod that unites Democrats and Republicans against major tech companies, with 75% of Americans opposing local development across urban, suburban, and rural areas nearly equally. This represents a dramatic shift from fracking, which maintained majority GOP support even at its lowest point, and signals that data center opposition has transcended traditional partisan geography to unite college-educated and non-college-educated voters.",
+      "keyTakeaways": [
+        "Data center development faces unprecedented bipartisan hostility that cuts across traditional geographic and political divides, creating significant regulatory and permitting risk for infrastructure investors regardless of regional strategy.",
+        "The emergence of AI YIMBYs (concentrated among urban, college-educated Trump voters) shows fractures within pro-technology coalitions, meaning investors cannot rely on traditional political alliances to support development projects.",
+        "Unlike fracking which won sustained political tolerance, data centers appear to be facing a structural legitimacy crisis that could constrain capital deployment in the sector across all U.S. regions as politicians compete on anti-data center positioning."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Fracking Was Never Like This"
+    },
+    {
       "id": "4131f34f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16015,19 +16231,19 @@
   ],
   "themes": [
     {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 356
+    },
+    {
       "name": "European VC",
       "color": "#059669",
-      "count": 88
+      "count": 89
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 367
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 351
+      "count": 373
     },
     {
       "name": "Strategy & Thesis",
@@ -16045,5 +16261,5 @@
       "count": 21
     }
   ],
-  "lastUpdated": "2026-08-26T07:38:37.364910Z"
+  "lastUpdated": "2026-08-27T17:59:49.186330Z"
 }
