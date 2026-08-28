@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "f667053e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-28",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Nvidia is in advanced negotiations to acquire French AI startup Hugging Face for approximately $13 billion, building on its existing shareholder position. The deal represents a significant consolidation in the open-source AI infrastructure space, with Hugging Face previously valued at $7 billion in late 2025 discussions. This acquisition underscores the strategic importance of foundational AI models and open-source platforms to major chip manufacturers.",
+      "keyTakeaways": [
+        "Nvidia's aggressive expansion into AI software and model infrastructure signals a shift from pure hardware plays toward vertical integration\u2014investors should watch for further acquisitions targeting model libraries, training tools, and developer ecosystems.",
+        "The $13 billion valuation for Hugging Face, a Paris-based startup from Station F, validates the massive market opportunity in open-source AI infrastructure and suggests continued robust M&A activity in AI despite macro uncertainty.",
+        "European AI talent and platforms remain acquisition targets for Big Tech, but the lack of political focus on tech and AI in France's 2027 presidential debate raises questions about government support infrastructure versus private capital's dominance in shaping AI strategy."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "28.08 - Nvidia en passe de s\u2019offrir Hugging Face !"
+    },
+    {
+      "id": "79ac895c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Apollo Global Management and KKR have valued Atlantic Aviation at nearly $10 billion in a co-controlling stake acquisition, reflecting PE's growing bet on luxury assets for the ultra-wealthy in a K-shaped economy. Meanwhile, Nvidia has emerged as the dominant force in AI startup investing, backing one company every five days this year while acquiring Hugging Face for $12.9 billion, positioning itself as the critical infrastructure layer that captures an estimated $280 billion in startup compute spending annually.",
+      "keyTakeaways": [
+        "Private aviation is becoming a major PE target as wealth inequality widens\u2014Atlantic Aviation's $10 billion valuation follows Blackstone's $4.73 billion Signature Aviation deal in 2021 and signals sustained institutional capital flowing into ultra-luxury consumer services.",
+        "Nvidia's strategy of investing in and acquiring AI startups is fundamentally about securing long-term customer relationships and controlling the open-source model ecosystem; with 70% of AI venture dollars going to compute, Nvidia is essentially monetizing the infrastructure layer powering the entire sector.",
+        "The aerospace and PE deal volume in aerospace doubled year-over-year, while AI startup funding continues to concentrate compute spending with a handful of chip suppliers, suggesting sector consolidation and infrastructure defensibility are outpacing innovation diversification in both spaces."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Apollo wants you to fly private  \u2708\ufe0f"
+    },
+    {
+      "id": "04bd8f44",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration paid German energy giant RWE $1.2 billion to abandon three offshore wind projects in New York and New Jersey, with roughly $900 million redirected to an LNG facility owned by a billionaire GOP donor and Mar-a-Lago neighbor, raising corruption concerns from Democratic lawmakers. Meanwhile, Indiana Michigan Power is proposing what it claims is one of the nation's largest base rate reductions, claiming data center revenues will enable $59 million in combined customer savings in 2027, signaling a potential new utility business model amid grid stress.",
+      "keyTakeaways": [
+        "Political risk in renewable energy is materializing as policy subsidies: developers are being paid to not build wind farms, creating a perverse incentive structure where capital flows to abandonment rather than deployment. This signals regulatory unpredictability for long-duration clean energy investments.",
+        "Data centers are becoming a critical revenue source for stressed regional grids, with utilities like Indiana Michigan Power using data center loads to justify rate reductions\u2014suggesting the sector's ability to absorb premium power prices and subsidize residential customers could reshape utility economics in PJM and other constrained systems.",
+        "The LNG sector is benefiting indirectly from renewable energy policy rollbacks, with $900 million in capital being redirected to gas infrastructure. This indicates a potential multi-year tailwind for natural gas infrastructure investments despite stated climate commitments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Keeping It in the Neighborhood"
+    },
+    {
+      "id": "27f5629b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Deloitte projects a $566 billion lunar economy by 2050 under an accelerated growth scenario, with an additional $541 billion in space-based opportunities from scientific advances and commercial applications. The market breaks into two value pools: $282 billion in core lunar infrastructure (transportation, energy, communications) and up to $284 billion in downstream applications like helium-3 extraction, rocket propellant, and orbital compute. Space-tech investment hit $23 billion trailing twelve months with 47 equity deals averaging $116.2 million, while SpaceX alumni have founded 141 companies worth $10.6 billion.",
+      "keyTakeaways": [
+        "Transportation infrastructure represents the largest addressable market at $206 billion of the $282 billion core infrastructure value pool\u2014investors should focus on logistics, propulsion, and launch vehicle companies solving repeated access to lunar orbit.",
+        "The $541 billion 'terra incognita' pool reflects genuine uncertainty rather than risk; Deloitte frames this as 'extraordinary possibility' with massive asymmetric upside, suggesting early-stage venture opportunities in novel space applications haven't yet crystallized.",
+        "SpaceX's dominance ($1.8 trillion market cap) and its alumni network (141 startups worth $10.6 billion) indicate concentrated technical talent in space entrepreneurship\u2014investors should monitor SpaceX spinouts and partnerships as leading indicators of viable lunar economy applications."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The $566 billion \u2018moon economy\u2019"
+    },
+    {
+      "id": "9f6c5528",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-08-28",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Actinide has become the first startup to produce high-assay low-enriched uranium (HALEU) using its proprietary calutron technology, addressing a critical national security gap where zero domestic commercial HALEU capacity currently exists. The milestone highlights a broader trend of venture capital flowing into deep tech infrastructure, with $1.7 trillion in government capital (via CHIPS Act, IRA, and other programs) fueling opportunities in advanced materials, nuclear energy, and defense technology alongside traditional venture funding.",
+      "keyTakeaways": [
+        "Actinide's HALEU production breakthrough eliminates a critical bottleneck in the advanced reactor fuel supply chain, creating immediate commercial relevance for the nascent HALEU market that the Department of Energy has prioritized but struggled to support domestically.",
+        "The venture-backed deep tech model is capturing government-directed capital flows ($1.7 trillion across multiple federal programs) at scale, suggesting significant dry powder remains for startups addressing national infrastructure gaps in nuclear, aerospace, and advanced manufacturing.",
+        "Humanoid robotics and space-based manufacturing continue advancing toward commercialization (robot speed records, pharmaceutical production in orbit), signaling inflection points in automation and biotech production that could reshape supply chain economics in the coming 3-5 years."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 177: A US Startup Enriches Uranium"
+    },
+    {
+      "id": "894b958f",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Stripe and Advent International have abandoned their $53 billion bid to acquire PayPal, which would have been the largest fintech acquisition ever, leaving PayPal's stock down 12% and new CEO Enrique Lores to execute his turnaround strategy independently. Meanwhile, Josh Kushner's Thrive Capital faces UEFA subpoenas related to FIFA's failed commercial subsidiary deal, though neither Thrive nor Kushner are alleged to have engaged in wrongdoing. The newsletter also highlights strong returns in biotech venture capital, with Revolution Medicines' FDA-approved pancreatic cancer drug and Victory Capital's acquisition of First Eagle Investments from Genstar Capital for $7 billion, demonstrating impressive returns on early-stage venture investments.",
+      "keyTakeaways": [
+        "The collapsed PayPal deal signals that mega-fintech consolidation at premium valuations faces headwinds, with buyers unwilling to meet seller expectations in the current environment\u2014PayPal trades below the failed offer price, giving acquirers leverage but requiring CEO Lores to create independent value",
+        "Biotech venture creation models pioneered by Third Rock Ventures and Flagship Pioneering continue generating outsized returns and FDA approvals, suggesting deep-tech and life sciences remain attractive sectors despite regulatory uncertainty and political pressures on university research",
+        "The 75% IRR for Genstar Capital's First Eagle exit ($4B to $7B in one year) demonstrates strong exit multiples in alternative asset management, signaling continued appetite for consolidation in the asset management space among institutional buyers"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: FIFA fallout"
+    },
+    {
+      "id": "c7e59a27",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Natural Resources Defense Council released a report arguing for restoring wind and solar tax credits that were rolled back under Trump's energy policies, citing economic, environmental, and public health costs. The analysis creates a notable disagreement with MIT researcher Lily Bermel's competing study, which concluded that federal dollars would be better allocated toward 24/7 clean firm technologies like advanced geothermal and fusion rather than continuing variable renewable subsidies.",
+      "keyTakeaways": [
+        "Tax credit policy for renewables has become contested terrain among energy researchers, with NRDC and MIT researchers presenting conflicting cost-benefit analyses that will likely influence future federal energy spending decisions and subsidy frameworks.",
+        "The debate reveals a strategic divergence in clean energy capital allocation: continuing support for established wind/solar infrastructure versus directing funds toward emerging firm power technologies that could more directly displace natural gas baseload generation.",
+        "Policy reversal and subsidy uncertainty are creating deadline-driven development surges (referenced via the 'One Big Beautiful Bill Act' deadline), signaling that investor capital flows in clean energy remain highly sensitive to political and regulatory changes rather than market fundamentals."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Case for Restoring Wind and Solar Tax Credits"
+    },
+    {
       "id": "0efc0a66",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -16231,19 +16357,24 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 356
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 89
+      "count": 90
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 373
+      "count": 376
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 358
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 22
     },
     {
       "name": "Strategy & Thesis",
@@ -16254,12 +16385,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 36
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 21
     }
   ],
-  "lastUpdated": "2026-08-27T17:59:49.186330Z"
+  "lastUpdated": "2026-08-28T19:09:44.362781Z"
 }
