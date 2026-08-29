@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "9627c974",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "IPOs have undergone a structural shift in the venture ecosystem, no longer serving primarily as capital-raising events but rather as strategic milestones for mature companies. Median Series D+ valuations have surged from $137 million in 2016 to over $2 billion through H1 2026, yet public markets are pricing companies at significant markdowns\u2014exemplified by Chime's 63.4% reduction from its private valuation\u2014creating a persistent gap between private and public market expectations that is expected to keep IPO pipelines thin for years.",
+      "keyTakeaways": [
+        "The IPO window is narrowing by design: larger rounds and secondary liquidity allow startups to stay private longer, shifting the IPO from a funding necessity to a strategic choice. Expect only mature, well-capitalized companies with clear growth narratives to go public in the coming years.",
+        "A structural valuation mismatch is suppressing IPO activity: private markets are pricing AI-driven startups at 2+ billion dollar valuations while public markets apply traditional revenue and margin multiples, creating a pricing arbitrage problem that makes traditional exits unattractive for late-stage venture investors.",
+        "Medicare's GLP-1 coverage expansion is creating a concentrated capital opportunity in personalized nutrition startups, with Q2 2026 funding reaching $256 million\u2014more than all of 2025\u2014as healthcare-focused investors recognize these companies as essential infrastructure for drug efficacy and insurer cost management."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The IPO's big demotion"
+    },
+    {
+      "id": "9b0fb23b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Texas's power grid has achieved unusual stability this summer due to rapid deployment of battery storage paired with solar capacity, driving real-time prices down significantly compared to 2023, while Marathon Fusion announced a Series A funding round after achieving a breakthrough in producing reactor fuel isotopes rather than building reactors themselves. Key policy battles are emerging in five states\u2014Texas, California, Arizona, Alabama, and Wisconsin\u2014around the competing demands of data center expansion and clean energy deployment.",
+      "keyTakeaways": [
+        "Battery storage is becoming a critical grid-stabilizing asset with direct economic impact: Texas real-time electricity prices have fallen and stabilized dramatically in just three years, suggesting significant margin compression for legacy power providers and investment opportunity in energy storage companies.",
+        "The fusion sector is shifting toward specialized supply chain plays: Marathon Fusion's fuel isotope production approach may be more capital-efficient than building reactor infrastructure, indicating venture investors should focus on enabling technologies and infrastructure rather than only reactor developers.",
+        "State-level policy divergence is creating both regulatory risk and opportunity: transmission bottlenecks in Texas and data center power demands across multiple states are creating tensions between clean energy mandates and grid infrastructure needs, potentially opening doors for companies solving grid modernization and interconnection challenges."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: What a Summer It\u2019s Been"
+    },
+    {
       "id": "f667053e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16357,19 +16393,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 90
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 376
+      "count": 377
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 358
+      "count": 359
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 90
     },
     {
       "name": "Deep Tech & Science",
@@ -16387,5 +16423,5 @@
       "count": 36
     }
   ],
-  "lastUpdated": "2026-08-28T19:09:44.362781Z"
+  "lastUpdated": "2026-08-29T12:53:21.113108Z"
 }
