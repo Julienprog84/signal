@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "6ed8f48d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "NewVest has launched the first passive PE index fund on a blockchain-powered trading platform, challenging traditional private equity's focus on manager selection by offering a capital-weighted approach to the 50 largest PE funds. The strategy, which mimics market-cap-weighted stock indexes, captures over 70% of PE capital raising in each vintage without requiring investors to identify top-quartile performers, and is now attracting both institutional capital (56%) and high-net-worth individuals through tokenized fund interests.",
+      "keyTakeaways": [
+        "Passive indexing is disrupting PE's gatekeeping model: instead of relying on manager selection skill (which academic research shows doesn't persist), investors can now access diversified exposure to the largest PE funds through a systematic, rules-based approach similar to stock indexing.",
+        "Blockchain platforms are democratizing PE access: by tokenizing fund interests and automating back-office administration, NewVest is successfully selling PE stakes to family offices and wealthy individuals alongside institutional LPs, potentially broadening the LP base and reducing reliance on traditional institutional capital.",
+        "Manager alpha persistence is overrated: the fundamental premise that past top-quartile PE performance doesn't predict future performance validates a commodity approach to PE investing, which could accelerate the shift from active selection toward passive allocation strategies across private markets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Can PE be indexed?"
+    },
+    {
       "id": "9627c974",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -16395,7 +16413,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 377
+      "count": 378
     },
     {
       "name": "Climate & Energy",
@@ -16423,5 +16441,5 @@
       "count": 36
     }
   ],
-  "lastUpdated": "2026-08-29T12:53:21.113108Z"
+  "lastUpdated": "2026-08-30T12:26:50.613524Z"
 }
