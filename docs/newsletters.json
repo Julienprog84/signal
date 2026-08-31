@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "f5ab8591",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-08-31",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French quantum computing specialist Pasqal completed its SPAC merger with Bleichroeder Acquisition Corp. II and began trading on Nasdaq on August 28 with $360 million in available cash. In parallel, Nvidia is advancing acquisition discussions with AI open-source platform Hugging Face, a Station F alumnus, at a valuation approaching $13 billion, up from the $7 billion valuation discussed in late 2023.",
+      "keyTakeaways": [
+        "European deeptech is gaining Wall Street traction: Pasqal's Nasdaq listing demonstrates investor appetite for quantum computing plays backed by substantial post-merger capital, signaling maturation of the European quantum ecosystem beyond traditional VC rounds.",
+        "Strategic consolidation in AI infrastructure: Nvidia's pursuit of Hugging Face represents a critical play to own open-source AI stack layers, suggesting mega-cap tech acquirers view European AI talent and platforms as essential rather than optional for competitive positioning.",
+        "France positioning as a deeptech hub: Between Pasqal's public market success and Hugging Face's Station F pedigree attracting billion-dollar acquisition interest, France is establishing itself as a credible source for both quantum and AI infrastructure, potentially shifting capital allocation patterns toward European tech investments."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "31.08 - Pasqal d\u00e9barque \u00e0 Wall Street !"
+    },
+    {
+      "id": "b4c4f66e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-08-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity is aggressively deploying capital into blue-collar construction and engineering trades supporting the AI data center boom, with PE deals in the sector hitting a record 529 in Q2 2026, up 56.5% year-over-year. HVAC and electrical contractor deals are surging, with data center-focused contractors maintaining 11-month backlogs compared to 8.5 months industry-wide. Meanwhile, Andreessen Horowitz launched a $1.1 billion Machine Age Fund dedicated to AI hardware infrastructure including chips, networking, robotics, and data center systems, signaling that hardware startups now represent over 20% of the firm's deal flow.",
+      "keyTakeaways": [
+        "Specialty trade contractors (HVAC, electrical, directional boring) are becoming PE acquisition targets due to structural demand from data center infrastructure buildout; HVAC alone saw 76 deals worth $3.8B in H1 2026 versus 63 for all of 2025.",
+        "Data center construction spending is the primary growth engine for nonresidential construction, rising 46% year-over-year while general private nonresidential spending fell 7.9%, creating a highly concentrated opportunity set for infrastructure-focused investors.",
+        "Hardware and physical infrastructure investing is accelerating as a distinct category\u2014a16z's new $1.1B dedicated fund and recent mega-rounds for companies like Nexthop AI ($500M Series B) and Mind Robotics ($500M Series A) suggest the AI buildout cycle is shifting from software to physical systems."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "AI drives blue-collar deal boom"
+    },
+    {
+      "id": "0b8836b7",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-08-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Airwallex, an Australian payments startup serving 675,000 businesses with $1 billion in annualized revenue, is targeting to be IPO-ready by year-end 2026 but acknowledges market conditions make immediate public listing unattractive. The company has raised $650 million across two recent rounds (December and June) and is shifting its headquarters from Australia to Singapore and San Francisco, though it faces geopolitical scrutiny regarding data security concerns raised by U.S. policymakers.",
+      "keyTakeaways": [
+        "Late-stage startups are increasingly able to access large private capital rounds rather than rush to IPO; Airwallex's $650 million in recent funding demonstrates investor appetite for proven late-stage companies, suggesting the IPO window may remain constrained for mid-tier unicorns despite being IPO-ready.",
+        "Geographic arbitrage and geopolitical risk are now material IPO considerations\u2014Airwallex's headquarters relocation from Australia and allegations of being a 'Chinese backdoor' highlight how startups must navigate regulatory and national security concerns that can delay or complicate public market entry.",
+        "The fintech/payments sector is experiencing crowded exits and extended private funding cycles; with major tech IPOs dominating 2026 capital markets, smaller fintech players may remain private longer, consolidating power among mega-rounds and extending the venture growth stage."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Airwallex\u2019s possible IPO plans"
+    },
+    {
+      "id": "469b1607",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has secured a majority stake in over 65 million barrels of Venezuelan crude oil reserves in what President Trump calls \"the biggest oil deal in world history,\" expected to substantially increase U.S. oil reserves and potentially lower gas prices. The deal coincides with California filing a lawsuit challenging the administration's multi-billion dollar buyout of offshore wind projects, signaling ongoing conflict between oil-focused energy policy and renewable energy development.",
+      "keyTakeaways": [
+        "U.S. oil refineries on the Gulf Coast, particularly those designed for Venezuelan heavy crude, stand to benefit significantly from secured access to 65+ million barrels, supporting near-term energy security and operational capacity",
+        "The administration's pattern of settling with offshore wind developers to abandon projects signals a fundamental shift in energy policy away from renewables, creating headwinds for clean energy capital allocation and regulatory risk for existing wind lease holders",
+        "Venezuela's newfound revenue stability ($209 billion projected) from the oil deal may reshape geopolitical dynamics in Latin America while underscoring competing visions for U.S. energy strategy that could influence long-term commodity pricing and transition timelines"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "\u2018The Biggest Oil Deal in World History\u2019"
+    },
+    {
+      "id": "ee551316",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-08-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "California's new legislation restricting private equity investment in litigation firms has significant loopholes, as PE firms can continue accessing the legal sector through managed services organizations (MSOs) that handle back-office operations\u2014a workaround that existing ethics rules don't adequately address. Meanwhile, KKR achieved a major exit by selling insurance brokerage USI to Aon for $17 billion, part of a broader string of successful PE exits including Atlantic Aviation and CoolIT Systems, as Aon continues consolidating the U.S. middle-market professional services sector.",
+      "keyTakeaways": [
+        "California's litigation firm restriction is toothless: PE can still control law firm economics through MSO structures, making regulatory arbitrage possible between states with different MSO oversight rules (Colorado and Illinois are ahead here).",
+        "Charlesbank's reported investment in WSHB and potential Morgan & Morgan deal signal PE's confidence that MSO workarounds will survive scrutiny\u2014watch for other PE shops to accelerate legal sector deals before tighter regulation catches up.",
+        "KKR's $17B USI exit demonstrates strong exit velocity in professional services, validating the PE playbook of acquiring fragmented markets and consolidating through roll-ups; Aon's acquisition strategy shows buyer appetite remains strong for platform add-ons in middle-market services."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: California clanger"
+    },
+    {
+      "id": "d8dc9346",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-08-30",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Colorado has filed suit against EarnIn, the fintech company backed by Andreessen Horowitz, alleging immoral, unethical, oppressive and unscrupulous business practices. The lawsuit challenges EarnIn's wage advance product, which was promoted as fee-free in its 2017 Series B, but the state claims the company's actual practices contradict this positioning. This action represents intensifying regulatory scrutiny of earned wage access platforms and threatens a key business model in the gig economy fintech sector.",
+      "keyTakeaways": [
+        "Regulatory risk for wage advance fintech is escalating\u2014Colorado's aggressive language signals states may target the entire EWA category, not just isolated bad actors, forcing business model reassessment across the sector.",
+        "The contradiction between venture-backed marketing narratives and actual consumer outcomes is becoming a liability; investors in consumer fintech should scrutinize fee structures and disclosure practices as regulatory investigations will examine founder claims versus real-world customer impact.",
+        "This lawsuit may accelerate consolidation in the EWA space as smaller players face mounting legal costs, while larger platforms with regulatory infrastructure may gain competitive advantage\u2014expect increased M&A activity and potential market contraction."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Colorado Sues EarnIn For \u201cImmoral, Unethical, Oppressive and Unscrupulous\u201d Business Practices"
+    },
+    {
       "id": "6ed8f48d",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -16411,19 +16519,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 91
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 378
+      "count": 381
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 359
+      "count": 360
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 90
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 37
     },
     {
       "name": "Deep Tech & Science",
@@ -16434,12 +16547,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 28
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 36
     }
   ],
-  "lastUpdated": "2026-08-30T12:26:50.613524Z"
+  "lastUpdated": "2026-08-31T14:37:41.980901Z"
 }
