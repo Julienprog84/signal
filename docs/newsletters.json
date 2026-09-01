@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "b7943745",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-01",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "The French Tech ecosystem faces uncertainty as Emmanuel Macron's presidency nears its end, with less than 8 months until the next French presidential election. The region of Auvergne-Rh\u00f4ne-Alpes has emerged as a vital innovation hub with 1,300 startups and \u20ac7 billion in total funding raised. Notable French Tech founders including Fr\u00e9d\u00e9ric Mazzella (BlaBlaCar, Dift) are experimenting with AI-powered digital clones to democratize entrepreneurial mentoring.",
+      "keyTakeaways": [
+        "Political uncertainty in France could create capital allocation shifts as investors hedge exposure to potential policy changes on tech regulation and startup support post-2026 election",
+        "Regional VC concentration outside Paris is accelerating\u2014Auvergne-Rh\u00f4ne-Alpes' \u20ac7 billion in raised capital signals investors are diversifying beyond traditional tech hubs, presenting new geographic opportunities",
+        "AI-powered mentorship tools represent an emerging B2B2C opportunity to scale founder coaching, potentially disrupting traditional VC-led mentorship models and creating new revenue streams for established founders"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "01.09 - Rentr\u00e9e des classes particuli\u00e8re pour la French Tech"
+    },
+    {
+      "id": "49d4e72e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Odyssey Energy has raised $74 million to expand small-scale solar deployment across the Global South, where distributed energy systems are bypassing traditional centralized grid infrastructure. The funding round highlights growing investor interest in decentralized renewable energy solutions in emerging markets, with the company's leadership positioning this model as a infrastructure leapfrogging opportunity in regions with underdeveloped power grids.",
+      "keyTakeaways": [
+        "Distributed solar in emerging markets represents a significant capital opportunity, with Odyssey's $74M raise demonstrating institutional investor conviction in decentralized energy infrastructure as an alternative to grid buildout",
+        "The 'leapfrogging' model\u2014where countries skip centralized grid development for distributed systems\u2014could reshape energy investment thesis in Global South, potentially offering better unit economics and faster deployment than traditional utility-scale projects",
+        "This trend signals a structural shift in how clean energy capital flows to developing economies, favoring distributed models over centralized infrastructure that requires massive public sector coordination and capital"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Odyssey Energy Raises $74 Million to Supercharge Small-Scale Solar"
+    },
+    {
+      "id": "e1fceb4b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "KKR achieved a $17 billion exit of USI Insurance Services to Aon, representing a 6x return on its original $4.3 billion 2017 investment and validating its \"mini Berkshire Hathaway\" Strategic Holdings strategy targeting mid-teens IRRs. Meanwhile, AI startups are increasingly finding liquidity through M&A rather than IPOs, as demonstrated by Stripe's acquisition of OpenRouter at 6x its Series B valuation just three months prior, establishing a pattern where well-capitalized strategic buyers dominate AI exits.",
+      "keyTakeaways": [
+        "KKR's long-hold operating company strategy is generating exceptional returns ($17B exit on $4.3B initial investment) and the firm projects operating earnings from Strategic Holdings will triple to $1.1B by 2030, signaling that permanent capital vehicles can significantly outperform traditional fund economics.",
+        "For AI startups, M&A has become the primary exit path over IPOs due to weak public markets and concentrated liquidity from strategic acquirers like Stripe, meaning venture investors should evaluate acquisition potential and strategic fit as heavily as IPO readiness.",
+        "The speed of AI startup acquisitions (OpenRouter deal: Series B to exit in 3 months) and premium valuations (6x Series B) are creating outsized returns for tier-1 investors with brand and portfolio access, widening the competitive moat for established managers versus emerging funds."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "KKR's 'Berkshire' strategy lands $17B payday"
+    },
+    {
+      "id": "74d213a7",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Endorsed, a San Francisco-based identity verification startup backed by Liquid 2 Ventures and Pioneer Fund, reports that North Korean operatives now comprise 47% of flagged applications for U.S. remote IT roles as of Q3 2026, up from 11% in Q3 2024. The scammers employ sophisticated social engineering, commonly claiming Texas residency, degrees from University of North Texas or UT Austin, and prior employment at Amazon, Google, or Meta while using generic names like Sai and Michael.",
+      "keyTakeaways": [
+        "Identity verification and fraud detection for hiring is becoming a critical infrastructure problem with massive scale\u2014Endorsed has analyzed 11M+ applications and identified patterns affecting Fortune 500 companies, creating a clear venture opportunity for solutions addressing supply chain security in remote work.",
+        "The explosive growth in this fraud vector (11% to 47% YoY) suggests HR tech and background check companies face existential product gaps, presenting either acquisition targets or competitive threats to incumbents like HireRight and Sterling.",
+        "This represents a geopolitical risk that directly impacts corporate security and compliance\u2014companies failing to detect these operatives face regulatory exposure and IP theft, making robust vetting solutions a board-level concern with pricing power."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Half your IT applicants could be fake"
+    },
+    {
+      "id": "08ff8494",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-08-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "California's legislature passed the Home Energy Choice Act, which would require investor-owned utilities to offer financial incentives to customers to electrify their homes whenever gas service lines need replacement, rather than investing in pipeline infrastructure. This represents the first law in the country mandating such \"non-pipeline alternative\" programs and addresses the growing problem of stranded assets as states transition away from fossil fuels, where aging pipeline replacement costs could cause energy bills to spike as fewer customers use gas.",
+      "keyTakeaways": [
+        "This legislation creates a new market opportunity for home electrification contractors and heat pump installers, as utilities will be incentivized to fund customer conversions rather than infrastructure replacement\u2014potentially unlocking billions in utility capex redirected toward residential electrification services.",
+        "Investors in utilities and energy infrastructure should monitor similar legislation across other states, as this regulatory model addresses the fundamental economics problem of stranded gas assets and could reshape utility business models and capital allocation strategies nationwide.",
+        "The policy reduces long-term downside risk for utilities (avoiding customer bill shock from pipeline maintenance costs) while creating tailwinds for clean energy companies, though effectiveness depends on regulator-determined incentive amounts and consumer adoption rates."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: California\u2019s New Pipeline Alternative Is Cash"
+    },
+    {
       "id": "f5ab8591",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16521,17 +16611,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 91
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 381
+      "count": 92
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 360
+      "count": 362
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 383
     },
     {
       "name": "Fintech",
@@ -16549,5 +16639,5 @@
       "count": 28
     }
   ],
-  "lastUpdated": "2026-08-31T14:37:41.980901Z"
+  "lastUpdated": "2026-09-01T12:14:32.562657Z"
 }
