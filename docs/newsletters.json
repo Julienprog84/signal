@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "fb46aa2e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Apple's leadership transition from Tim Cook to John Ternus marks a shift in the tech giant's M&A strategy, which had previously acquired two French startups during Cook's 15-year tenure. The newsletter highlights broader trends in European tech, including Revolut's achievement of a French banking license in August and a critical reassessment of AI investments, with 42% of enterprises abandoning majority AI projects as the market transitions from experimentation euphoria to rigorous ROI evaluation.",
+      "keyTakeaways": [
+        "Apple's French startup acquisitions under Tim Cook represent strategic European tech talent acquisition; understanding which startups were acquired could signal valuable exit opportunities and strategic sectors for French founders",
+        "Revolut's French banking license is a watershed moment for European fintech legitimacy\u2014regulatory approval removes barriers to market expansion and signals that Europe's digital banking sector is maturing toward sustainable, licensed operations",
+        "The AI correction phase (42% project abandonment) indicates capital is shifting from experimental initiatives to proven, cash-generative applications; investors should focus on AI companies demonstrating measurable ROI and durable margins rather than speculative infrastructure plays"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "02.09 - Quelles startups fran\u00e7aises rachet\u00e9es par Apple sous Tim Cook ?"
+    },
+    {
+      "id": "045d0d56",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "UC Berkeley and Stanford continue to dominate PitchBook's 2026 university rankings for startup founders, with foreign universities now comprising over one-third of the top 100 list. Separately, Partners Group is replacing its CEO amid redemption pressures on evergreen products, with David Layton stepping down after five years as sole CEO and two veterans taking over as co-CEOs effective January 1. Additionally, Siguler Guff plans to double its India allocation to $1 billion within five years, targeting $200 million in annual deployment following the close of a $500 million India-focused fund.",
+      "keyTakeaways": [
+        "University pedigree remains a significant signal for founder quality and venture success\u2014international schools are gaining ground, suggesting geographic diversification of high-potential founders beyond traditional US hubs.",
+        "Leadership transitions at large PE managers often signal operational stress; Partners Group's CEO change combined with guidance cuts and evergreen fund redemptions indicate challenges in performance fee generation despite record fundraising.",
+        "Emerging market allocations are accelerating among large institutional managers\u2014Siguler Guff's India expansion to $1B AUM suggests investor appetite for Asia-focused strategies and potential competition for deal flow in high-growth markets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Top 100 colleges for founders  \ud83c\udf93"
+    },
+    {
+      "id": "702d5f01",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers three major climate and energy policy developments: President Trump's defense of data center expansion against community opposition (with 75% of Americans now opposing local data centers), a federal court's striking down of New York's Climate Change Superfund Act that would have required fossil fuel companies to fund climate adaptation infrastructure, and ongoing legal battles between the Trump administration and multiple states over similar climate liability laws. The New York ruling cited the 2011 American Electric Power v. Connecticut precedent protecting companies from federal climate-related public nuisance claims.",
+      "keyTakeaways": [
+        "Data center buildout faces significant headwinds despite Trump administration support\u2014three-quarters of Americans oppose local facilities, creating regulatory and community challenges that will slow AI infrastructure deployment and increase project costs through local opposition mechanisms.",
+        "Climate liability frameworks targeting fossil fuel companies are being systematically dismantled by federal courts, eliminating a potential $75 billion revenue source for state adaptation funds and signaling reduced legal/financial risk for energy companies under current administration policies.",
+        "The divergence between federal policy (opposing climate superfunds) and state-level climate action efforts creates a fragmented regulatory landscape that reduces predictability for both clean energy investors and fossil fuel operators, while weakening state climate finance mechanisms."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "\u2018Backwards and Poor\u2019"
+    },
+    {
+      "id": "30a459ff",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Stripe and Advent International's $60.50 per share bid to acquire PayPal collapsed after the company's strong Q2 earnings report in late July, with the two sides fundamentally disagreeing over whether share price appreciation was driven by acquisition speculation or PayPal's operational turnaround. PayPal's stock surpassed the bid price by mid-August, and shares have since tumbled 12% following the deal's termination, suggesting the market had priced in acquisition premium rather than standalone value. Meanwhile, drone startup Easy Aerial secured $20 million in Series B funding from Insight Partners and Entr\u00e9e Capital despite previous controversy over its Israeli Defense Forces work and eviction from Brooklyn Navy Yard.",
+      "keyTakeaways": [
+        "Acquisition price anchoring fails when targets demonstrate strong independent performance\u2014PayPal's beat on Q2 earnings gave credibility to management's claim that operational improvements, not deal speculation, justified higher valuations, a critical lesson for PE bidders in contested deals.",
+        "Stock price movements around M&A announcements can be misleading signals; the sharp 16% pop after the bid leaked followed by modest gains post-earnings suggests investors were pricing acquisition premium rather than fundamental value, making post-deal sell-offs predictable.",
+        "Geopolitical and regulatory controversies (Israeli defense ties, compliance violations) have become manageable fundraising headwinds in VC\u2014Easy Aerial's $20M Series B demonstrates that Pentagon eligibility and institutional backing can overcome reputational friction, signaling normalized defense-tech financing despite political sensitivities."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Drone dispute"
+    },
+    {
+      "id": "206eaabf",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Resource Innovations is positioning complementary customer engagement services to address slowing marketplace sales in the energy efficiency sector. The company offers limited-time offers and custom energy efficiency kit sites as alternatives to traditional online marketplaces, targeting underserved customer segments like income-qualified households while maintaining existing marketplace strategies.",
+      "keyTakeaways": [
+        "Energy efficiency marketplaces are experiencing sales slowdown, creating an opening for alternative distribution channels and customer engagement models in the clean energy space",
+        "B2B SaaS solutions that help utilities reach priority customer segments (income-qualified, underrepresented groups) represent an underexploited niche with regulatory tailwinds and utility budget allocation opportunities",
+        "The shift from one-size-fits-all marketplace platforms to segmented, tailored customer acquisition strategies suggests fragmentation of the energy efficiency distribution landscape, potentially favoring specialized service providers over generalist platforms"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Marketplace sales slowing? Here\u2019s another path."
+    },
+    {
+      "id": "5da8df55",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-09-01",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict's Newsletter examines critical questions about AI's future, including scaling limits, model commoditization, and bubble risk. The publication analyzes major M&A activity, including Nvidia's reported $12.9 billion acquisition of Hugging Face and Stripe's $7.5 billion purchase of OpenRouter, positioning these as plays on the thesis that large language models will become commodities requiring orchestration layers.",
+      "keyTakeaways": [
+        "Nvidia is strategically using its massive balance sheet ($127bn FCF in 12 months) to create fragmentation among competitors while reinforcing its own chip monopoly\u2014funding open-source alternatives and providing credit/power guarantees that increase demand for its infrastructure while weakening TPU and alternative chip markets.",
+        "The commoditization of AI models will reshape market structure: companies betting on orchestration layers (Stripe/OpenRouter, Nvidia/Hugging Face) are positioning for a future where customers switch models frequently and need management infrastructure, but this strategy only works if models truly become interchangeable utilities.",
+        "The AI industry is at an inflection point comparable to 1997 tech\u2014with fundamental unanswered questions about scaling costs, open-source model viability, and Chinese competition, making bubble risk a serious concern despite genuine technical sophistication demonstrated by recent security incidents."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 658"
+    },
+    {
+      "id": "b8f664ff",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "California passed legislation restricting private equity control over litigation firm decisions, but the law has significant loopholes\u2014PE firms can still invest through managed services organizations (MSOs) that handle back-office operations, making the restriction largely ineffective. Meanwhile, KKR is exiting USI, an insurance brokerage acquired for $4.3 billion in 2017, to Aon for approximately $17 billion, extending a streak of major KKR exits and demonstrating strong returns in professional services rollups.",
+      "keyTakeaways": [
+        "California's litigation firm regulation appears toothless for PE investors\u2014the law targets decision-making but doesn't restrict MSO investments, which are the primary PE entry mechanism into law firms due to lawyer-ownership ethics rules. Charlesbank and others will likely continue pursuing deals via this loophole.",
+        "KKR's $17 billion USI exit represents a nearly 4x return on its 2017 investment and signals strong exit momentum across KKR's portfolio; this validates the PE playbook of acquiring and rolling up professional services firms for consolidation value.",
+        "The continued professionalization and PE consolidation of legal services\u2014despite regulatory pushback\u2014suggests this sector remains a hot target for private equity capital allocation, with MSO structures becoming the standard workaround for regulatory constraints."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: California clanger"
+    },
+    {
+      "id": "4220837b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A New York federal court struck down the state's $75 billion Climate Change Superfund Act, ruling that the law effectively regulates interstate greenhouse gas emissions\u2014a federal responsibility\u2014rather than holding companies liable for damages. The decision mirrors earlier dismissals of direct climate lawsuits against oil companies and signals that 'superfund-style' climate liability laws, adopted or proposed in multiple states, face significant legal headwinds despite being modeled on established federal cleanup precedent.",
+      "keyTakeaways": [
+        "State-level climate liability frameworks are facing serious constitutional challenges; investors should discount the likelihood of large-scale capital extraction from fossil fuel companies through superfund-style mechanisms in the near term.",
+        "The legal strategy shift from direct lawsuits to regulatory-style superfund laws has failed its first major test, leaving climate advocates without a clear path to hold energy companies financially responsible\u2014potentially redirecting capital allocation toward federal-level policy or carbon pricing mechanisms instead.",
+        "This creates regulatory uncertainty for both energy companies and climate-focused investment funds; similar laws in Vermont and a dozen other states now face heightened legal risk, potentially affecting valuations and risk assessments for portfolios exposed to climate liability disputes."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: \u2018Make Polluters Pay\u2019 Isn\u2019t Working for Climate Change"
+    },
+    {
       "id": "b7943745",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16611,17 +16755,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 92
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 362
+      "count": 93
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 383
+      "count": 386
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 365
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 29
     },
     {
       "name": "Fintech",
@@ -16632,12 +16781,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 22
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 28
     }
   ],
-  "lastUpdated": "2026-09-01T12:14:32.562657Z"
+  "lastUpdated": "2026-09-02T11:52:59.344491Z"
 }
