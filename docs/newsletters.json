@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "9d56123f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Alan, a French healthtech unicorn, acquired Senegal-based Tanel to expand into francophone Africa, targeting a 600 million euro market opportunity. The newsletter also covers Hexa's deeptech pivot with a new Belgian partner, Apple's acquisition of French startups under Tim Cook, and Morocco's emerging tech ecosystem positioning itself ahead of the 2030 World Cup.",
+      "keyTakeaways": [
+        "Alan's Tanel acquisition signals European healthtech unicorns actively pursuing geographic expansion into underserved African markets with 600M+ TAM in francophone regions alone",
+        "Specialized B2B platforms are diversifying beyond their core competencies\u2014Hexa's shift from pure SaaS to deeptech suggests investor appetite for studio-backed portfolio diversification and cross-sector synergies",
+        "Emerging tech hubs in North Africa (Morocco) and West Africa (Senegal, Ivory Coast) are attracting major-ticket acquisitions and becoming strategic outposts for European VCs seeking growth and regulatory arbitrage"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "03.09 - Alan met le cap sur l\u2019Afrique !"
+    },
+    {
+      "id": "4adedc36",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A webinar scheduled for September 15 examines how data center power planning has evolved from a single interconnection decision to three critical choices: connection method, backend infrastructure sizing, and operational management on constrained grids. GridBeyond executives will discuss flexible interconnection regimes and portfolio modeling strategies, addressing the emerging bottleneck of grid access rather than chip availability for data center development.",
+      "keyTakeaways": [
+        "Grid access has become the primary constraint for data center expansion, shifting investment focus from compute capacity to power infrastructure and interconnection strategy\u2014presenting opportunities in grid management, energy storage, and flexible load technologies.",
+        "Operators must now model 25+ portfolio configurations across 25-year horizons, indicating rising complexity and capital requirements for data center projects that could favor larger, better-capitalized developers over smaller competitors.",
+        "The emergence of flexible and interruptible interconnection regimes across U.S. markets suggests regulatory evolution toward dynamic grid participation, creating investment opportunities in demand response platforms and real-time dispatch systems that can optimize data center operations."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Join us Sept 15: The three decisions behind every data center power\r\n plan"
+    },
+    {
+      "id": "6222479c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PE firms are sharply reducing dividend recapitalizations in 2026, with borrowing for shareholder payouts down 39% to $28.69 billion year-to-date compared to 2025, as dampened exit market expectations and persistent rate pressures redirect capital toward add-on acquisitions. Meanwhile, VC investment in quantum computing surged to a record $2 billion in Q2, representing one-third of all chips and data center funding, though broader semiconductor chip design investments have weakened amid Nvidia's market dominance concerns.",
+      "keyTakeaways": [
+        "PE dividend recaps may stabilize post-Labor Day as portfolio companies unable to exit seek alternative liquidity solutions, creating a secondary wave of payout financing despite current headwinds.",
+        "Quantum computing has become the primary growth driver within semiconductor/data center VC, attracting record capital while traditional chip design startups struggle to justify valuations against Nvidia's 93% market share.",
+        "Geopolitical tensions and higher-for-longer rates are structurally reshaping PE capital allocation away from shareholder returns toward portfolio company growth, signaling a prolonged shift in deal economics through 2026."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Shrinking PE payouts"
+    },
+    {
+      "id": "4ecac84d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "China has achieved a historic milestone with solar capacity now surpassing coal in total installed power generation capacity, though energy output remains dominated by coal due to capacity factor differences. Oil prices spiked above $90 per barrel following U.S.-Iran military exchanges over the Strait of Hormuz, with Murban crude jumping nearly 8% to $106. Global capital deployment shows simultaneous funding of both fossil fuels ($540 billion in upstream oil) and clean energy ($440 billion in solar) rather than replacement, signaling market hedging across energy transitions.",
+      "keyTakeaways": [
+        "China's solar capacity milestone masks the reality that capacity and actual energy output differ substantially\u2014coal still dominates the energy mix due to higher capacity factors, suggesting solar infrastructure investments may be capital-intensive with lower returns than headline figures suggest.",
+        "Geopolitical instability in the Strait of Hormuz is creating oil price volatility ($90-$106 range), which could accelerate corporate and government pivot toward renewable energy investments as energy security concerns drive capital reallocation away from fossil fuel dependencies.",
+        "Global markets are simultaneously funding fossil fuels and renewables at comparable scales ($440B vs $540B), indicating the energy transition is additive rather than substitutive\u2014creating a longer runway for energy diversification plays and suggesting growth tailwinds for both renewables and traditional energy infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "China\u2019s Solar Milestone"
+    },
+    {
+      "id": "53918a01",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Stripe is executing an aggressive M&A strategy reminiscent of Google's early 2000s acquisition spree, having acquired crypto firms Privy and Bridge, billing software Metronome, verification platform Ourum, and AI service OpenRouter (~$7.5B) since late 2024. The failed $60.50/share bid for PayPal\u2014which fell through due to PayPal's rising stock price\u2014would have added critical consumer-facing distribution, but analysts argue it may have been a poor cultural fit for the developer-centric fintech platform.",
+      "keyTakeaways": [
+        "Stripe's acquisition pattern mirrors Google's playbook: consolidating core competencies while building capacity in emerging tech (blockchain and AI). Investors should monitor whether these acquisitions achieve similar network effects and market dominance as Google's DoubleClick and YouTube deals.",
+        "As a private company, Stripe faces capital constraints that limit how aggressively it can acquire compared to public peers like Google post-IPO; this could become a competitive disadvantage if funding rounds stall or valuations compress.",
+        "The PayPal deal failure highlights execution risk: even well-capitalized fintechs can't always execute transformative M&A, and cultural misalignment between developer-first platforms and legacy consumer brands remains a material integration challenge."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Stripe\u2019s Google vibes"
+    },
+    {
+      "id": "a8b1af6d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A $100 billion Venezuelan oil infrastructure deal controlled by the Trump administration through North American Blue Energy Partners (NABEP) presents a significant but politically fraught opportunity for private equity and credit investors. NABEP, led by controversial Venezuelan executive Alejandro Betancourt and backed by a 35% Pentagon equity stake, has only invested $1 billion over two years despite claiming it needs $100 billion for development, creating a substantial funding gap for outside investors willing to take on geopolitical risk.",
+      "keyTakeaways": [
+        "PE and credit firms should evaluate whether a $100 billion infrastructure investment thesis in Venezuelan oil assets justifies the political risk of backing a Pentagon-backed operator in a country with ongoing governance challenges and potential legal disputes.",
+        "The deal structure reveals capital allocation concerns: NABEP's stated ability to reach $100 billion through profit reinvestment from current $1 billion invested suggests either aggressive assumptions or a need for external capital, creating both opportunity and valuation risk for prospective investors.",
+        "This represents a macro shift in how geopolitical positioning influences infrastructure investment\u2014the deal's popularity in Washington versus Caracas signals that long-term returns depend heavily on which U.S. administration controls policy, introducing regime-change risk beyond typical emerging market factors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Oil money mystery"
+    },
+    {
+      "id": "be4b4d24",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-09-02",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A podcast episode examines Coastal Community Bank's Q2 earnings miss driven by a fintech lending partnership, while regulators take action on the fintech charter front with the OCC rejecting applications from Wise and bunq. The FDIC is collaborating with banking and fintech trade associations to establish industry standards, signaling increased regulatory formalization of the fintech sector.",
+      "keyTakeaways": [
+        "Fintech lending partnerships present material operational and earnings risks for traditional banks\u2014Coastal's miss demonstrates the need for investors to scrutinize third-party fintech integration risks and revenue concentration.",
+        "Regulatory barriers to fintech bank charters are hardening: OCC rejections of Wise and bunq suggest the path to direct banking licenses remains restrictive, potentially redirecting capital toward partnerships with existing banks or alternative regulatory structures.",
+        "The emergence of FDIC-backed fintech standards indicates regulators are moving toward formalized oversight frameworks, which could increase compliance costs for fintech platforms but may ultimately provide stability and investor confidence in the sector."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 68,
+      "originalTitle": "Fintech Recap: What Can We Learn From Coastal\u2019s Earnings Miss?"
+    },
+    {
+      "id": "2cc96ab4",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "SoftBank subsidiary SB Energy filed for an IPO targeting $5-7 billion in funding with a potential valuation exceeding $50 billion, despite having zero operational data center capacity as of June 2026. The company pivoted from renewable energy development to AI infrastructure just one year ago and is banking on major projects like the PORTS-Pike Technology Campus backed by OpenAI, though the filing emphasizes substantial execution risk with no revenue expected from data centers until year-end at earliest. With $439 billion in backlog against only $138.7 million in first-half 2026 revenue, SB Energy exemplifies a trend of AI infrastructure companies going public on projected future revenues rather than current operations.",
+      "keyTakeaways": [
+        "SB Energy represents extreme execution risk for IPO investors: the company has $430 billion in data center backlog but zero operational capacity, with the largest project (PORTS-Pike) not expected before 2028, making the $50 billion+ valuation heavily dependent on unproven project completion timelines.",
+        "The shift from renewable developer to AI infrastructure play in one year signals where SoftBank is concentrating capital, but also highlights how quickly energy and real estate markets are being reshaped by data center demand and the bottleneck of power infrastructure availability.",
+        "This IPO validates a broader market trend of premature monetization in AI infrastructure (similar to Fermi America's 2025 IPO with zero revenue), suggesting venture and growth investors should scrutinize backlog quality and lead time risks in power equipment supply chains before valuing these companies."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "Why is SB Energy going public?"
+    },
+    {
+      "id": "07b794b0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major U.S. technology companies including Amazon and OpenAI are driving a massive natural gas power plant buildout to meet data center energy demands, with Amazon backing the country's largest gas plant in Texas and OpenAI partnering on what would become the world's largest gas facility in Ohio. The scale of this buildout remains highly uncertain due to inconsistent data across press releases and permits, complicating climate impact projections, though recent analysis suggests power sector emissions could decline 24-48% by 2040\u2014a significantly worse outcome than pre-data center boom estimates of 42% decline by 2035.",
+      "keyTakeaways": [
+        "Data center energy demand is creating a massive natural gas infrastructure opportunity, but investors face significant uncertainty around project feasibility and timeline\u2014much of the reported buildout is speculative with unclear real-world implementation rates.",
+        "Big Tech's net-zero commitments are being undermined by their energy-intensive AI operations; capital flowing toward natural gas infrastructure represents a structural shift away from renewable energy investments despite these companies' clean energy procurement claims.",
+        "The macroeconomic implication is a potential 5-10 year delay in power sector decarbonization targets; this opens opportunities in natural gas infrastructure but signals major headwinds for climate tech investments and regulatory risk for carbon-intensive energy projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: America\u2019s Gigantic Natural Gas Buildout, Explained"
+    },
+    {
       "id": "fb46aa2e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16755,17 +16917,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 93
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 386
+      "count": 94
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 365
+      "count": 369
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 389
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 38
     },
     {
       "name": "Strategy & Thesis",
@@ -16773,15 +16940,10 @@
       "count": 29
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 37
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 22
     }
   ],
-  "lastUpdated": "2026-09-02T11:52:59.344491Z"
+  "lastUpdated": "2026-09-03T11:51:05.765988Z"
 }
