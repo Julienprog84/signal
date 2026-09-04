@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "eb4faa0b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-04",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Sorare has closed a new funding round from existing investors including Accel, Benchmark, and Partech after a turbulent period, with the gaming platform targeting profitability by year-end 2024. The newsletter also covers Nvidia's confirmed acquisition of Hugging Face for approximately $13 billion, with CEO Cl\u00e9ment Delangue aiming to grow users from 18 million to 100 million within two years, while French economic minister Roland Lescure warns that Europe's AI ecosystem risks irrelevance if it fails to develop beyond Mistral.",
+      "keyTakeaways": [
+        "Sorare's ability to secure fresh capital from tier-one VCs despite challenging market conditions signals investor confidence in its profitability roadmap\u2014track execution on 2024 profitability targets as indicator of gaming NFT sector recovery",
+        "The Hugging Face acquisition validates the massive commercial potential of open-source AI infrastructure, suggesting aggressive M&A activity and high valuations will continue in AI tooling and infrastructure categories",
+        "Europe faces a critical consolidation moment in AI: policymakers are openly concerned about brain drain and competitive disadvantage, creating potential policy tailwinds for well-positioned European AI startups through regulatory support and government backing"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "04.09 - Sorare boucle un nouveau tour de table"
+    },
+    {
+      "id": "9b58818f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The alternative asset management industry is experiencing a K-shaped divide, with mega-cap firms like Blackstone, Apollo, and KKR dominating AI infrastructure deals and partnerships while smaller GPs are excluded from the boom. Separately, Oura completed $1.09 billion in pre-IPO share buybacks from early investors while tripling revenue to $1.21 billion and doubling paid subscribers to 5 million, demonstrating the company's shift to profitability ahead of its public offering.",
+      "keyTakeaways": [
+        "Scale is now a primary determinant of success in alternatives: only the largest PE/VC firms can access and deploy capital at the scale required for AI infrastructure partnerships, creating significant competitive moats for tier-one GPs like Blackstone, Apollo, and KKR.",
+        "Pre-IPO liquidity through buybacks is becoming a material capital recycling mechanism for growth-stage investors\u2014Oura's $1.09 billion in repurchases allowed early-stage shareholders like Forerunner Ventures to partially exit while company remains private, potentially setting a precedent for late-stage companies.",
+        "Subscription economics in hardware are proving durable and profitable\u2014Oura's 89% gross margin on subscriptions and path to profitability ($60.8M net income on $1.21B revenue) suggests hardware-as-a-service models can generate sustainable returns comparable to traditional SaaS."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "It's a giant's world"
+    },
+    {
+      "id": "9b300750",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "American energy companies are aggressively entering Venezuela following the U.S.-backed political transition, with Chevron committing $7 billion to double oil production and GE Vernova securing contracts to repair the power grid. U.S. LNG exports surged 23% year-over-year to 17.4 billion cubic feet per day in the first half of 2026, driven by new export terminal capacity, while domestic energy prices remain elevated with diesel at $5.69 per gallon and regular gas at $4.12 per gallon. The fashion industry's greenhouse gas emissions climbed 6.3% in 2024 following a 7.5% spike the previous year, signaling rising carbon costs in the apparel sector.",
+      "keyTakeaways": [
+        "Venezuela's political realignment has opened a major capital deployment opportunity for U.S. energy majors\u2014Chevron's $7 billion Venezuela bet signals confidence in sustained access to world's largest proven oil reserves, with implications for long-term energy geopolitics and energy security investments.",
+        "LNG export capacity expansion is the binding constraint on U.S. natural gas monetization; investors should track new terminal completions and debottlenecking projects as the primary lever for export volume growth beyond current 17.4 bcf/day levels.",
+        "Rising fashion industry emissions (13.8% cumulative spike over two years) despite sustainability mandates indicate carbon pricing and apparel sector consolidation could create M&A opportunities among companies with lower-emission manufacturing processes or supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "The Scramble for Venezuela"
+    },
+    {
+      "id": "4849033a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The secondary market heavily favors Anthropic over OpenAI, with demand for Anthropic shares exceeding supply by an estimated 3-5x and valuations reaching $1.4 trillion. Entry minimums for Anthropic have increased to $25-50 million, while OpenAI remains accessible at $500,000-$1 million per ticket, leading some analysts to view OpenAI as underpriced relative to its stronger fundamentals.",
+      "keyTakeaways": [
+        "Anthropic's secondary market entry minimum of $25-50 million versus OpenAI's $500k-$1M reveals a significant supply constraint and valuation arbitrage opportunity for investors with conviction in OpenAI's near-term prospects.",
+        "The 3-5x demand-to-supply imbalance for Anthropic shares suggests market sentiment may be pricing in optimistic AI dominance scenarios; OpenAI's recent demand recovery indicates investor repositioning away from peak Anthropic enthusiasm.",
+        "Anthropic's $1.4 trillion valuation (up 400% YoY) and tightened cap table governance signal a maturing company managing late-stage cap table dynamics, while OpenAI's accessibility and analyst view as 'underpriced' indicates potential for relative outperformance in the pre-IPO race."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Everybody wants Anthropic"
+    },
+    {
+      "id": "6d07e77e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Defense-tech venture funding has surged to $51.1 billion in 2026, up from under $7 billion a decade ago, but faces potential disruption after Army Secretary Dan Driscoll\u2014a key Pentagon advocate for tech modernization\u2014resigned amid leadership purges. Meanwhile, Nvidia acquired open-source AI platform Hugging Face for $12.93 billion, representing a major validation of open-source AI and a significant exit for investors who backed the company at a $4.5 billion valuation in 2023.",
+      "keyTakeaways": [
+        "Defense-tech investors remain bullish despite political uncertainty; Driscoll's departure is viewed as a personnel setback rather than a momentum killer, with insiders noting robust DoD budgets will continue to fuel capital deployment regardless of leadership changes.",
+        "The Hugging Face acquisition signals Nvidia's strategic pivot to dominate open-weight AI models, not just proprietary systems\u2014a shift that could reshape which AI startups attract venture funding going forward.",
+        "Both stories reflect concentrated power in mega-cap tech players: defense budgets flow through a handful of DoD relationships, while Nvidia's $12.93 billion acquisition demonstrates how dominant chip suppliers are now directly acquiring AI infrastructure rather than just supplying components."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Driscoll dollars"
+    },
+    {
+      "id": "f9370a32",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Heatmap News article examines how states are developing data center-specific electricity tariffs and proposes adding surcharges to fund electric grid modernization. The piece highlights emerging policy approaches like New Jersey's virtual power plant incentives and Google's partnership with PG&E offering residential customers discounts on heat pumps and batteries, while cautioning that some companies like Amazon are using 'bring your own power' strategies to justify large fossil fuel plants rather than grid integration.",
+      "keyTakeaways": [
+        "Data center-specific tariffs are becoming a revenue mechanism for grid modernization: states are moving beyond standard large load tariffs to impose minimum fees and renewable energy requirements on data centers, creating potential policy tailwinds for grid modernization companies and renewable energy developers.",
+        "Tech company sustainability partnerships are creating B2C monetization opportunities: Google and others are bundling heat pump and battery storage discounts for residential customers, signaling a profitable model for companies offering integrated energy solutions to homeowners.",
+        "The 'bring your own power' trend risks entrenching fossil fuel infrastructure: major cloud providers are building massive on-site natural gas plants to avoid grid constraints, potentially locking in decades of carbon-intensive operations and creating regulatory pushback that could shift policy toward mandating grid integration."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: What If Data Centers Paid Even More for Electricity?"
+    },
+    {
       "id": "9d56123f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -16917,17 +17025,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 94
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 369
+      "count": 95
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 389
+      "count": 392
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 371
     },
     {
       "name": "Fintech",
@@ -16945,5 +17053,5 @@
       "count": 22
     }
   ],
-  "lastUpdated": "2026-09-03T11:51:05.765988Z"
+  "lastUpdated": "2026-09-04T11:54:06.684070Z"
 }
