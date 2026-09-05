@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "e01d47f0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "China's oil consumption dropped 9% in Q2 2026, marking the first time reduced oil use directly drove emissions reductions, while the country accelerates renewable deployments. Hyundai is breaking ground on a $500 million hydrogen-powered steel plant in Louisiana\u2014now America's flagship green steel project after the Trump administration redirected Biden-era Cleveland-Cliffs funding to coal furnace refurbishment. Europe faces winter with record-low natural gas storage, signaling continued energy security challenges.",
+      "keyTakeaways": [
+        "China's peak oil demand combined with rapid renewable scaling creates a structural headwind for global oil markets and opens opportunities for alternative fuel and electrification technology providers serving Asian manufacturers.",
+        "Hyundai's Louisiana green steel project becoming the U.S. flagship represents a geopolitical and industrial policy shift\u2014hydrogen-based steel production is now primarily a South Korean and Australian venture, not domestic American innovation.",
+        "Europe's depleted natural gas reserves entering winter indicate sustained demand for LNG imports and potential volatility in energy prices, favoring renewable energy infrastructure investments and hydrogen production as strategic hedges against supply shocks."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "China\u2019s Oil Diet"
+    },
+    {
+      "id": "e7504844",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "John Ternus takes over as Apple CEO from Tim Cook after 15 years, facing intense pressure to compete in AI while managing challenges including slowing revenue growth, a memory chip shortage, and lost product design momentum. Ternus's product-focused background positions him to reshape Apple's device strategy and potentially increase M&A activity, with analysts noting the company is shifting away from net-cash-neutral positioning to fund R&D and acquisitions needed to keep pace in the AI era.",
+      "keyTakeaways": [
+        "Apple's new CEO has product design expertise and a mandate to be more aggressive on AI\u2014expect increased acquisition activity in AI startups similar to the $2 billion Q.ai deal, signaling a shift in the company's capital allocation strategy",
+        "Apple's pivot away from net-cash-neutral financial strategy indicates willingness to deploy capital for R&D and M&A to compete in AI, creating potential deal flow opportunities for VCs holding AI-adjacent assets that could appeal to the world's largest company",
+        "The broader tech sector faces pressure to innovate on AI-enabled hardware and new form factors; companies lagging behind (like Apple on foldables and AI glasses) are now racing to catch up, potentially driving a wave of acqui-hires and strategic investments in emerging hardware categories"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Tim Cook steps aside. John Ternus steps up."
+    },
+    {
+      "id": "22d0bcac",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic is preparing for its S-1 filing, with markets watching whether CEO Dario Amodei will receive supervoting rights despite minimal economic ownership, raising questions about his ability to enforce the company's safety-focused mission. In separate major deals, Flex is acquiring EPC Power for $4.4 billion to address data center power infrastructure needs driven by AI workloads, while Crusoe raised $3 billion at a $30 billion valuation ahead of its own IPO. SV Angel achieved a 275x MOIC on its original Hugging Face investment, which was acquired by Nvidia for nearly $13 billion.",
+      "keyTakeaways": [
+        "Anthropic's IPO governance structure will be a critical signal for how AI labs balance safety mandates with shareholder returns\u2014watch the S-1 for supervoting rights language, as it determines whether a 2% stakeholder can meaningfully override commercial pressures.",
+        "Data center infrastructure is becoming a bottleneck and acquisition target; Flex's $4.4 billion EPC Power deal shows PE/strategic buyers are aggressively consolidating power conversion systems as AI compute demands create megawatt-scale volatility.",
+        "AI infrastructure plays continue outperforming: Crusoe's $30B valuation and Hugging Face's $13B Nvidia acquisition demonstrate that supporting technologies around AI models are commanding premium valuations independent of the model companies themselves."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Controlling Anthropic"
+    },
+    {
+      "id": "3a62770c",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-09-04",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Physical Superintelligence, an AI physics research lab, launched today with $58 million in funding led by Bill Gates's Breakthrough Energy to develop novel trajectories for interstellar missions. The Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri by end of 2029 using PSI's AI-discovered trajectory, positioning itself as a more execution-focused alternative to Yuri Milner's Breakthrough Starshot initiative from 2016. The newsletter also highlights major deals in deep tech including Google's 400MW geothermal purchase from Fervo, Hermeus's partnership with Anduril for autonomy, and growing utility interest in fusion startups.",
+      "keyTakeaways": [
+        "AI-driven physics research is attracting significant venture capital ($58M Series A) to solve previously intractable optimization problems in aerospace and space exploration, signaling investor confidence in AI applications beyond software and traditional enterprise domains.",
+        "The Fermi Explorer Mission represents a shift toward commercializing moonshot technologies through execution-focused nonprofits and private partnerships rather than pure billionaire-funded initiatives, creating new investment and acquisition pathways for deep tech founders.",
+        "Infrastructure deals in energy (geothermal, fusion, nuclear) are accelerating with major tech companies and utilities as anchor customers, indicating a maturing market for next-gen power solutions and sustained capital deployment opportunities in climate tech."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 178: Fermi Explorer plots interstellar mission"
+    },
+    {
+      "id": "b6b8bcc2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center expansion is driving unexpected investment opportunities and challenges across multiple sectors, including increased demand for alternative chemicals (prompting Chemours to seek regulatory fast-tracking), natural gas infrastructure buildout, and distributed energy resources. Meanwhile, climate tech startups like Odyssey Energy are raising significant capital ($74 million) to address financing gaps in emerging market solar adoption, while several states are considering pausing data center development amid growing concerns.",
+      "keyTakeaways": [
+        "Data center boom is creating tailwinds for chemical manufacturers and natural gas infrastructure companies, but regulatory uncertainty around 'forever chemicals' presents both risk and opportunity\u2014watch for which companies successfully navigate approval processes for new compound formulations",
+        "Distributed energy and backup power solutions (like BioLite's Backup system) are positioned to benefit from data center proliferation and grid resilience concerns, representing a differentiated investment angle beyond traditional utilities",
+        "Solar finance de-risking in emerging markets (evidenced by Odyssey Energy's $74M raise) signals a macro shift toward addressing energy access in high-growth regions facing energy shocks, with potential for follow-on investment in climate tech platforms solving similar financing bottlenecks globally"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Heatmap Daily: Dog Days of Data Centers"
+    },
+    {
       "id": "eb4faa0b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -17023,19 +17113,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 95
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 373
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 392
+      "count": 394
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 371
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 23
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 95
     },
     {
       "name": "Fintech",
@@ -17046,12 +17141,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 29
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 22
     }
   ],
-  "lastUpdated": "2026-09-04T11:54:06.684070Z"
+  "lastUpdated": "2026-09-05T11:03:21.514663Z"
 }
