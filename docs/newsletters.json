@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "16011c19",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-07",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Hugging Face's acquisition by Nvidia for $12.9 billion creates three French billionaires, but the deal highlights a critical gap in European venture capital\u2014the company was funded predominantly by American investors, with no French funds in its cap table. The newsletter also covers leadership changes at JFD and emerging themes around AI's role in customer service and legal discovery.",
+      "keyTakeaways": [
+        "European founders are succeeding at scale, but capital allocation remains concentrated in Silicon Valley\u2014French VCs missed a multi-billion dollar opportunity despite having local expertise and founders, signaling a structural disadvantage for European fund managers competing for later-stage deals",
+        "The absence of French institutional capital in Hugging Face's rounds suggests European VCs lack either the conviction to back AI infrastructure early or the fund size to participate meaningfully in growth rounds, creating a leakage of returns to American LPs",
+        "As AI commoditizes across sectors (customer service, legal discovery, productivity), the winners will be determined by access to talent and capital\u2014Europe's fragmented VC ecosystem puts it at risk of exporting its best founders while importing less favorable capital terms"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "07.09 - Hugging Face : trois fondateurs fran\u00e7ais milliardaires mais..."
+    },
+    {
+      "id": "a0f85c97",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "DBL Partners tops PitchBook's VC fund rankings with a score of 95.4, while G Squared Fund leads in secondaries and Peakview Capital ranks highest among venture-focused funds-of-funds. The secondary market is capitalizing on the 'zombie fund' problem, with roughly 40% of US PE-backed companies held for seven years or longer representing $860 billion in NAV, creating significant arbitrage opportunities as stakes trade at 35-45% discounts to NAV. A surge in female-focused VC funds is accelerating capital deployment to women-founded startups, with European deal value at \u20ac9.7 billion in 2026 and increasingly concentrated in deep-tech sectors like semiconductors and quantum computing.",
+      "keyTakeaways": [
+        "Secondary market funds are capturing significant value from the growing PE liquidity crisis\u2014stakes in older funds trading at 35-45% discounts to NAV present material buying opportunities for LPs seeking portfolio rebalancing",
+        "Female-founder focused funds are becoming institutionalized vehicles with meaningful AUM (\u20ac33.3M for Auxxo's second fund, \u00a3130M for Women Backing Women), signaling LP conviction and potential outperformance if capital deployment accelerates in 2026",
+        "Deep-tech specialization among female-founder funds (semiconductors, robotics, quantum) represents a thematic shift in European VC, potentially creating performance differentiation as macro conditions improve for capital-intensive technologies"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Top VC funds, ranked"
+    },
+    {
+      "id": "e3bd8b92",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-09-06",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Tether faces legal challenges from two Bangkok-based men alleging the stablecoin issuer illegally froze $42 million in USDT at the informal request of Homeland Security Investigations, with cases filed in both New York federal court and North Carolina. The newsletter also covers multiple fintech funding and regulatory developments including TabaPay's bank acquisition, Bolt's $27 million fundraise, and data breaches affecting 153 million IDs, alongside emerging regulatory scrutiny of platforms like Wise.",
+      "keyTakeaways": [
+        "Tether's exposure to government asset seizure claims without formal legal process creates regulatory and reputational risk for the $100+ billion stablecoin ecosystem, potentially affecting institutional adoption and custody arrangements.",
+        "Multiple fintech companies (TabaPay, Bolt, Revolut Bank, OpenReserve Bank) are pursuing charter approvals and acquisitions, indicating consolidation pressure and capital needs in the sector despite regulatory headwinds.",
+        "Rising data breach incidents (153M IDs compromised) and regulatory scrutiny from authorities like Belgium's oversight of Wise suggest increasing compliance costs and consumer protection focus will reshape fintech competitive dynamics."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Homeland Security, Tether Illegally Seized Stablecoins, Two Legal Filings\r\n Allege"
+    },
+    {
       "id": "1af6f6da",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -17149,9 +17203,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 96
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 396
+      "count": 397
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 39
     },
     {
       "name": "Climate & Energy",
@@ -17164,20 +17228,10 @@
       "count": 23
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 95
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 38
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 29
     }
   ],
-  "lastUpdated": "2026-09-06T11:26:49.890290Z"
+  "lastUpdated": "2026-09-07T13:09:45.358401Z"
 }
