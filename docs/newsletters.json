@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "73b7b67d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-08",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French tech newsletter highlights three major anticipated funding rounds for fall 2024: Mistral AI preparing a significant Series round, Wandercraft, and The Exploration Company. Additional coverage includes Laurent Sifre joining Microsoft from H Company, Revolut achieving first AI-initiated secure payment in France with Visa, and Positive (formerly Sarbacane) securing \u20ac106M refinancing for M&A in the SaaS marketing space.",
+      "keyTakeaways": [
+        "Mistral AI continues to attract major capital despite European VC funding slowdown, signaling sustained institutional interest in European AI champions competing globally",
+        "SaaS consolidation via debt financing (Positive's \u20ac106M refinancing) reflects sector maturity and banker confidence despite AI-driven margin pressures on traditional martech vendors",
+        "Talent migration to US tech giants (Sifre to Microsoft) and regulatory wins by fintech players (Revolut's French banking license) indicate bifurcated European tech landscape: established players gaining scale versus top talent drain"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "08.09 - Voici les 3 lev\u00e9es de fonds les plus attendues de la rentr\u00e9e"
+    },
+    {
+      "id": "a634b71d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "New Mountain Capital is capitalizing on market liquidity opportunities while peers struggle, recently exiting stakes in Lincoln Investment Capital Holdings and Cumming Group, and raising up to $2 billion for its first continuation fund vehicle. The private capital ecosystem faces worsening concentration as fundraising shows early signs of recovery, with VC evergreen funds emerging as a potential mismatch for large managers given VC's inherent capacity constraints and wide performance dispersion between top and bottom quartile performers.",
+      "keyTakeaways": [
+        "Continuation funds are becoming a strategic tool for GPs to address LP liquidity needs; New Mountain's $2 billion Atlas fund signals institutional appetite for secondary-like vehicles that extend hold periods",
+        "Size is a liability in VC: large managers dominating the evergreen fund space may struggle with capacity-constrained asset classes, creating arbitrage opportunities for mid-sized specialists like Fairway Capital Management who can curate access to best-in-class managers",
+        "Concentration risk in private markets is accelerating despite fundraising recovery\u2014winners are those who can navigate exits in a challenging environment and pivot capital toward liquidity-solving vehicles rather than traditional fund structures"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The future of liquidity"
+    },
+    {
       "id": "16011c19",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -17205,12 +17241,12 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 96
+      "count": 97
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 397
+      "count": 398
     },
     {
       "name": "Fintech",
@@ -17233,5 +17269,5 @@
       "count": 29
     }
   ],
-  "lastUpdated": "2026-09-07T13:09:45.358401Z"
+  "lastUpdated": "2026-09-08T11:53:51.292544Z"
 }
