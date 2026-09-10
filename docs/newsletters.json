@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "fefe132d",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French venture capital is showing signs of recovery in H1 2026, with increased fundraising activity, though growth lags behind the UK and Germany. Notable deals include Actionable's $10M Series B led by Criteo's former France head, Loft Orbital's $1B contract with UAE's Marlan Space, and a \u20ac10B+ merger between Cegid and Silae backed by Silver Lake. The newsletter also highlights operational challenges at logistics startup Le Fourgon post-merger and emerging risks for tech companies from Google's AI Overviews feature.",
+      "keyTakeaways": [
+        "European SaaS consolidation is accelerating in enterprise software: the Cegid-Silae merger at \u20ac10B+ signals that PE-backed platforms are consolidating fragmented markets, offering acquisition targets for growth-stage operators like Superprof (which just acquired Tutors.com).",
+        "Spatial AI and defense tech are attracting mega-deals: Loft Orbital's $1B contract signals institutional appetite for space tech infrastructure, suggesting regulatory tailwinds and government spending are opening new capital allocation vectors for deep-tech investors.",
+        "French Tech funding recovery remains fragile and underperforming peers: while H1 2026 shows improvement, growth is slower than UK and Germany, indicating capital flight risk and the need for larger cheques to keep competitive talent and companies in France."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "10.09 - Mais que se passe-t-il au Fourgon ?"
+    },
+    {
+      "id": "34efcb7d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The SEC's proposed repeal of the pay-to-play rule has divided the investment industry, with PE firms welcoming potential $416 million in compliance savings while watchdogs warn it opens the door to bribery and corruption in pension fund management. Meanwhile, legal AI is experiencing consolidation, with Harvey's $550 million raise and Legora's $600 million Series D accounting for 40% of all 2026 legal tech venture capital, as the major LLM providers (OpenAI, Google, Anthropic) aggressively enter the legal software space, forcing specialized players to rapidly acquire competitors.",
+      "keyTakeaways": [
+        "The pay-to-play rule repeal could significantly reduce compliance friction for PE firms managing public pensions, but investors should monitor regulatory risk and potential state-level retaliation that could offset the $416 million annual savings.",
+        "Legal AI capital is concentrating among well-funded leaders\u2014Harvey and Legora's mega-rounds suggest smaller legal tech startups face acquisition pressure or obsolescence as frontier model providers commoditize legal capabilities.",
+        "Family offices are increasingly using NAV loans as a liquidity tool rather than a last resort, indicating they're becoming more aggressive in leveraging existing holdings to chase new opportunities in a competitive deal environment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "An invite to 'bribery and corruption'"
+    },
+    {
+      "id": "b99e44a2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new Bloomberg analysis reveals that nearly one-third of U.S. reservoirs are more than 10% filled with sediment rather than water, with some facilities like Montana's Fresno Reservoir at 29% sediment capacity, threatening agricultural water supplies across the West. The federal court has overturned New Jersey's water permits for the Northeast Supply Enhancement gas pipeline, a major infrastructure project that has become a focal point in the energy policy debate as nuclear plant closures and stalled offshore wind development increase regional gas demand.",
+      "keyTakeaways": [
+        "Water infrastructure is facing accelerating physical degradation: sediment accumulation in U.S. reservoirs has already eliminated 44% of per capita water storage capacity since the 1970s, creating urgent capital requirements for dredging, new storage projects, or alternative water management solutions.",
+        "Energy transition policy uncertainty is creating significant project risk and regulatory volatility\u2014the Northeast Supply Enhancement pipeline's permitting saga illustrates how climate policy reversals and regional energy politics can halt major infrastructure investments despite demonstrated demand.",
+        "The combination of water scarcity, nuclear plant retirements, and stalled renewable energy development is driving persistent fossil fuel demand in densely populated regions, presenting both risks to decarbonization timelines and potential upside for natural gas infrastructure and alternative energy solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Clogged Dam!"
+    },
+    {
+      "id": "591c30a5",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Luum, a robotics startup founded by Ekso Bionics co-founder Nathan Harding, has raised $36 million to automate eyelash extension applications using AI-powered robotic arms. The company operates studios in Dallas, Newport Beach, and Oakland, plus machines in Nordstrom and Ulta Beauty locations, reducing appointment times from 90-120 minutes to approximately one hour with plans to reach 30 minutes. Led by former Apple and PayPal executive Jo Lawson as CEO, the startup leverages exoskeleton safety engineering principles and 150 terabytes of session data to train its AI system.",
+      "keyTakeaways": [
+        "High-margin, recurring-revenue beauty services represent attractive robotics applications; Luum's positioning at the intersection of AI precision and human touch (lash artists handle prep and finishing) suggests a hybrid labor model rather than full replacement, addressing both technical and consumer adoption challenges.",
+        "The $36 million funding round (Series A in 2024 plus convertible) led by Long Journey Ventures, Artifact Capital, and Boardman Bay Capital, with strategic backer Ulta Beauty, indicates institutional confidence in automation's role within retail beauty\u2014a $70+ billion market segment with fragmented supply.",
+        "The exoskeleton pedigree matters: safety-first design (magnetically-attached wands, physical arm constraints) and the appointment-time efficiency gains create defensible competitive moats that extend beyond software to hardware durability and consumer trust in robotic beauty applications."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Robots can do your lashes now"
+    },
+    {
+      "id": "1f2178bb",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "LIV Golf filed for Chapter 11 bankruptcy after Saudi PIF withdrew funding, with BC Partners offering a $300 million restructuring plan that would give players majority ownership and 30% equity stakes in teams. Meanwhile, Amazon's warrant acquisition of $4 billion in Qualcomm shares signals growing confidence in CPUs as critical infrastructure for AI, alongside major venture funding rounds including Cognition's $2 billion Series B at $48 billion valuation.",
+      "keyTakeaways": [
+        "LIV's bankruptcy restructuring reveals a shift from sovereign wealth fund sports investments to player-owned models; BC Partners is betting on long-term viability through equity alignment, but success hinges on player acceptance and PGA's competitive response.",
+        "The Amazon-Qualcomm warrant deal suggests CPUs are emerging as a distinct asset class in AI infrastructure, potentially opening new investment theses beyond GPU-focused plays that have dominated recent capital allocation.",
+        "Record venture funding in AI infrastructure (Cognition at $48B, Celero at $3B+, Cylake at $245M) combined with strategic corporate equity positions indicates institutional conviction that AI compute layers will sustain multiyear value creation."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Can LIV live?"
+    },
+    {
+      "id": "a5abbece",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Utility subsidiaries are adopting a 'GenCo' structure to build and own generation assets dedicated to data centers, insulating ratepayers from costs while accelerating project timelines. NIPSCO's GenCo subsidiary achieved regulatory approval for Amazon and Alphabet contracts in roughly seven months and received project approval in under five months\u2014dramatically faster than traditional utility processes. The model is gaining traction with FirstEnergy and others exploring similar structures, potentially unlocking a new contracted revenue stream for utilities while solving data centers' critical power supply bottleneck.",
+      "keyTakeaways": [
+        "The GenCo model bypasses lengthy Certificate of Public Convenience and Necessity reviews (typically 240+ days), cutting project approval timelines to 5-7 months\u2014a material acceleration for capital-intensive infrastructure investors targeting data center power supply.",
+        "Separating data center generation from parent utilities protects existing ratepayers from cost exposure and regulatory risk, making the structure politically more feasible and creating potential equity upside for investors in utility subsidiaries (Blackstone acquired 19.9% of NIPSCO Generation for example).",
+        "As data center demand outpaces traditional grid expansion, the GenCo model represents an emerging asset class combining contracted long-term revenues with reduced regulatory friction, likely to proliferate across utilities and attract infrastructure and energy investors seeking defensive, inflation-hedged returns."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Can GenCos solve the data center power problem?\u00a0"
+    },
+    {
+      "id": "b18c74f9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap Daily explores five major questions facing climate and energy markets through 2026, focusing on how the AI existential risk narrative could reshape data center policy and investment, potential geopolitical shifts in Iran affecting global oil prices, permitting reform prospects, and breakthrough solar technologies. The newsletter suggests that converging AI safety concerns with existing anti-data center sentiment could trigger national-level infrastructure backlash that fundamentally alters energy demand forecasts and emissions trajectories.",
+      "keyTakeaways": [
+        "AI existential risk messaging is reaching mainstream political attention (Bernie Sanders meeting, celebrity coverage); if merged with existing local data center opposition, could create powerful national policy headwinds against infrastructure buildout, potentially reducing near-term energy demand growth forecasts that underpin utility and renewable energy valuations.",
+        "Iran geopolitical instability and oil price volatility represent a major wild card for 2026 energy markets; investors should monitor how potential supply shocks interact with AI-driven electricity demand curves and renewable deployment timelines in the transition economy.",
+        "Permitting reform and solar technology breakthroughs remain critical bottlenecks for clean energy scaling; policy momentum on these fronts will determine whether AI-driven energy demand accelerates clean infrastructure investment or strands carbon-intensive capacity."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: 5 Big Questions About the Rest of 2026"
+    },
+    {
       "id": "a11c204c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -17421,17 +17547,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 98
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 377
+      "count": 99
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 401
+      "count": 404
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 380
     },
     {
       "name": "Fintech",
@@ -17449,5 +17575,5 @@
       "count": 23
     }
   ],
-  "lastUpdated": "2026-09-09T12:04:00.531949Z"
+  "lastUpdated": "2026-09-10T11:58:30.692673Z"
 }
