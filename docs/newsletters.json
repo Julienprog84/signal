@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e45d9443",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US early-stage VC is experiencing record deal activity with $86 billion deployed across 4,864 deals in 2026 YTD, driven primarily by multistage funds writing larger checks rather than emerging managers. Multistage funds now account for 38.9% of Series A deal value\u2014up from 6.9% at pre-seed\u2014reflecting a strategic shift toward AI-native companies and frontier labs that require growth-stage capital early. The concentration of capital among large-check writers is reshaping competitive dynamics, with profound implications for emerging manager fundraising, founder cap table strategy, and LP evaluation of early-stage investment skill.",
+      "keyTakeaways": [
+        "Multistage funds are consolidating early-stage deal flow, particularly at Series A, meaning emerging managers face materially higher competition depending on their stage focus; LPs must now distinguish between strong AI deal returns driven by favorable timing versus genuine GP skill",
+        "The rise of AI-native company requirements for early growth capital is creating a two-tier market: frontier labs and infrastructure players getting multistage backing at Series A, while traditional startups face a narrower set of high-frequency small-check investors; managers should clarify their positioning accordingly",
+        "Founder opportunities have shifted toward earlier multistage backing (enabling larger follow-ons and strategic investors) but at the cost of less diversified cap tables and longer-term lock-in with large investors; European venture markets lag the US in producing mega-cap companies, signaling structural disadvantages in capital concentration and AI investment intensity"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Who's really funding early-stage AI"
+    },
+    {
+      "id": "f23e0244",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Vaughn Crowe, cofounder of NVP Capital, discusses how manufacturing and industrials have become venture-ready after decades of neglect, driven by COVID-era supply chain disruptions, geopolitical concerns around defense and aerospace, and the convergence of AI with physical world applications. NVP has deployed capital across portfolio companies including Vulcan Elements (valued at ~$2B), Haptica Robotics, and Class8, with the firm closing an $80M second fund in 2025 and positioning reindustrialization as a major venture opportunity.",
+      "keyTakeaways": [
+        "Manufacturing and industrial sectors are now generating venture-scale returns through multiple exit paths (IPOs, M&A, roll-ups), making them competitive allocation targets for VC firms entering the space\u2014Crowe's early positioning via NVP Capital demonstrates the timing advantage of sector-focused expertise.",
+        "AI intersection with physical world manufacturing (robotics, space, logistics) is accelerating deal flow and valuations in previously overlooked industrial verticals, suggesting traditional tech VCs may be underweighting these opportunities despite strong macro tailwinds.",
+        "Government support for mission-critical domestic manufacturing and supply chain resilience creates regulatory/policy tailwinds that reduce startup execution risk compared to traditional venture sectors, particularly in defense, energy, and healthcare logistics."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Manufacturing gets its venture moment"
+    },
+    {
+      "id": "05b1dfa2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Houthi seizure of the Red Sea port of Mokha has triggered a surge in global oil prices, with West Texas Intermediate exceeding $104 per barrel and diesel hitting $6 per gallon for the first time in U.S. history, while the Trump administration faces an opportunity to profit from Strategic Petroleum Reserve sales and buybacks to fund critical infrastructure repairs.",
+      "keyTakeaways": [
+        "Geopolitical escalation in the Red Sea and Strait of Hormuz is creating immediate commodity price volatility, with crude benchmarks spiking 5-6% in a single session\u2014investors should monitor shipping route disruptions as a primary driver of energy sector returns.",
+        "The diesel price spike to $6/gallon signals real inflation pressure across logistics and transportation sectors; companies with fuel hedging programs will outperform those exposed to unhedged energy costs.",
+        "The U.S. Strategic Petroleum Reserve represents a potential profit-making asset for the administration if executed strategically\u2014buy-low/sell-high reserve management could generate capital for energy infrastructure, creating downstream opportunities in pipeline and storage technologies."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Turmoil on the Red Sea"
+    },
+    {
+      "id": "e1b86d84",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-09-11",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The U.S. government's updated National Space Transportation Policy mandates expanding spaceport capacity to support over 1,000 launches annually by 2030\u2014a five-fold increase from 2025's 181 launches\u2014signaling major infrastructure investment opportunities. The newsletter covers emerging deep tech trends including orbital semiconductor manufacturing (Besxar), fusion energy (Proxima Fusion's \u20ac140M funding), battery innovations, and commercial space sector developments in China and Europe, alongside emerging concerns about AI regulation highlighted by robots protesting in Warsaw.",
+      "keyTakeaways": [
+        "U.S. spaceport capacity constraints represent a critical bottleneck and infrastructure investment opportunity, with the government targeting 1,000+ annual launches by 2030 requiring significant capital deployment in launch facilities and ground support infrastructure.",
+        "Commercial space consolidation is accelerating globally\u2014China's commercial space sector is going public, European players like Isar Aerospace are reaching orbit, and U.S. startups like Besxar and Proxima Fusion are pursuing differentiated applications (orbital manufacturing and fusion), suggesting venture capital should focus on companies solving specific payload needs rather than launch capacity alone.",
+        "Deep tech investors should monitor regulatory risk: the Warsaw robot protest signals growing political pressure for AI and robotics regulation, which could impact automation-dependent manufacturing and space sector labor dynamics, while simultaneously creating compliance-as-a-service opportunities."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 178: Does America Need More Spaceports?"
+    },
+    {
+      "id": "1aae9748",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Dan Primack draws parallels between the AI investment boom and the 2008 financial crisis, arguing that financial incentives across venture capital, Wall Street, and government are suppressing legitimate safety concerns despite some industry leaders expressing doubts. Meanwhile, Saudi Arabia's Public Investment Fund is considering merging its recently acquired Electronic Arts with Savvy Games to create a consolidated gaming platform, though such a combination would likely face significant antitrust scrutiny.",
+      "keyTakeaways": [
+        "The AI industry's financial incentive structure\u2014spanning VCs, Wall Street, politicians, and regulators\u2014may be systematically suppressing critical risk assessment, similar to how subprime lending leaders ignored warning signs before the 2008 crisis.",
+        "Saudi Arabia's potential EA-Savvy Games merger signals consolidation in the $214 billion gaming industry, but antitrust risk makes deal closure uncertain despite PIF's $55 billion acquisition of EA facing minimal regulatory pushback.",
+        "Investors should reassess AI exposure through first principles rather than sunk costs, as regulatory intervention and market corrections could disrupt the current consensus-driven funding environment."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Dollars and doom"
+    },
+    {
+      "id": "60134585",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Power Resilience Forum 2027 is hosting a climate and energy-focused conference in San Diego (February 3-5, 2027) bringing together utilities, regulators, technology providers, investors, and risk professionals to address grid resilience amid intensifying extreme weather, cyber threats, and surging power demand. The event has announced its first sponsors including Treeswift, Quanta, and Rhizome, signaling strong industry participation in addressing the new risk landscape reshaping electric utility infrastructure.",
+      "keyTakeaways": [
+        "Grid resilience is emerging as a critical investment thesis, with utilities and technology vendors actively investing in conference sponsorships to address extreme weather, cyber threats, and resource adequacy challenges\u2014indicating substantial capital flowing toward this problem space.",
+        "The involvement of major stakeholders (utilities like PG&E, regulators, and risk professionals) demonstrates regulatory and institutional recognition that grid modernization and resilience infrastructure require coordinated cross-sector solutions, creating opportunities for infrastructure and cleantech investors.",
+        "The timing of PRF27 (2027) reflects a macro shift in power system investment priorities from pure decarbonization toward dual imperatives of climate transition and disaster resilience, likely to reshape utility capex allocation and attract new categories of infrastructure capital."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Announcing the first sponsors of PRF27!"
+    },
+    {
+      "id": "353fce1f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's weekly newsletter covers critical climate and energy investment themes including the collapse of consumer belief in renewable energy cost competitiveness despite solar and batteries being among the cheapest grid-scale energy sources, California's wildfire-driven electricity cost crisis that paradoxically slows clean energy adoption, and emerging perovskite solar companies claiming breakthrough durability solutions. Geopolitical risks intensify as Saudi crude pipeline attacks remove 3.5M barrels daily from markets, driving fossil fuel prices higher amid persistent U.S. inflation.",
+      "keyTakeaways": [
+        "Market perception gap: Despite solar and battery costs being demonstrably cheapest for utility-scale deployment in markets from Texas to China, American voters remain unconvinced\u2014creating potential M&A and marketing opportunities for companies that can shift consumer narratives around energy economics.",
+        "California regulatory arbitrage: State wildfire cost structures inflate electricity rates, creating perverse incentives that slow EV and heat pump adoption just as climate policy intends to accelerate them\u2014signals potential for regulatory reform that could unlock massive distributed energy markets.",
+        "Perovskite durability inflection: New companies claim to have solved historical degradation problems in perovskite solar cells, suggesting a technology inflection point that could disrupt incumbent silicon solar incumbents if commercialized at scale."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories for the Week"
+    },
+    {
       "id": "dc2aee35",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -17689,19 +17815,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 100
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 407
+      "count": 410
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 384
+      "count": 387
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 24
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 100
     },
     {
       "name": "Fintech",
@@ -17712,12 +17843,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 30
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 23
     }
   ],
-  "lastUpdated": "2026-09-11T11:57:25.461172Z"
+  "lastUpdated": "2026-09-12T11:23:40.753825Z"
 }
