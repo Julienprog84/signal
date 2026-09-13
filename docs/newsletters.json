@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "c2877a81",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are aggressively consolidating the fragmented swimming pool servicing market, with over two dozen sponsor-backed platforms formed in the past four years. While new pool construction has collapsed to its lowest level since the 1980s, the $62 billion annual servicing market\u2014driven by maintenance, repairs, and chemicals rather than construction\u2014presents significant consolidation opportunities, exemplified by SPS PoolCare's 190+ acquisitions since 2021.",
+      "keyTakeaways": [
+        "Pool servicing is a recurring revenue, defensive business model insulated from construction cycles\u201464% of pool-product sales come from maintenance versus only 14% from new construction, making it attractive for PE roll-up strategies",
+        "Market fragmentation favors consolidators: the pool service industry remains highly atomized with small regional operators, creating a multi-year consolidation opportunity similar to other home-services verticals that have seen significant PE deployment",
+        "Construction headwinds may actually accelerate consolidation as builders gain lifetime customer relationships during initial builds, which PE platforms can then monetize through expanded maintenance networks and adjacent home-services offerings"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE wants to jump in your swimming pool"
+    },
+    {
       "id": "e45d9443",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -17817,7 +17835,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 410
+      "count": 411
     },
     {
       "name": "Climate & Energy",
@@ -17845,5 +17863,5 @@
       "count": 30
     }
   ],
-  "lastUpdated": "2026-09-12T11:23:40.753825Z"
+  "lastUpdated": "2026-09-13T12:27:01.072418Z"
 }
