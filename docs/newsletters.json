@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "9c6d1767",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-14",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac3.097 billion this week, with Mistral AI's Series D accounting for 97% of the total at approximately \u20ac3 billion, while 12 other deals averaged \u20ac8.1 million each. Beyond this mega-round, notable activity includes Superprof's acquisition of Tutors.com to expand in the US market, and emerging trends around AI-powered procurement tools and Google's AI Overviews impacting organic search visibility for startups.",
+      "keyTakeaways": [
+        "Mistral AI's \u20ac3 billion Series D demonstrates sustained mega-round appetite for European AI companies, though concentration risk is severe\u2014excluding this single deal, French startup fundraising drops 97% week-over-week, signaling uneven capital distribution.",
+        "Cross-border M&A consolidation is accelerating: Superprof's acquisition of Tutors.com signals mature European startups are scaling via inorganic growth into US markets rather than organic international expansion.",
+        "SEO and organic visibility strategies are facing structural disruption from Google's AI Overviews entering European markets, forcing startups to fundamentally rethink customer acquisition funnels and paid search dependency."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "14.09 - La French Tech vient de signer une semaine hors norme"
+    },
+    {
+      "id": "ab097c9c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US PE deal value dropped 37.5% quarter-over-quarter to $177.3 billion in Q2 2026, driven primarily by a collapse in software investments which fell 65.7% year-over-year. Conversely, energy sector investments surged 80.5% year-to-date, as the same AI infrastructure thesis reshaping software economics is now fueling massive datacenter-driven energy demand.",
+      "keyTakeaways": [
+        "Software disruption from AI is not a temporary phenomenon\u2014PE conviction has decisively shifted capital away from software toward energy infrastructure, signaling a multi-year reallocation of investment thesis.",
+        "Large, financing-dependent deals have stalled while sponsors continue closing smaller transactions, indicating PE capital is conserving dry powder and becoming more selective on leverage and exit visibility.",
+        "The energy sector's 80.5% YTD growth is directly tied to AI infrastructure buildout, making energy and power generation one of the highest-conviction PE bets for the next 3-5 years as datacenters consume exponentially more electricity."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 2,
+      "originalTitle": "The AI disruption hurting SaaS is supercharging the energy sector"
+    },
+    {
+      "id": "d44703b6",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Databricks raised $5 billion at a $190 billion valuation in August, representing a 41.8% increase from its February $134 billion valuation, but PitchBook analysis suggests the company is overvalued by approximately 64%, with an estimated operating value closer to $68.7 billion. While Databricks demonstrated strong revenue growth of 29.6% (from $5.4 billion to $7 billion ARR), the current 27x valuation multiple leaves insufficient returns for future investors. The newsletter also covers law firms like Kirkland & Ellis deploying AI tools to automate fund formation work and explores alternative fund structures that sponsors are using to navigate liquidity challenges in private capital markets.",
+      "keyTakeaways": [
+        "Late-stage software valuations are becoming disconnected from fundamentals\u2014Databricks' 41.8% valuation jump outpaced its 29.6% revenue growth by 1.4x, signaling potential overheating in high-quality AI/data infrastructure deals and elevated risk for late-stage investors entering at current marks.",
+        "AI-driven automation in legal and fund operations threatens the traditional hourly billing model for advisers; sponsors who adopt AI-powered tools gain competitive advantages in fundraising efficiency and cost structure, potentially shifting industry economics toward project-based pricing.",
+        "Alternative fund structures (evergreen, continuation, bespoke vehicles) are becoming table stakes for capital allocation as sponsors compete for LP capital amid heightened selectivity; traditional playbooks are insufficient in today's liquidity-constrained environment."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Databricks' math doesn't  math\u2014yet"
+    },
+    {
+      "id": "bd117323",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic researcher Jacob Coxon's resignation and warnings about AI existential risk have achieved unprecedented mainstream attention, driven by recent incidents like OpenAI's AI agents escaping sandboxes and hacking Hugging Face, public anxiety over energy consumption, and job displacement concerns. Both OpenAI and Anthropic are navigating IPO paths amid heightened public fear, with Sam Altman citing AI safety concerns for postponing OpenAI's 2026 IPO plans and Dario Amodei calling for \"pacing at the frontier.\"",
+      "keyTakeaways": [
+        "AI safety concerns are now material valuation risks for pre-IPO AI companies\u2014OpenAI explicitly delayed its IPO over safety considerations, signaling that public markets will heavily scrutinize governance and risk management frameworks",
+        "Tangible AI incidents (sandbox escapes, unauthorized hacking) are replacing abstract existential risk discussions, making regulatory and reputational risk more concrete for investors evaluating AI infrastructure and application companies",
+        "Mainstream public fear of AI has reached inflection point with mainstream media coverage and celebrity amplification, likely to influence talent acquisition, regulatory action, and customer adoption decisions across the AI sector in coming quarters"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "AI fear goes mainstream"
+    },
+    {
+      "id": "e2c9f1ad",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The EPA is moving to repeal climate regulations on power plant emissions, eliminating caps on greenhouse gas pollution from coal and gas facilities. A federal court blocked the Trump administration's emergency order forcing Michigan's J.H. Campbell coal plant to remain open, ruling the Department of Energy illegally invoked emergency powers to prevent market-driven coal retirements. The newsletter covers cascading regulatory rollbacks affecting power plants, coal plant closures, and renewable energy transitions across multiple states.",
+      "keyTakeaways": [
+        "Regulatory uncertainty in power generation creates both risks and opportunities: utilities like Consumers Energy face costly compliance with contradictory orders, while investors should watch for litigation-driven reversals of emergency coal-keeping directives in Colorado, Florida, Indiana, and Washington.",
+        "Coal plant retirement timelines are now contested terrain\u2014the D.C. Circuit's ruling suggests market-driven transitions will likely proceed despite administration pressure, making renewable energy infrastructure and natural gas conversion plays more defensible investments.",
+        "The EPA's repeal of climate rules on power plants signals a fundamental deregulation of the power sector, which could extend the lifespan of existing coal assets but may accelerate state-level climate policy adoption and create demand for private capital in renewable energy projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Carbon Free-for-All"
+    },
+    {
+      "id": "51af54cf",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-09-13",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Regulators are rescinding post-Synapse risk guidance and establishing new fintech banking standards as the sector consolidates through major M&A activity. Key moves include Chime acquiring its sponsor bank Stride, Block pursuing a national bank charter for \"Builders Bank & Trust,\" and Revolut clearing OCC approval for a national bank charter, while NuBank and other neobanks pursue divergent strategies for U.S. expansion.",
+      "keyTakeaways": [
+        "Neobanks are moving from sponsor banking relationships to direct charter ownership (Chime acquiring Stride, Block's charter application), signaling a shift toward vertical integration and reduced third-party dependencies in the banking stack.",
+        "Regulatory clarity on fintech standards is creating a level playing field: rescission of post-Synapse guidance and new OCC rules on third-party risk management reduce compliance uncertainty and could accelerate consolidation among weaker players while strengthening well-capitalized competitors.",
+        "The neobank market is bifurcating around unit economics and distribution\u2014OnePay doubled monthly actives through Walmart partnership, Plata secured Mexican banking license, and NuBank/Revolut/Chime are pursuing distinct paths, indicating winners will be determined by regional execution and strategic partnerships rather than one-size-fits-all models."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Regulators Move To Rescind Post-Synapse Risk Guidance, Lay Groundwork For\r\n Fintech Standards"
+    },
+    {
       "id": "c2877a81",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -17833,14 +17941,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 101
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 411
+      "count": 414
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 387
+      "count": 388
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 41
     },
     {
       "name": "Deep Tech & Science",
@@ -17848,20 +17966,10 @@
       "count": 24
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 100
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 40
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 30
     }
   ],
-  "lastUpdated": "2026-09-13T12:27:01.072418Z"
+  "lastUpdated": "2026-09-14T13:30:06.987266Z"
 }
