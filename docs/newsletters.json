@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "170fd099",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral AI has secured a three-year partnership with TotalEnergies valued at over \u20ac100 million to develop AI models for geosciences, specifically targeting oil and gas exploration and reservoir optimization. The newsletter also highlights several European startup developments including Jimini AI's partnership with France's national bar council, LeHibou's continued European expansion through acquisitions, and Brique House's \u20ac1.5 million community-focused crowdfunding round, demonstrating diverse capital formation strategies across European tech and deep-tech sectors.",
+      "keyTakeaways": [
+        "Mistral AI's \u20ac100M TotalEnergies deal signals major corporate venture capital appetite for European AI startups, particularly in enterprise applications like energy sector optimization\u2014indicating a shift from consumer-focused AI to specialized domain models",
+        "Large-scale strategic partnerships with Fortune 500 companies are becoming viable exit alternatives and growth catalysts for European AI startups, reducing dependency on traditional VC funding rounds",
+        "Distributed capital formation models are gaining traction across European startups\u2014from corporate partnerships (Mistral/TotalEnergies) to community crowdfunding (Brique House) to institutional partnerships (Jimini AI with CNB)\u2014reflecting maturation of the European startup ecosystem beyond traditional VC"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "16.09 - Mistral s'offre un partenariat \u00e0 100 millions d'euros avec TotalEnergies !"
+    },
+    {
+      "id": "073ea0a3",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private capital fundraising remains severely constrained through H1 2026, with all strategies except private debt experiencing year-over-year declines as limited partners face liquidity pressures from poor exits and distributions. Meanwhile, mega-funds ($1B+) are capturing an outsized share of capital (78.2% in H1 2026 vs. 59.1% in 2021) despite historically underperforming smaller peers, signaling LP risk aversion. In AI-focused deals, Rome-based cybersecurity startup Exein raised $270 million at a $1.7 billion valuation to address security threats in physical AI systems like autonomous vehicles and robots, as attacks now occur at machine speed.",
+      "keyTakeaways": [
+        "LPs are consolidating capital into mega-funds with proven track records despite data showing smaller alternative asset managers consistently outperform\u2014this creates an efficiency paradox where capital flows to safety rather than returns",
+        "Private credit stress is accelerating with 12% of small borrowers ($20M EBITDA) now trading below 90 cents on the dollar, up from 1% in 2023, indicating distress is concentrated in the lower market where defaults typically precede broader credit deterioration",
+        "Physical AI security represents a new venture frontier attracting institutional capital ($270M round) as autonomous systems create liability risks beyond data breaches, opening a new defensibility moat for infrastructure cybersecurity startups"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The funds are not alright"
+    },
+    {
+      "id": "f859dc17",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Arcee AI, a startup focused on open-weight AI models, raised its Series B at a $1 billion pre-money valuation with at least $150 million in funding led by Vista Equity Partners, Cambium Capital, and Emergence Capital. The company trained four open-weight models, including a 400-billion-parameter model called Trinity Large, by spending approximately $20 million\u2014a remarkably efficient approach that mirrors DeepSeek's cost-effective model development in China. Founder Mark McQuade explicitly positions Arcee as a direct competitor to Chinese open-weight models, arguing the U.S. must lead in both closed-source and open-source AI development to maintain technological dominance.",
+      "keyTakeaways": [
+        "Open-weight models represent a significant market opportunity positioned between proprietary closed-source systems and public models, with China currently dominating this space\u2014Arcee's $1B valuation suggests investors see this as a defensible, strategic category despite lower margins than closed-source competitors.",
+        "Training efficiency at scale ($20M for frontier-class models) is now demonstrably achievable through engineering excellence rather than capital scale alone, which could reshape AI investment thesis\u2014focus should shift from pure compute spending to methodology and technical talent differentiation.",
+        "Geopolitical competition in AI is crystallizing around open-weight models as a strategic battleground; U.S. venture capital is now explicitly backing companies positioned as counterweights to Chinese AI leadership, suggesting regulatory support and potential government partnerships will become standard deal terms in AI infrastructure."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The startup chasing China\u2019s open-weight models"
+    },
+    {
+      "id": "7109c50a",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-09-15",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes the AI safety debate, noting that despite uncertainty about AGI capabilities, major researchers like Anthropic's leadership and Sam Altman are simultaneously calling for AI research slowdowns while racing to build and scale systems faster\u2014a logical paradox. OpenAI faces capacity constraints severe enough to halt Pro plan subscriptions, while Anthropic's safety case study revealed bad actors exploiting AI for missile guidance and cyber attacks, raising both regulatory and practical concerns.",
+      "keyTakeaways": [
+        "OpenAI's compute shortage and subscription freezing suggests the company is hitting infrastructure limits before achieving anticipated scaling benefits\u2014a critical supply-side constraint that could slow commercialization timelines and increase competitive advantage for better-capitalized players like Meta and Google.",
+        "The AI safety narrative is being deployed as both genuine concern and implicit regulatory moat\u2014companies funding safety research and calling for slowdowns may be seeking to increase compliance costs for competitors while protecting their existing technical leads from disruption.",
+        "Demonstrated vulnerability to adversarial use cases (missile guidance, cyber attacks) combined with dramatically lowered attack costs creates an inevitable regulatory response that will likely impose compliance requirements differentially favoring well-capitalized incumbents over startups."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 660"
+    },
+    {
+      "id": "c9d5cc76",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Digital health VC firm Transformation Capital raised $850 million for its fourth fund, with managing partner Todd Cozzens predicting the emergence of robot doctors with human oversight for low-acuity care. Meanwhile, European cybersecurity startup Exein raised $270 million at a $1.7 billion valuation, becoming Europe's second most valuable cybersecurity company as AI-driven security concerns fuel a boom in funding across the sector.",
+      "keyTakeaways": [
+        "Frontier AI labs like Anthropic and OpenAI are unlikely to dominate healthcare due to lack of specialized focus, creating opportunity for dedicated digital health investors to capture outsized returns in an emerging robot doctor market.",
+        "The payers-versus-providers AI arms race is now evenly matched after providers' early advantage, suggesting cost reduction rather than zero-sum competition\u2014a potentially market-expanding dynamic for health tech investors.",
+        "AI security concerns are driving a cybersecurity funding boom with significant capital flowing to embedded firmware protection and foundation models for physical security, positioning this sector for continued growth regardless of regulatory outcomes."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Safety first"
+    },
+    {
+      "id": "2d5f8416",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Transition-AI 2027 conference announcement highlighting the unprecedented strain AI infrastructure buildout is placing on the power sector, creating dynamic market conditions worth trillions in investment. The event will explore critical tensions including utilities adopting unique data center tariffs, gas power dominating new capacity while threatening emissions targets, and regulatory hurdles slowing renewable-plus-battery scaling. Key focus areas include demand flexibility opportunities, permitting challenges, and the gap between tech companies' climate commitments and their actual energy consumption patterns.",
+      "keyTakeaways": [
+        "Utilities are creating fragmented, region-specific data center tariff structures with ratepayer protections, creating significant compliance complexity for developers and representing a substantial shift in how energy infrastructure investment gets regulated",
+        "Gas power is winning the race to supply data center demand over renewables, signaling that capital deployment may be flowing toward fossil fuel infrastructure rather than clean energy despite stated corporate climate commitments\u2014a critical mismatch for ESG-focused investors",
+        "Grid edge demand flexibility solutions (batteries, AI orchestration, distributed resources) represent emerging markets with multi-billion dollar potential, but regulatory uncertainty and transmission bottlenecks remain the primary constraints limiting scaling"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Announcing: Transition-AI 2027"
+    },
+    {
+      "id": "48ea51ba",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Oil prices have surged to $108+ per barrel on Brent crude and $120+ in physical markets following Saudi Arabia's shipment cancellations, driving U.S. gasoline and diesel prices toward $7 per gallon. The newsletter highlights the launch of U.S. Energy Data, a new website making EIA energy statistics more accessible through interactive charts, showing current gasoline prices exceed Trump's first term levels but remain below 2008-2011 peaks.",
+      "keyTakeaways": [
+        "Gasoline prices are now higher in real dollars than any point during Trump's first administration, signaling potential consumer pain and political pressure on energy policy ahead of 2026.",
+        "A new data accessibility platform (U.S. Energy Data) is democratizing previously hard-to-access government energy statistics, creating opportunities for better-informed policy advocacy, media narratives, and potentially advantageous market timing intelligence for energy investors.",
+        "Oil executives at the G20 Houston summit stated they lack tools to manage future price increases, suggesting supply-side constraints will drive continued volatility and higher energy costs that could accelerate renewable energy adoption and grid modernization investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: A Fantastic New Tool for Energy Nerds"
+    },
+    {
       "id": "a2a4bf17",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18069,17 +18195,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 102
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 391
+      "count": 103
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 417
+      "count": 420
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 31
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 393
     },
     {
       "name": "Fintech",
@@ -18090,12 +18221,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 24
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 30
     }
   ],
-  "lastUpdated": "2026-09-15T12:22:05.149521Z"
+  "lastUpdated": "2026-09-16T12:19:25.135398Z"
 }
