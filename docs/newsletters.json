@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "00963e7e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-17",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "European startups are securing significant funding across multiple sectors. Opio, a due diligence platform backed by Pennylane's Arthur Waller and Dust's Stanislas Polu, is expanding into broader audit services. Delos, which develops autonomous AI employees, has raised \u20ac10 million for U.S. expansion after adoption by 300 companies, while cybersecurity firm Hackuity secured $19 million in Series B funding to address AI-driven vulnerabilities.",
+      "keyTakeaways": [
+        "AI-powered employee automation is gaining commercial traction with 300+ customer adoption before Series B\u2014investors should monitor Delos-like solutions as a major labor cost displacement trend",
+        "Specialized B2B software targeting regulated professions (audit, due diligence) attracts top-tier VC backing, suggesting defensible margins in professional services automation",
+        "AI-generated cybersecurity vulnerabilities are creating new venture opportunities; Series B funding at $19M signals this is moving from emerging risk to mainstream concern with capital flowing to defensive solutions"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "17.09 - Arthur Waller (Pennylane) et Stanislas Polu (Dust) misent sur cette startup"
+    },
+    {
+      "id": "72ca5ab4",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "CorePower Magnetics, a power equipment startup focused on high-heat magnets, has raised $10.5 million in funding. The company plans to deploy the capital toward establishing domestic manufacturing capabilities for its advanced electronics components, positioning itself within the climate and energy sector.",
+      "keyTakeaways": [
+        "CorePower Magnetics is securing growth capital to build U.S.-based manufacturing infrastructure, signaling investor confidence in domestic supply chain solutions for specialized power equipment components.",
+        "The $10.5 million funding round reflects ongoing VC/PE appetite for early-stage clean tech hardware plays, particularly those addressing critical supply chain gaps in power electronics and magnetics.",
+        "The company's focus on high-heat magnets and domestic manufacturing aligns with broader macro trends in energy transition infrastructure and government incentives for advanced U.S. manufacturing capacity."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Exclusive: Power Equipment Startup CorePower Magnetics Raises $10.5\r\n Million"
+    },
+    {
+      "id": "d664d349",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic's upcoming IPO filing must clarify four critical issues: the sustainability of its extraordinary 7x revenue growth to $65B run-rate, the true gross margins after accounting for compute costs and model training, the duration risk of multi-year compute contracts, and whether safety commitments impact growth forecasts. Meanwhile, Goldman Sachs closed a $9.6B flagship PE fund deliberately sized to keep portfolio companies attractive to strategic buyers, as M&A rather than IPOs emerges as the primary exit driver in the current market.",
+      "keyTakeaways": [
+        "Anthropic's valuation estimates of $1.4T-$1.6T appear materially lower than the $2T IPO rumors\u2014the gap hinges on compute contract duration risk and whether customer concentration (1,000+ $1M+ accounts) represents durable platform economics or concentrated exposure",
+        "Goldman's deliberate fund-sizing strategy around $500M-$3B enterprise values signals LP confidence that strategic M&A will outpace IPO exits; PE firms optimizing for acquirer reach rather than mega-scale suggests tightening IPO windows for portfolio companies",
+        "The macro shift toward strategic buyer-driven exits reflects slowing public market appetite for mega-cap tech IPOs post-rate hikes, creating a bifurcated exit landscape where only AI's largest players (Anthropic, OpenAI) access public markets while mid-market tech faces M&A-only paths"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Anthropic, we have questions"
+    },
+    {
+      "id": "093f19b3",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic is preparing for a record $2 trillion IPO, but internal researchers are publicly voicing concerns about existential AI risks, with alignment lead Evan Hubinger stating he believes there's a greater than 10% chance AI could kill all humans within the next decade. The timing of these extinction warnings just weeks before the public offering raises questions about whether the company's safety-focused mission will conflict with shareholder pressure for growth, and labor-affiliated investor groups are already calling for the IPO to be delayed until recent security incidents and risk disclosures are factored into valuation.",
+      "keyTakeaways": [
+        "Anthropic's pre-IPO insider warnings about unresolved AI alignment risks could materially impact valuation and investor appetite\u2014institutional buyers may demand risk premiums or governance concessions around safety spending versus shareholder returns.",
+        "The disconnect between Anthropic's founding identity as a safety lab and post-IPO growth obligations creates a structural tension: public market pressure typically favors faster commercialization over voluntary slowdowns, potentially forcing strategic choices that conflict with researcher concerns.",
+        "This signals growing institutional investor scrutiny of AI governance and tail risks\u2014expect other AI companies with similar safety debates to face similar challenges, making governance frameworks and transparency around existential risk assessments a differentiating factor in capital allocation decisions."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Will an IPO increase pressure or heighten transparency?"
+    },
+    {
+      "id": "48d6d5b0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration has narrowed the Endangered Species Act to only criminalize intentional killing of protected animals, potentially freeing energy companies from infrastructure investments to protect migratory birds from oil and gas operations. Meanwhile, half of Russia's top diesel refineries are offline due to Ukrainian drone attacks, contradicting Trump's claims that an energy truce would lower global diesel prices, while U.S. energy companies including Harold Hamm's firm, Exxon Mobil, and Heeney Capital are rapidly moving into Venezuela's oil and mineral sectors. The Federal Reserve raised benchmark interest rates by a quarter point to 3.75-4% for the first time since 2023, which could make capital raising significantly more difficult for capital-intensive renewable and clean energy industries.",
+      "keyTakeaways": [
+        "The narrowed Endangered Species Act interpretation removes a major regulatory cost barrier for oil and gas operators but creates uncertainty for wind energy developers, potentially reshaping competitive dynamics in the energy sector and reducing environmental compliance capex across fossil fuel exploration.",
+        "Russian refinery disruptions and rapid U.S. corporate expansion into Venezuela signal a geopolitical energy realignment that could reshape global oil markets and create acquisition/partnership opportunities for American energy firms operating in previously sanctioned jurisdictions.",
+        "Rising interest rates directly threaten capital-intensive renewable energy projects at a critical moment for clean energy deployment, favoring established players with balance sheets while pressuring early-stage climate tech and distributed renewable ventures dependent on cheap financing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Consider the Plover"
+    },
+    {
+      "id": "eab3a482",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "President Trump has dismissed AI data center concerns and climate risks as hoaxes, positioning himself against populist opposition while Nvidia faces scrutiny for 725% emissions growth in its supply chain since 2020. Meanwhile, hydroelectric dam relicensing has become dramatically more complex, with regulatory conditions increasing tenfold since 1980, creating significant barriers for clean energy infrastructure investment.",
+      "keyTakeaways": [
+        "Nvidia's supply chain emissions surged 725% since 2020 (adding ~10M metric tons CO2), creating potential ESG and regulatory risks for the chip giant amid increased political scrutiny of AI infrastructure buildout",
+        "Three-quarters of Americans oppose data centers in their communities, signaling a major headwind for AI infrastructure investments despite political support; this represents a critical NIMBY challenge that could constrain capital deployment in the sector",
+        "Hydropower relicensing complexity has exploded with 10x more mandatory conditions since 1980, threatening the economics of clean energy projects and signaling that renewable energy expansion faces mounting regulatory friction beyond just permitting timelines"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "\u2018It\u2019s a Hoax\u2019"
+    },
+    {
+      "id": "3af24601",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-09-16",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Aaron Klein from Brookings Institution discusses why the U.S. lacks widespread free instant payments despite existing infrastructure like The Clearing House RTP and FedNow, alongside regulatory gaps in consumer credit markets. The interview explores emerging fintech lending models including overdraft alternatives and small-dollar lending apps like EarnIn, Dave, and MoneyLion, revealing structural barriers in payment systems and fragmentation in credit access.",
+      "keyTakeaways": [
+        "Infrastructure alone doesn't drive adoption: The U.S. has multiple instant payment rails (RTP, FedNow) yet consumers lack ubiquitous free access, suggesting regulatory, competitive, or business model barriers are the real constraints\u2014not technology\u2014presenting opportunities for fintech to solve consumer friction differently.",
+        "Consumer credit regulation creates gaps that fintech is filling: Overdraft fees, payday loans, and alternative lending apps indicate systemic underserving of small-dollar lending, with potential regulatory pressure coming but market demand already pulling capital toward these segments.",
+        "Legacy payment infrastructure (check processing) remains entrenched and subsidized, creating network effects that slow migration to instant payments; understanding why check volumes persist post-9/11 reveals how regulatory decisions lock in incumbent advantages and slow financial modernization."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 61,
+      "originalTitle": "Interview: Brooking\u2019s Aaron Klein on Faster Payments, Consumer Credit & the Fed"
+    },
+    {
+      "id": "4184c200",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A peer-reviewed Nature Reviews Drug Discovery paper argues that AI's clinical impact in drug discovery has been \"disappointingly limited,\" despite over $40 billion in VC investment this decade. While AI excels at identifying drug candidates, it has failed to shorten development timelines, with AI-derived drugs still hitting the same Phase II efficacy bottleneck as conventional drugs due to messy, inadequate cellular datasets. Meanwhile, Starbucks is exploring a $3 billion majority stake sale of its Japan business to refocus on revitalizing its core U.S. operations.",
+      "keyTakeaways": [
+        "AI biopharma's promised acceleration remains unrealized: despite massive VC capital deployment, few AI-derived medicines have progressed beyond Phase II, suggesting investors may need to reset expectations on timeline compression and returns on the $40B+ deployed this decade.",
+        "The bottleneck is unglamorous infrastructure, not algorithm sophistication\u2014better cellular datasets and regulatory reform are prerequisites for disruption, not AI capability improvements, which may redirect capital toward less exciting foundational work.",
+        "The Starbucks Japan divestiture signals PE/M&A activity in mature consumer businesses is accelerating as corporations shed non-core assets, particularly in Asia where private equity has become very active."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: \"Disappointingly limited\""
+    },
+    {
+      "id": "0a50f2ec",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Federal policy changes under the Trump administration are accelerating AI data center development while simultaneously weakening pollution safeguards, creating significant environmental and public health costs. A UC Riverside/Caltech/RIT study projects data center air pollution could impose $11.7-$20.9 billion in annual public health costs by 2028, with the EPA's recent repeal of power plant greenhouse gas regulations expected to increase coal production for the power sector by over 10 times. The newsletter also highlights emerging solutions including space-based solar power for orbital data centers and a new Google-Nvidia-Emerald AI coalition focused on data center flexibility.",
+      "keyTakeaways": [
+        "Infrastructure and energy companies face both regulatory headwinds and investment opportunities: 30 recent federal actions favor fossil fuel-powered data centers, creating near-term tailwinds for coal and natural gas producers but exposing them to long-term ESG and climate liability risks totaling $11.7-$20.9 billion annually in health costs alone.",
+        "Alternative energy and data center efficiency technologies represent high-growth investment targets as the market responds to regulatory gaps and corporate sustainability commitments\u2014space-based solar, data center flexibility platforms, and demand-response solutions could capture significant value as corporations seek to offset regulatory disadvantages.",
+        "AI infrastructure buildout is creating a macro collision between accelerated capital deployment needs, environmental externalities, and regulatory uncertainty, suggesting investors should scrutinize power source dependencies and long-term policy risk in any AI/data center portfolio exposure."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Another AI risk to humanity"
+    },
+    {
+      "id": "4191af78",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Federal Reserve raised interest rates for the first time since 2023, complicating renewable energy financing at a critical moment for grid modernization. The newsletter draws parallels between Exxon's internal climate warnings in the 1970s-80s and current AI safety concerns at Anthropic, suggesting that unlike fossil fuel companies, AI leaders may be taking existential risks more seriously\u2014a distinction with major implications for how AI development will be regulated and funded.",
+      "keyTakeaways": [
+        "Higher interest rates materially increase the cost of renewable energy projects and grid infrastructure, directly impacting returns on clean energy investments and creating headwinds for the transition economy",
+        "AI data center demand is now a significant factor in energy markets; emerging alliances between Google, Nvidia, and others around flexible demand management signal that energy infrastructure partnerships with tech giants will be critical for both sectors",
+        "The Anthropic-Exxon comparison suggests AI companies may face different regulatory and reputational outcomes than fossil fuel firms faced\u2014this creates both opportunity and risk for investors betting on AI's long-term viability versus those betting on regulatory backlash"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Anthropic Knows"
+    },
+    {
       "id": "170fd099",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18195,12 +18375,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 103
+      "count": 104
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 398
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 420
+      "count": 423
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 42
     },
     {
       "name": "Strategy & Thesis",
@@ -18208,20 +18398,10 @@
       "count": 31
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 393
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 41
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 24
     }
   ],
-  "lastUpdated": "2026-09-16T12:19:25.135398Z"
+  "lastUpdated": "2026-09-17T12:19:41.655385Z"
 }
