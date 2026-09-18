@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "e2ca4480",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-18",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A Bpifrance-led study examines corporate-startup collaboration in France, benchmarking against Germany, the US, and Singapore to assess France's competitive positioning. The newsletter also covers the judicial restructuring of Tudigo, a Bordeaux-based crowdfunding platform, which signals structural shifts in the European crowdfunding sector, plus Paris Business Angels' inaugural Innovation Pitch Night launching in November to showcase early-stage French startups.",
+      "keyTakeaways": [
+        "France's corporate-startup ecosystem performance relative to peer economies (Germany, US, Singapore) is a critical benchmark; structural weakness in collaboration could indicate capital allocation inefficiencies or talent leakage to more open innovation hubs.",
+        "The Tudigo bankruptcy signals consolidation pressure in European crowdfunding platforms, suggesting investor capital may be shifting toward more established or integrated funding mechanisms, with implications for retail-backed seed financing.",
+        "Early-stage funding dynamics in France remain active (Paris Business Angels expansion) but may be offset by corporate partnership gaps and crowdfunding platform instability, creating fragmentation in the pre-Series A financing landscape."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "18.09 - Collaboration grands groupes/startups : o\u00f9 en est la France ?"
+    },
+    {
+      "id": "468a9b31",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-09-18",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The U.S. Space Force has officially acknowledged deploying offensive weapons in space for the first time, marking an escalation in orbital military capabilities amid intensifying competition with Russia and China. The newsletter also highlights significant commercial space investments, including Antares' $161M DoD contract for nuclear microreactors in space, SpaceX's Starship orbital test, and the Department of Energy's backing of open-source AI models for scientific research.",
+      "keyTakeaways": [
+        "Space-based defense systems represent a new multi-billion dollar procurement category for the DoD, with Antares' $161M contract signaling substantial government appetite for private space-tech solutions in nuclear power and weapons systems.",
+        "Commercial space companies are increasingly positioned as critical national security vendors, creating defensible, long-term revenue streams from government contracts that are less susceptible to market cycles than commercial satellite services.",
+        "The convergence of AI, nuclear technology, and space systems is creating complex technical barriers to entry that favor well-capitalized startups with government relationships\u2014Antares' Mark-0 reactor achievement and DoE's AI focus suggest dual-use technology will drive significant venture and government funding."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 180: The US Has Weapons in Space"
+    },
+    {
+      "id": "0f27dd19",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms Alpine Investors and Shore Capital Partners are building internal CEO pipelines rather than hiring external executives, with Shore's two-year CXO program and Alpine's post-MBA placement track receiving 750 applications for just 12 slots. Meanwhile, India's secondaries market is reaching an inflection point as growing IPO activity, regulatory pressure on primary funds, and aging fund portfolios create new exit paths for secondary investors like TR Capital and Neo Asset Management.",
+      "keyTakeaways": [
+        "PE firms are shifting CEO recruitment strategy from external hiring to cultivating internal talent through structured programs\u2014this addresses talent retention and ensures cultural fit while reducing hiring risk in portfolio company leadership.",
+        "Alpine's CXO program acceptance rate (1.6%) is more selective than Harvard, signaling that operational talent development is becoming a competitive differentiator for PE firms seeking to attract and retain top early-career professionals.",
+        "India's secondaries market is maturing due to IPO market recovery and regulatory tightening on primary funds, creating new arbitrage opportunities for secondaries-focused investors as GPs increasingly need liquidity solutions for aging vehicles."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The case for building, not buying CEOs"
+    },
+    {
+      "id": "3dc445f9",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Rivals BNSF, CPKC, and CSX are seeking regulatory remedies to derail the $85 billion Union Pacific-Norfolk Southern merger, with formal access requests due by mid-November and STB ruling expected in 2027. Separately, Siguler Guff raised over $3 billion for its sixth small-cap buyout fund, underscoring strong capital deployment in mid-market transactions driven by abundant family-owned targets and lower leverage requirements in a rising-rate environment.",
+      "keyTakeaways": [
+        "The UP-NS merger faces material regulatory risk if competitors' trackage access requests are approved\u2014Union Pacific's threat to walk away and pay a $2.5 billion breakup fee is credible given only $2.11 billion in cash, creating uncertainty for deal investors through early 2028.",
+        "Small-cap buyout fundraising is accelerating despite macro headwinds, signaling LP confidence in a fragmented market with thousands of founder-owned targets; this creates competitive pressure for mega-fund strategies relying on larger deals.",
+        "Political dynamics matter: regulatory approval may hinge less on merit and more on White House preferences, as the STB navigates Union Pacific's prior donations and potential administration pushback if the deal is threatened."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\ud83d\ude82 Axios Pro Rata: Derailing a megamerger"
+    },
+    {
+      "id": "88c2051e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Iran war and Strait of Hormuz closure have triggered a global energy crisis that is paradoxically reducing fossil fuel emissions by half a percent this year, according to Carbon Brief analysis. Higher oil and natural gas prices are driving down consumption in liquid fuels and transport sectors, though coal burning is increasing by over 1%, offsetting previous International Energy Agency projections about declining coal use. The Trump administration continues to slow-walk wind energy permits while simultaneously achieving environmental outcomes through tariffs and geopolitical disruption.",
+      "keyTakeaways": [
+        "Energy price spikes from geopolitical conflict may achieve short-term emissions reductions more effectively than policy\u2014investors should monitor how sustained high oil/gas prices affect renewable energy demand and deployment timelines.",
+        "Coal consumption is rising despite broader emissions declines, indicating energy transition strategies that rely solely on fossil fuel pricing will fail without targeted coal phase-out policies and nuclear/renewables investment.",
+        "The Trump administration's mixed environmental record\u2014hostile wind policy but tariff-driven oil/gas deterrence\u2014creates unpredictable regulatory conditions for clean energy investors; geopolitical energy shocks may temporarily mask structural climate policy weakness."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Iran\u2019s Emissions Fallout"
+    },
+    {
       "id": "00963e7e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18375,17 +18465,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 104
+      "count": 105
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 398
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 25
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 423
+      "count": 425
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 399
     },
     {
       "name": "Fintech",
@@ -18396,12 +18491,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 31
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 24
     }
   ],
-  "lastUpdated": "2026-09-17T12:19:41.655385Z"
+  "lastUpdated": "2026-09-18T11:59:27.737317Z"
 }
