@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "c1e5895e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital is experiencing record exit values of $2.1 trillion in 2026, but a significant disconnect between private valuations and public market appetite is creating a liquidity paradox. Median VC-backed IPOs are underperforming the Morningstar Growth Index by 38.2% within 120 days of listing, forcing 86 of 110 IPO-ready companies to continue raising private capital instead, while secondaries markets have surged to record $107.1 billion to fill the liquidity void.",
+      "keyTakeaways": [
+        "The venture exit market is consolidating around mega-deals rather than broad IPO activity\u2014the top 10 deals captured 67.4% of the $416 billion in deal value, with OpenAI's single round representing $122 billion, suggesting investors should focus on scale rather than volume-based returns.",
+        "Companies are strategically delaying public debuts due to valuation arbitrage risk; with 86 IPO-ready companies choosing to raise more venture capital instead of going public, this signals extended private holding periods and shifts capital allocation toward later-stage funding and secondary markets.",
+        "The rise of agentic AI is creating new infrastructure investment opportunities through emerging payment protocols (MCP, ACP, AP2, TAP, UCP, x402, MPP) as the machine economy scales, but identifying profitable positions in these nascent categories remains challenging for traditional VC investors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Venture's curse"
+    },
+    {
+      "id": "bdbd5ee0",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Taiwan's stock market has become the world's fifth largest by value, but remains heavily dependent on TSMC, which comprises 40% of the TAIEX benchmark index. The Taiwan Stock Exchange is actively diversifying its appeal beyond semiconductors to other AI supply chain companies and overlooked \"hidden champions,\" while implementing corporate governance reforms similar to Japan's successful shareholder value initiatives. Despite record IPO activity last year, Taiwan significantly trails Hong Kong in capital raised, presenting both challenges and opportunities as AI trends reshape Asian tech valuations.",
+      "keyTakeaways": [
+        "TSMC concentration risk represents a major vulnerability for Taiwan's market \u2014 the 40% weighting means index performance is essentially tethered to one company, limiting institutional diversification opportunities and creating systemic exposure to semiconductor cycle volatility.",
+        "The Taiwan Stock Exchange's push for governance reforms and ecosystem broadening mirrors Japan's playbook, suggesting a multi-year opportunity for capital allocation into second-tier Taiwanese tech companies as investor attention expands beyond mega-cap plays.",
+        "Taiwan's complete AI supply chain ecosystem offers a secular growth narrative for the next 3 years according to exchange leadership, but the market's structural limitations (1:30 PM close, lower IPO volumes than Hong Kong) suggest regulatory modernization will be critical to capturing this opportunity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The view from Taiwan"
+    },
+    {
+      "id": "a71186f2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Inertia, a fusion energy company, has announced a significant breakthrough by simulating net energy gain using what the newsletter describes as the only technology proven to achieve breakeven. This milestone represents meaningful progress in commercial fusion development, a sector that has attracted substantial venture capital and strategic investment in recent years.",
+      "keyTakeaways": [
+        "Inertia's simulated net energy gain demonstration validates its fusion approach and differentiates it competitively in a crowded fusion startup landscape, potentially strengthening its position for future funding rounds and partnerships.",
+        "This breakthrough supports the thesis that fusion technology is transitioning from theoretical research to practical commercialization, which could accelerate capital deployment into fusion infrastructure and supply chain companies.",
+        "Recurring fusion milestones by portfolio companies signal maturation of the fusion sector and may justify continued institutional investment despite the long timeline to revenue-generating power plants."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Inertia Announces a New Fusion Milestone"
+    },
+    {
+      "id": "49962c18",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers five major climate and energy developments: U.S. diplomatic negotiations with Houthis over Red Sea shipping lanes are tempering oil prices despite geopolitical tensions; the Trump administration's reinterpretation of the Endangered Species Act to exclude incidental wildlife deaths from energy projects faces immediate legal challenges from environmental groups like Earthjustice; and ongoing regulatory delays continue to hamper wind energy development despite the industry's growth prospects.",
+      "keyTakeaways": [
+        "Political negotiations can rapidly destabilize commodity prices\u2014U.S. talks with Iranian-backed Houthis reduced oil prices 1-4% despite regional militancy, signaling deal-making may override supply disruption concerns and creating volatility for energy investors.",
+        "Regulatory interpretation shifts pose existential risks to renewable energy expansion; weakening Endangered Species Act enforcement could accelerate wind and solar permitting but also invite costly litigation that drains developer resources and extends project timelines.",
+        "The wind industry faces a paradoxical squeeze: relief from species protection liability offers little comfort when federal permitting backlogs persist, suggesting that regulatory bottlenecks\u2014not environmental compliance costs\u2014remain the primary constraint on clean energy capital deployment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Strait Shooters"
+    },
+    {
+      "id": "64a49df2",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Global M&A activity is experiencing a dramatic third-quarter collapse, with volumes down 49% quarter-over-quarter and deal counts down 39%, breaking a six-quarter streak of $1 trillion+ activity. The decline is driven by high oil prices, stubborn inflation, expected interest rate hikes, and lingering SaaS sector concerns, with megadeals dropping sharply from 27 last quarter to only nine so far this quarter. Meanwhile, venture funding continues with major rounds including Crusoe's $3.9 billion raise at a $30.9 billion valuation and Emulate's $700 million funding round, though the overall M&A slowdown signals macro headwinds affecting deal activity across sectors.",
+      "keyTakeaways": [
+        "The 61% quarter-over-quarter drop in U.S. M&A volume represents the most severe contraction in recent cycles, suggesting buyers are fundamentally repricing assets and reassessing deal models rather than experiencing a typical seasonal pause.",
+        "Megadeal scarcity (only 9 deals over $10B this quarter versus 27 last quarter) indicates that even high-value transactions are being delayed, signaling that the slowdown affects quality assets across sectors, not just secondary deals.",
+        "Strong venture funding activity in data centers (Crusoe), AI labs (Emulate), and healthcare platforms contrasts sharply with the M&A slowdown, suggesting VCs are still deploying capital in high-growth sectors while strategic M&A buyers remain sidelined due to macro uncertainty."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Slowdown"
+    },
+    {
+      "id": "aa2a928d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's weekly climate and energy digest highlights five critical developments: a new analysis suggesting U.S. nuclear costs are lower than previously believed, Federal Reserve rate hikes creating headwinds for renewable energy financing, House Democrats' sweeping climate policy proposal addressing AI data centers and renewable tax credits, continued delays in wind turbine permit approvals despite a court ruling against the Trump administration's freeze, and major tech companies launching a trade group to promote flexible demand management at data centers.",
+      "keyTakeaways": [
+        "Nuclear energy economics may be improving substantially according to new analysis from a former industry skeptic, suggesting potential capital reallocation toward atomic energy projects over traditional renewables in the near term.",
+        "Rising interest rates from the Federal Reserve disproportionately impact renewable energy projects due to their capital-intensive, long-duration cash flow profiles, creating investment headwinds for solar and wind compared to nuclear and natural gas alternatives.",
+        "The intersection of energy policy (Democratic climate proposals, Trump wind freeze delays) and AI/data center demand is reshaping grid infrastructure priorities, with flexible demand management emerging as a critical value driver for utilities and tech infrastructure investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "e2ca4480",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18463,6 +18571,16 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 428
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 402
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 105
@@ -18471,16 +18589,6 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 25
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 425
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 399
     },
     {
       "name": "Fintech",
@@ -18493,5 +18601,5 @@
       "count": 31
     }
   ],
-  "lastUpdated": "2026-09-18T11:59:27.737317Z"
+  "lastUpdated": "2026-09-19T11:43:07.180932Z"
 }
