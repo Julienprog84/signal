@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "7f7362b4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Wearable device makers are being valued by investors primarily on their data collection and subscription revenue models rather than hardware sales, as exemplified by Oura's upcoming IPO targeting a $16 billion valuation\u2014nearly four times Fitbit's 2015 IPO. Investment in wearables reached $4.1 billion in 2026, with major deals like Whoop's $575 million Series G demonstrating that the recurring intelligence layer and subscription multiples, not device distribution, will determine long-term value in the sector.",
+      "keyTakeaways": [
+        "Hardware is now viewed as a distribution channel and sensing capability, not the primary revenue driver\u2014the real valuation multiple comes from recurring subscription data intelligence services, meaning founders should prioritize subscription retention metrics over device unit economics",
+        "Oura's public listing will be a pricing benchmark for the entire wearables sector; if it prices well, it will unlock capital for the next wave of companies and reset investor expectations across the category",
+        "With wearables penetration now at 1 in 2 US adults and $4.1 billion in annual investment, this sector is transitioning from consumer novelty to enterprise health intelligence platform, creating opportunities in data aggregation, analytics, and vertical-specific applications rather than hardware innovation"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Wearables are just a vessel for your data"
+    },
+    {
       "id": "c1e5895e",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -18573,7 +18591,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 428
+      "count": 429
     },
     {
       "name": "Climate & Energy",
@@ -18601,5 +18619,5 @@
       "count": 31
     }
   ],
-  "lastUpdated": "2026-09-19T11:43:07.180932Z"
+  "lastUpdated": "2026-09-20T11:55:08.060509Z"
 }
