@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "a0bcc2cf",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-22",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French startups raised \u20ac42 million across 9 deals this week, with AI-focused companies capturing \u20ac34.5 million of that total through 6 transactions. Leadership changes at France Digitale see Bettina Reveyron, the Social Impact Director at Doctolib, taking over from Maya No\u00ebl as general director, signaling a potential shift in the organization's strategic focus.",
+      "keyTakeaways": [
+        "AI startups are capturing 82% of French venture funding this week (\u20ac34.5M of \u20ac42M), indicating concentrated capital allocation toward a single sector and potential overheating risk in AI valuations",
+        "The average deal size of \u20ac4.7 million suggests a healthy mid-market segment, but the AI concentration means non-AI founders face tighter capital competition despite absolute funding levels remaining solid",
+        "Hidden costs of AI agent deployment\u2014infrastructure, token expenses, and workforce training\u2014are emerging as a critical profitability constraint that investors and entrepreneurs must model carefully to avoid value destruction"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "22.09 - On sait qui va succ\u00e9der \u00e0 Maya No\u00ebl \u00e0 la t\u00eate de France Digitale"
+    },
+    {
+      "id": "3484533d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private credit mega-funds are consolidating market share, with funds over $5 billion capturing 56.9% of global capital raised in H1 2026\u2014up to 69.7% in the US\u2014while emerging managers hit a record low of 5.5% of US commitments. Capital deployment is becoming challenging as broadly syndicated bank loans offer competitive pricing, forcing private credit managers to justify their premium positioning against traditional lending alternatives.",
+      "keyTakeaways": [
+        "Mega-fund dominance in private credit is accelerating: the number of funds closing fell 34.6% while capital raised grew 33.7%, signaling LP concentration around established names and away from emerging managers\u2014a challenging environment for newer credit strategies seeking first-time funds.",
+        "Private credit's competitive advantage is eroding as bank syndication pricing improves, shifting the narrative from 'private credit is the clear choice' to a pricing-based debate, which pressures margins and may trigger redemption waves from underperforming funds.",
+        "US PE activity shows warning signs with deal values down 10.6% YoY ($461B H1 2026) despite stable deal counts, suggesting sponsors are increasingly rationing capital for large, financing-dependent deals\u2014potential negative feedback loop for private credit deployment and exit opportunities through 2026."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Is private credit losing ground?"
+    },
+    {
+      "id": "2b53cc19",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Oura, the Finnish wearable ring maker, has filed for IPO and is positioned as the most consequential near-term public offering after OpenAI and Anthropic delayed theirs. The company demonstrated strong financial momentum with $1.2 billion in revenue for the first nine months of 2026 (up from $697.6 million in 2025) and swung to $60.8 million net income, while its subscriber base grew 96% year-over-year to 5.7 million paid members.",
+      "keyTakeaways": [
+        "Oura is capturing meaningful recurring revenue at scale with 5.7 million paid subscribers growing 96% YoY, representing a durable software layer atop hardware sales that could support higher valuations than typical consumer hardware companies.",
+        "The company's 42 billion hours of health data represents a defensible competitive moat for AI-driven personalization, positioning it as a data play even though management frames it as a hardware company, signaling underappreciated long-term value creation potential.",
+        "Oura's IPO timing advantage\u2014with OpenAI pushed to 2027 and Anthropic delayed to November\u2014could attract capital seeking exposure to consumer AI and wearables momentum, but the success hinges on investor appetite for hardware-first business models in a software-valued market."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Ring time"
+    },
+    {
+      "id": "b61b5ae9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Department of Energy announced $99 million in funding for 21 next-generation geothermal projects, including $5 million each to industry leaders Fervo Energy, Zanskar Geothermal and Minerals, and Quaise Energy. The initiative aims to accelerate geothermal development through field research on enhanced geothermal technologies and exploratory drilling to identify new well sites, with all data made publicly available. Meanwhile, diesel prices have spiked to $6.53 per gallon, prompting political pressure on the Trump administration to address agricultural costs, while the White House considers a $5 billion fund to rebuild Middle East energy infrastructure damaged in regional conflicts.",
+      "keyTakeaways": [
+        "Geothermal plays are receiving significant federal validation and capital; Fervo Energy, Zanskar, and Quaise are positioned as beneficiaries of accelerating DOE investment and data sharing that could improve project economics and reduce exploration risk.",
+        "The energy infrastructure funding proposal ($5 billion U.S. + $5 billion partner matching) signals the administration's pivot toward Middle East energy resilience, creating potential opportunities for U.S. energy companies in reconstruction contracts.",
+        "Energy commodity price volatility (diesel at record highs) and geopolitical instability are converging to drive policy support for alternative energy infrastructure, favoring companies with government contracts and emerging geothermal technologies over traditional fossil fuel supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "$6.53"
+    },
+    {
+      "id": "7b199571",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "State attorneys general are increasingly challenging major M&A deals on antitrust grounds, prompting the Trump administration's DOJ to reassert federal regulatory primacy and accuse states of \"gamesmanship.\" The tension will likely crystallize in the Paramount-Warner Bros. Discovery merger, where states are negotiating settlements including $1.5 billion in California production investment and per-film penalties, while the DOJ sided with Paramount without remedies. Meanwhile, Nscale, an AI hyperscaler spun from cryptocurrency mining in early 2024, filed for a $2 billion IPO\u2014marking the first major AI infrastructure IPO since the safety debate intensified\u2014despite reporting a $1.02 billion net loss on $140.6 million revenue in H1 2026.",
+      "keyTakeaways": [
+        "M&A uncertainty is rising due to fragmented antitrust enforcement between state and federal regulators; companies should expect longer deal timelines and negotiate with multiple jurisdictions simultaneously.",
+        "State-level antitrust settlements may become the new path of least resistance, creating a precedent where operational concessions (production commitments, penalty clauses) replace traditional deal blocking.",
+        "AI infrastructure remains venture-backed despite massive losses and is now entering public markets; this validates the neocloud operator thesis but raises questions about unit economics sustainability at scale."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Antitrust argument"
+    },
+    {
+      "id": "299a3423",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New York Climate Week's opening day revealed cautious optimism in the carbon dioxide removal industry, with Senator Brian Schatz highlighting nearly $1 billion in committed funding from Frontier Climate and bipartisan congressional support through the 45Q tax credit. Industry leaders acknowledged the need for transparency about failed projects and broader political coalition-building to defend carbon removal investments against skeptics who view the sector as a distraction from emission reductions.",
+      "keyTakeaways": [
+        "Frontier Climate's $1 billion fund represents significant capital deployment in CDR, but industry insiders admit some projects fail\u2014companies should expect scrutiny of technical feasibility and economics before scaling.",
+        "The 45Q tax credit for carbon capture and storage survived recent policy purges, suggesting bipartisan support exists for this sector; investors should monitor congressional relationships as the next key variable for deal flow and valuations.",
+        "Carbon removal faces credibility challenges within the climate community itself, meaning companies need differentiated narratives and proven track records to attract institutional capital and policy support going forward."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Carbon Removal\u2019s Cautious Optimism"
+    },
+    {
       "id": "e7eaba14",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18681,17 +18789,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 106
+      "count": 107
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 431
+      "count": 434
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 403
+      "count": 405
     },
     {
       "name": "Fintech",
@@ -18709,5 +18817,5 @@
       "count": 31
     }
   ],
-  "lastUpdated": "2026-09-21T13:29:25.540695Z"
+  "lastUpdated": "2026-09-22T12:13:41.884837Z"
 }
