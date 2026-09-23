@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "1e0552bb",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral, the European AI unicorn that raised \u20ac3 billion, continues its acquisition strategy with the purchase of startup Pimento for \u20ac3.8 million. The newsletter covers a wave of French healthcare and workforce innovation funding, including HighLife's \u20ac80 million Series B for cardiac devices and Relaisant\u00e9's \u20ac6 million seed round for home care staffing, alongside government commitment of \u20ac80 million for AI adoption in the labor market through the \"Impulsion IA 2027\" program.",
+      "keyTakeaways": [
+        "Post-unicorn acquisitions are becoming a consolidation strategy for European AI leaders\u2014Mistral's third acquisition this year signals M&A as a growth lever beyond organic scaling for well-capitalized AI companies",
+        "Healthtech and workforce solutions are attracting substantial capital in continental Europe, with multiple rounds above \u20ac6 million suggesting strong investor appetite for digital transformation in regulated sectors with clear ROI metrics",
+        "Government backing of AI adoption (\u20ac80 million French program) creates a tailwind for B2B AI tools targeting SMEs and workforce training, benefiting companies like Zeliq that are capturing commercial prospecting and enterprise automation use cases"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "23.09 - Une nouvelle acquisition pour Mistral"
+    },
+    {
+      "id": "e224875f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Charles Schwab acquired Forge Global for $660 million to democratize pre-IPO stock trading for its 48 million retail clients, betting its $13 trillion in assets can reduce costs and improve price discovery in the traditionally opaque secondary market. Meanwhile, oil and gas PE deal activity collapsed 60% quarter-over-quarter to just 16 deals worth $3.4 billion in Q2 2026, with firms focusing on managing existing portfolios rather than deploying fresh capital amid price volatility and supply constraints from the Strait of Hormuz closure.",
+      "keyTakeaways": [
+        "Schwab's Forge acquisition signals institutional conviction that pre-IPO trading is ready for retail scale\u2014investors should monitor whether this move actually increases secondary market liquidity and pricing transparency, or if regulatory and operational hurdles prevent mainstream adoption.",
+        "Oil and gas PE has hit a wall with new platform investments nearly halted; allocators in energy should expect consolidation-focused strategies and secondary transactions to dominate 2026, not traditional growth capital deployment.",
+        "The divergence between pre-IPO market opportunity (tech/AI focused, high demand) and energy sector retreat (supply shocks, volatility) suggests PE dry powder is rotating away from commodities toward alternative asset classes."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Inside  Schwab\u2019s  private market push"
+    },
+    {
+      "id": "dd22f1ef",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy-focused newsletter covering major geopolitical and infrastructure challenges shaping the clean energy transition. The UN Secretary General warned of climate change as an intergenerational injustice, while President Trump linked Middle East tensions to oil prices, highlighting divergent policy approaches to energy. The newsletter highlights key industry players including Waymo, Applied Atomics, and Inertia Enterprises (fusion), alongside discussions on offshore wind litigation, grid transmission constraints, and nuclear market consolidation.",
+      "keyTakeaways": [
+        "Offshore wind and transmission infrastructure remain critical bottlenecks in the energy transition, with ongoing legal challenges and grid capacity issues limiting deployment of renewable capacity despite political support.",
+        "Nuclear energy is gaining institutional momentum with IPO activity and CEO-level attention from major fusion companies, signaling investor confidence in next-generation nuclear as a climate solution and potential hedge against geopolitical oil price volatility.",
+        "Divergent U.S. policy narratives on energy (climate urgency vs. energy dominance through oil) create uncertainty for clean energy investors; geopolitical tensions increasingly tied to oil market dynamics suggest energy security concerns will compete with decarbonization priorities in capital allocation decisions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "\u2018One Generation Consuming the Future of the Next\u2019"
+    },
+    {
+      "id": "8692db1a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Climate tech VC fundraising dropped nearly 40% from 2024 to 2025, yet AI-driven demand for data center power is creating unexpected tailwinds for the sector. Leading climate VCs like Gigascale Capital (Mike Schroepfer's $250M fund) and Earthshot Ventures report that generalist investors are increasingly co-investing alongside climate specialists, with particular strength in energy, critical minerals, and supply chain technologies.",
+      "keyTakeaways": [
+        "Generalist tech investors are becoming primary co-investors in climate startups, suggesting climate tech is gaining mainstream credibility and capital access beyond specialized climate funds despite VC fundraising headwinds",
+        "Energy, critical minerals, and supply chain solutions are attracting record capital from institutional investors\u2014indicating a bifurcated market where infrastructure-focused climate tech outperforms other segments",
+        "AI's infrastructure demands (particularly data center power requirements) are creating a secular tailwind for renewable energy and energy storage technologies, repositioning climate tech as essential infrastructure rather than ESG-adjacent investment"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Climate check"
+    },
+    {
+      "id": "b4e34fa1",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A Texas hedge fund manager, Sid Jawahar, was sentenced to 11 years in prison for operating a $31.35 million Ponzi scheme that defrauded investors including NFL star Travis Kelce. After his initial frontier markets fund collapsed due to concentrated bets on Philip Morris Pakistan stock, Jawahar created a bogus venture capital shell called Swiftarc Ventures that hired real staff and funded startups while funneling investor money to cover losses and his personal lifestyle. The scheme unraveled in June 2022 when regulators discovered fraud, and the case highlights how venture capital structures can be exploited to perpetuate securities fraud.",
+      "keyTakeaways": [
+        "VC fund structures create opacity that can be exploited\u2014Swiftarc Ventures hired legitimate employees and backed real startups, creating cover for a Ponzi scheme while most staff remained unaware of the fraud, demonstrating the need for deeper due diligence on fund management and capital flows.",
+        "Fund redemptions are a critical pressure point in fraud detection\u2014Jawahar's scheme accelerated when early investors tried to exit, forcing him to raise new capital from other sources, suggesting investors should scrutinize redemption processes and fund liquidity claims carefully.",
+        "Concentrated single-position bets in alternative funds pose systemic risk\u2014the entire scheme originated from Jawahar's aggressive concentration in Philip Morris Pakistan stock, underscoring why portfolio diversification requirements and position limits matter for investor protection."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Ponzi VC"
+    },
+    {
+      "id": "d317e42a",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-09-22",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes AI's transformative potential through the lens of leverage and averages, noting the difficulty in predicting specific outcomes mirrors early internet and smartphone eras. The newsletter highlights Anthropic's reported 80% gross margins before payment to distribution partners ahead of a delayed IPO filing, while discussing ongoing AI safety concerns across major labs including Google, OpenAI, and Anthropic amid evidence of model vulnerabilities and researcher departures.",
+      "keyTakeaways": [
+        "Anthropic's 80% gross margins represent a critical profitability benchmark for AI infrastructure companies, suggesting the sector may achieve sustainable unit economics faster than historical software comparables\u2014critical for evaluating AI company valuations ahead of the company's year-end IPO filing.",
+        "AI safety incidents (Gemini's authorized hacking test, Claude jailbreaks exploiting OpenAI's weak security) reveal competitive vulnerabilities and escalating technical challenges that could reshape investment risk assessment across OpenAI, Anthropic, and Google's AI divisions.",
+        "The framework of 'leverage points' versus 'tools everyone will use' is the operative distinction for capital allocation: AI creates transformational value only where it unlocks new economics or removes barriers to entry, not where it merely automates existing workflows\u2014differentiating between true platform shifts and margin enhancement."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 661"
+    },
+    {
+      "id": "c6e2b8eb",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Flex Summit 2026, scheduled for October 14-15 in Austin, will convene energy industry leaders including executives from Base, Tesla, and Austin Energy to discuss the emerging distributed energy resources (DER) market and grid flexibility. The conference features high-profile sessions on the shift from energy volume to capacity value, the forces shaping the energy transition, and critical questions about whether DERs can deliver on their grid support promises, with participants including Jigar Shah and other prominent energy transition figures.",
+      "keyTakeaways": [
+        "Distributed energy resources and grid-edge flexibility are moving from peripheral to central strategic priorities, with Tesla, Base, and municipal utilities now co-investing in capacity frameworks rather than competing on legacy volume metrics.",
+        "The market is at an inflection point testing whether DERs can deliver promised grid services at scale\u2014investors should monitor whether regulatory frameworks and compensation mechanisms will align incentives by 2026.",
+        "The presence of venture-backed companies (Base), established automakers (Tesla), and public utilities (Austin Energy, Eversource) at a single convening signals consolidation and legitimacy in the DER/grid flexibility sector, suggesting significant capital will flow toward proven execution models."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Come see Austin Energy, Base, Tesla, and more at Flex Summit"
+    },
+    {
+      "id": "8a99533a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Utilities face mounting political and consumer pressure as massive rate hikes loom, with PowerLines estimating $31 billion in utility rate increase requests for 2025 and S&P Global projecting $1.3 trillion in capital expenditures through 2030. Despite their political importance, investor-owned utilities like Exelon appear politically weakened heading into permitting reform negotiations, with insiders suggesting utilities cannot oppose legislative deals because they depend heavily on Department of Energy relationships for future funding.",
+      "keyTakeaways": [
+        "Utilities' traditional monopoly model is under strain from rising infrastructure costs being passed to consumers, creating a political vulnerability that makes large rate hikes harder to justify even when regulators approve them\u2014investors should monitor public utility commission proceedings closely.",
+        "Permitting reform could fundamentally reshape utility economics by enabling interregional transmission planning, threatening incumbent utilities' protected territorial spending patterns and forcing capital reallocation toward broader grid infrastructure rather than localized service areas.",
+        "The sector faces a structural power imbalance where utilities need government resources more than they can afford to lobby against regulatory changes, suggesting regulatory risk is elevated and investor-owned utility valuations may not fully price in the reshaping of their competitive moat."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Everybody Hates Utilities"
+    },
+    {
       "id": "a0bcc2cf",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18789,17 +18933,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 107
+      "count": 108
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 434
+      "count": 437
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 405
+      "count": 408
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 32
     },
     {
       "name": "Fintech",
@@ -18810,12 +18959,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 25
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 31
     }
   ],
-  "lastUpdated": "2026-09-22T12:13:41.884837Z"
+  "lastUpdated": "2026-09-23T12:27:03.987425Z"
 }
