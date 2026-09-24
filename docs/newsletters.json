@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "c9fc7f03",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "XAnge has published a 100-page M&A playbook specifically designed for European tech scale-up founders seeking growth through acquisition, signaling a structural shift in how European startups approach expansion beyond organic growth. The newsletter also highlights Team for the Planet's revised financial trajectory, achieving only 5% of its \u20ac1 billion 2030 target and pivoting its funding strategy, while exploring broader themes around AI saturation in fundraising communications and emerging support programs for social housing operators.",
+      "keyTakeaways": [
+        "M&A is becoming an institutionalized growth lever for European startups with dedicated playbooks now available, suggesting investor focus should shift toward identifying acquisition targets and financing mechanisms for bolt-on deals rather than pure organic scaling plays",
+        "Team for the Planet's significant shortfall (\u20ac50M vs \u20ac1B target) and strategy pivot indicates that climate tech platforms requiring massive capital deployment face structural challenges in European venture markets, warranting caution on similar mega-fund climate initiatives",
+        "European startup ecosystem is maturing past the venture-centric fundraising narrative\u2014operators now require operational playbooks for M&A, signaling a transition from growth-stage to consolidation-stage market dynamics"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "24.09 - Le M&A, une arme de plus en plus privil\u00e9gi\u00e9e par les startups europ\u00e9ennes"
+    },
+    {
+      "id": "b62ae400",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new white paper from Amperon and EY examines how AI-powered forecasting is transforming utility grid management by replacing reactive, costly responses with real-time predictive insights. The report addresses how utilities can better handle load growth, electrification, and weather volatility through unified forecasting models rather than siloed, static approaches that fall short in modern grid conditions.",
+      "keyTakeaways": [
+        "AI-powered forecasting represents a significant market opportunity for software and analytics vendors serving utilities, as traditional forecasting methods are proving inadequate for managing grid complexity and creating demand for more sophisticated solutions.",
+        "Utilities adopting unified forecasting platforms can reduce capital waste from over-procurement and overly conservative operating practices, potentially improving operational margins and lowering consumer costs\u2014making this a financially attractive operational upgrade.",
+        "The convergence of load growth, electrification, and climate volatility is structurally driving utilities toward digital transformation investments, creating sustained demand for AI/ML infrastructure in the energy sector over the next decade."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "How AI-powered forecasting is changing utility decision-making"
+    },
+    {
+      "id": "b3deb7ed",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Texas Teachers' $225.3 billion pension fund is warning about massive AI infrastructure spending that now represents 3.5% of US GDP, drawing parallels to historical booms that led to overbuilding and bankruptcies. Meanwhile, Bessemer Venture Partners raised $5.75 billion with a barbell strategy ($4B growth, $1.75B early-stage), reflecting how AI is forcing multistage firms to deploy larger checks for fewer winners, while Twin Bridge Capital launched a $600 million debut secondaries fund targeting underserved single-asset continuation deals in the lower-middle market.",
+      "keyTakeaways": [
+        "Pension fund CIOs are actively hedging AI exposure as it becomes unavoidable across all asset classes\u2014this creates both opportunity for diversified managers and risk for concentrated AI bets",
+        "The venture market is consolidating around larger checks for fewer winners, leaving a fragmented opportunity set in early-stage and lower-market segments where newer managers like Twin Bridge can compete",
+        "AI capex spending at 3.5% of GDP exceeds all prior US infrastructure booms; the critical question for investors is timing of revenue realization and which companies survive the inevitable shakeout"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Pension giants fire AI warning shots"
+    },
+    {
+      "id": "2a3b75b9",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Venture capital returns remain significantly underperforming despite the AI boom, with the vast majority of funds raised in the past decade still below 1.0x DPI according to new Carta analysis of 3,000 funds. The IPO market is cooling sharply after Labor Day, with Bamboo Insurance Services postponing its planned $3.3 billion IPO amid broader pullbacks from Holtec and SB Energy, signaling a slowdown in public market exits for growth companies.",
+      "keyTakeaways": [
+        "VC fund performance is deteriorating with only top-quartile 2017-2018 vintage funds achieving positive DPI returns, suggesting LP capital allocation should focus on manager track record and selectivity rather than asset class exposure",
+        "The IPO window is closing for mid-sized companies; postponements indicate limited appetite for growth-stage companies at valuations that don't offer sufficient returns\u2014a headwind for PE-backed portfolio company exits",
+        "The widening gap between TVPI and IRR in VC suggests valuations are not translating into cash returns, indicating potential correction risk across growth portfolios and potential down-round pressure for mid-stage startups seeking capital"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: IPOs on hold"
+    },
+    {
+      "id": "9e79fade",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-09-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The AI infrastructure boom is creating severe supply chain bottlenecks that are forcing utilities and industrial customers to defer critical maintenance on aging electrical equipment, according to Integrated Power Services CEO John Zuleger. Major OEMs are prioritizing hyperscaler data center orders up to two years in advance, leaving traditional customers like copper mines unable to procure new switchgear and forcing them to extend the life of equipment already three-quarters through its operational lifespan. The crisis is so acute that OEMs are delivering equipment 70% complete to data center builders and outsourcing final assembly to third-party companies, raising concerns about long-term reliability and maintenance quality.",
+      "keyTakeaways": [
+        "Deferred maintenance on critical grid infrastructure represents a hidden systemic risk: transformers and switchgear already near end-of-life are being pushed beyond design limits, creating potential for cascading failures that could impact both data center reliability and broader grid stability.",
+        "OEM capacity constraints are creating a two-tier infrastructure market where hyperscalers get priority access to new equipment while traditional industrial and utility customers must adopt life-extension strategies, signaling investment opportunity in aftermarket services, refurbishment, and predictive maintenance technologies.",
+        "The AI boom's infrastructure demands are exacerbating existing underinvestment in power sector maintenance, suggesting that regulatory frameworks and capital allocation will eventually need to address grid resilience as a prerequisite for continued AI deployment."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "The AI boom and the problem of deferred maintenance"
+    },
+    {
+      "id": "44562c4b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Energy Secretary Chris Wright and industry leaders gathered at New York Climate Week discussed permitting reform as a catalyst for clean energy deployment, with Quaise Energy's CEO noting that geothermal regulatory parity with oil could achieve 90% of necessary goals. New Jersey Governor Mikie Sherrill highlighted aggressive state-level action, approving 18 solar and battery storage projects in six months to capitalize on federal tax credits before they expire, while experts predicted comprehensive federal reforms covering NEPA, transmission infrastructure, and permitting certainty.",
+      "keyTakeaways": [
+        "Permitting reform is crystallizing as the critical bottleneck for clean energy scaling, with geothermal (Quaise) and solar-battery storage projects moving from concept to deployment as regulatory barriers lower at state and federal levels.",
+        "State-level action is accelerating ahead of federal deals\u2014New Jersey's six-month approval of 18 projects suggests significant capital deployment opportunities in battery storage, solar, and advanced geothermal as permitting timelines compress.",
+        "Transmission infrastructure and executive-level permitting certainty remain undefined variables in federal negotiations, but industry consensus expects ambition matching the Manchin deal, creating potential deal flow for transmission and grid modernization investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Everything Happened"
+    },
+    {
       "id": "1e0552bb",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -18933,17 +19041,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 108
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 437
+      "count": 109
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 408
+      "count": 411
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 439
     },
     {
       "name": "Strategy & Thesis",
@@ -18961,5 +19069,5 @@
       "count": 25
     }
   ],
-  "lastUpdated": "2026-09-23T12:27:03.987425Z"
+  "lastUpdated": "2026-09-24T12:26:24.205720Z"
 }
