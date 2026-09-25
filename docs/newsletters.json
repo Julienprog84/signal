@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "d1edcd59",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-25",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "TikTok has launched an online safety-focused incubation program at Station F in Paris, set to support 10 startups over 6 months starting mid-December or early January. Separately, Reecall, a voice AI startup backed by Founders Future and BlaBlaCar's Francis Nappez, closed a \u20ac3.5 million funding round following a pivot to a white-label platform model. The newsletter also previews Big 2026, Bpifrance's flagship entrepreneurship conference on October 8th, and highlights the '101 Femmes Entrepreneures' competition celebrating female founders across French regions.",
+      "keyTakeaways": [
+        "TikTok's formal entry into European startup acceleration signals major tech platforms' commitment to addressing regulatory pressures around online safety\u2014a category likely to attract significant venture capital as compliance becomes a competitive differentiator.",
+        "Reecall's \u20ac3.5M raise demonstrates strong investor appetite for AI voice technology pivoting toward B2B white-label models, suggesting this approach has stronger unit economics than direct-to-consumer; watch for similar pivots in adjacent AI categories.",
+        "France's venture ecosystem remains active with government-backed institutions (Bpifrance) and corporate accelerators (TikTok/Station F) driving deal flow, while gender-focused entrepreneurship programs indicate ongoing efforts to tap underrepresented founder demographics as a growth lever."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "25.09 - TikTok d\u00e9barque \u00e0 Station F"
+    },
+    {
+      "id": "16d308af",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-09-25",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "This Deep Tech newsletter covers critical emerging technology trends including the dual-use risk of AI in bioweapon development, highlighted by Anthropic's disclosure of attempted misuse of its models, alongside major commercial breakthroughs from companies like AstroForge (AI-commanded spacecraft), Vast (lunar division launch), Outpost (in-space manufacturing), and Joby Aviation (3,100-mile autonomous flight). The Pentagon's $30M AI lie detector initiative and DOE's $215M quantum computing race signal significant government investment in frontier technologies.",
+      "keyTakeaways": [
+        "AI-enabled bioweapon risk is moving from theoretical to demonstrated threat\u2014Anthropic confirmed users attempted to weaponize its models for virus transmissibility and toxin design, requiring immediate investment focus on biosecurity infrastructure and dual-use monitoring frameworks.",
+        "Space-tech commercialization is accelerating with autonomous systems and in-space manufacturing entering operational phase, creating investment opportunities in orbital infrastructure across multiple players (AstroForge, Vast, Outpost, Joby).",
+        "Government capital allocation ($30M Pentagon AI lie detector, $215M DOE quantum race) signals competitive urgency in AI and quantum computing, likely spurring private sector follow-on investment in these domains as national security priorities."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 6,
+      "originalTitle": "DTN 181: The specter of AI-enabled bioweapons"
+    },
+    {
+      "id": "5713a5a8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Kalshi, a prediction market platform experiencing record trading volumes, faces a profitability headwind as its fastest-growing contract types generate the lowest fees. Combo contracts\u2014which bundle multiple outcomes and pay out only if all hit\u2014surged from 13% to 45% of volume between January and August while their take rate (0.30%) lags single-outcome sports bets (1.07%), causing the company's gross event take rate to fall from 1.21% to 0.71% despite 320% volume growth. Meanwhile, tech-focused PE fundraising has rebounded in Q3 with specialists like PSG Equity and Francisco Partners closing mega-funds, leaving generalist \"tourists\" struggling to compete as sector expertise becomes the primary differentiator in a consolidating market.",
+      "keyTakeaways": [
+        "Kalshi's growth paradox: while contract volumes grew 320%, fees grew only 145%, indicating the business is scaling volume at the expense of per-transaction profitability\u2014a sustainability concern if fee compression continues.",
+        "For PE investors, the tech sector rebound is bifurcating between specialists (PSG Equity raised \u20ac4.4B; Francisco Partners raised $16.4B) and generalists, suggesting pure-play software expertise and track record now matter more than capital availability.",
+        "Prediction markets and specialty PE are both experiencing the same pattern: as markets mature, lowest-cost/highest-volume segments emerge but compress margins, while differentiation shifts from access to expertise\u2014favoring incumbent specialists over newcomers."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Kalshi's long odds come at a cost  \ud83c\udfb2"
+    },
+    {
+      "id": "2556617c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "AJ Scaramucci's Solari Capital emerged from stealth with $350 million deployed, targeting a structural shift in startup timelines: companies now take 12-15 years to IPO versus 4 years in the 1990s, with only 34 tech IPOs in 2025 versus 205 in 1995. Scaramucci's portfolio companies like Fission Labs (tokenizing private shares) and Architect Financial (AI-focused derivatives exchange) aim to unlock early-stage value creation that has been locked in private markets, while also democratizing access to alternative assets like collectibles.",
+      "keyTakeaways": [
+        "The IPO timeline has tripled in two decades\u2014median VC-backed tech company age at IPO jumped from 6-9 years (1990s) to 12-13.5 years (2024-2025)\u2014creating a liquidity crisis for growth-stage investors and a structural opportunity for secondary market infrastructure companies.",
+        "Tokenized private shares and secondary market platforms are emerging as direct responses to extended hold periods; Solari's portfolio bets suggest this infrastructure layer will become as critical as traditional venture capital in the coming decade.",
+        "The concentration of value creation in private markets (median 2024 IPO revenue of $132M vs $40M in 1995, inflation-adjusted) combined with fewer public listings indicates venture returns are increasingly dependent on secondary liquidity solutions rather than traditional exits."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "The 12-year wait"
+    },
+    {
+      "id": "1af92c68",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A venture capital fund manager hired his children's nanny as an executive assistant in 2015, who gradually accumulated control over fund operations and allegedly stole $1.28 million from two Montana-based VC firms between 2023 and 2025. The nanny, Ellen Polcari, positioned herself as sole signatory on bank accounts, listed herself as an 80% owner and partner without the fund manager's knowledge, and diverted investor capital to personal expenses including online gambling and shopping shortly after funds were wired in. The SEC case highlights a fundamental operational vulnerability in emerging VC firms where a single trusted employee can gain unchecked access to investor capital.",
+      "keyTakeaways": [
+        "Segregation of duties is non-negotiable: No single person should control both fund bank accounts and wire instructions without independent verification. Investors should verify signatory authority matches fund ownership structure and that the fund manager (not staff) maintains primary account access.",
+        "Due diligence on emerging managers must include operational audits of fund administration, particularly who has access to capital and what independent controls exist. The absence of basic financial controls at firms managing $28.7 million from 85+ investors represents unacceptable operational risk.",
+        "This case demonstrates how small, founder-driven VC firms with minimal operational infrastructure are structurally vulnerable to fraud. LPs investing with emerging managers should require third-party fund administrators or, at minimum, mandatory board-level approval for all capital movements over specified thresholds."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Nightmare nanny"
+    },
+    {
+      "id": "bfe0655a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Climate Week 2026 has pivoted from emissions reduction to meeting AI's insatiable energy demands, with venture investors and major infrastructure firms prioritizing speed-to-power over climate impact or long-term viability. Natural gas generation capacity is projected to double to 155 GW by 2035, while Barry Diller withdrew his $18 billion bid for MGM Resorts, leaving the casino operator as a public company amid AI-driven disruption in media.",
+      "keyTakeaways": [
+        "The investment thesis in climate tech has fundamentally shifted from decarbonization to energy acceleration\u2014due diligence is being gutted in favor of speed metrics, creating an opportunity for any energy source (fossil fuels included) that can scale quickly to power AI infrastructure.",
+        "Large PE and infrastructure firms are now writing bigger checks than climate-focused VCs, signaling that capital allocation is flowing away from zero-emissions tech toward traditional energy sources, even as ExxonMobil raises its global emissions forecast by 10%.",
+        "AI's power requirements are reshaping entire sectors: Diller's MGM retreat shows even media/entertainment must compete for capital against AI-adjacent infrastructure plays, with real-world experiences temporarily hedging against AI displacement but facing longer-term viability questions."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Climate change"
+    },
+    {
+      "id": "9a2eb004",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration's Energy Secretary Chris Wright clarified that despite conflicting reports, the president has not endorsed a 90-day diesel export ban, instead focusing on growing domestic diesel supply to address refining capacity shortages and high prices. Meanwhile, the U.S. is advancing overseas nuclear export deals, signaling a shift in American energy diplomacy even as permitting reform negotiations between Republicans and Democrats appear to be stalling amid disagreement over regulatory concessions.",
+      "keyTakeaways": [
+        "Energy policy uncertainty persists: Mixed signals on diesel exports and permitting reform could create volatility for companies in refining, nuclear, and renewable energy sectors betting on regulatory clarity.",
+        "Nuclear exports emerging as strategic priority: The U.S. government is actively pursuing international nuclear deals, creating potential opportunities for American nuclear technology and engineering firms but also competition from Russia and other state-backed programs.",
+        "Clean energy momentum faces headwinds: While EV adoption and renewables deployment are accelerating globally, stalled permitting reform negotiations suggest political gridlock could slow domestic project development despite bipartisan agreement on some issues."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Wright Way"
+    },
+    {
+      "id": "ac6f032a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "House Science Committee leaders have introduced a bipartisan $10 billion fusion energy bill backed by the Fusion Industry Association, signaling growing political support for nuclear fusion as a climate solution. The substantial federal funding commitment reflects increased confidence in fusion technology's commercialization timeline and represents a major policy win for private fusion companies seeking government backing.",
+      "keyTakeaways": [
+        "Private fusion companies now have a concrete $10 billion funding opportunity through federal legislation, reducing capital requirements from private VCs and potentially accelerating commercialization timelines for portfolio companies",
+        "Bipartisan support indicates fusion has transitioned from niche cleantech to mainstream energy policy, suggesting lower regulatory risk and higher probability of sustained government funding across administrations",
+        "This represents a shift toward direct government investment in fusion R&D and deployment, creating a potential runway for fusion startups to reach profitability without relying solely on private capital markets"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "House Science Leaders Introduce a $10 Billion Fusion Bill"
+    },
+    {
+      "id": "156c4f33",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "At New York Climate Week, venture capitalists emphasized that hyperscaler demand for clean, reliable power is driving cleantech investment success, with Fervo Energy and X-Energy's recent IPOs cited as examples of companies benefiting from data center customers seeking firm power. The debate revealed a bifurcated market where AI-driven capital expenditures are fueling energy demand at an unprecedented scale, while philanthropic and venture funds like Earthshot Ventures and Elemental Impact are launching partnerships with Google, Microsoft, Amazon, and Meta to deploy climate solutions including energy storage, cooling systems, and low-carbon materials around data center infrastructure.",
+      "keyTakeaways": [
+        "Hyperscaler demand for firm, clean power is now the primary market driver for cleantech IPOs and funding\u2014investors should focus on companies solving data center energy needs rather than broader climate solutions without anchor customers.",
+        "The 'missing middle' funding gap persists even as headline cleantech deals proliferate, suggesting capital is concentrating around AI-adjacent opportunities while early-stage companies outside the data center ecosystem face continued scarcity.",
+        "Data center buildout presents a dual opportunity: cleantech companies can leverage hyperscaler scale and purchasing power to achieve profitability, but this concentration risk means sector returns increasingly depend on continued AI capex growth and hyperscaler priorities rather than policy or broader climate adoption."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: The Haves and Have-Nots"
+    },
+    {
       "id": "c9fc7f03",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -19041,17 +19203,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 109
+      "count": 110
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 411
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 26
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 439
+      "count": 443
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 414
     },
     {
       "name": "Strategy & Thesis",
@@ -19062,12 +19229,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 43
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 25
     }
   ],
-  "lastUpdated": "2026-09-24T12:26:24.205720Z"
+  "lastUpdated": "2026-09-25T12:26:10.833387Z"
 }
