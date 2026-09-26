@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "5f02a0cb",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Evergreen funds are undergoing a structural shift away from being purely private credit vehicles toward a more balanced portfolio including equity strategies, particularly in venture capital where assets have surged from $3 billion in 2024 to over $20 billion today. Direct lending assets have pulled back slightly after tripling from $70 billion in 2022 to exceed $210 billion, but redemption caps and improved market understanding of liquidity mechanisms are stabilizing the category. The evolution suggests evergreen funds may be reshaping access to private markets beyond traditional buyout and growth company structures.",
+      "keyTakeaways": [
+        "Venture capital evergreen funds have grown nearly 7x in two years to $20 billion+, driven by strong AI/tech markets and IPO activity\u2014this signals institutional capital is rapidly rotating toward liquid-adjacent VC exposure through evergreen structures",
+        "Direct lending's $210 billion asset base is stabilizing despite outflows, with redemption caps functioning effectively; investors should monitor whether this reflects genuine market equilibrium or temporary consolidation before the next wave of allocations",
+        "The shift from credit-dominated to equity-heavy evergreen portfolios may fundamentally alter how LP capital flows into private markets, potentially democratizing access but requiring scrutiny of track records in less-transparent interval and tender offer fund structures"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Green shoots in evergreen funds"
+    },
+    {
+      "id": "a18f841c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers three major climate and energy policy developments: stalled Senate negotiations on permitting reform for energy projects, a bipartisan House proposal to allocate $10 billion to fusion energy commercialization to compete with China, and a $7 billion EXIM Bank financing deal with Argentina for critical mineral extraction and infrastructure. These developments signal shifting priorities in U.S. energy policy under the Trump administration, with particular emphasis on domestic supply chain security and strategic minerals.",
+      "keyTakeaways": [
+        "Permitting reform legislation remains uncertain despite 78% betting market odds, with Democratic support contingent on White House commitment to halt attacks on renewables\u2014delays past midterms could derail the deal entirely.",
+        "The $10 billion American Leadership in Fusion Act represents a significant capital commitment to commercialize fusion technology and directly counter China's accelerating R&D spending, creating investment opportunities in early-stage fusion startups.",
+        "The Argentina minerals corridor deal signals the administration's strategy to secure critical mineral supply chains outside China's sphere, with EXIM backing $7 billion in copper mining, LNG, and transport infrastructure\u2014investors should monitor copper and rare earth mineral plays in South America."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Not Permitted"
+    },
+    {
+      "id": "6070c265",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A venture capitalist at Relevance Ventures became a key whistleblower in exposing a $31 million Ponzi scheme at Swiftarc Capital, where fund manager Sid Jawahar misrepresented investments to high-profile victims including NFL star Travis Kelce and retired NBA players. Dean Newton discovered the fraud through methodical document requests that revealed Swiftarc's portfolio was concentrated in a failing Pakistani cigarette maker, with evidence of unauthorized use of investor names in cap tables and unauthorized borrowing from LPs at preferred rates.",
+      "keyTakeaways": [
+        "Due diligence red flags: persistent non-responsiveness, document obfuscation, meeting cancellations, and unauthorized use of investor names in cap tables are critical warning signals that warrant immediate escalation and potential regulatory notification.",
+        "Information asymmetry in fund-of-funds structures creates accountability gaps\u2014gaining operational control of a target fund's portfolio can reveal hidden fraud that standard LP reporting mechanisms miss, suggesting more rigorous fund governance is needed.",
+        "Even when legal counsel discourages fraud reporting, activist investors with proper documentation can succeed in federal prosecution of complex schemes, potentially shifting the cost-benefit calculus for whistleblowing in venture capital fraud cases."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 8,
+      "originalTitle": "Axios Pro Rata: Whistleblower"
+    },
+    {
+      "id": "b1326777",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Energy Secretary Chris Wright discussed the Trump administration's approach to wind energy permitting reform, nuclear reactor deployment targeting 10 gigawatts across five sites with more than five companies competing for selection, and China's emerging role as the global swing oil importer that has stabilized energy markets post-Strait of Hormuz shock. Wright also highlighted natural gas infrastructure needs and global refining capacity constraints as key energy policy considerations.",
+      "keyTakeaways": [
+        "Permitting reform for wind energy could shift market dynamics if implemented\u2014Wright signaled the administration may move beyond its anti-wind stance if broader regulatory streamlining succeeds, creating potential upside for wind developers previously facing policy headwinds.",
+        "Nuclear deployment acceleration represents a major capital allocation opportunity with five reactor sites being selected from six-plus bidders, suggesting significant construction and supply chain opportunities in the nuclear sector over the next decade.",
+        "Global energy markets are increasingly dependent on China's refining capacity and import decisions as the swing importer; companies with exposure to refined products markets or natural gas infrastructure should monitor China's energy policy shifts as they now directly influence global pricing and availability."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Wright on Wind, Nuclear, and China's New Role"
+    },
+    {
       "id": "d1edcd59",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -19201,6 +19273,16 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 445
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 416
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 110
@@ -19209,16 +19291,6 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 26
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 443
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 414
     },
     {
       "name": "Strategy & Thesis",
@@ -19231,5 +19303,5 @@
       "count": 43
     }
   ],
-  "lastUpdated": "2026-09-25T12:26:10.833387Z"
+  "lastUpdated": "2026-09-26T11:58:25.192289Z"
 }
