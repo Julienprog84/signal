@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "3e607ff2",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PE firms are increasingly adopting AI across operations, with The Carlyle Group reporting 90% employee AI usage and 200% increase in adoption over 12 months. However, senior dealmakers rarely possess AI skills themselves, creating a disconnect between pushing portfolio companies to adopt the technology and PE executives' own technical competency, as exemplified by Bob Morse's recent foray into AI coding at Strattam Capital.",
+      "keyTakeaways": [
+        "PE leaders pushing AI adoption in portfolio companies lack hands-on technical skills, creating credibility and execution gaps\u2014Morse's experience suggests senior partners should develop working knowledge of AI tools to authentically guide transformations.",
+        "Firms implementing AI strategically across deal analysis, underwriting, and operations (like Carlyle) are gaining competitive advantages in efficiency and decision-making, making AI literacy a material differentiator for capital allocation.",
+        "The 30-year gap between Morse's engineering background and his current role reveals a sector-wide talent asymmetry: PE's traditional finance-first hiring may leave firms unprepared to lead technology transformations, potentially undervaluing or misdeploying AI investments."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Should PE rainmakers master AI?"
+    },
+    {
       "id": "5f02a0cb",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -19275,7 +19293,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 445
+      "count": 446
     },
     {
       "name": "Climate & Energy",
@@ -19303,5 +19321,5 @@
       "count": 43
     }
   ],
-  "lastUpdated": "2026-09-26T11:58:25.192289Z"
+  "lastUpdated": "2026-09-27T12:35:20.934938Z"
 }
