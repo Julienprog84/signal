@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "d843fffb",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-09-30",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French fintech newsletter covering major product pivots and funding activity in European tech: Lydia is abandoning phone-number-based transfers for QR codes and payment links amid intensifying competition from Wero and neobanks; Epsilon, a new European social network backed by French entrepreneurs, aims to challenge US and Chinese platforms with data privacy compliance; and Combin\u00e9 Kids, a children's landline startup, has raised \u20ac1M from investors including Kelly Massol and Alice Lhabouz.",
+      "keyTakeaways": [
+        "Lydia's strategic shift away from its core differentiator (phone-based transfers) signals market consolidation pressure and the commoditization of peer-to-peer payment features in fintech, suggesting mature market dynamics that may require European fintechs to diversify revenue streams.",
+        "The emergence of European-focused alternatives like Epsilon and regulatory-compliant fintech products reflects growing demand for GDPR-aligned, sovereignty-conscious platforms\u2014a potential white space for venture capital focused on regulatory arbitrage and European tech independence.",
+        "Early-stage success in niche hardware-software verticals (Combin\u00e9 Kids raising \u20ac1M, Rayon securing \u20ac10M for AI-powered design tools) indicates investors are backing specialized consumer solutions with strong founder-market fit, rather than broad-based consumer platforms competing directly with incumbents."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "30.09 - Changement majeur pour le produit historique de Lydia"
+    },
+    {
+      "id": "7fe46b2e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-09-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Software dealmaking is shifting from formal auctions to private negotiations as buyers and sellers navigate persistent valuation gaps, with AI-native companies commanding 10-15x revenue multiples while traditional software trades at 3-6x. Mark Machin, former CEO of Canada's largest pension fund, has launched Intrepid Growth Partners with $525 million to invest exclusively in AI companies outside Silicon Valley, signaling institutional capital's pivot toward AI-focused opportunities.",
+      "keyTakeaways": [
+        "Sellers are abandoning formal M&A processes in favor of targeted outreach to select buyers to avoid failed auctions, indicating a shift toward relationship-driven deal flow in software markets.",
+        "The valuation gap between AI-enabled and non-AI software companies (10-15x versus 3-6x revenue multiples) is creating both risk and opportunity: software deals now require a credible AI narrative to achieve competitive pricing.",
+        "Institutional pension capital is rotating aggressively into AI-focused startups outside traditional tech hubs, suggesting geographic diversification of venture capital and a sustained bet on AI infrastructure beyond Silicon Valley."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Software dealmakers go underground"
+    },
+    {
+      "id": "d54f9250",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration released 40 million barrels from the Strategic Petroleum Reserve as diesel prices soared above $6.50 per gallon, framing it as a loan to stabilize markets rather than an emergency sale. Meanwhile, control of the Strait of Hormuz is normalizing through U.S. military escorts and UAE cooperation, easing critical energy chokepoint tensions that had driven commodity prices higher since Iran's Houthi-backed blockade of the Red Sea.",
+      "keyTakeaways": [
+        "The SPR drawdown approach\u2014structured as a loan rather than emergency sale\u2014represents a missed opportunity to generate $230+ million in potential profits that could address a $230 million infrastructure repair backlog, signaling the administration's policy priority is short-term price relief over long-term stockpile sustainability.",
+        "Normalization of Hormuz shipping reduces geopolitical energy risk premiums, but energy traders assess this as 'losing less' rather than winning, meaning underlying Middle East instability persists and could reignite price spikes if security postures shift.",
+        "Diesel price crisis in U.S. heartland (Texas disaster declaration) combined with potential export bans signals bifurcated energy policy favoring domestic stabilization over global market integration, with implications for international energy pricing and supply chain restructuring."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "A Quid for the Grid"
+    },
+    {
+      "id": "807c2874",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-09-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Robinhood's debut as an underwriter on Oura's IPO tombstone signals Wall Street's growing recognition of retail investors' market influence and sophistication. Over the past five years, retail investors have evolved from pandemic-era speculators into stable, long-term shareholders who companies now actively court for IPO allocations exceeding 20%, as demonstrated in SpaceX's recent offering. This shift reflects both retail brokerages' advocacy for customer access and corporate recognition that retail buyers provide stock price stability compared to algorithm-driven institutional investors.",
+      "keyTakeaways": [
+        "Retail brokerages are transitioning from passive distribution channels to active underwriting roles with decision-making authority and fee participation, fundamentally restructuring IPO syndicate dynamics and power distribution.",
+        "Companies pursuing public offerings are strategically allocating 20%+ of IPO shares to retail investors as a stability play, viewing them as less likely to sell during downturns than institutional players using algorithmic trading strategies.",
+        "The retail investor class has matured from meme-stock speculators to a durable market force that Wall Street must accommodate, creating new deal structures and distribution models that could reshape traditional IPO economics and accessibility."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "New respect for retail"
+    },
+    {
+      "id": "5bad7be1",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-09-30",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "SEON, a fraud prevention and AML platform, discusses how artificial intelligence is transforming fraud detection and prevention in financial services. The podcast explores how fraud vectors have evolved over the company's decade in business, the impact of data breaches on synthetic identity creation, and the importance of analyzing digital footprints and device intelligence to combat fraud without creating excessive friction for legitimate customers.",
+      "keyTakeaways": [
+        "AI-powered fraud detection is becoming essential infrastructure for fintech companies, creating significant market demand for platforms that can balance security with user experience\u2014SEON's focus on minimizing friction while preventing fraud represents a key value proposition in the sector.",
+        "Synthetic identity fraud and widespread data breaches are creating new attack vectors that require sophisticated digital footprint analysis and device intelligence, suggesting investors should prioritize fraud prevention companies with advanced behavioral analytics capabilities.",
+        "The fraud prevention market is evolving from reactive rule-based systems to proactive AI-driven solutions, indicating sustained capital allocation opportunities in companies solving the intersection of AML compliance, fraud detection, and customer experience optimization."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 43,
+      "originalTitle": "Fighting Fraud in the Age of AI, with SEON\u2019s Tamas Kadar"
+    },
+    {
+      "id": "7a07f58d",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-09-29",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes emerging opportunities for consumer AI agents, identifying hundreds of millions in potential value trapped by friction, complexity, and cognitive biases in markets like insurance, utilities, and credit card selection. He discusses Meta's Muse product launching with 500k downloads and 250k active users in week one, integrated into Matter glasses and a new 'Charm' watch device, while questioning whether horizontal consumer agent products can succeed without solving frequent enough problems.",
+      "keyTakeaways": [
+        "Consumer AI agent market opportunity exists primarily in high-friction, low-frequency financial decisions (insurance, utilities, credit optimization) where better automation could unlock hundreds of millions in consumer surplus currently captured by incumbents through complexity and information asymmetry.",
+        "Meta's Muse shows strong initial traction (2M prompts in first week across 250k active users) but faces the critical product-market fit challenge of solving infrequent consumer problems\u2014suggesting vertical/use-case-specific agents may outperform horizontal platforms.",
+        "The viability of consumer agent products depends on solving the 'blank screen problem' through proactive data access and better models rather than reactive user prompts, indicating that winners will likely integrate deeply with consumer financial data and banking infrastructure."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "Benedict's Newsletter: No. 662"
+    },
+    {
+      "id": "30c92243",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-09-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Volatile food commodity prices are driving a surge in M&A activity across grocery and meat sectors, with PE deals totaling $5.92 billion through July 2026 \u2014 nearly matching all of 2025 \u2014 as buyers capitalize on price-driven earnings swings. Major transactions include CVC's $4.3 billion acquisition of flavor company IFF and Warburg Pincus' $1 billion investment in Global Eggs, while premium staple brands with pricing power are attracting strategic buyers. Meanwhile, Israel's Finance Ministry is blocking a $4.2 billion sale of shipping company ZIM to Germany's Hapag-Lloyd due to Saudi and Qatari shareholdings exceeding 10%, citing national security concerns despite the deal offering improved terms including a golden share for the Israeli government.",
+      "keyTakeaways": [
+        "Food and meat sector PE deal sizes have jumped 80% median value while transaction count declined 45%, signaling consolidation around larger, higher-quality assets with stronger cash flow stability amid commodity volatility.",
+        "Buyers are specifically targeting premium staple brands with proven pricing power (Goodles, Purely Elizabeth, Graza), suggesting investor focus on companies that can pass through cost increases rather than commoditized producers vulnerable to margin compression.",
+        "Geopolitical and national security considerations are increasingly blocking or slowing major infrastructure deals; the ZIM-Hapag-Lloyd blockage shows that even economically sound transactions face friction from foreign policy concerns, creating uncertainty for cross-border M&A in strategic sectors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Food shopping"
+    },
+    {
+      "id": "b58e57b2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-09-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The U.S. economy has shifted from post-recession slack to constraint-driven growth, with Treasury yields hitting 22-year highs and electricity demand surging amid supply shortages of critical infrastructure like transformers and turbines. Despite robust hiring and a physical investment boom unseen in decades, consumer confidence has plummeted to 2014 lows due to persistent inflation above 3% and elevated oil prices, though recent military operations have restored Strait of Hormuz flows to near-normal levels with over 10 million barrels daily exiting via escorted tankers.",
+      "keyTakeaways": [
+        "Infrastructure and energy equipment suppliers (transformers, natural gas turbines) face sustained pricing power and supply constraints as electricity demand outpaces capacity\u2014a multi-year tailwind for manufacturers despite margin compression from inflation.",
+        "Oil and fossil fuel cost relief may be forthcoming as Hormuz flows normalize, potentially easing inflation pressures that are currently the primary drag on consumer sentiment and economic confidence despite full employment and strong capex cycles.",
+        "The macroeconomic backdrop has fundamentally inverted from Depression-era spare capacity to supply-constrained growth; this favors hard assets, energy infrastructure, and physical capital deployment over previous theories of demand-side stimulus and green energy investments as employment solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Prior Straits"
+    },
+    {
       "id": "db3910ea",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -19545,33 +19689,33 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 112
+      "count": 113
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 451
+      "count": 454
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 422
+      "count": 424
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 44
+      "count": 45
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 33
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 26
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 32
     }
   ],
-  "lastUpdated": "2026-09-29T13:34:01.886813Z"
+  "lastUpdated": "2026-09-30T13:12:19.980748Z"
 }
