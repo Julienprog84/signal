@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "f6b372cd",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French Tech achieved its largest monthly fundraising since 2023 in September 2026, raising \u20ac3.29 billion across 47 deals, largely driven by Mistral AI's \u20ac3 billion Series funding round. Beyond the headline, the newsletter highlights emerging opportunities in AI applications across sectors including robotics (Inbolt's \u20ac11M raise targeting data centers), real estate automation (Joe AI's \u20ac2M institutional round), and healthcare acceleration (Tomcat's new medtech vertical), while also addressing the integration challenge of AI adoption within SMEs.",
+      "keyTakeaways": [
+        "Mistral AI's \u20ac3 billion raise signals continued European strength in foundational AI models, but represents concentration risk\u2014without this single mega-round, September would have been unremarkable, suggesting venture capital may still be selective despite headline recovery",
+        "Vertical-specific AI applications (customer relations in real estate, robotics automation, voice technology) are attracting institutional capital; investors should focus on B2B software that solves concrete workflow problems rather than general-purpose AI tools",
+        "The persistent gap between AI capability and SME adoption indicates a significant market opportunity for integration-focused solutions and implementation services, as pure AI products fail without deep process integration"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "02.10 - La French Tech signe son plus gros mois depuis 2023"
+    },
+    {
+      "id": "acb03104",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The software asset secondary market is finally recovering as LPs offload holdings at lower prices and buyers increase appetite, with acceptable software exposure in portfolios rising from 20% to 35-40%. Polymarket faces monetization challenges in its international business, where a 57% drop in trading volume followed fee introduction, threatening its $15 billion valuation despite projections of $602 million international revenue by 2028. The Gulf region is positioning itself as an attractive hub for AI data center infrastructure, offering advantages to investors concerned about regulatory and energy risks in traditional markets.",
+      "keyTakeaways": [
+        "Secondary software assets are finally clearing at lower valuations; buyers are gradually accepting higher software allocations, but 2021-vintage funds remain problematic due to overpaying during peak market exuberance.",
+        "Polymarket's international business\u2014projected to represent 65% of contract volume and 53% of net revenue\u2014is at risk; the company burns 38% of gross international fees on rebates and incentives, making fee monetization critical to justifying its valuation.",
+        "Infrastructure investors are rotating toward Gulf-based AI data center opportunities as an alternative to US regulatory and energy supply concerns, signaling a meaningful geographic shift in private capital allocation for AI infrastructure."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Moving on from SaaSpocalypse"
+    },
+    {
+      "id": "44fc24d8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Big Tech companies are increasingly investing in existing nuclear plants rather than next-generation reactors, with Amazon committing over $3 billion to upgrade Constellation Energy's Calvert Cliffs facility for a 20-year power purchase agreement. Fervo Energy achieved a major milestone by bringing its Cape Station enhanced geothermal plant to commercial operations ahead of schedule, selling its first power to Shell Energy just 23 months after construction began, positioning geothermal as a viable dispatchable renewable energy source.",
+      "keyTakeaways": [
+        "Hyperscalers are shifting capital allocation from speculative fourth-gen reactor startups to proven existing nuclear assets, signaling that immediate reliable power supply trumps long-term moonshots\u2014this de-risks hyperscaler energy strategies and potentially deprioritizes venture bets in SMR development.",
+        "Fervo's ahead-of-schedule commercial operations (33 MW of 500 MW planned) demonstrate execution capability in a sector known for delays, making enhanced geothermal a credible alternative to batteries for long-duration energy storage and attracting utility-scale project financing.",
+        "The convergence of hyperscaler power demand, existing nuclear fleet monetization, and alternative dispatchable renewable technologies is creating a multi-pathway energy infrastructure boom that favors operational assets and proven technologies over speculative innovation."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Atomic Prime"
+    },
+    {
+      "id": "64167fdf",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The SEC has charged multiple fund advisors with defrauding retail investors through phantom pre-IPO share schemes targeting hot startups like SpaceX and OpenAI, with victims including Navy veterans. In one case, an advisor allegedly misused $18,000 in investor funds at a strip club, while another firm defrauded 35 investors of $8.7 million by claiming 153% returns and fabricating statements showing a $750,000 investment had grown to $4.1 million. The surge in AI company IPO demand has created an expanded market for secondary market fraud, making traditional investment scams as prevalent as emerging technology risks.",
+      "keyTakeaways": [
+        "Pre-IPO secondary markets remain vulnerable to wholesale fraud despite regulatory oversight; investors must demand direct verification of share ownership and regulatory filings rather than relying on advisor claims or falsified statements.",
+        "The $8.7 million Beyond Alpha Ventures case demonstrates that fraudsters are targeting institutional-grade returns (153% claims) to attract larger capital checks, suggesting sophisticated investors are not immune to secondary market deception.",
+        "Retail investor access to pre-IPO deals through intermediaries remains a high-risk channel; the concentration of fraud in funds claiming pre-IPO exposure indicates this asset class warrants heightened due diligence and custody verification before capital deployment."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "When pre-IPO shares are too good to be true"
+    },
+    {
+      "id": "e7d738cc",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-01",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Senate permitting deal includes provisions that would force AI data centers and crypto miners to pay for all new transmission infrastructure required to serve them, while other large industrial customers face no such requirement. The proposal aims to prevent these costs from being passed to regular electricity consumers, who already paid $4.3 billion for data center transmission upgrades in 2024 alone, addressing a bipartisan concern that tech companies should bear their full grid infrastructure burden.",
+      "keyTakeaways": [
+        "Data center developers and AI companies will face significant new capital expenditure requirements for transmission infrastructure, potentially reducing project returns and slowing expansion in regions with constrained power grids.",
+        "This regulatory framework creates investment opportunities in transmission and power infrastructure companies that will build out new capacity, as well as potential headwinds for cloud computing and AI chip companies with heavy capex in new facilities.",
+        "The policy signals a durable political consensus that large computing loads must internalize their grid costs, likely making this a permanent feature of future energy regulation regardless of administration changes\u2014important for long-term infrastructure investment planning."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Data Center Double Tap"
+    },
+    {
       "id": "d7602cb2",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -19869,17 +19959,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 114
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 429
+      "count": 115
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 458
+      "count": 460
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 431
     },
     {
       "name": "Fintech",
@@ -19897,5 +19987,5 @@
       "count": 26
     }
   ],
-  "lastUpdated": "2026-10-01T14:02:01.134430Z"
+  "lastUpdated": "2026-10-02T13:22:30.024019Z"
 }
