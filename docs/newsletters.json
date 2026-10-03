@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "a54c210c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital is dramatically shifting away from lithium-ion battery storage toward alternative technologies like iron-air, thermal, and flow batteries, driven by data center developers' need for long-duration energy storage to pair with intermittent renewable power. Lithium-ion's share of energy storage VC deal value collapsed from 75% (2019-2023) to just 11.3% in Q3 2026, while alternatives like Form Energy and Antora Energy are capturing the majority of investment despite lower maturity levels.",
+      "keyTakeaways": [
+        "The lithium-ion storage market is maturing into a manufacturing business dominated by established players, not VC-backed startups\u2014investors chasing outsized returns should pivot to pre-commercial alternative storage technologies with superior cost, safety, and duration characteristics.",
+        "Data center power demand is the primary catalyst reshaping energy storage capital allocation; companies solving intermittency for renewable-heavy grids will attract disproportionate VC dollars regardless of technology maturity risk.",
+        "Healthcare PE/VC fundraising is rebounding but concentrating among larger, established managers, signaling a bifurcation where mid-market and emerging fund managers face significant capital scarcity across sectors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "AI demand sparks a storage pivot"
+    },
+    {
+      "id": "29309d23",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Change.org, a nonprofit civic engagement platform, is investing $100 million to rebuild its petitions platform using AI, including an AI copilot for creators and expanded human outreach to officials. Meanwhile, Novartis signed a deal worth up to $7.8 billion with Chinese biotech Abogen Biosciences for mRNA technology, exemplifying a broader trend of Western pharma partnering with Chinese companies that could reshape global drug development.",
+      "keyTakeaways": [
+        "Change.org's $100M AI investment targets operational efficiency while maintaining human judgment\u2014the company found AI-generated content underperforms human-created petitions, signaling that automation has clear limits in civic engagement platforms despite capital deployment.",
+        "Novartis-Abogen deal ($7.8B potential value) reveals Chinese biotech companies have achieved world-class capabilities in mRNA development, attracting $1B+ in funding from top-tier investors; this represents a meaningful shift in pharmaceutical R&D geography with potential supply chain and competitive implications for Western biopharma investors.",
+        "The deal flow snapshot shows continued venture activity in infrastructure (Supabase $150M), climate tech (Reverion $175M), and fintech (Homeward $120M), indicating diversified capital deployment despite macroeconomic uncertainty, with strategic acquirers (Supabase acquiring Turso) consolidating emerging AI application layers."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Change capital"
+    },
+    {
+      "id": "db6baa77",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-10-02",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "SpaceX's Starship achieved orbit for the first time on its 14th test flight, deploying 26 Starlink V3 satellites with roughly 10x the capacity of a Falcon 9 launch, marking a major milestone for operational space logistics. The newsletter highlights emerging deep tech opportunities including Fervo's enhanced geothermal plant completed in under two years, Google's orbital data center test, and broader infrastructure innovations in energy, space, and biotech sectors.",
+      "keyTakeaways": [
+        "Starship's orbital success removes a major technical risk for space-dependent businesses and opens near-term revenue opportunities for launch-dependent companies planning missions around Starship's capacity\u2014investors should monitor customer pipelines for lunar landers, space stations, and satellite operators.",
+        "Fervo's 23-month geothermal plant completion demonstrates accelerating timelines in alternative energy infrastructure; this suggests distributed energy solutions could capture significant capital allocation from grid modernization investments and climate-focused funds.",
+        "The convergence of space-based computing (Google's Suncatcher data center), advanced manufacturing (robotic augmentation), and biotech innovation signals deep tech is maturing from R&D to operational deployment\u2014biotech particularly noted as undervalued with genome sequencing and AI-driven drug discovery driving market expansion."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 182: Starship reaches orbit on first operational mission"
+    },
+    {
+      "id": "af75ee64",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The G7 has agreed to release 100 million barrels of oil and fuels from strategic reserves over four months, with diesel prioritized in the next 20 days, addressing record-high fuel prices ahead of Northern Hemisphere harvest season. Meanwhile, the Blue Dog Coalition of moderate House Democrats endorsed the Senate's bipartisan permitting reform bill, signaling potential passage and unlocking investments across multiple climate tech sectors including enhanced geothermal, solar repowering, and data center infrastructure.",
+      "keyTakeaways": [
+        "The G7 diesel release addresses a critical supply bottleneck affecting agriculture and transportation; investors should monitor diesel price movements and agricultural commodity impacts over the next month as supply hits markets.",
+        "Bipartisan permitting reform now has clearer path to passage with moderate Democrat support, de-risking capital deployment for infrastructure projects in renewable energy, grid modernization, and transmission\u2014at least four climate tech sectors stand to benefit from streamlined approval timelines.",
+        "The newsletter signals three emerging investment themes: solar repowering (10 GW potential by 2030), geothermal development, and underwater data centers, suggesting capital will rotate toward infrastructure modernization and novel energy solutions as regulatory barriers lower."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Trump\u2019s Diesel Deluge"
+    },
+    {
       "id": "f6b372cd",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -19957,19 +20029,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 115
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 460
+      "count": 462
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 27
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 431
+      "count": 432
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 115
     },
     {
       "name": "Fintech",
@@ -19980,12 +20057,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 33
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 26
     }
   ],
-  "lastUpdated": "2026-10-02T13:22:30.024019Z"
+  "lastUpdated": "2026-10-03T12:08:51.886369Z"
 }
