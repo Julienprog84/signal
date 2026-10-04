@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "eb633b2e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A scheme involving thousands of fraudulent comments\u2014including signatures from deceased individuals like Lyngrid Rawlings\u2014was submitted to support the Trump administration's controversial proposal to expand private market investments in 401(k) plans. The Labor Department received approximately 12,000 supportive comments versus 30,000 opposing ones, prompting calls for a criminal investigation. The incident highlights the private fund industry's aggressive, years-long campaign to access retail capital as institutional sources dry up, while operating under minimal regulatory oversight.",
+      "keyTakeaways": [
+        "Regulatory capture risk is accelerating: The private markets industry's willingness to deploy mass-fraud tactics to influence policy signals desperation to unlock retail capital before institutional dry-up becomes critical, creating potential for stricter future enforcement.",
+        "Retail alternatives expansion remains in limbo: Charles Schwab's acquisition of Forge Global to open pre-IPO shares to 50 million retail accounts faces headwinds as the 401(k) rule faces criminal scrutiny, delaying institutional legitimacy for Main Street private market access.",
+        "Systemic pressure on capital sourcing: Alternatives managers' shift toward retail investors reveals a structural problem\u2014institutional LP base erosion is pushing the industry toward regulatory gray zones, making policy clarity increasingly valuable for portfolio planning."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Fast times in private markets"
+    },
+    {
       "id": "a54c210c",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -20031,7 +20049,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 462
+      "count": 463
     },
     {
       "name": "Deep Tech & Science",
@@ -20059,5 +20077,5 @@
       "count": 33
     }
   ],
-  "lastUpdated": "2026-10-03T12:08:51.886369Z"
+  "lastUpdated": "2026-10-04T12:57:11.734722Z"
 }
