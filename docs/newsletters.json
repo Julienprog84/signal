@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "e1d86c0a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-06",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French presidential candidates for 2027 are unveiling AI policy proposals centered on technological sovereignty, with divergent approaches to state involvement and investment levels. The newsletter highlights emerging trends including the rise of solo founders leveraging agentic AI tools, as demonstrated by the CoCreate 2026 competition drawing 15,000+ applications, and French mobility startups gaining traction in Chinese markets as they scale internationally.",
+      "keyTakeaways": [
+        "Solo entrepreneurship is becoming viable at scale due to agentic AI capabilities that consolidate multiple functions\u2014representing a structural shift in founding team composition that investors should factor into their evaluation criteria and portfolio construction.",
+        "European AI policy fragmentation creates both opportunity and risk: while French candidates debate state involvement in AI infrastructure, startups are already executing cross-border expansion strategies, suggesting market dynamics may outpace regulatory frameworks.",
+        "Climate-driven food production resilience is emerging as a critical investment thesis\u2014recent French agricultural collapse (maize production at 35-year low) indicates that supply chain adaptation in agtech will be competitive advantage, not optional innovation."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "06.10 - Pr\u00e9sidentielle 2027 : ce que les candidats proposent vraiment sur l\u2019IA"
+    },
+    {
+      "id": "4d6e4016",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Blaze Energy, a climate tech startup, has secured $6.5 million in funding to scale its low-carbon shipping retrofit technology. The company's system integrates with existing vessel engines and offers fuel-agnostic capabilities, enabling ship operators to reduce emissions without requiring complete engine replacements.",
+      "keyTakeaways": [
+        "Blaze Energy's retrofit-first approach targets the massive installed base of existing vessels, reducing capital barriers for shipping operators to decarbonize compared to newbuild-only solutions",
+        "The fuel-agnostic design creates optionality for vessel operators across different fuel pathways (ammonia, methanol, hydrogen), reducing stranded asset risk as marine fuel standards evolve",
+        "Shipping decarbonization is attracting venture capital as IMO regulations tighten; retrofit technologies that avoid costly vessel replacement represent a significant market opportunity in maritime emissions reduction"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Blaze Energy Raises $6.5 Million for Low-Carbon Shipping\r\n Retrofits"
+    },
+    {
+      "id": "fced662d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Continuation funds, which surged as an alternative liquidity tool during the 2023-2025 M&A downturn, are declining sharply as traditional exit markets recover in 2026. PitchBook data shows 95 continuation fund deals worth $47.4 billion year-to-date, down nearly 41% from 2025's record 161 deals valued at $97.6 billion, signaling these structures will be used more selectively rather than as an overflow valve. Meanwhile, hedge fund D.E. Shaw is raising a $1 billion second Voltaic VC fund, more than double its predecessor, to capitalize on AI investment opportunities following major bets on Anthropic and OpenAI.",
+      "keyTakeaways": [
+        "PE managers should prepare for tighter continuation fund availability and higher selectivity criteria as traditional M&A exits return to normalcy, potentially requiring more disciplined portfolio management and earlier exit planning",
+        "The revival of PE-backed M&A (up 6-7.9% quarter-over-quarter) reduces the need for secondary transactions as a capital return mechanism, signaling improving exit conditions but also increased competition for quality deal flow",
+        "Hedge funds are doubling down on late-stage venture capital, with D.E. Shaw's $1B Voltaic II fund exemplifying macro pivot toward AI and technology where traditional VC returns have peaked, suggesting institutional capital is reshaping private markets funding landscape"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "M&A comeback cools continuation funds"
+    },
+    {
+      "id": "e805e7d2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Greenland approved Critical Metals' $2.1 billion Tanbreez rare earth mining project, positioning it as one of the world's largest heavy rare earth developments outside China while subject to U.S. security oversight under a Trump administration deal. The Department of Energy announced $150 million in funding for a 223-mile Alaska power transmission line (with $400 million total cost), and First Solar is suing Chinese manufacturer JA Solar and American Panel Solutions for patent infringement over thin-film solar cell technology.",
+      "keyTakeaways": [
+        "Critical Metals' Greenland rare earth mine represents a significant geopolitical shift in supply chain diversification, with the U.S. securing veto rights over foreign investments in the project\u2014creating strategic value for American rare earth and clean energy investors while reducing China dependency",
+        "Alaska's power line funding signals infrastructure investment opportunities in underserved markets with political momentum; the $400 million total project cost funded 37.5% federally suggests strong ROI potential for remaining private capital deployment in energy infrastructure",
+        "First Solar's patent litigation indicates consolidation pressure in thin-film solar manufacturing as Chinese competitors enter the market, potentially favoring incumbent U.S. manufacturers with established IP portfolios and utility-scale relationships in an increasingly competitive sector"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Greenland\u2019s Green Light"
+    },
+    {
+      "id": "c1bb425c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nikesh Arora, CEO of Palo Alto Networks and a sought-after advisor to Sam Altman, exemplifies a demanding leadership style rooted in accountability and preparedness. The profile highlights how Arora's \"no-excuses\" approach, developed during his tenure at Google as chief business officer, has made him influential in navigating the intersection of AI and cybersecurity\u2014a landscape being rapidly reshaped by autonomous agents and emerging threats. The newsletter also reports three venture funding rounds totaling $223 million, including Valon Technologies' $150M Series D for AI-powered mortgage servicing.",
+      "keyTakeaways": [
+        "High-stakes sectors (AI, cybersecurity, fintech) increasingly demand mentors and leaders with uncompromising standards for execution; founders seeking directness over comfort should study Arora's approach to decision-making.",
+        "AI infrastructure and enabling software continue attracting significant capital\u2014Valon's mortgage servicing raise and Clockwork.io's infrastructure resilience round signal investor confidence in AI application layers beyond core model development.",
+        "As AI agents proliferate and autonomous systems become more prevalent, cybersecurity fundamentals gain outsized importance; expect consolidation and M&A activity around companies solving agent governance and risk detection."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "Nikesh Arora is the master of no-excuses leadership"
+    },
+    {
+      "id": "2a99719d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity and venture capital PACs are not heavily betting on a Democratic wave in the 2026 midterms, with PE leaning Republican (58% of AIC donations) and VC remaining more balanced (53% Republican) while maintaining a policy of supporting incumbents. The newsletter also covers KKR's $5.1 billion acquisition of Gen II, a fund administrator managing $2 trillion in assets, highlighting PE's expansion into infrastructure businesses that support the industry itself.",
+      "keyTakeaways": [
+        "PE and VC political giving reflects risk aversion rather than conviction; VenturePAC's blanket ban on challenger donations due to pay-to-play concerns means Democratic control of Congress would likely flip VC giving to blue next cycle, signaling donations are tactical rather than ideological.",
+        "KKR's Gen II acquisition demonstrates the lucrative opportunity in consolidating back-office services for alternative asset managers\u2014fund administration generates steady fee income from $2+ trillion in managed assets, making it an attractive recurring revenue model for PE firms.",
+        "Regulatory uncertainty around retail investor access, crypto market structure, and AI regulation creates political spending leverage; control of Congress could materially impact how these issues are regulated, making campaign donations a strategic hedge rather than charitable giving."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Campaign cash"
+    },
+    {
+      "id": "deae1b43",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This article examines the Senate permitting bill's impact on major energy infrastructure projects, analyzing specific case studies like the Keystone XL pipeline and Lava Ridge wind farm to illustrate what presidential powers would be constrained or enabled under the new legislation. The piece clarifies the practical implications of permitting reform on both fossil fuel and renewable energy development timelines.",
+      "keyTakeaways": [
+        "Permitting reform legislation directly impacts project approval timelines for both fossil fuel and renewable energy infrastructure, affecting investment risk profiles and capital deployment schedules for energy developers",
+        "Understanding presidential discretion limits under new permitting rules is critical for evaluating regulatory risk in energy project portfolios\u2014some projects gain certainty while others face new constraints",
+        "The bill's differential treatment of project types signals ongoing political uncertainty in energy policy, creating both opportunity and risk for investors in traditional vs. clean energy sectors"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "What a President Can and Can\u2019t Do Under the Senate Permitting Bill"
+    },
+    {
+      "id": "a90f3ab8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rivian delivered 19,248 vehicles in Q3 2026, exceeding analyst expectations and setting a company record, driven by strong R2 sales despite the elimination of federal EV consumer incentives last year. The company secured a $6.6 billion Department of Energy loan for its Georgia factory and maintains guidance for 65,000-70,000 vehicle deliveries this year. Meanwhile, traditional automakers like GM and Ford are struggling with EV sales, with GM's new Chevrolet Bolt moving only 8,090 units since the year began against initial plans for 150,000 units.",
+      "keyTakeaways": [
+        "Rivian's R2 launch is successfully capturing market share even in a post-subsidy environment, suggesting the company has achieved product-market fit at a more affordable price point\u2014a critical inflection for EV startup valuations.",
+        "Traditional automakers are failing to compete in affordable EV segments (GM's Bolt production being cut 77% indicates structural disadvantages in cost structure or supply chain), creating a competitive moat for pure-play EV manufacturers.",
+        "Global EV market divergence is widening: while U.S. EV adoption slows due to subsidy removal and regional fuel dynamics, international markets continue strong growth, suggesting investment thesis should differentiate between domestic and international EV exposure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Rivian\u2019s New Record Quarter"
+    },
+    {
       "id": "b64245e4",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20175,17 +20319,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 116
+      "count": 117
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 434
+      "count": 438
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 466
+      "count": 469
     },
     {
       "name": "Fintech",
@@ -20203,5 +20347,5 @@
       "count": 33
     }
   ],
-  "lastUpdated": "2026-10-05T15:25:17.603452Z"
+  "lastUpdated": "2026-10-06T13:47:41.797421Z"
 }
