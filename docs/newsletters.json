@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "a30b938b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-07",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French AI startup Mistral AI launches Mistral Large 4 to compete with American and Chinese AI giants, while the broader European tech ecosystem shows strong momentum with eight notable funding rounds totaling over \u20ac100M across AI, fintech, and foodtech sectors. Key deals include Wiremind's \u20ac35M Series A (targeting Middle East and Asia-Pacific expansion), Vocca's $20M Series A for AI-powered patient call management backed by Alan and Datadog founders, and Edonia's \u20ac15M funding for scaled microalgae-based meat alternatives with \u20ac30M in preorders.",
+      "keyTakeaways": [
+        "Mistral AI's new model launch signals intensifying competition in European AI infrastructure\u2014investors should monitor whether French/European alternatives can capture enterprise adoption against OpenAI and Chinese competitors, particularly in regulated sectors where data sovereignty matters",
+        "Mid-stage European startups are accessing substantial capital ($20-35M range) with strategic backing from proven founders (Alan, Datadog), indicating maturing exit ecosystems and potential acquihire strategies for AI-native talent pools",
+        "The newsletter highlights a structural shift toward agentic AI enabling solo founders and small teams, which could reshape venture economics by reducing burn rates and team composition requirements\u2014this may compress traditional Series A cheques while increasing deployment velocity"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "07.10 - IA : comment Mistral veut revenir dans la course"
+    },
+    {
+      "id": "27053c1a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Harvard and MIT research shows that qualitative language in GP reports predicts portfolio company performance better than valuations in the first three years, with positive narrative commentary and focus on cash flow/business models signaling stronger outcomes, while negative macro commentary often masks poor investment decisions. Meanwhile, Chinese AI startups Moonshot and DeepSeek are preparing for IPOs in 2027 at massive valuations, and prediction-market platform Kalshi is seeking $1 billion at a $40 billion valuation despite mounting legal challenges that threaten its sports betting business, which represents 80% of current revenue.",
+      "keyTakeaways": [
+        "LPs should scrutinize the qualitative tone and specific topics GPs emphasize in their investment theses\u2014GPs who focus on cash flow and business models significantly outperform those citing macro headwinds as excuses, suggesting narrative quality is a leading indicator of investment acumen.",
+        "Kalshi's $40 billion valuation requires near-150% three-year revenue growth and regulatory certainty around sports betting; the pending legal battle over state authority over its business poses existential risk to 80% of revenue, making this a heavily binary bet rather than a balanced opportunity.",
+        "China's AI sector is consolidating capital at venture stage with massive rounds ($50B+ valuations), signaling that 2026 Asia-focused VC managers must have strong AI sector conviction and China exposure to compete on deal flow and returns."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "Take GPs at their word"
+    },
+    {
+      "id": "37447102",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-07",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A fintech podcast episode discusses three major stories: Whop's new neobanking feature allowing users to create their own banks in 15 minutes, Revolut's data breach and its security implications for cryptocurrency whale users, and Chime's proposed acquisition of its partner bank Stride. The episode explores the risks and opportunities emerging in the neobank and cryptocurrency sectors.",
+      "keyTakeaways": [
+        "Whop's 15-minute neobank creation feature represents significant regulatory and operational risk \u2014 the ease of launching banking services with minimal friction raises questions about compliance, capital requirements, and potential misuse that could attract regulatory scrutiny.",
+        "Revolut's data breach targeting high-net-worth crypto users demonstrates a critical vulnerability in fintech security infrastructure; crypto-wealthy individuals are increasingly attractive targets for sophisticated attacks, creating insurance and security service opportunities but also downside risk for platform operators.",
+        "Chime's acquisition of Stride signals consolidation in the neobank space and suggests that partnerships between fintech platforms and traditional partner banks may be evolving toward vertical integration, indicating maturation pressures in the sector and potential reduced optionality for smaller players."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 73,
+      "originalTitle": "How Revolut\u2019s Data Breach Puts Crypto Whales\u2019 Lives In Danger"
+    },
+    {
+      "id": "bff590ae",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Major tech companies including Google, Amazon, and Oracle are accelerating nuclear power deals to meet surging data center energy demands, with Google securing agreements to uprate 11 Constellation reactors for 890 megawatts of capacity and Oracle committing $300 million to NextEra nuclear power. Meanwhile, Indonesia's government halted a massive deforestation project in Papua equivalent to Maryland's size, signaling a potential shift in agricultural expansion toward existing cleared land rather than rainforest conversion.",
+      "keyTakeaways": [
+        "Nuclear uprating has become the near-term solution for data center power as tech giants outpace new reactor construction timelines, creating significant M&A and capital deployment opportunities in existing nuclear fleet optimization rather than new-build projects.",
+        "Indonesia's deforestation halt removes supply-side pressure on agricultural commodities and could reshape biofuel and food production economics, reducing land-grab investment risk while potentially increasing yields-per-acre investment opportunities in existing farmland.",
+        "The convergence of urgent AI/data center power needs with constrained new nuclear supply is driving a 10+ year structural demand for uprating services and existing nuclear asset consolidation, while climate policy shifts in emerging markets are reorienting capital toward land productivity rather than expansion."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Nuclear\u2019s Near-Term Fix"
+    },
+    {
+      "id": "f50e0575",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Oura, an $11 billion smart ring company, postponed its highly anticipated IPO in late September citing market uncertainty, just after completing its roadshow. The delay stemmed from valuation concerns\u2014the company sought $40-$44 per share for a $15.6 billion fully diluted valuation\u2014and structural issues, notably that 73% of the 50 million shares offered were from existing shareholders rather than newly issued, meaning most proceeds would benefit early investors rather than fund company growth.",
+      "keyTakeaways": [
+        "Valuation multiples for hardware companies remain contested: investors are struggling to price smart ring makers on consumer hardware fundamentals versus AI-platform potential, creating friction in IPO pricing that can derail deals even after extensive market preparation.",
+        "Secondary share-heavy IPO structures signal liquidity events over growth investments, causing immediate market skepticism; when existing shareholders dominate an offering, it telegraphs lack of confidence in future fundraising needs and can trigger post-IPO selling pressure.",
+        "The IPO window for consumer hardware and wearables remains fragile despite AI narratives; even well-capitalized, established companies with massive user data sets and strong brands face market resistance, suggesting 2026 will remain difficult for non-essential consumer tech exits."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Mea culpa"
+    },
+    {
+      "id": "6a1dde46",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Ukraine-based Buntar Aerospace raised $16 million for its GPS-independent reconnaissance drones, demonstrating how geopolitical conflict is creating unique investment opportunities in defense-tech startups that operate in active war zones. Meanwhile, SpaceX is seeking $40 billion in debt financing for Nvidia chips, and a flurry of venture deals totaling over $600 million closed across specialty insurance, fusion energy, telehealth, and AI sectors, signaling continued investor appetite despite rising interest rates and macro concerns.",
+      "keyTakeaways": [
+        "Defense-tech startups with direct battlefield presence and real-time feedback loops from military units are attracting significant VC funding; Buntar's distributed manufacturing model specifically addresses wartime security risks that traditional defense contractors face.",
+        "Hyperscaler debt financing remains robust despite rate concerns\u2014SpaceX's $40 billion debt raise at BBB-rated spreads shows that mega-cap tech companies can still access capital markets efficiently, potentially crowding out mid-market borrowers.",
+        "The $600M+ in VC funding across insurance, fusion, telehealth, and AI this week reflects a diversified deal flow environment where investors are placing bets across infrastructure, climate, healthcare, and AI\u2014suggesting capital is flowing to multiple narratives rather than concentrating in any single sector."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Drone dollars"
+    },
+    {
+      "id": "58428fa9",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-10-06",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic reported $4.6 billion in 2025 revenue with an $8 billion operating loss, but its annualized monthly gross revenue reached $65 billion by July, while OpenAI has climbed to $70 billion in annualized net revenue, eroding Anthropic's early lead in agentic coding. Google's newly released Gemini 4 has returned the company to the top of performance leaderboards, suggesting the AI market is consolidating around multiple competitive players rather than producing a clear winner, with Meta, SpaceX, and Chinese labs closing gaps.",
+      "keyTakeaways": [
+        "Year-over-year revenue growth metrics are misleading; what matters is whether inference profitability can sustain against the massive capex required to build next-generation models\u2014the $8 billion operating loss at Anthropic suggests the margin economics remain unresolved despite impressive topline growth",
+        "OpenAI's $70 billion revenue run-rate versus Anthropic's $65 billion December figure indicates competitive positioning is still fluid; agentic coding capabilities appear to be commoditizing across players rather than creating durable competitive moats for first movers",
+        "The AI market is fragmenting into a multi-polar structure with Google, Meta, and SpaceX in the same capability bracket as Anthropic and OpenAI, reducing the likelihood of winner-take-most dynamics and suggesting capital allocation should focus on differentiated use cases rather than foundational model races"
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 4,
+      "originalTitle": "Benedict's Newsletter: No. 663"
+    },
+    {
+      "id": "b6938015",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "According to Heatmap Pro's proprietary market intelligence data, $260 billion in data center investments were canceled in 2026 due to local backlash, with the pace accelerating sharply\u2014$130 billion of cancellations occurred in Q3 alone, exceeding all of 2025's total. Roughly $1 trillion in data center projects now face sustained local opposition, and approximately 75% of Americans now oppose data center construction near their communities, a dramatic shift from the prior year's split opinion.",
+      "keyTakeaways": [
+        "Local permitting and grassroots opposition are now material risk factors for AI/data center capital deployment\u2014$260B in canceled projects represents a meaningful portion of the $800B+ annual tech spending in this sector, and the cancellation rate is accelerating, not stabilizing.",
+        "Real estate and infrastructure investors targeting data center development face deteriorating local regulatory environments; hundreds of U.S. counties and towns now maintain construction bans or moratoriums, and federal permitting reform proposals would not override local prohibitions.",
+        "The data center boom financing AI infrastructure faces a structural headwind that traditional venture and growth capital has likely underestimated\u2014public sentiment has swung decisively against these projects in just one year, suggesting community opposition may continue constraining supply and driving up deployment costs for large tech firms."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: $260 Billion in Data Centers Canceled in 2026"
+    },
+    {
       "id": "e1d86c0a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20319,33 +20463,33 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 117
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 438
+      "count": 118
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 469
+      "count": 472
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 46
+      "count": 47
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 440
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 34
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 27
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 33
     }
   ],
-  "lastUpdated": "2026-10-06T13:47:41.797421Z"
+  "lastUpdated": "2026-10-07T14:04:17.182411Z"
 }
