@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "6cd15a9b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-08",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A Maddyness newsletter featuring an interview with Google's Global Startups and Investor Ecosystem lead Darren Mowry discussing the French startup ecosystem and AI competition, alongside coverage of Shares' acquisition of Treezor targeting \u20ac100M revenue by 2027, analysis of AI's impact on developer hierarchies, and Oxxius, a Breton SME specializing in industrial lasers, raising \u20ac5M for international expansion.",
+      "keyTakeaways": [
+        "Fintech consolidation continues: Shares' Treezor acquisition signals ongoing M&A in European fintech, with profitability targets (\u20ac100M revenue by 2027) suggesting maturing business models rather than pure growth plays",
+        "AI is reshaping tech talent economics: automation of junior-level tasks increases demand for senior developers, creating wage pressure and talent scarcity in software development\u2014a critical consideration for VC-backed tech companies managing burn rates",
+        "European deeptech remains underfunded: Oxxius's \u20ac5M raise for a globally-deployed laser technology company highlights the capital gap in specialized industrial tech versus AI hype, presenting potential value opportunities for sector-focused LPs"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "08.10 - On a parl\u00e9 avec le Monsieur \u00abStartups\u00bb de Google"
+    },
+    {
+      "id": "ff29c3de",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The venture capital industry is experiencing severe concentration, with megafunds ($500M+) capturing 78.1% of $108.5 billion raised through Q3 2026 despite comprising only 6% of new funds, while first-time funds hit decade lows. Meanwhile, US PE sponsors are increasingly flying to Europe where assets appear cheaper and credit markets have reopened faster, with American investors accounting for 45.7% of European PE deal value in Q3 2026 as overall European dealmaking declined 10.9% quarter-over-quarter.",
+      "keyTakeaways": [
+        "Emerging and first-time fund managers face a structural disadvantage as experienced firms on their fourth fund or later captured 88.2% of capital raised\u2014the highest share in a decade\u2014creating a potential talent and innovation bottleneck that could impact venture ecosystem health in future years.",
+        "US PE capital is actively redeploying to European opportunities where valuations are softer and financing conditions favor American sponsors with access to reopened credit markets, suggesting a tactical geographic shift in deal activity rather than a broader market slowdown.",
+        "The venture industry's 'rich-get-richer' dynamic is self-reinforcing: large managers' ability to write mega-checks for AI startups, combined with their proven track records, locks in LP conviction and starves smaller competitors of capital, potentially reducing the diversity of investment strategies and emerging manager innovation."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "New GPs go hungry"
+    },
+    {
+      "id": "2f7e38b5",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Catalyst, a startup founded by 25-year-old Justin Zheng and 21-year-old Dylan Iskandar, has raised $30 million in seed funding led by Sequoia to build AI trading agents that translate natural language into automated trading strategies for retail investors. The platform aims to democratize access to complex financial markets by helping everyday investors navigate new asset classes while maintaining human oversight of trades. The round included participation from Jump Trading, PeakXV, Lux Capital, AntiFund, Coinbase, and Premji Invest.",
+      "keyTakeaways": [
+        "AI-powered retail investing platforms are attracting top-tier venture capital, with Sequoia betting $30M on automation that bridges the gap between retail investors and institutional-grade trading sophistication, signaling major VCs see this as a significant market opportunity.",
+        "The founders are explicitly positioning safety and education as differentiators against gambling-like trading apps, suggesting the market expects regulatory scrutiny and reputational risk\u2014investors should monitor how this plays out as AI agents gain broader adoption in retail finance.",
+        "The convergence of AI agents, crypto normalization, and prediction markets is creating a new category of financial infrastructure startups; this deal demonstrates investor appetite for platforms that can rapidly upskill retail participants rather than just provide access to existing tools."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "An army of investing agents"
+    },
+    {
+      "id": "b885f8b5",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Exxon Mobil is expanding its offshore oil operations in Trinidad and Tobago following major discoveries in Guyana, seeking to tap the same prolific basin that has transformed the region's oil economy. Meanwhile, the EPA is preparing to roll back 2024 methane regulations targeting super emitters and marginal wells, while the EU pauses implementation of its own methane tracking rules\u2014signaling a potential divergence in climate policy between major jurisdictions.",
+      "keyTakeaways": [
+        "Oil majors are consolidating control of high-return offshore assets in the Caribbean and beyond, with Exxon securing record-speed permits in Trinidad and Petrobras bidding $590 million for deepwater concessions\u2014indicating sustained capital intensity and long-cycle returns in upstream oil despite energy transition pressures.",
+        "Regulatory rollback risk is material: EPA gutting methane rules removes compliance burden for operators but increases climate and reputational risk for ESG-focused portfolios, while EU hesitation on enforcement creates arbitrage opportunities for less-regulated producers.",
+        "Renewable energy generation records (UK wind hitting 6.6 TWh in September) are failing to suppress commodity prices due to geopolitical shocks (Iran tensions), suggesting energy transition may decouple from traditional price dynamics and require hedge strategies beyond generation capacity."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Piledrivers of the Caribbean"
+    },
+    {
+      "id": "32a3c56d",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Venture capital invested a record $516 billion in 2026, up 44% from the previous high in 2021, but the market is experiencing severe bifurcation with AI companies capturing 82.7% of deal value while non-AI startups face mounting fundraising challenges. The concentration of capital in mega-scale AI firms and mega-rounds ($50M+) is squeezing emerging managers and creating ecosystem imbalances that exceed even dotcom-era sector concentration, posing risks to venture's traditional diversified approach.",
+      "keyTakeaways": [
+        "AI concentration has reached unsustainable levels\u201482.7% of deal value in a single sector with 90% of capital flowing to $50M+ rounds signals potential capital misallocation and future portfolio performance risk for investors overexposed to non-AI venture",
+        "Emerging manager and seed-stage ecosystems are being starved of capital as LPs concentrate commitments into mega-scale firms, which could constrain deal flow quality and founder diversity for the next venture cycle",
+        "Despite record headline figures, underlying market softness suggests a correction risk once AI capital deployment normalizes\u2014investors should scrutinize whether current valuations and deal multiples reflect sustainable value creation or speculative momentum"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Bankroll bifurcation"
+    },
+    {
+      "id": "5fe967b4",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "AI data center buildout continues at scale despite market rationalization, with Goldman Sachs raising 2026 U.S. capacity forecasts to 64 GW and McKinsey projecting 17 GW annual additions through 2030. However, despite renewable developers' capacity to deploy, data centers requiring gigawatt-scale operations are increasingly turning to natural gas for firm power, with midstream companies like Kinder Morgan and Williams directly engaging hyperscalers to site facilities on their gas networks.",
+      "keyTakeaways": [
+        "Data center demand is real and accelerating: 62% of signed utility load sits under approved data center tariffs with 80%+ demand charges, indicating firm commitments rather than speculation\u2014this creates sustained capital deployment opportunities in power infrastructure.",
+        "Gas infrastructure is winning the race for AI power: Despite renewable developer readiness, gigawatt-scale data centers are choosing natural gas for reliability, positioning midstream companies and LNG infrastructure as primary beneficiaries of AI buildout capex.",
+        "Permitting remains the critical bottleneck: Over 100 renewable and storage projects are fully developed but awaiting federal permitting signatures, suggesting that policy acceleration could rapidly shift the energy mix\u2014but current momentum favors gas given firm power requirements."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "At Yotta, no word on slowing the AI build-out"
+    },
+    {
+      "id": "553ed220",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-07",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "General Motors is leveraging Tesla veterans to build domestic battery manufacturing capabilities, with VP Kurt Kelty\u2014who previously led Tesla's gigafactory development\u2014now heading GM's battery strategy. The U.S. EV market is struggling (GM sold only 25,000 EVs in Q3 2024, Ford 6,000), but automakers are pivoting battery production toward booming data center and grid storage demand, where battery storage capacity has grown 70% year-over-year according to EIA data.",
+      "keyTakeaways": [
+        "Established automakers are rapidly retooling EV production lines for higher-margin battery storage and grid applications, signaling a strategic shift away from consumer EV dependency as that market weakens domestically.",
+        "Talent migration from Tesla to legacy automakers (like Kelty's move) indicates GM and competitors are investing heavily in battery expertise to compete with Chinese manufacturers and establish domestic supply chains.",
+        "The data center power demand boom is creating unexpected tailwinds for battery storage technology, potentially creating more profitable near-term revenue streams than struggling consumer EV sales in the U.S. market."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Tesla Alum Inside GM"
+    },
+    {
       "id": "a30b938b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20463,22 +20589,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 118
+      "count": 119
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 472
+      "count": 475
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 443
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 47
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 440
     },
     {
       "name": "Strategy & Thesis",
@@ -20491,5 +20617,5 @@
       "count": 27
     }
   ],
-  "lastUpdated": "2026-10-07T14:04:17.182411Z"
+  "lastUpdated": "2026-10-08T14:14:11.136729Z"
 }
