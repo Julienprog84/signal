@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "7ebff28f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-09",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Emmanuel Macron delivered his final address as French President at Bpifrance's BIG entrepreneurship event, marking the 11th edition of the annual conference and reflecting on a decade of economic development. The newsletter highlights emerging trends including the misconception that enterprise AI is primarily generative AI (when data analytics remains the dominant application), plus notable funding activity such as Oxxius, a Breton laser technology PME, closing a \u20ac5 million fundraise to scale internationally across scientific and industrial applications.",
+      "keyTakeaways": [
+        "Enterprise AI adoption is concentrated in traditional data analytics rather than generative AI, suggesting that practical, ROI-driven AI implementations remain the primary driver of corporate tech spending and startup funding opportunities",
+        "Deep tech hardware companies with niche global markets (like Oxxius in laser technology) can achieve meaningful scale and funding at \u20ac5M+ levels, indicating robust capital availability for specialized industrial tech outside mainstream software narratives",
+        "France's public support infrastructure (Bpifrance) continues to serve as a meaningful ecosystem anchor, with BIG evolving over 11 editions to track macro shifts from digital transformation through COVID to current AI discourse"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "09.10 - Dernier tour de piste \u00e0 BIG pour Macron"
+    },
+    {
+      "id": "86057ad1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The newsletter analyzes how AI infrastructure demand is reshaping private capital markets in 2026, with energy and B2B sectors surging while tech valuations decline 3.7 turns since 2024. PE firms are capitalizing on the selloff through take-privates like Thoma Bravo's sub-IPO acquisition of Accelerant, while emerging managers like Seva Growth raise significant capital by focusing on overlooked software opportunities despite industry headwinds.",
+      "keyTakeaways": [
+        "Tech valuation compression (down 3.7 turns since 2024) is creating attractive re-entry points for PE sponsors, particularly for tech-focused take-privates at depressed valuations\u2014expect more deals like Accelerant over the next six months.",
+        "Capital is flowing decisively toward AI infrastructure plays (energy, materials, services) with energy M&A already at 138% of 2025 full-year levels, while traditional software gets left behind, creating a bifurcated market opportunity.",
+        "Lean, focused managers with deep sector expertise can outperform by distinguishing genuinely threatened tech companies from those caught in broad-based AI-driven selloffs\u2014Seva Growth's $160M raise shows appetite persists for disciplined, non-consensus software bets."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Tech's loss is PE's gain"
+    },
+    {
+      "id": "f62cd263",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Hurricane Isaias has knocked offline two-thirds of U.S. Gulf oil production and over half of Gulf natural gas output, while geopolitical tensions near Qatar sent Brent crude prices up 4%. Energy and AI-related stocks declined after OpenAI missed a $20 billion revenue target, dampening investor enthusiasm for data center infrastructure buildouts. Canada announced a $1.5 billion retrofit program targeting one million homes with heat pump rebates up to $12,000 to address heating efficiency.",
+      "keyTakeaways": [
+        "Energy supply disruptions from Hurricane Isaias represent a near-term commodity price driver and potential upside for oil and gas producers, but geopolitical risks in the Persian Gulf add structural volatility that could sustain elevated oil prices.",
+        "The OpenAI revenue miss signals potential overcapitalization in the AI infrastructure narrative; investors should scrutinize demand assumptions for nuclear, geothermal, and data center power suppliers like Constellation Energy, Oklo, and Fervo Energy before committing to high valuations.",
+        "Canada's $1.5 billion retrofit initiative represents significant recurring revenue opportunity for heat pump manufacturers and HVAC contractors, but execution risk and subsidy dependency create exposure to policy changes and budgetary constraints."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Big Gulfs"
+    },
+    {
+      "id": "30014dfc",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-09",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Current, a fintech targeting the 150+ million Americans living paycheck to paycheck, has achieved EBITDA profitability while maintaining growth, according to CEO Stuart Sopp in this podcast interview. The company is expanding its product suite beyond banking to include earned wage access (up to $1,000) and credit solutions, while maintaining focus on unit economics and customer payback periods as key drivers of sustainable business building.",
+      "keyTakeaways": [
+        "Current has demonstrated a path to profitability without sacrificing growth by targeting a specific underserved demographic and optimizing unit economics\u2014a model that challenges the growth-at-all-costs narrative that dominated early fintech venture funding.",
+        "The earned wage access expansion to $1,000 represents an opportunity to deepen engagement and revenue per customer in the paycheck-to-paycheck segment, though regulatory risks around wage advances should be monitored.",
+        "The emphasis on being 'IPO ready' and balancing top-line growth with profitability signals a potential shift in fintech investor expectations away from hypergrowth metrics toward sustainable unit economics and path to positive cash flow."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 38,
+      "originalTitle": "How to Win the Future of Fintech with Current CEO Stuart Sopp"
+    },
+    {
+      "id": "b1302add",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Ultra, a Brooklyn-based robotics startup, raised $62 million ($50M Series A led by Framework Ventures with Y Combinator participation, plus $12M seed) to expand its 'robots as a service' model for warehouse automation. The company leases packing robots to third-party logistics sites under a monthly subscription model rather than requiring large capital expenditures from customers, and has already processed over half a million orders while deepening a partnership with AI firm Physical Intelligence.",
+      "keyTakeaways": [
+        "The as-a-service model eliminates customer capex barriers and generates recurring revenue\u2014Ultra charges upfront installation fees plus ongoing monthly hardware/software support, which appears to be driving significant early revenue traction in the logistics automation market.",
+        "Non-humanoid robots deployed in real-world warehouse operations are capturing VC capital and generating measurable impact faster than more publicized humanoid robotics plays, suggesting investors should distinguish between hype and actual commercial deployment.",
+        "The warehouse automation sector is consolidating with multiple well-funded players (Exotec, Amazon, Atoms, Ultra) competing for logistics modernization opportunities, indicating the space has matured from emerging to competitive with clear business model differentiation becoming critical."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Robots as a service"
+    },
+    {
+      "id": "16d532a9",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-10-09",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The EU has formalized a mutual space defense pact allowing 27 member states to collectively respond to satellite and space infrastructure threats through political, economic, or military means, establishing Europe's first coordinated orbital security framework. The newsletter covers emerging deep tech opportunities including Anduril's new shipyard partnership, Bridge Neurotech's ultrasound brain-computer interface, fully implanted cochlear implants reaching patients, and Star Catcher's orbital power-beaming demonstrations, alongside highlights of 2026 Nobel Prize winners in science.",
+      "keyTakeaways": [
+        "The EU's space defense pact creates a ~450+ million person market for coordinated space security solutions, opening opportunities for defense contractors and satellite operators to pitch integrated European security ecosystems rather than country-by-country approaches.",
+        "Multiple neurotech breakthroughs (cochlear implants, ultrasound BCIs) reaching commercialization signal that implantable bioelectronics is transitioning from R&D to revenue stage\u2014investors should evaluate portfolio companies' clinical trial progress and regulatory pathways.",
+        "The convergence of space militarization (EU defense pact, orbital RF sensing, Pentagon-CIA technology scouting) with commercial space infrastructure (SpaceX launches, power beaming) indicates dual-use technology investments will face increased regulatory scrutiny and potential government procurement opportunities."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 183: EU signs mutual space defense pact"
+    },
+    {
+      "id": "e2771cf7",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a live forum on November 13, 2026 featuring utility executives from Eversource Energy, National Grid, and EnergyHub discussing how virtual power plants (VPPs) are evolving beyond peak load management to provide reliable grid capacity and potentially replace traditional power resources. The event will showcase real-world case studies from major utilities exploring VPP deployment as a solution to overlapping grid challenges.",
+      "keyTakeaways": [
+        "VPP market is maturing from niche peak-shaving tool to core grid infrastructure\u2014utilities are now considering VPPs as alternatives to traditional generation capacity, signaling significant capital reallocation opportunities in distributed energy and grid modernization technology.",
+        "Major utility adoption by Eversource and National Grid validates VPP viability at scale and suggests regulatory/operational barriers are lowering, creating investment runway for VPP software platforms and aggregation companies like EnergyHub.",
+        "Growing utility focus on VPPs reflects broader grid decentralization trend driven by renewable integration and electrification\u2014investors should monitor how quickly utilities transition VPP spending from pilot programs to production deployment budgets."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Live event: The expanding role of VPPs"
+    },
+    {
+      "id": "c2c12733",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News is convening energy executives, financiers, and policymakers in Washington D.C. on October 14 to discuss project finance and infrastructure investment amid surging electricity demand, shifting tax incentives, and a newly proposed bipartisan permitting deal. The event will feature speakers including Julie Kozeracki, Acting Chief Investment Officer at the U.S. Department of Energy, and Mark Riedy, a partner in energy project finance at Womble Bond Dickinson, addressing how energy projects can be structured and financed in this evolving regulatory environment.",
+      "keyTakeaways": [
+        "The bipartisan permitting deal represents a critical inflection point for energy infrastructure deployment\u2014investors should understand how streamlined permitting directly impacts project IRRs and development timelines.",
+        "Institutional capital allocation patterns are shifting in real-time as tax incentives change; this event signals that understanding the new policy framework is essential for competitive deal sourcing and structuring.",
+        "The convergence of rising electricity demand, tax policy evolution, and regulatory reform is creating a window for energy project finance\u2014expect increased competition for quality projects and potential repricing of risk across the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Upcoming Event: The New Era of Energy Finance"
+    },
+    {
+      "id": "5cdb0afb",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-08",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA), a permitting reform bill released by four senators, is creating winners and losers across the energy sector. Clean energy companies, transmission line developers, natural gas pipelines, and geothermal startups stand to benefit, while utilities and data centers face headwinds. Environmental groups like the Sierra Club and NRDC remain cautiously skeptical, flagging concerns about weakened court oversight and Clean Water Act protections despite acknowledging positive transmission reforms.",
+      "keyTakeaways": [
+        "Long-distance transmission and geothermal startups are positioned as clear beneficiaries of permitting streamlining, presenting investment opportunities in grid modernization and distributed energy infrastructure that addresses infrastructure bottlenecks.",
+        "Big Tech's voluntary nuclear power plant upgrades signal a shift in how major corporates are directly investing in energy infrastructure, potentially creating new partnership and financing models that bypass traditional utility structures.",
+        "Environmental groups' cautious-but-not-blocking stance suggests the bill likely has a viable path to passage despite bipartisan complexity, making it prudent for investors to model policy risk as lower for clean energy companies and transmission operators in the near term."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Permitting\u2019s Battle Lines"
+    },
+    {
       "id": "6cd15a9b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20589,33 +20751,33 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 119
+      "count": 120
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 475
+      "count": 477
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 443
+      "count": 447
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 47
+      "count": 48
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 28
     },
     {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 34
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 27
     }
   ],
-  "lastUpdated": "2026-10-08T14:14:11.136729Z"
+  "lastUpdated": "2026-10-09T14:00:31.353588Z"
 }
