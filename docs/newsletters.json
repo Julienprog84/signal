@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "05abc348",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "US private equity activity rebounded in Q3 2026 with deal count rising 5.9% and value up 20.9%, driven by a bifurcated strategy: mega-deals of $1 billion or more surged to 28 transactions worth $82.8 billion, while sponsors simultaneously increased smaller middle-market and growth equity positions to avoid financing risk. Growth equity deals are on pace to hit a record 24.8% of total deal count in 2026, signaling a structural shift toward lower-leverage, all-equity structures as interest rate hikes continue to constrain borrowing costs.",
+      "keyTakeaways": [
+        "PE sponsors are executing a dual-track capital deployment: pursuing high-conviction mega-deals where macroeconomic clarity exists, while simultaneously shifting deal volume toward smaller, lower-leverage positions that require larger equity checks and less debt financing.",
+        "Growth equity is displacing traditional buyouts as PE's preferred deal type, suggesting investors are pricing in persistent higher rates and seeking structures that reduce refinancing risk\u2014a significant structural shift if the trend holds through year-end.",
+        "Interest rates remain the critical variable determining deal velocity and size; further rate hikes could quickly reverse Q3's mega-deal momentum and force capital back down the deal-size curve, making Q4 deal value highly rate-sensitive."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "PE\u2019s  dual playbook"
+    },
+    {
+      "id": "331d25d7",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The venture capital market is experiencing a historic acceleration in decacorn creation, with companies reaching $10 billion valuations in an average of 5.5 years in 2025\u2014nearly half the 9.4-year timeline from 2020. A record 42 decacorns were born globally in 2026 through October, driven by mega-seed deals and later-stage mega-rounds concentrated among sought-after founders, though rapid valuations are sometimes outpacing revenue growth. Meanwhile, SpaceX's $8 billion acquisition of spectrum licenses from Grain Management signals a major competitive threat to telecom giants, erasing $36 billion in combined market cap from AT&T, Verizon, and T-Mobile.",
+      "keyTakeaways": [
+        "Decacorn formation timelines have collapsed to 3 years or fewer for the fastest recent companies, with 17 of the 20 fastest decacorns achieving this in 2025-2026, suggesting investors should scrutinize whether rapid valuations reflect genuine unit economics or speculative capital concentration.",
+        "The VC market concentration into mega-rounds for elite founders is intensifying valuation inflation risks; the IPO market weakness noted in November creates potential correction risk if late-stage companies can't achieve liquidity at current multiples.",
+        "SpaceX's spectrum play represents a structural threat to legacy telecom business models, potentially opening a new competitive frontier in wireless that extends beyond traditional satellite limitations and validates Elon Musk's stated phone strategy ambitions despite AT&T leadership dismissals."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\ud83e\udd84 Axios Pro Rata: Shattered decacorn records"
+    },
+    {
+      "id": "f0fad8d2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's weekly digest covers five major climate and energy stories: permitting reform's effectiveness at constraining presidential power over energy projects; Amazon and Google's strategy to upgrade existing nuclear reactors for immediate power needs while awaiting next-generation facilities; the International Brotherhood of Electrical Workers' conspicuous silence on bipartisan permitting reform; Oklahoma's insurance crisis driven by hail damage affecting 9% of median household income; and environmental nonprofits' push for federal data center policy.",
+      "keyTakeaways": [
+        "Big Tech's pivot to nuclear uprating presents immediate revenue opportunities for reactor operators and engineering firms\u2014Google's deal to add 890 megawatts to 11 Mid-Atlantic reactors signals accelerating capital deployment in legacy nuclear infrastructure upgrade projects.",
+        "Permitting reform's viability depends on political durability, not just legislative language; investors should scrutinize whether BAAJA-style proposals would actually survive judicial and executive challenges across administrations before banking on long-term energy project certainty.",
+        "Insurance market dysfunction in Oklahoma (driven by climate-related hail) is creating political opportunity for regulatory change and potential investment in alternative insurance models or risk mitigation technologies, with Democratic gains possible in traditionally Republican strongholds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: What We Wrote (and Read) This Week"
+    },
+    {
       "id": "7ebff28f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20749,19 +20803,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 120
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 477
+      "count": 479
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 447
+      "count": 448
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 120
     },
     {
       "name": "Fintech",
@@ -20779,5 +20833,5 @@
       "count": 34
     }
   ],
-  "lastUpdated": "2026-10-09T14:00:31.353588Z"
+  "lastUpdated": "2026-10-10T13:09:50.757651Z"
 }
