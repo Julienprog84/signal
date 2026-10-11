@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "b2cbade4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Limited partner participation in continuation funds remains stubbornly low despite favorable market conditions, with rollover rates ranging from 5-15% depending on measurement methodology. While liquidity needs drive some decisions, research suggests other factors beyond cash requirements influence LPs' preference to exit rather than extend their holdings in trophy assets through GP-led vehicles.",
+      "keyTakeaways": [
+        "Most LPs are taking discounted exits in continuation fund transactions rather than rolling over\u2014even when assets are described as trophy-quality holdings, suggesting LPs prioritize certainty and capital redeployment over concentrated conviction bets",
+        "The divergence between 15% average rollover rates (Jefferies 2025) and sub-5% rates (NBER 2025) indicates measurement differences, but both confirm the majority exit pattern; GPs cannot rely on LP rollover capital for portfolio continuation strategies",
+        "Secondary transaction volume hit $121B in H1 2026 (split between GP-led and LP-led deals), but this liquidity is primarily driven by new capital entering the market rather than existing LP conviction\u2014signaling potential valuation compression for continuation vehicles if new buyer appetite weakens"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Why LPs take the cash and run"
+    },
+    {
+      "id": "9c6b02f8",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-11",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The Independent Community Bankers of America has filed a lawsuit challenging the OCC's authority to grant national trust bank charters to stablecoin and fintech companies, arguing the practice violates the \"Major Questions Doctrine.\" Meanwhile, crypto card issuer Rain has filed its own OCC application for Rain National Trust Bank, which would provide digital asset custody, stablecoin reserve management, and stablecoin issuance services for institutional clients, signaling continued fintech momentum despite regulatory headwinds.",
+      "keyTakeaways": [
+        "The ICBA's legal challenge to OCC stablecoin charters introduces material regulatory risk for fintech/crypto companies pursuing national trust bank status; investors should monitor this litigation as it could fundamentally restrict or eliminate this charter pathway.",
+        "Rain's application demonstrates that despite the lawsuit, fintech companies view national trust bank charters as strategically valuable enough to proceed\u2014suggesting strong conviction in either winning this legal battle or having alternative regulatory pathways.",
+        "The broader trend shows regulatory fragmentation in banking: traditional community banks are fighting through litigation to preserve competitive moats against fintech entrants, while the OCC's charter-granting authority itself is becoming a contested asset in the financial services regulatory landscape."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "OCC\u2019s Stablecoin Trust Bank Charters Violate \u201cMajor Questions Doctrine,\u201d ICBA Suit Argues"
+    },
+    {
       "id": "05abc348",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -20805,7 +20841,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 479
+      "count": 480
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 49
     },
     {
       "name": "Climate & Energy",
@@ -20818,11 +20859,6 @@
       "count": 120
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 48
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 28
@@ -20833,5 +20869,5 @@
       "count": 34
     }
   ],
-  "lastUpdated": "2026-10-10T13:09:50.757651Z"
+  "lastUpdated": "2026-10-11T13:38:42.243686Z"
 }
