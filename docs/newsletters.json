@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "619164fe",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-12",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "European lawmakers are finalizing negotiations on the 28th regime, a pan-European limited liability company status that would enable businesses to incorporate online in 48 hours and operate across all 27 EU member states without restructuring. Meanwhile, France's impact startup ecosystem has grown to 1,382 companies employing 45,420 people, while French startups raised \u20ac217.3 million this week, with AI-focused companies capturing \u20ac100.3 million of that total.",
+      "keyTakeaways": [
+        "The 28th regime regulatory approval is nearing completion but faces last-minute parliamentary hurdles that could delay a major unlock for cross-border European startup scaling and investor capital deployment across the bloc.",
+        "France's impact startup sector is maturing at scale with 1,382 active companies, signaling significant investor appetite in ESG-aligned innovation and potential opportunity for dedicated retail investment vehicles modeled on defense sector frameworks.",
+        "AI startups are dominating French fundraising momentum, capturing 46% of weekly capital raised (\u20ac100.3M of \u20ac217.3M), indicating a clear market concentration risk and potential overheating in AI venture segments across continental Europe."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "12.10 - 28e r\u00e9gime : pourquoi \u00e7a bloque encore ?"
+    },
+    {
+      "id": "f4a0ce77",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Limited Partners are grappling with three critical challenges: measuring private credit defaults in opaque direct lending markets, adapting to stricter SEC valuation scrutiny that now requires detailed comp set justification, and recalibrating fund pacing models to account for longer PE and VC hold periods that can extend fund lives beyond traditional assumptions. Meanwhile, European PE fund sizes are surging, with median fund sizes doubling to \u20ac360 million over three years as LP capital consolidates around fewer, larger managers seeking liquidity amid distribution shortfalls.",
+      "keyTakeaways": [
+        "LPs must develop sophisticated default measurement frameworks for private credit portfolios, as stress resolution increasingly happens through quiet restructuring rather than public accounting, requiring deeper portfolio health monitoring beyond deal sourcing metrics.",
+        "Update fund pacing and capacity models immediately\u2014longer-than-expected fund lives are reducing LP dry powder; NEPC recommends avoiding vintage-year timing and instead managing check sizes if capital constraints emerge.",
+        "European PE consolidation into mega-funds signals structural shift where institutional LPs prioritize known managers and guaranteed allocations over diversification, concentrating dry powder and potentially limiting opportunities for emerging GPs across the continent."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "3 looming nightmares for LPs"
+    },
+    {
+      "id": "562613fb",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This climate and energy-focused newsletter covers three major market disruptions: Hurricane Isaias forced two-thirds of U.S. Gulf oil and gas production offline, prompting Trump to announce a deal with Putin to release 2 million tons of Russian diesel onto markets and declare an 'energy ceasefire' in the Russia-Ukraine war. Meanwhile, congressional climate hawks are mobilizing against bipartisan permitting reform, signaling potential policy headwinds for energy infrastructure projects. The piece also touches on Houthi strikes against Saudi Arabia's oil industry summit, adding geopolitical pressure to global energy markets.",
+      "keyTakeaways": [
+        "Supply shocks from extreme weather events (Hurricane Isaias) remain a critical market driver, with geopolitical responses (Russian diesel exports, Trump-Putin deals) creating sudden commodity arbitrage opportunities that investors should monitor closely.",
+        "Permitting reform faces organized congressional opposition from climate progressives, reducing certainty for long-cycle infrastructure investments in fossil fuels and suggesting energy transition projects may face fewer regulatory headwinds by comparison.",
+        "Geopolitical instability in the Middle East (Houthi attacks on Saudi oil summit) combined with energy ceasefires and supply agreements creates high volatility in oil markets\u2014energy sector investors should expect continued price swings driven by diplomatic developments rather than fundamental supply-demand dynamics."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "The Three Storms"
+    },
+    {
+      "id": "02c88ac2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. private equity experienced a 14.1% decline in exit value and 13.6% drop in deal value during Q3 2026, continuing a multi-year slowdown driven by geopolitical uncertainty, potential rate hikes, and limited exit opportunities. While mega-firms like KKR continue to successfully raise capital, smaller and mid-market PE managers face increasingly difficult fundraising conditions as distributions dry up and capital concentrates among top-tier firms.",
+      "keyTakeaways": [
+        "Deal flow remains structurally depressed with PE trapped in a cyclical pattern of false recoveries\u2014this suggests investors should expect continued muted exit environments and slower capital deployment rather than sudden inflection points",
+        "Fundraising is increasingly bifurcated: mega-funds ($300B+ raises) continue to succeed while mid-market managers struggle, indicating capital will concentrate further among established players and LP dry powder will deploy selectively",
+        "Interest rate policy is the key macro variable\u2014if rates hold stable or decline, PE could see modest improvement; if rates rise further, Q4 2026 will mirror Q3's sluggish levels, suggesting investors should prepare for extended recovery timelines"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Groundhog Day"
+    },
+    {
       "id": "b2cbade4",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -20839,24 +20911,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 121
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 480
+      "count": 482
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 449
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 49
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 448
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 120
     },
     {
       "name": "Deep Tech & Science",
@@ -20869,5 +20941,5 @@
       "count": 34
     }
   ],
-  "lastUpdated": "2026-10-11T13:38:42.243686Z"
+  "lastUpdated": "2026-10-12T16:19:49.410753Z"
 }
