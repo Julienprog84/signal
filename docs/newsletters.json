@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "81c7580e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-13",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French tech entrepreneur backed by Xavier Niel, C\u00e9dric Meston (co-founder of HappyVore and Tupperware France acquirer), is competing to acquire the iconic Duralex glassware company, with the Orleans commercial court reviewing final acquisition bids this week. The newsletter also highlights HyLight's expansion of autonomous airship operations across Europe with Y Combinator support, serving infrastructure clients like Enedis and SNCF, and reports that France's impact startup ecosystem now comprises 1,382 companies generating 45,420 direct jobs.",
+      "keyTakeaways": [
+        "Tech entrepreneurs with VC backing are increasingly acquiring traditional manufacturing assets (Duralex, Tupperware France), suggesting a playbook for operational improvements and digital transformation in legacy industries that remains fragmented and acquisition-ready.",
+        "Infrastructure-focused deeptech like autonomous airships (HyLight) are securing institutional backing (Y Combinator) and establishing customer traction with major utility and rail operators, indicating growing venture appetite for hard-tech solutions addressing enterprise monitoring needs.",
+        "France's impact startup ecosystem has grown to 1,382 companies with significant job creation, reflecting stronger institutional support (Bpifance, France Digitale) and suggesting policy-backed capital flows toward sustainable ventures may be outpacing traditional VC growth in this market."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "13.10 - Cet entrepreneur de la tech soutenu par Xavier Niel va-t-il reprendre Duralex ?"
+    },
+    {
+      "id": "26338478",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Bloom Energy is hosting a webinar on October 28 addressing how 800V DC power architecture and carbon capture technologies are becoming critical design considerations for next-generation AI data centers. The event features Bloom Energy executives discussing how infrastructure decisions around power availability and decarbonization are reshaping data center development faster than anticipated, signaling a shift from pure capacity planning to comprehensive power architecture strategy.",
+      "keyTakeaways": [
+        "800V DC power standards are emerging as table-stakes infrastructure for AI data centers, indicating vendors like Bloom Energy are positioned to capture significant TAM as operators upgrade power architecture across new facilities",
+        "Carbon capture solutions are moving from theoretical to deployable at scale, creating near-term monetization opportunities for clean energy infrastructure providers serving hyperscale operators facing regulatory and ESG pressures",
+        "AI infrastructure buildout is forcing accelerated capital allocation cycles in power and energy infrastructure, suggesting investors should prioritize companies with solutions ready for immediate deployment rather than those in development phases"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Live event: The power standard for the AI future"
+    },
+    {
+      "id": "e106a39e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity's valuation premium over strategic acquirers has narrowed to a three-year low as tightened financing conditions constrain sponsor buying power, with PE paying 10.9x EBITDA versus 8.9x for strategics in 2026. Meanwhile, OpenAI's $1.43 trillion valuation appears inflated relative to fundamentals\u2014analysts estimate closer to $1 trillion\u2014requiring the company to hit a $70 billion revenue run-rate by year-end and dramatically reduce losses that currently run three times its revenue. Climate and clean energy investing continues to attract capital despite peaking specialist fundraising, with energy security emerging as a new priority driving continued capital deployment.",
+      "keyTakeaways": [
+        "PE sponsors face a structural disadvantage: higher financing costs have reduced their leverage capacity and negotiating power, making cash-rich strategic buyers increasingly competitive. This trend suggests a shift in exit strategies away from traditional leveraged buyouts.",
+        "OpenAI's valuation disconnect signals broader caution in late-stage private market pricing. The company must achieve 40% quarterly revenue growth and simultaneously compress a 2.84x cost-to-revenue ratio\u2014a dual challenge that raises questions about whether current AI startup valuations reflect achievable fundamentals.",
+        "The decline of PE's deal value share from 41.6% (2025) to 31.8% (2026 YTD) represents a structural shift in M&A activity toward strategic buyers and equity-financed deals, reshaping portfolio company exit timelines and acquisition multiples across sectors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "PE's pricing power is fading"
+    },
+    {
+      "id": "e113b67e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Iambic Therapeutics, an AI biotech planning to go public this week at a $900 million valuation with $160 million raised, faces a credibility challenge as its competitor Isomorphic Labs\u2014which has no clinical trials\u2014is reportedly raising at a $40 billion valuation. The valuation gap reflects investor preferences for AI-first teams and founder pedigree (Demis Hassabis/Google DeepMind) over biotech fundamentals, even as public markets remain skeptical of computational drug discovery after setbacks at Recursion and Schr\u00f6dinger.",
+      "keyTakeaways": [
+        "The 44x valuation multiple between Iambic and Isomorphic despite Iambic's clinical trial data demonstrates that AI-first founder credibility and brand premium currently override biotech fundamentals in the market, creating potential downside risk for early Iambic IPO investors.",
+        "Iambic's decision to potentially raise its IPO target range due to competitive pressure highlights how private market valuations directly impact public market pricing power\u2014companies must now compete on narrative, not just science, suggesting continued volatility in biotech IPO valuations.",
+        "The Getty Images bankruptcy represents a structural market shift where established businesses in image licensing face disruption from AI-generated alternatives, signaling that established market positions provide diminishing protection against AI-driven competition."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Iambic intrigue"
+    },
+    {
+      "id": "d8c9f700",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate and energy newsletter covering major developments in oil markets, renewable energy, and nuclear power. Key stories include oil price spikes driven by Houthi attacks on Saudi Arabia despite a Trump-Russia diesel deal, TotalEnergies' $1.2 billion solar acquisition of 700 megawatts across Texas and Ohio after abandoning offshore wind, and South Korea's agreement to finance and construct Westinghouse AP1000 reactors in the U.S. while gaining access to North American nuclear markets.",
+      "keyTakeaways": [
+        "TotalEnergies is pivoting aggressively toward utility-scale solar in the U.S. after receiving $1B+ from the Trump administration to exit offshore wind\u2014signaling that geopolitical incentives are reshaping energy infrastructure deployment faster than market fundamentals alone.",
+        "South Korea's deal to build Westinghouse reactors domestically while gaining North American nuclear market access represents a strategic capital reallocation toward nuclear baseload power, potentially accelerating the U.S. nuclear construction pipeline versus wind/solar alternatives.",
+        "Middle East supply chain vulnerabilities (Houthi attacks, lack of coastal protection capacity) are creating persistent oil price floors above $100/barrel, creating headwinds for transition away from hydrocarbons and supporting investment in energy security through domestic renewable and nuclear infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Total Eclipse of the Heart"
+    },
+    {
+      "id": "34fb59b8",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Notable Capital's Hans Tung draws parallels between 19th-century British maritime dominance and today's AI race, arguing that infrastructure\u2014not just innovation\u2014determines geopolitical and economic supremacy. Tung contends that data centers function as the railroads of the AI era, where compute availability determines which AI models win markets, echoing how Northern railroad superiority influenced Civil War outcomes and how China's decades-long infrastructure investment in rail and transit may position it advantageously in the AI competition.",
+      "keyTakeaways": [
+        "Focus on infrastructure as a moat: VCs should prioritize investments in compute capacity and data center buildout over chasing individual AI applications, as the availability of computing resources\u2014not model quality alone\u2014will determine market winners in the AI era.",
+        "Geopolitical implications for capital allocation: China's sustained infrastructure investments over the past 20 years in rail and high-speed transit suggest a strategic blueprint for AI dominance; U.S.-based investors should consider how compute infrastructure gaps could affect long-term competitive positioning of American AI companies.",
+        "Historical precedent signals infrastructure beats innovation: Drawing from steel ships and railroads, technological advantage only translates to sustained dominance when backed by physical infrastructure; companies and nations without adequate compute resources will struggle regardless of engineering talent or model sophistication."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Railroads, ships, and compute"
+    },
+    {
+      "id": "6a8cc9fb",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-10-13",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans analyzes recurring patterns of misleading metrics in the AI boom reminiscent of the dotcom bubble, highlighting OpenAI's $70bn revenue figure that was later corrected to approximately $50bn due to confusion over gross versus net reporting. The newsletter explores three key infrastructure challenges for AI agents: the adoption of Meta's Personal Agent Protocol as a strategic standard-setting move, Amazon and other retailers blocking agents due to fraud and liability concerns, and the competitive advantage implications of Amazon's $75bn ad business remaining invisible to agent transactions.",
+      "keyTakeaways": [
+        "Revenue metric transparency matters: OpenAI's initial $70bn figure versus actual ~$50bn demonstrates how gross/net reporting ambiguity can inflate valuations\u2014investors must verify whether AI companies are reporting revenue net of reseller payments or gross figures before making allocation decisions.",
+        "Agent adoption faces structural friction: Major retailers blocking agents entirely signals that customer ownership economics (particularly ad revenue capture) will drive slower enterprise adoption than hype suggests, creating a multi-year integration challenge rather than immediate disruption.",
+        "Standards wars are distribution wars: Meta's Personal Agent Protocol is a strategic weapon to lock in ecosystem partners, but partnership signatures don't guarantee implementation\u2014watch actual product integrations rather than announced partnerships to gauge real AI agent traction."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 664"
+    },
+    {
+      "id": "75ee4faf",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "OpenAI's internal AI model recently solved over 700 previously unsolved mathematics problems, marking a watershed moment in how artificial intelligence can accelerate research in conceptual fields. The breakthrough highlights a fundamental shift from \"proof scarcity\" to \"proof abundance\" in mathematics, enabled by AI's capacity to generate verifiable solutions in domains where correctness can be objectively confirmed. However, the achievement has raised concerns about research ethics, data access, and whether internal proprietary models should be used to publish breakthrough results that could affect the broader academic and research community.",
+      "keyTakeaways": [
+        "AI models are now economically valuable as research infrastructure for solving intractable problems in conceptual domains like mathematics, creating new business models around proprietary AI access and verification tools\u2014a significant competitive moat for companies like OpenAI.",
+        "The emergence of proof verification languages (like Lean) as checkpoints for AI-generated solutions creates a new category of technical infrastructure that will likely attract investment in AI validation and formal verification tools.",
+        "This represents a macro shift in how R&D works across industries: AI-driven discovery in conceptual/mathematical fields suggests similar breakthroughs could soon accelerate materials science, drug discovery, and climate modeling\u2014sectors with massive capital requirements and long development cycles."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: The Attention Shortage?"
+    },
+    {
       "id": "619164fe",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -20913,17 +21057,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 121
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 482
+      "count": 122
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 449
+      "count": 452
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 485
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 35
     },
     {
       "name": "Fintech",
@@ -20934,12 +21083,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 28
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 34
     }
   ],
-  "lastUpdated": "2026-10-12T16:19:49.410753Z"
+  "lastUpdated": "2026-10-13T14:41:54.741173Z"
 }
