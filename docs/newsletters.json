@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "98cc40e7",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-14",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Nvidia announced a minority investment in French healthtech startup Doctolib during a Paris visit, signaling increased strategic focus on French startups. The newsletter covers a broader European AI momentum including Mistral's new model presentation, Scaleway's infrastructure expansion with Nvidia and AMD partnerships, plus two venture rounds: Wavo raised \u20ac10M for AI-powered inventory financing and CarbonFarm secured \u20ac7M for methane reduction in agriculture using satellite imagery and AI.",
+      "keyTakeaways": [
+        "Nvidia's direct capital participation in Doctolib validates European healthtech's AI monetization potential and suggests multinational tech giants are moving beyond infrastructure plays into strategic equity stakes in promising European unicorns.",
+        "The clustering of AI infrastructure announcements (Mistral, Scaleway, Nvidia, AMD) indicates Europe is building credible alternatives to US cloud providers\u2014a structural shift that could reshape VC allocation toward European AI infrastructure and applications.",
+        "Fintech and climate tech are emerging as high-conviction sectors for European VCs: inventory financing (Wavo, \u20ac10M from Eurazeo) and agricultural emissions reduction (CarbonFarm, \u20ac7M) demonstrate investor appetite for AI solving tangible cash flow and sustainability problems."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "14.10 - Nvidia d\u00e9barque au capital de Doctolib !"
+    },
+    {
+      "id": "48d774c1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Large PE firms with over $1 billion in AUM are aggressively moving into the lower-middle market, with one $4M EBITDA financial services company attracting 26 bidders at auction. This crowding is pushing valuations up significantly, with 58% of dealmakers citing buyer competition as the primary driver of upward pressure. Meanwhile, a contrarian VC is backing Freckle, an AI phone for kids ages 7-13 designed without social media or web browsers, which has already sold out its first production run and raised over $5M from investors including Seven Seven Six.",
+      "keyTakeaways": [
+        "The lower-middle market is no longer a refuge from competition\u2014traditional entry multiples of 8.5x EBITDA are being pressured upward as mega-funds chase smaller deals, signaling that dry powder needs deployment and quality assets are scarce across all market segments.",
+        "Emerging consumer hardware plays like Freckle demonstrate investor appetite for anti-tech positioning and parental control narratives, suggesting a market opportunity in devices that deliberately exclude rather than maximize engagement.",
+        "The bifurcation of PE strategy\u2014large funds moving down-market while smaller PE managers feel squeezed\u2014could accelerate consolidation among mid-sized PE firms and reshape how capital gets allocated across deal sizes."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "26 bidders for $4M in EBITDA"
+    },
+    {
+      "id": "68177b9e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Wall Street's largest banks delivered mixed third-quarter earnings, with JPMorgan missing on revenue and earnings for the first time in nearly three years due to weak fixed-income trading and rising expenses, while Goldman Sachs crushed expectations by leveraging a 72% surge in equities revenue. Bank executives including JPMorgan's CFO Jeremy Barnum and Goldman CEO David Solomon signaled that recent IPO delays are temporary, describing their deal pipelines as \"very, very strong\" and attributing current slowdown to temporary valuation gaps rather than fundamental market weakness.",
+      "keyTakeaways": [
+        "JPMorgan's earnings miss despite strong consumer spending signals that large-cap banking profits are vulnerable to trading volatility and operational cost pressures, even with robust underlying economic activity\u2014a cautionary signal for investors betting on consistent financial services returns.",
+        "Goldman's 72% equities revenue surge versus JPMorgan's weakness indicates that dealmaking and capital markets boutiques may outperform universal banks in the current cycle, suggesting capital should flow toward specialized financial firms rather than diversified banking conglomerates.",
+        "Bank leadership consensus that IPO delays are temporary rather than cancelled signals confidence in near-term deal flow recovery, but the 10-15% valuation haircuts mentioned suggest exit multiples may reset lower\u2014portfolio companies should prepare for more modest exit valuations than pre-correction expectations."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Bank check"
+    },
+    {
+      "id": "642e9673",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration is legally challenging the approval of Orsted's 704-megawatt Revolution Wind offshore project despite its completion, citing potential regulatory non-compliance and signaling broader regulatory uncertainty for renewable energy permitting. Simultaneously, Trump has issued over one-third of all coal-focused executive orders in the past 33 years, reflecting a sharp pivot in energy policy that favors fossil fuels and reflects intensified coal industry lobbying.",
+      "keyTakeaways": [
+        "Legal attacks on completed renewable projects create unpredictable operating environments for offshore wind developers like Orsted, threatening the viability of existing project economics and deterring future capital allocation to Northeast offshore wind infrastructure.",
+        "The divergence between permitting reform rhetoric and regulatory action suggests the administration may weaponize legal challenges as negotiating tactics, creating asymmetric risk for renewable energy investors versus fossil fuel beneficiaries.",
+        "Coal's resurgence through executive action combined with offshore wind legal jeopardy signals a structural realignment in energy policy that could redirect multi-billion dollar investment flows from renewables to coal and conventional energy infrastructure over the next 2-4 years."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Revolution Revisited"
+    },
+    {
+      "id": "6ed08277",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A comprehensive guide on closing the Scope 3 emissions gap shows that companies like Burton, Royal Mail, and e.l.f. Beauty are leveraging AI-powered tools to improve carbon accounting data while reducing costs. Burton discovered a lower-carbon plastic alternative saving over $130,000, while Royal Mail mapped 3,000+ suppliers' footprints in two months, addressing a critical challenge where half of net-zero committed companies cite Scope 3 as their biggest barrier.",
+      "keyTakeaways": [
+        "There's a significant market opportunity in software/services that help companies solve Scope 3 emissions measurement\u2014companies are actively seeking faster, cheaper alternatives to traditional LCA methods that move beyond rough spend-based estimates.",
+        "Procurement and supply chain optimization powered by carbon data is becoming a tangible business case: companies can simultaneously reduce emissions and cut costs, making sustainability investments increasingly defensible to CFOs and boards.",
+        "As regulatory pressure and stakeholder expectations around net-zero commitments intensify, the enterprise software market for climate intelligence and supply chain decarbonization is likely to see continued growth and consolidation."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Report: Close the Scope 3 Gap"
+    },
+    {
+      "id": "1d9ffe72",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration's Department of Justice filed a motion to revoke a permit for Revolution Wind, a nearly-complete 700-megawatt offshore wind farm off Rhode Island, potentially undermining a bipartisan permitting reform deal Trump negotiated with Democratic senators. The legal challenge threatens 30 wind farms Trump personally agreed to allow and over 200 onshore wind projects in the permitting queue, signaling the administration may be backing away from its own clean energy permitting commitments.",
+      "keyTakeaways": [
+        "Political risk is now the primary threat to offshore wind deployment in the U.S., not environmental or utility opposition\u2014investors should closely monitor DOJ filings and Trump administration actions on already-permitted projects as indicators of deal integrity.",
+        "Capital allocation to renewable energy companies hinges on whether the bipartisan permitting deal holds; if the Revolution Wind case succeeds, it could trigger a cascading reversal of 200+ projects, creating a stranded asset risk for offshore wind developers and power purchasers.",
+        "The filing in Senator Whitehouse's own state suggests the administration may be willing to sacrifice the permitting deal for political/legal objectives, which could destabilize clean energy infrastructure planning across New England and reduce investor confidence in long-term renewable energy commitments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Is Trump Blowing Up Permitting Reform?"
+    },
+    {
       "id": "81c7580e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -21057,17 +21165,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 122
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 452
+      "count": 123
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 485
+      "count": 487
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 455
     },
     {
       "name": "Strategy & Thesis",
@@ -21085,5 +21193,5 @@
       "count": 28
     }
   ],
-  "lastUpdated": "2026-10-13T14:41:54.741173Z"
+  "lastUpdated": "2026-10-14T12:34:18.573602Z"
 }
