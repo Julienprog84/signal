@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "192b3364",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a virtual forum on November 18, 2026, exploring how utilities are modernizing substations through software-defined architectures and standards-based designs. Industry leaders from Intel (Prithpal Khajuria) and PG&E (Scott Bricker), both affiliated with the vPAC Alliance, will discuss how this transition addresses grid complexity, operational agility, and electrification demands.",
+      "keyTakeaways": [
+        "Software-defined substations represent a major infrastructure modernization opportunity for utilities facing legacy architecture constraints; Intel's involvement signals the technology sector's strategic focus on grid digitalization and a potential market for hardware/software solutions.",
+        "PG&E's participation indicates major utility operators are actively seeking standards-based solutions to improve operational efficiency, suggesting growing capital allocation toward grid modernization and digital transformation projects.",
+        "The shift from project-specific designs to standardized, software-driven substation architectures could create significant opportunities for vendors and service providers in grid automation, cybersecurity, and utility software platforms as the energy transition accelerates."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Why utilities are rethinking the substation"
+    },
+    {
+      "id": "89138367",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-15",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "LinkedIn has released its ninth annual Top 20 French startups ranking for 2026, with Mistral AI maintaining the top position while 14 new entrants signal significant portfolio turnover in the French startup ecosystem. The newsletter also covers C\u00e9dric Meston's acquisition of Duralex glassware following his Tupperware France rescue, and features commentary on AI's role in enhancing rather than replacing customer relationships, plus emerging tech merchandising trends.",
+      "keyTakeaways": [
+        "Mistral AI's sustained leadership reflects the market's confidence in French AI startups as the sector consolidates around proven founders, while 70% portfolio churn suggests significant competition and disruption in the broader French startup landscape.",
+        "Strategic acquisitions of legacy brands by entrepreneurial operators like Meston indicate value opportunities in distressed French manufacturing assets, potentially signaling M&A activity patterns for industrial revival plays.",
+        "The continued emphasis on AI-augmented services (productivity tools, customer relationships) over pure replacement automation suggests investor focus should remain on workflow efficiency and human-AI collaboration models rather than autonomous systems."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "15.10 - D\u00e9couvrez les 20 startups fran\u00e7aises les plus prometteuses en 2026"
+    },
+    {
+      "id": "6d58186c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "LPs are increasingly using secondary market valuations to audit GP asset markings, with the SEC now requiring private funds to do more than rely on manager-provided valuations. Meanwhile, the medical spa sector faces an exit test as PE-backed platform companies like Alpha Aesthetics prepare for sale in 2027-2028, though few comparable transactions exist to benchmark valuations after years of rapid consolidation.",
+      "keyTakeaways": [
+        "Secondary market pricing is becoming a real-time audit tool for LP governance\u2014consistent gaps between GP marks and secondary sale prices are now red flags that influence capital deployment decisions.",
+        "Medical spa platforms face a valuation cliff: 25 portfolio companies expected to hit market in 2027-2028, but LaserAway's failed $2B+ sale process signals buyer demand uncertainty and lack of precedent for large exits.",
+        "Regulatory pressure on valuations is mounting (SEC statement in September) while deal flow data improves pricing efficiency for 'flow name' funds, creating a bifurcated market where top-tier managers face more scrutiny and better pricing benchmarks."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "LPs get a second(ary) opinion"
+    },
+    {
+      "id": "17acc862",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Abby Care, an AI-native home care startup founded by Havi Nguyen in 2022, has raised $82 million in Series C funding led by Transformation Capital to train family members as certified, paid caregivers. The round included new investors CVS Health Ventures, Frist Cressey Ventures, and Pivotal Ventures, with existing backers Khosla Ventures, Thrive Capital, and Sequoia doubling down. The company addresses a critical gap in U.S. healthcare labor by enabling families to provide medically complex home care, with traditional nurse programs only filling 65% of authorized shifts.",
+      "keyTakeaways": [
+        "The home care market has a massive supply-side inefficiency: traditional private duty nursing fills only 65% of authorized shifts despite tens of millions of family caregivers already providing informal care, creating a clear arbitrage opportunity for training and certification platforms.",
+        "Abby Care's Series C demonstrates strong investor appetite for healthcare labor-as-a-service models that work within existing Medicaid infrastructure rather than disrupting it, with both strategic players (CVS Health Ventures) and top-tier VCs (Sequoia, Khosla) committing capital.",
+        "The caregiving crisis will likely drive consolidation in home health, with AI-native platforms that can coordinate multiple stakeholders (health plans, regulators, families, patients) gaining significant competitive moats over traditional home health agencies."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Who cares"
+    },
+    {
+      "id": "b6fdf848",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-14",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Modern Treasury's cofounders Matt Marcus and Sam Aarons discuss the company's newly obtained national trust bank charter, explaining what capabilities it enables and what it doesn't fundamentally change about their infrastructure business. The podcast also covers the broader fintech landscape including adoption of emerging payment rails like FedNow, RTP, and stablecoins.",
+      "keyTakeaways": [
+        "A trust bank charter expands Modern Treasury's direct access to banking infrastructure and payment systems, but appears to be positioned as an enhancement to existing capabilities rather than a transformative pivot in business model.",
+        "Payment rail fragmentation remains a critical issue for fintech infrastructure companies\u2014FedNow, RTP, and stablecoin adoption rates are uneven, suggesting investors should monitor which rails gain enterprise traction as this determines infrastructure investment priorities.",
+        "Modern Treasury's charter acquisition signals that fintech infrastructure providers are moving toward vertically integrated banking capabilities, indicating consolidation pressure in the space and potential acquisition targets for larger financial services firms."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 39,
+      "originalTitle": "What Getting a Trust Bank Charter Does and Doesn\u2019t Change, with Modern Treasury\u2019s Matt Marcus and Sam Aarons"
+    },
+    {
+      "id": "8b84a70c",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "An OpenAI engineer and venture partner at Saudi-backed Raed Ventures was arrested for allegedly installing a hidden audio recorder in an OpenAI conference room, raising new corporate espionage concerns in AI. Separately, Reese Witherspoon and French media firm Mediawan bought back her production company Hello Sunshine from Blackstone-backed Candle Media at a significant discount\u2014valued at just low-to-mid eight figures compared to the $900 million valuation when Candle acquired its stake in 2021.",
+      "keyTakeaways": [
+        "AI company IPO prospectuses will likely need expanded corporate espionage risk disclosures, particularly around foreign national employees with venture capital connections, following this OpenAI precedent.",
+        "The Hello Sunshine acquisition unwinds the 2021 content production boom mentality; Candle Media's shift from building an integrated media empire to asset-level operations signals streaming consolidation has fundamentally altered content company valuations and exit strategies.",
+        "The overlap between engineering talent and venture investing creates counterintelligence risks previously underestimated in tech M&A due diligence, particularly involving international investors and sovereign wealth-connected firms."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "\ud83e\uddfb Axios Pro Rata: Silicon spy"
+    },
+    {
+      "id": "862ee589",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "AI has dramatically lowered the barrier to entry for cyberattacks on critical energy infrastructure by automating reconnaissance, phishing, and exploit development that previously required specialized expertise. Cybersecurity experts warn that while catastrophic scenarios are overblown, the grid faces immediate threats from both AI-enabled attacks and the massive buildout of data centers seeking grid interconnection, which has prompted FERC to reject PJM's data center curtailment plan.",
+      "keyTakeaways": [
+        "AI-powered cyberattacks represent a near-term operational risk to grid operators and data center operators\u2014investment in cybersecurity solutions for critical infrastructure is becoming essential rather than optional as attack complexity decreases exponentially.",
+        "Data center interconnection demand is creating grid strain and regulatory friction; companies in this space need to anticipate stricter reliability and security requirements, making infrastructure-hardened solutions a competitive advantage.",
+        "The convergence of AI-driven cyber threats and rapid data center scaling is reshaping capital flows in energy infrastructure\u2014expect increased M&A activity and venture funding in grid cybersecurity, demand response technology, and resilient power systems."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 6,
+      "originalTitle": "The grid\u2019s AI cyber problems\u00a0"
+    },
+    {
+      "id": "6b136a0e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A recent permitting bill is creating unexpected opportunities for small-scale marine energy projects by potentially streamlining their licensing process. Currently, wave, tidal, and river-current power projects of any size face the same regulatory burden as massive 1,000-megawatt dams, creating a significant barrier to entry for smaller developers. This legislative change could unlock a new market segment in renewable energy that has been hampered by disproportionate permitting costs.",
+      "keyTakeaways": [
+        "Regulatory burden reduction for marine energy startups: Streamlined permitting could dramatically lower deployment costs for wave, tidal, and river-current projects, making smaller-scale marine energy economically viable for the first time.",
+        "Capital allocation opportunity in distributed marine energy: Investors should evaluate early-stage marine energy companies that have been waiting for permitting reform, as the regulatory arbitrage that deterred investment is now being removed.",
+        "Broader renewable energy diversification play: This signals a macro shift toward tiered permitting frameworks that scale with project size, potentially creating template solutions for other renewable energy segments currently burdened by one-size-fits-all regulations."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "An Unexpected Beneficiary of the Permitting Bill: Mini Marine Power"
+    },
+    {
+      "id": "c8458182",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-14",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Trump's energy policy aimed at lowering fossil fuel prices through deregulation and increased drilling has failed to control inflation, with gasoline prices up 9.1% and fuel oil surging 15.3% in September alone. A last-minute deal to release 2.25 million barrels of Russian oil appears insufficient to address diesel prices, representing only days of U.S. demand. The administration's promise to cut energy prices in half by 2026 remains unfulfilled as midterm elections approach in 20 days, undermining the core economic argument for Trump's pro-fossil fuel agenda.",
+      "keyTakeaways": [
+        "Oil and gas deregulation has not delivered promised price relief, suggesting energy markets are driven by global supply dynamics beyond U.S. policy levers\u2014investors betting on fossil fuel relief through GOP policy may face disappointment.",
+        "The failure of Trump's energy price pledge creates political vulnerability and potential policy instability heading into midterms, which could shift regulatory direction and impact energy sector valuations and investment outlook.",
+        "Mini-marine power projects and renewable energy infrastructure may benefit from permitting reforms mentioned in the newsletter, presenting potential investment opportunities in alternative energy as fossil fuel dominance faces credibility challenges."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Oil Economics Are Plaguing Trump\u2019s Presidency"
+    },
+    {
       "id": "98cc40e7",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -21163,19 +21325,24 @@
   ],
   "themes": [
     {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 459
+    },
+    {
       "name": "European VC",
       "color": "#059669",
-      "count": 123
+      "count": 124
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 487
+      "count": 490
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 455
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 50
     },
     {
       "name": "Strategy & Thesis",
@@ -21183,15 +21350,10 @@
       "count": 35
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 49
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 28
     }
   ],
-  "lastUpdated": "2026-10-14T12:34:18.573602Z"
+  "lastUpdated": "2026-10-15T12:18:20.417377Z"
 }
