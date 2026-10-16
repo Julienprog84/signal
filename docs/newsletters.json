@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "71a382a6",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French tech ecosystem shows strong funding momentum with Dougs raising \u20ac50 million for its accounting AI platform, while hardware security innovator Ledger launches the Atom device combining smartphone functionality with enhanced privacy. The newsletter highlights broader European concerns about AI investment gaps\u2014private AI spending is 40 times lower than in the US\u2014suggesting a critical 2-3 year window for European tech leadership before falling further behind in the fourth industrial revolution.",
+      "keyTakeaways": [
+        "French B2B SaaS scaling: Dougs' doubled funding round (\u20ac50M vs \u20ac25M three years prior) demonstrates investor confidence in AI-driven professional services, with clear path to profitability through reduced manual work and higher-margin consulting.",
+        "Hardware security as differentiator: Ledger's smartphone-like Atom device signals a market shift toward integrated security solutions, potentially creating new revenue streams beyond traditional hardware wallets and competitive moats against software-only alternatives.",
+        "Macro funding gap threatens European competitiveness: With private AI investment 40x lower than the US and strategic projects stalled, European VCs face compressed timeframe to back infrastructure and frontier AI companies before talent and capital migrate westward."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "16.10 - Ledger d\u00e9voile un nouvel appareil qui ressemble \u00e0 un smartphone"
+    },
+    {
+      "id": "90b629fe",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Building a frontier AI lab requires a $100 billion five-year commitment with roughly $41 million needed for year one, dominated by personnel costs at $15 million and computing infrastructure, according to PitchBook analysis. CoreWeave's recent troubles have cost early backer Magnetar Capital over $1.5 billion in stake value since August, illustrating the capital intensity and risk of AI infrastructure plays. Monroe Capital's CEO warns that deceptive lending practices like PIK toggles and maturity extensions are masking portfolio stress in the lower middle market, with rating agencies now scrutinizing these arrangements more closely.",
+      "keyTakeaways": [
+        "The $100B AI entry fee is heavily weighted toward chip infrastructure and talent acquisition, but funding needs peak in year four at $29B due to customer payment timing mismatches\u2014dealmakers should stress-test runway assumptions against delayed revenue realization.",
+        "CoreWeave's $1.5B value loss at Magnetar signals that infrastructure-heavy AI bets face significant downside risk when efficiency competitions emerge; newer entrants like DeepSeek are challenging incumbents on cost per compute, making unit economics scrutiny critical for capital allocators.",
+        "PIK and covenant-flexibility mechanisms that mask borrower distress are proliferating in the lower middle market\u2014lenders are moving away from this camouflage under rating agency pressure, suggesting tighter credit conditions ahead and higher defaults for leveraged companies with marginal cash flow coverage."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "AI\u2019s  entry fee? $100B"
+    },
+    {
+      "id": "49761f94",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Houthi missile strike caused extensive damage to Saudi Aramco's headquarters in Dhahran, signaling escalating threats to Saudi oil infrastructure, while Taiwan agreed to invest $4.4 billion for a 30% equity stake in a proposed $55 billion Alaska LNG megaproject to secure long-term natural gas supplies following its nuclear plant shutdowns. The newsletter highlights a broader trend of renewed fossil fuel infrastructure investment despite clean energy initiatives, with major utilities and developers shifting capital back toward gas and coal projects.",
+      "keyTakeaways": [
+        "Geopolitical risk to oil supply is intensifying: Houthi attacks on critical Saudi energy infrastructure represent a material threat to global crude markets, with the group explicitly vowing continued targeting of oil facilities\u2014investors should monitor energy security premiums and potential supply disruptions.",
+        "Taiwan's $4.4 billion Alaska LNG commitment signals a major shift in energy strategy and LNG market dynamics, with long-term contracts becoming attractive to resource-dependent nations amid Middle East instability; this validates mega-project economics and represents a significant capital commitment to fossil fuel infrastructure.",
+        "A reversal is underway in clean energy momentum: utilities and developers are reallocating capital from renewables back to fossil fuels at rates unseen since the early 2010s, suggesting the clean energy investment thesis may face headwinds despite falling electricity prices, creating potential opportunities in traditional energy assets and LNG infrastructure."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Attack on Aramco"
+    },
+    {
+      "id": "e2c8f70b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "A legal dispute between nuclear startup Valar Atomics and early investor Day One Ventures over pro rata rights enforcement has reignited debate about whether this standard VC protection should be reformed. The case highlights tensions between investor protections and founder flexibility, with broader implications for early-stage fund economics. Meanwhile, Berkshire Hathaway invested an additional $330 million in Italian software acquirer Bending Spoons at a $90 billion valuation, demonstrating continued appetite for mature venture-backed companies.",
+      "keyTakeaways": [
+        "Pro rata rights are embedded in most early-stage deals and fund returns, but founders increasingly view them as obstacles to optimal capital structure\u2014the Delaware court ruling could reshape deal terms across the industry.",
+        "Eliminating pro rata protections to appease founders may backfire by reducing early-stage fund viability and dry powder, potentially shrinking the seed/Series A ecosystem that produces future deal flow.",
+        "Growth-stage capital flush with billions (like late-stage funds and corporates) is pressuring the pro rata debate by structuring tranched rounds that dilute early investors, signaling a structural shift in how late rounds are being negotiated."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Founders vs. fiduciaries"
+    },
+    {
+      "id": "f1c517b1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-15",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new generation of Democratic candidates is shifting climate messaging away from moral imperatives toward pragmatic energy affordability and oil-gas job protection, exemplified by Texas candidate James Talarico's 'all-of-the-above' strategy supporting both fossil fuels and renewables. This represents a meaningful political realignment that could reshape national energy policy debates, as candidates like Mary Peltola and Xavier Becerra similarly balance climate priorities with fossil fuel industry concessions and cost concerns.",
+      "keyTakeaways": [
+        "Emerging Democratic lawmakers will likely prioritize energy affordability over aggressive decarbonization, creating regulatory and policy headwinds for climate-tech startups betting on aggressive emissions reduction mandates or fossil fuel phase-outs.",
+        "The 'all-of-the-above' energy strategy gaining traction in Democratic politics signals sustained political support for oil and gas infrastructure, potentially limiting returns on pure renewable energy plays that depend on fossil fuel suppression rather than cost competitiveness.",
+        "This political shift will likely manifest in permitting, tax policy, and infrastructure spending favoring incumbent energy players over aggressive climate transition ventures, making deal timing and sector selection increasingly critical for climate-focused venture capital."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Talarico\u2019s All-of-the-Above"
+    },
+    {
       "id": "192b3364",
       "title": "Latitude Media",
       "source": "Latitude Media",
@@ -21325,19 +21415,19 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 459
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 124
+      "count": 125
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 490
+      "count": 492
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 461
     },
     {
       "name": "Fintech",
@@ -21355,5 +21445,5 @@
       "count": 28
     }
   ],
-  "lastUpdated": "2026-10-15T12:18:20.417377Z"
+  "lastUpdated": "2026-10-16T12:00:38.006651Z"
 }
