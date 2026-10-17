@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "e79ea1d8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Continuation funds have evolved from niche tools for distressed assets into strategic vehicles for retaining high-conviction winners, growing from under 1% to 7.3% of global PE exit value by 2025. Three major shifts are reshaping the sector: assets are entering continuation funds much younger (80% within seven years of initial investment), software companies are dominating due to valuation compression and AI disruption concerns, and a new trend of 'CV-squared' transactions\u2014rolling companies into second continuation funds\u2014has accelerated from one deal in 2024 to eight through mid-2026. Meanwhile, European take-private activity is on track for a record year despite rising public markets, driven by larger fund sizes requiring bigger check sizes and structural weakness in European public markets rather than temporary repricing.",
+      "keyTakeaways": [
+        "Continuation funds are no longer exit mechanisms of last resort but proactive strategies for high-conviction assets, signaling that GPs are willing to extend holding periods on winners rather than sell into uncertain markets.",
+        "Software assets disproportionately populating continuation funds (IT single-asset funds doubled from five to ten between 2023-2025, with value jumping to $7.3 billion) reflects sector-specific valuation pressure and AI disruption concerns that make immediate exits unattractive.",
+        "The emergence of 'CV-squared' transactions (second-round continuation funds) represents a critical stress test for whether continuation funds are a legitimate liquidity tool or a mechanism for indefinitely deferring exits and masking underlying asset deterioration."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "3 ways continuation funds are changing"
+    },
+    {
+      "id": "88d0d9ea",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jensen Huang, CEO of Nvidia, dismissed AI safety concerns as fear-mongering and argued that AI dangers are controllable through proper containment measures like sandboxing. Huang also criticized AI doomerism narratives from companies like Anthropic, suggesting that if technologists genuinely believed AI posed existential risks, they should stop working on it entirely. In deal news, Ramp, a financial operations software company, raised $1.85 billion led by Dragoneer Investment Group and Thrive Capital, while Nvidia agreed to acquire open-source platform Hugging Face for nearly $13 billion in September.",
+      "keyTakeaways": [
+        "Nvidia's market dominance in AI infrastructure is translating into M&A power\u2014the $13 billion Hugging Face acquisition signals aggressive consolidation of the open-source AI ecosystem by the market's chokepoint player.",
+        "A widening philosophical divide is emerging between pragmatic commercializers (Huang/Nvidia) and safety-focused AI labs (Anthropic) that could shape regulation, capital allocation, and which AI companies attract institutional investment.",
+        "The massive funding rounds (Ramp's $1.85B, Hugging Face's $13B valuation) suggest venture capital remains bullish on AI infrastructure and enterprise applications despite ongoing safety debates, indicating investor confidence in near-term AI monetization over existential risk scenarios."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "The world according to Jensen"
+    },
+    {
+      "id": "3e72f3b1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This climate and energy newsletter covers multiple investment-relevant developments: Ukraine's resumption of attacks on Russian oil refineries threatens Trump's energy sanctions deal, potentially destabilizing global diesel markets; Brazil faces severe Amazon wildfires as a Bolsonaro-aligned candidate leads in upcoming elections, mirroring 2019's environmental crisis; and nuclear companies including Holtec Nuclear and The Nuclear Company are abandoning IPO plans as recent nuclear stock debuts have underperformed, signaling challenges in the sector's path to public markets.",
+      "keyTakeaways": [
+        "Nuclear energy companies face a critical financing headwind as public markets punish recent IPOs, forcing established players like Holtec to retreat from capital raises\u2014this could delay small modular reactor deployments and create opportunity for private capital willing to fund patient infrastructure",
+        "Geopolitical disruption to energy markets is accelerating: Ukraine's pivot to target Russian refineries despite U.S. pressure could create diesel price volatility that impacts logistics costs and inflation, creating hedging demand for alternative energy assets",
+        "Brazil's political inflection point presents dual-sided risk: a Bolsonaro-aligned president could open the Amazon to deforestation (pressuring carbon credits and ESG-focused investments) while simultaneous climate impacts in Indonesia and South America are creating acute air quality crises that demand energy transition investment"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "Amazon Ablaze"
+    },
+    {
+      "id": "c3ce126b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Harvard's endowment generated a 27.1% return reaching nearly $68 billion, with venture capital playing a key role in validating the Yale Model approach to endowment investing. Anthropic appears on track for a 2026 IPO with an Oct. 29-30 filing deadline to meet pre-Thanksgiving pricing. Proofpoint agreed to acquire Varonis Systems for $6.3 billion in cash, marking 2026's largest cybersecurity deal and potentially improving Proofpoint's attractiveness for future public markets entry.",
+      "keyTakeaways": [
+        "Harvard's 27.1% endowment return demonstrates renewed institutional confidence in VC-heavy portfolio strategies, suggesting large LPs are returning to venture allocation after years of skepticism toward the Yale Model.",
+        "Anthropic's imminent IPO filing signals the AI arms race is entering a critical public markets phase, with timing constraints suggesting the company wants to capitalize on market momentum before year-end volatility.",
+        "The $6.3 billion Varonis acquisition by Proofpoint indicates continued consolidation in cybersecurity driven by PE capital (Thoma Bravo), reflecting both sector maturation and buyer appetite for comprehensive data protection capabilities."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Endowment elevation"
+    },
+    {
+      "id": "f6925439",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-16",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Current's co-founder and CTO Trevor Marshall discusses how the fintech's early decision to build its own proprietary banking core\u2014rather than relying on legacy providers\u2014has enabled faster product differentiation, integrated offerings like its Build Card, and a unified data layer critical for personalization. Marshall explains how Current is leveraging AI to create operational efficiencies and scale teams, while identifying significant opportunities for AI in customer personalization, support, and emerging areas like consumer AI agents and agentic payments.",
+      "keyTakeaways": [
+        "Proprietary banking infrastructure provides sustainable competitive advantage: Current's in-house core has enabled unique product integration and faster time-to-market compared to competitors dependent on legacy banking platforms, suggesting that early infrastructure investments by fintech founders can justify upfront complexity costs through long-term differentiation and operational efficiency.",
+        "Unified data architecture is a prerequisite for AI-driven personalization at scale: Current's integrated data layer across products positions it to deploy AI for personalized customer experiences more effectively than fragmented competitors, indicating that fintech companies prioritizing data architecture holistically will capture greater value from AI investments.",
+        "AI agents and agentic payments represent the next frontier but carry undefined regulatory and operational risks: Marshall identifies consumer AI agents and autonomous payment capabilities as high-potential opportunities in fintech, yet the sector lacks clarity on implementation, compliance, and failure modes\u2014creating both first-mover advantages and significant downside risks for early adopters."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 39,
+      "originalTitle": "How Current\u2019s Proprietary Banking Core Powers Its Move Into the AI Era, with Co-Founder & CTO Trevor Marshall"
+    },
+    {
+      "id": "0905d0b7",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-10-16",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Synthetic biology is reaching commercial inflection with the Virtual Biology Initiative securing $800 million in commitments since April to build predictive AI models of cellular behavior, enabling drug design and potentially organism engineering. The newsletter highlights emerging deep tech opportunities across fusion energy (Cambridge Heavy Industries), quantum computing (Google's Willow chip), rare earth refinement (Alta Resource Technologies), and space nuclear systems, signaling accelerating capital deployment in foundational technologies.",
+      "keyTakeaways": [
+        "Synthetic biology is transitioning from research to commercialization with $800M funding for predictive cellular models\u2014investors should track which companies can translate AI-driven drug discovery into clinical wins and regulatory approvals.",
+        "Deep learning foundation models are proving 'extraordinarily productive' when applied to biological molecules (proteins and nucleic acids), creating a new investment thesis around AI for biology startups that can compete with traditional biotech R&D timelines.",
+        "Modularity and declining cost curves are reshaping climate tech and strategic sectors (DoD interest in rare earth refining, uranium enrichment, distributed energy)\u2014the winners will be companies that achieve mass manufacturability and access non-dilutive capital for scaling from first commercial deployment to serial production."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 184: Synthetic biology has arrived at last"
+    },
+    {
+      "id": "db22b567",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A climate researcher cited extensively in lawsuits against fossil fuel infrastructure argues that blocking fossil fuel supply expansion can paradoxically enrich oil and gas companies by reducing supply and raising prices, transferring wealth from energy consumers to fossil fuel firms. The analysis challenges conventional climate activism tactics and suggests a more nuanced approach to energy policy is needed. With midterm elections 18 days away, state energy policy races could significantly shape future climate and energy outcomes.",
+      "keyTakeaways": [
+        "Supply-side climate activism targeting pipeline and infrastructure projects may backfire economically by reducing fossil fuel supply, driving up energy prices, and increasing profit margins for oil and gas companies\u2014a counterintuitive dynamic that could redirect climate policy focus toward demand-side strategies instead.",
+        "Energy and climate policy investors should monitor midterm election outcomes, as state-level races are expected to reshape energy regulatory frameworks and permitting processes that directly impact both fossil fuel and clean energy project economics.",
+        "The debate over fossil fuel supply strategy reveals a fundamental market mechanism flaw in current climate tactics: restricting supply without reducing demand creates scarcity rents that benefit incumbent energy producers, suggesting future climate capital may need to flow toward demand reduction, electrification, and substitution rather than traditional infrastructure blocking campaigns."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Surprising Downside of Fossil Fuel Fights"
+    },
+    {
       "id": "71a382a6",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -21415,35 +21541,35 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 495
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 463
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 51
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 29
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 125
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 492
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 461
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 50
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 35
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 28
     }
   ],
-  "lastUpdated": "2026-10-16T12:00:38.006651Z"
+  "lastUpdated": "2026-10-17T11:16:33.880842Z"
 }
