@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "dffcb4d4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Smaller venture capital firms are facing unprecedented competition at the seed stage, with pre-seed valuations tripling from $4 million to $12 million since 2020 and first-time VC financings hitting a record 8,625 deals through Q3 2026. To compete, smaller VCs are now courting founders earlier than ever\u2014including academics and pre-business ideators\u2014while rethinking check sizes, ownership structures, and deal terms to win allocations in an increasingly crowded market.",
+      "keyTakeaways": [
+        "Seed-stage valuations have become dramatically inflated, forcing smaller VCs to either accept worse terms or move upstream to founder-stage investing before companies formally exist, fundamentally changing the earliest investment timeline.",
+        "The combination of record deal volume and a shrinking VC base creates a paradox where more companies exist but competition has intensified, suggesting consolidation among smaller firms may accelerate as they struggle to differentiate.",
+        "The shift toward pre-company founder engagement signals a structural market change where investor advantage migrates to those with founder relationships and brand, potentially favoring established micro-VCs over new entrants trying to build seed-stage franchises."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Surviving the seed squeeze"
+    },
+    {
       "id": "e79ea1d8",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -21543,7 +21561,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 495
+      "count": 496
     },
     {
       "name": "Climate & Energy",
@@ -21571,5 +21589,5 @@
       "count": 35
     }
   ],
-  "lastUpdated": "2026-10-17T11:16:33.880842Z"
+  "lastUpdated": "2026-10-18T11:52:49.161593Z"
 }
