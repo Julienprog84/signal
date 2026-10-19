@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "b85af500",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-19",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral has completed its fourth acquisition in eight months with the purchase of British firm New Material, establishing a new entity called Solutions Design. French startups raised \u20ac58.5 million this week across 10 deals, with AI-focused companies accounting for \u20ac37.7 million, while Nvidia's CEO predicts all enterprises will eventually adopt AI and announced billions in new European investments.",
+      "keyTakeaways": [
+        "Mistral's aggressive acquisition strategy\u2014four deals in eight months\u2014signals consolidation in European deeptech as unicorns pursue inorganic growth to strengthen market position and capabilities",
+        "AI startups continue to command disproportionate capital allocation despite a 73% week-on-week decline in fundraising volume, indicating sustained investor confidence in the sector despite broader market volatility",
+        "Nvidia's commitment to multi-billion dollar European investments combined with state-backed French Tech 2030 support (\u20ac1.5B+ deployed) suggests institutional backing for European AI infrastructure and deeptech will intensify competitive pressure on early-stage founders"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "19.10 - Mistral : d\u00e9j\u00e0 4 acquisitions en 8 mois !"
+    },
+    {
+      "id": "512501ad",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "CoreWeave and other AI infrastructure providers are turning to leveraged loans backed by GPU collateral as a financing solution, with bonds yielding around 15% amid investor concerns about debt servicing. Meanwhile, GI Partners' CEO Travis Pearson resigned after just one year, delaying the firm's $49 billion PE fund VII launch to 2027, though CoreWeave benefits from strong pricing power and Nvidia's strategic support including a $2 billion investment.",
+      "keyTakeaways": [
+        "GPU-backed leveraged loans represent an emerging asset class for AI infrastructure financing, offering lenders tangible collateral reassurance as neocloudproviders face skepticism over traditional debt instruments.",
+        "CoreWeave's ability to raise prices across GPU offerings while maintaining sold-out capacity through 2028 demonstrates strong unit economics and pricing power that could justify higher valuations despite bond market pessimism.",
+        "Executive turnover at mega-funds like GI Partners signals potential leadership instability in PE, while Nvidia's continued strategic investments and inclusion of CoreWeave in recommended infrastructure designs suggest consolidation around preferred cloud partners in the AI buildout."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "AI's newest lenders want collateral"
+    },
+    {
+      "id": "f151c6ff",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Gaming venture capital in 2026 is increasingly flowing to AI infrastructure and tools rather than game content or studios, with early-stage VC deals comprising 54.5% of Q3 deal value compared to just 14.1% in Q1. Major funding rounds went to AI companies like Meshy ($400M for 3D generation), Higgsfield ($400M for video generation), and China's Shengshu Technology ($500M for world models), while traditional content-focused startups raised only $270.7 million in Q3\u2014the lowest quarterly figure since Q4 2017.",
+      "keyTakeaways": [
+        "Capital is flowing to gaming infrastructure and AI tooling ('picks and shovels') rather than game studios or content creators, suggesting investors believe the competitive advantage lies in technology platforms, not creative output.",
+        "Growth-stage gaming VC dropped dramatically to $269.4 million in Q3 from $2.3 billion in Q2, indicating either a market correction, shift to earlier-stage bets, or reduced confidence in late-stage gaming investments.",
+        "Geographic divergence is notable\u2014major rounds are concentrated in California (Meshy, Higgsfield) and China (Shengshu), suggesting different regional strategies for AI-gaming convergence and potential concentration risk for Western gaming developers."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Game on"
+    },
+    {
+      "id": "07ff2dad",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "America's AI data center boom is experiencing significant headwinds, with at least 107 projects facing cancellation in 2026 according to Heatmap Pro data, driven by community opposition and concerns about power consumption. Greenland has proposed a ban on deep-sea mining through 2029 despite approving land-based mineral projects, citing concerns about fishing grounds and job creation. New polling shows that guaranteed local electricity rates and renewable energy pairing can substantially increase community support for data centers, with rate protection boosting approval by up to 14 percentage points.",
+      "keyTakeaways": [
+        "Data center developers face a critical challenge: 1,000+ U.S. communities now restrict AI infrastructure, making local power rate guarantees and renewable pairing essential deal sweeteners to overcome NIMBY opposition\u2014this represents a structural increase in project development costs and timelines.",
+        "The surge in delayed/canceled data center projects (107 in 2026 tracking ahead of 2025's 108) signals a potential correction in the AI infrastructure build-out thesis, with only 35% of planned centers considered credible by analysts\u2014investors should reassess assumptions about unfettered capacity expansion.",
+        "Resource extraction economics are shifting geographically and politically: Greenland's deep-sea mining ban through 2029 redirects mineral sourcing pressure to terrestrial mines and other jurisdictions, while community-led energy and environmental constraints increasingly dictate infrastructure investment patterns globally."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "\u2018Starting to Fray\u2019"
+    },
+    {
+      "id": "929e014f",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Inference chipmaker Tenstorrent raised $1.5 billion at a $6.2 billion valuation, declining acquisition offers from Intel and Qualcomm to remain independent. The newsletter also spotlights Bill Gurley's 'Runnin' Down a Dream' foundation providing microgrants to entrepreneurs in underserved communities like Pine Ridge Reservation, highlighting an emerging philanthropic model for expanding venture capital access beyond traditional Silicon Valley networks.",
+      "keyTakeaways": [
+        "AI chip consolidation may be slowing: Tenstorrent's decision to remain independent despite courtship from major acquirers (Intel, Qualcomm) suggests confidence in standalone valuations and signals potential fragmentation in the inference chip market rather than rapid M&A consolidation.",
+        "New capital pathways emerging for non-traditional founders: Gurley's foundation model and Woihanble Fund demonstrate a growing infrastructure to deploy capital to underrepresented entrepreneurs in rural/economically disadvantaged areas, potentially unlocking innovation outside traditional VC geography.",
+        "Institutional VCs expanding impact mandates: Major LPs (Fidelity, ARK Invest, Morgan Stanley) participating in Tenstorrent round alongside participation in founder-focused philanthropic initiatives suggests institutional capital is increasingly integrating ESG and access considerations alongside returns."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Runnin' down a dream"
+    },
+    {
+      "id": "58909b89",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-18",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The Office of the Comptroller of the Currency released a report on 'debanking' practices following a Trump executive order directing federal regulators to investigate whether major banks have engaged in politically motivated account terminations. The report examines nine largest OCC-chartered banks, though legal experts like Adam Levitin argue the concept of 'politicized debanking' is legally problematic since viewpoint discrimination by private entities raises First Amendment concerns and is not currently prohibited by law.",
+      "keyTakeaways": [
+        "The OCC's debanking report may face legal challenges on constitutional grounds, creating regulatory uncertainty for banks' customer acceptance policies and potentially impacting how fintechs and payment platforms structure their compliance frameworks.",
+        "Banks operating under OCC supervision face increased political scrutiny around account termination decisions, which could slow customer onboarding/offboarding processes and increase compliance costs\u2014benefiting compliant fintech competitors who can move faster.",
+        "The definitional ambiguity around 'politicized debanking' creates a precedent for regulatory action based on subjective determinations of political motivation, signaling broader regulatory intervention in banking's customer selection practices regardless of AML/compliance justifications."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Debanking, Reputation Risk, AML, Oh My!"
+    },
+    {
       "id": "dffcb4d4",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -21559,19 +21667,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 126
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 496
+      "count": 499
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 463
+      "count": 464
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Deep Tech & Science",
@@ -21579,15 +21692,10 @@
       "count": 29
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 125
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 35
     }
   ],
-  "lastUpdated": "2026-10-18T11:52:49.161593Z"
+  "lastUpdated": "2026-10-19T14:11:04.262007Z"
 }
