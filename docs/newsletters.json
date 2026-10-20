@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "6a1e07a9",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-20",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Back Market's co-founder Thibaud Hug de Larauze transitioned to executive chairman role on September 1st, with operational leadership now handled by Cl\u00e9ment Petit, signaling a maturation phase for the French refurbished electronics unicorn. The company launched 'Outlet Back Market' at its second Slow Tech Summit on October 15th to extend device lifecycles and combat e-waste, positioning itself at the intersection of sustainability and circular economy trends. Meanwhile, Nvidia's Jensen Huang predicted all enterprises will eventually adopt AI and announced significant new investments in the European tech ecosystem.",
+      "keyTakeaways": [
+        "Back Market's leadership transition from founder-operator to executive chairman reflects typical unicorn scaling patterns in European VC; monitor whether new COO Cl\u00e9ment Petit can maintain growth velocity ahead of potential exit or public offering",
+        "The 'Outlet Back Market' expansion targeting damaged electronics represents a strategic pivot toward lower-margin, higher-volume segments\u2014investors should assess whether this circular economy play improves unit economics or dilutes profitability",
+        "Nvidia's commitment to multi-billion dollar European investments signals intensifying competition for AI infrastructure deals in Europe, creating downstream opportunities in enterprise software and vertical applications for regional VCs"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "20.10 - Le patron historique de Back Market se confie"
+    },
+    {
+      "id": "cae5a4b4",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital funds have outperformed the S&P 500 in 59% of cases since 2008, with private equity at 47%, but this comes amid structural challenges in the market including longer holding periods and rising interest rates. General partners are increasingly turning to mid-life co-investment deals to unlock liquidity, with such deals now representing roughly 30% of core investments in some flagship funds, while Europe alone holds a record 14,803 PE-backed companies with 11% held for over nine years.",
+      "keyTakeaways": [
+        "VC fund selection matters significantly\u2014top-quartile VC funds dramatically outperform public markets, but the median fund only beats the S&P 500 59% of the time, making proper due diligence and manager selection critical for institutional allocators.",
+        "Mid-life co-investment deals are becoming a primary value creation opportunity as extended holding periods squeeze GP liquidity; investors joining mid-hold can skip early-stage risk but face higher entry multiples, requiring careful alignment negotiations.",
+        "The PE portfolio overhang is creating a structural liquidity crisis\u2014at current exit velocity, it would take 8+ years to clear global PE inventory, pressuring GPs to explore alternative monetization strategies and potentially creating attractive secondary market opportunities."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Private markets vs. the S&P 500"
+    },
+    {
+      "id": "cb136f43",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "SendCutSend, a Reno-based custom metal parts manufacturer founded in 2018, has raised a $2.1 billion Series B led by Spark with participation from Sequoia, CRV, MHS, and Paradigm\u2014just five months after closing a $1.1 billion Series A with Sequoia. The company has built a business serving major customers including 60% of the Fortune 500 by solving the longstanding problem of affordable custom metal part manufacturing, with founder Jim Belosic previously avoiding VC funding before Sequoia's Andrew Reed personally traveled to Nevada to engage.",
+      "keyTakeaways": [
+        "SendCutSend's rapid $1B valuation increase (from $1.1B to $2.1B in 5 months) signals exceptional investor confidence in manufacturing-as-a-service platforms that democratize production\u2014a category previously undervalued by traditional VC but now attracting top-tier firms like Sequoia and Spark.",
+        "The company's customer roster (Waymo, Anduril, Relativity, Zipline, plus 60% of Fortune 500) demonstrates that infrastructure plays solving real operational inefficiencies can command venture scale regardless of unglamorous sector positioning.",
+        "Founder Jim Belosic's deliberate avoidance of VC until 2025, combined with his stated preference for building 'a business' rather than pursuing 'Silicon Valley entrepreneur' financial engineering, reflects a growing founder archetype that prioritizes profitability and employee outcomes\u2014potentially reshaping how growth capital deploys in manufacturing and infrastructure sectors."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "American metal"
+    },
+    {
+      "id": "f455d5b7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Endurance Energy's inaugural subsea geothermal well operated for only 8.7 seconds before encountering technical difficulties, marking a significant setback in the emerging offshore geothermal energy sector. Despite the failure to achieve its targeted one-year operational timeline, the company's willingness to pursue high-risk innovation underscores the capital-intensive experimentation required to commercialize new clean energy technologies.",
+      "keyTakeaways": [
+        "Early-stage geothermal ventures face substantial technical and operational risks; investors should expect significant trial-and-error periods before achieving viable commercial deployments in subsea environments.",
+        "The subsea geothermal sector remains pre-revenue and highly experimental, suggesting patient capital and higher risk tolerance are prerequisites for meaningful exposure to this emerging energy technology.",
+        "Failed attempts in breakthrough energy infrastructure may still validate market demand and technological feasibility over time\u2014similar to early offshore wind and solar ventures\u2014making this a high-risk but potentially high-reward sector for venture and growth-stage investors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The World\u2019s First Subsea Geothermal Well Had 8.7 Seconds of Glory"
+    },
+    {
+      "id": "e93dedcf",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "China's economy grew 4.5% in Q3 2026, driven primarily by surging exports rather than domestic consumption, with clean energy and electric vehicle exports leading the way. Battery electric vehicle exports jumped 130% year-over-year in September while plug-in hybrid exports soared over 200%, suggesting that geopolitical tensions and elevated oil prices are accelerating global demand for Chinese clean energy technologies and vehicles.",
+      "keyTakeaways": [
+        "Chinese EV and clean tech exports are experiencing explosive growth (130-200% YoY increases), signaling a structural shift in global supply chains and potential market concentration risks for Western EV manufacturers competing against subsidized Chinese competition.",
+        "China's export-driven growth model stands in sharp contrast to the U.S. investment boom, creating divergent economic dynamics that could reshape global capital flows and competitive positioning in AI, batteries, and clean energy sectors over the next decade.",
+        "Rising oil prices are a significant tailwind for EV adoption globally, and China's manufacturing dominance in this sector positions it to capture disproportionate value as energy transitions accelerate\u2014investors should monitor tariff and trade policy responses from the U.S. and EU."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: China\u2019s Clean Export Boom"
+    },
+    {
       "id": "b85af500",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -21669,17 +21759,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 126
+      "count": 127
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 499
+      "count": 501
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 464
+      "count": 466
     },
     {
       "name": "Fintech",
@@ -21697,5 +21787,5 @@
       "count": 35
     }
   ],
-  "lastUpdated": "2026-10-19T14:11:04.262007Z"
+  "lastUpdated": "2026-10-20T12:24:12.945219Z"
 }
