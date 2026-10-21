@@ -1,6 +1,204 @@
 {
   "newsletters": [
     {
+      "id": "c7e62dbc",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-21",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French newsletter covering European tech and startup developments, featuring Microsoft CEO Satya Nadella's Paris visit to announce cloud sovereignty features for Europe, the Fundtruck competition where CapstonAI won a spot in the finals, and a podcast discussion on banking-as-a-service trends with Treezor's leadership.",
+      "keyTakeaways": [
+        "Microsoft is actively positioning itself as a trusted cloud provider in Europe by emphasizing data sovereignty, signaling intense competition for enterprise cloud contracts among major tech firms operating in regulated EU markets.",
+        "Regional startup ecosystems like La R\u00e9union and Mayotte are attracting venture capital attention through organized pitch events, indicating investors are looking beyond major tech hubs to diversify their deal flow.",
+        "The fintech and payments sector remains hot, with banking-as-a-service platforms like Treezor gaining momentum as infrastructure plays, suggesting continued investor interest in B2B financial services enablement."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "21.10 - Ballon d'or 2026 : voici le vainqueur selon l'IA"
+    },
+    {
+      "id": "825715bd",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Aerospace and defense deal activity has shifted dramatically in Q2 2026, with deal count doubling to 112 transactions while total value plummeted to $6.5 billion from $11.1 billion. This bifurcation reflects capital flowing toward smaller, harder-to-value tier-three and tier-four suppliers rather than large primes, as spreads tighten to 278 basis points from a 2025 average of 309.",
+      "keyTakeaways": [
+        "Deal volume and value are moving in opposite directions\u2014more transactions at smaller ticket sizes signals a fragmented, down-market shift that increases diligence complexity and underwriting risk for investors accustomed to larger, more transparent transactions.",
+        "Valuation multiples are becoming harder to benchmark; the report tracks 165 private transactions with TEV/EBITDA and EBITDA margin data, suggesting that traditional comparables analysis is insufficient for tier-three and tier-four suppliers with limited financial disclosure.",
+        "Credit spreads compressing 31 basis points year-over-year indicates debt markets are pricing A&D risk as lower despite elevated deal fragmentation, creating a potential mispricing opportunity or signal that lenders are underestimating the complexity of financing smaller, supplier-tier businesses."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 3,
+      "originalTitle": "More deals. Smaller checks. Harder to price."
+    },
+    {
+      "id": "f32daca7",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Secondary PE funds face mounting duration risk as portfolio companies take longer to exit than anticipated, with growing numbers moving into continuation funds rather than being sold within their planned three- to five-year holding periods. Separately, inference chip startups are experiencing a record funding boom driven by agentic AI adoption, with $4.18 billion raised across 22 deals through August 2026, but soaring valuations are narrowing the pool of potential acquirers for exits.",
+      "keyTakeaways": [
+        "Secondary fund managers must reassess pricing models to adequately compensate for duration risk, as the industry's exit drought forces portfolio companies into extended holding periods and continuation fund structures rather than clean exits.",
+        "Inference chip startups are attracting record VC capital on AI enthusiasm, but inflated valuations require higher exit prices, limiting strategic acquirers and creating execution risk for investors expecting near-term returns.",
+        "The liquidity crisis affecting both secondary PE portfolios and inference chip companies signals broader market dysfunction: too much capital chasing exits in a constrained M&A environment, potentially leading to valuation corrections when capital dries up."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The liquidity lifeline needs liquidity"
+    },
+    {
+      "id": "aabb466c",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The 2026 IPO market remains sluggish with multiple recent withdrawals and downsizes, but Anthropic's anticipated IPO could serve as a potential catalyst for revival. The AI company is expected to file as soon as late October for a potential November debut, with investor expectations pricing shares around $1.8 trillion and a possible post-IPO valuation reaching $2.4 trillion, despite disclosing an $80.7 billion net loss for the first half of 2026.",
+      "keyTakeaways": [
+        "Valuation expectations remain the primary bottleneck for IPO market recovery\u2014companies are withdrawing rather than accepting lower valuations, suggesting a disconnect between private and public market pricing that must be resolved",
+        "A successful Anthropic IPO at scale could unlock capital redeployment into follow-on deals; investor confidence in large-cap tech exits directly correlates with appetite for smaller IPO pipelines",
+        "The AI sector faces valuation scrutiny despite strong revenue growth (Anthropic's $16.3B H1 2026 revenue), indicating that revenue alone cannot justify astronomical valuations without path to profitability in public markets"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "IPOs can\u2019t catch a break"
+    },
+    {
+      "id": "e50fe766",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-21",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter reports that global temperatures are already experiencing 1.5\u00b0C warming above pre-industrial levels due to El Ni\u00f1o, with current emissions trajectories pointing toward 1.7-1.8\u00b0C peak warming by midcentury\u2014requiring an 18% emissions cut within three years to stay on track. The Nuclear Company, a startup led by former Southern Company managers, announced plans to build six AP1000 reactors on a greenfield Kentucky site, replicating China's cost-effective approach of constructing multiple reactors simultaneously.",
+      "keyTakeaways": [
+        "The nuclear industry is consolidating around proven designs rather than experimental reactor types, with The Nuclear Company positioning itself to capture value from serial production efficiencies\u2014a capital-intensive play that rewards patient investors with long-term energy infrastructure exposure.",
+        "The massive gap between required emissions reductions (18% in three years) and current policy trajectories (5-8% by 2030) signals urgent demand for scalable decarbonization infrastructure, creating investment opportunities in nuclear, renewables, and energy storage at scale.",
+        "China's nuclear building success model\u2014constructing multiple reactors at one site to drive down per-unit costs\u2014is now being replicated in the U.S., suggesting the global nuclear sector may finally overcome decades of cost and timeline overruns through industrialization rather than innovation."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "We\u2019ll Never Have Paris"
+    },
+    {
+      "id": "11ebc5f2",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Wall Street's AI infrastructure boom faces a reality check as rising interest rates threaten indebted cloud computing giants like CoreWeave, despite semiconductor makers rebounding. Amazon and Google are simultaneously securing major utility deals, with Amazon backing X-energy's next-generation nuclear reactors through a joint development agreement with American Electric Power for a 960-megawatt project in Indiana, signaling hyperscalers' urgent pivot toward solving their massive power supply constraints.",
+      "keyTakeaways": [
+        "AI infrastructure buildout economics are breaking down: refinance risk from higher rates is punishing cloud computing companies with heavy debt loads even as chip makers recover, creating a funding bottleneck for hyperscaler data center expansion.",
+        "Nuclear energy is becoming a credible power solution for hyperscalers: Amazon's continued backing of X-energy and major utility partnerships demonstrate that next-gen reactors are moving from speculative to operational planning, creating real capital allocation opportunities in advanced nuclear technology.",
+        "Power supply constraints are now deal-breaking for data center projects: Microsoft's withdrawal from a UK data center deal late in development signals that energy availability\u2014not capital\u2014is the binding constraint for AI infrastructure growth, favoring companies solving the power puzzle."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "PoorWeave"
+    },
+    {
+      "id": "dc77a06b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The FTC and a dozen state attorneys general sued to block Platinum Equity-owned PlayPower's $5.66 billion acquisition of playground equipment maker BCI Burke, citing concerns over market concentration where the top five players control 85-90% of the market. The case tests Biden-era merger guidelines targeting serial acquirers and consolidated markets. Meanwhile, Salesforce agreed to acquire marketing platform Braze for $5.66 billion in cash at a 58% premium, marking a return to M&A after dissolving its M&A committee in 2023 due to integration challenges.",
+      "keyTakeaways": [
+        "Biden-era antitrust guidelines are being actively enforced under Trump 2.0 through coordinated federal-state litigation, with regulators now considering cumulative acquisition patterns and market concentration levels as merger enforcement tools\u2014this creates real legal risk for PE-backed rollup strategies.",
+        "Even mature software giants like Salesforce are resorting to large acquisitions rather than organic product development, signaling market pressures in competitive cloud segments and validating the 'buy vs. build' thesis for growth-challenged platforms.",
+        "The playground equipment case suggests tightening scrutiny on consolidation in fragmented B2B markets serving institutional buyers (schools, municipalities), potentially signaling broader enforcement priorities beyond tech toward infrastructure and services sectors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Playground fight"
+    },
+    {
+      "id": "e06a0a20",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data centers powering AI are shifting from simple grid connections to complex hybrid power systems combining battery storage, on-site generation, and renewable energy sources at gigawatt scale. This requires sophisticated microgrid controllers and orchestration layers\u2014battery storage, power conversion systems, and energy management software working in coordination\u2014that must be planned holistically from the outset to maintain grid reliability and flexibility.",
+      "keyTakeaways": [
+        "Emerging market opportunity for microgrid orchestration technology and energy management systems (EMS) software designed specifically for hyperscale AI data centers, where capital-intensive power infrastructure requires integrated control layers",
+        "Early architectural planning of power systems is becoming a critical competitive differentiator and cost driver for data center developers\u2014favoring companies with advanced energy management capabilities and integrated power solutions like FlexGen",
+        "The shift toward distributed on-site power generation and storage at data centers signals growing tension between grid capacity constraints and AI infrastructure demands, creating tailwinds for battery storage, PCS providers, and grid services companies serving industrial loads"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Data centers have an orchestration challenge"
+    },
+    {
+      "id": "9e0f93ed",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-10-20",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans examines AI's structural impact on industries by comparing it to the internet's three-tier effect: transformative (like recorded music), incremental (like banking and airlines), and negligible (like mining). He argues Wall Street's funding concerns for AI capex present a circular logic problem\u2014if capital markets cut funding over glut fears, the glut won't materialize. Anthropic's Q3 revenue of $16.8 billion shows explosive growth but decelerating momentum, potentially pulling its IPO valuation target from $2 trillion to $1.5 trillion.",
+      "keyTakeaways": [
+        "AI's impact on enterprise economics remains uncertain; current unit economics of AI companies are unreliable guides to future value creation, requiring investors to assess whether AI will be transformative or merely incremental for specific sectors and business models.",
+        "The capex spiral funding AI infrastructure creates a self-correcting mechanism\u2014if Wall Street withdraws capital due to oversupply concerns, the threatened glut simply won't occur, making the macro timing and capital allocation decisions critical for returns.",
+        "Anthropic's deceleration from $11.5bn to $16.8bn quarterly revenue growth despite claimed profitability signals the market is repricing AI infrastructure valuations downward, affecting the entire neocloudcompetition and suggesting hyperscaler capex assumptions may be overstated."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 6,
+      "originalTitle": "Benedict's Newsletter: No. 665"
+    },
+    {
+      "id": "6f77eb9c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Electricity bills in competitive Republican-held congressional districts have surged by a median of 21% between 2024 and 2026, according to analysis from Heatmap News. This cost increase in politically pivotal districts could become a significant issue for incumbent Republicans heading into elections, particularly as constituents grapple with rising utility expenses.",
+      "keyTakeaways": [
+        "Energy cost inflation in swing districts represents a political vulnerability that could reshape the 2026 electoral landscape, with utility companies and grid operators facing increased scrutiny and potential regulatory pressure",
+        "The 21% median increase suggests structural challenges in electricity pricing and supply\u2014whether driven by infrastructure investment, fuel costs, or grid modernization\u2014that present both risk and opportunity for energy sector investors",
+        "Utilities operating in politically contested regions face heightened regulatory and reputational risk; investors should monitor utility stocks in battleground districts for potential policy headwinds or demand for rate relief legislation"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The Battleground Districts Where Electricity Bills Have Surged the\r\n Most"
+    },
+    {
+      "id": "416f331f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data centers have emerged as a dominant issue in 2026 midterm elections, with over $35 million spent on campaign ads opposing them compared to minimal mention in 2025. Despite candidates across parties positioning themselves against data center development, their actual policy proposals show surprising convergence around community control, transparency, ratepayer protection, and water conservation\u2014suggesting limited substantive policy differences will emerge regardless of election outcomes.",
+      "keyTakeaways": [
+        "Data center opposition has become a bipartisan political liability, with candidates flip-flopping positions regardless of party affiliation, signaling that future policy will likely reflect consensus constraints rather than ideological division\u2014reducing regulatory unpredictability for the sector post-2026.",
+        "The convergence on specific policy mechanisms (transparency requirements, closed-loop water systems, ratepayer protections, no NDAs with officials) indicates that data center developers should expect consistent compliance frameworks rather than binary approval/rejection, making cost-of-compliance modeling more predictable for capital planning.",
+        "The mismatch between campaign rhetoric and actual policy proposals suggests that anti-data-center sentiment is driven by local community concerns rather than fundamental opposition to the industry, creating opportunities for developers who engage early in community negotiations and address specific environmental/utility impact concerns."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Data Center Election?"
+    },
+    {
       "id": "6a1e07a9",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -21759,17 +21957,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 127
+      "count": 128
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 501
+      "count": 505
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 466
+      "count": 471
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 36
     },
     {
       "name": "Fintech",
@@ -21780,12 +21983,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 29
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 35
     }
   ],
-  "lastUpdated": "2026-10-20T12:24:12.945219Z"
+  "lastUpdated": "2026-10-21T12:36:08.659590Z"
 }
