@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "d09aec80",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Romain Mazeries, former CEO of Mangopay, launches Weflayr, a French AI startup helping enterprises select optimal AI models at competitive prices, announcing its first funding round. Meanwhile, Shadow debuts Blade, a new GPU platform targeting AI developers and startups, marking the first major product launch under new CEO Boris Lecoeur. The newsletter also examines emerging operational challenges in AI-focused startups, including compliance gaps around AI Act implementation and cybersecurity risks in fintech ecosystems.",
+      "keyTakeaways": [
+        "AI infrastructure and model-selection platforms are attracting experienced founders from adjacent fintech sectors, signaling capital reallocation toward AI productivity tools for enterprise decision-making.",
+        "Established European tech companies (Shadow) are pivoting to serve AI developer ecosystems with specialized compute solutions, indicating infrastructure-layer opportunities remain underexploited despite AI hype.",
+        "Enterprise AI adoption is outpacing governance and compliance frameworks\u2014companies lack visibility into their own AI systems, creating demand for privacy, risk management, and regulatory consulting services."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "23.10 - L'ancien patron de Mangopay lance sa nouvelle startup dans l'IA"
+    },
+    {
+      "id": "64902c42",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Fintech is entering a generational shift toward agentic workflow automation companies that will automate complex operations for banks, fintechs, and insurers. The addressable market is massive\u2014US banks alone spend $700 billion annually on operations, half on personnel whose work AI can increasingly automate\u2014with winning startups potentially reaching $1+ billion ARR by the early 2030s through single contracts exceeding $10 million annually. Meanwhile, secondary market buyers are pushing back against skepticism about continuation funds, arguing the secondary market is growing on an independent trajectory regardless of traditional exit conditions.",
+      "keyTakeaways": [
+        "AI-powered workflow automation in financial services represents one of the largest TAMs available, with a model already proven by Veritus; investors should prioritize founding teams building vertically integrated solutions across multiple customer workflows rather than point solutions.",
+        "The financial operations automation market is essentially a $1.5 trillion addressable opportunity across US and European banks and credit unions, meaning early-stage winners in this space could achieve unicorn+ valuations by the early 2030s if they successfully land large enterprise contracts.",
+        "Secondary market growth is structurally decoupled from exit environment cycles\u2014this matters for LP capital allocation, as continuation funds are becoming a permanent feature of the private markets infrastructure rather than a cyclical stop-gap measure."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Meet fintech's next generation"
+    },
+    {
+      "id": "0c491508",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Robinhood Ventures invested $10 million in AI coding startup Cognition as part of its $2 billion Series E round, following a $75 million OpenAI investment in April. The dual investment reflects a portfolio strategy betting the AI coding market supports multiple winners, with Cognition's annualized revenue run rate reaching $900 million as of September. The investment is held through Robinhood Ventures Fund I, a publicly traded closed-end fund that posted a 17% quarterly NAV increase, democratizing access to private AI company stakes for retail investors.",
+      "keyTakeaways": [
+        "Portfolio diversification in AI coding is becoming standard practice among sophisticated VCs\u2014Robinhood explicitly rejected winner-take-all thinking and backed competing platforms, suggesting investors see sustainable differentiation opportunities across multiple AI coding tools rather than consolidation around single leaders.",
+        "Founder-market fit and conviction matter as much as metrics; Sarah Pinto emphasized Scott Wu's unwavering vision and A-plus team caliber alongside Cognition's 82% revenue growth, indicating that capital allocation decisions are splitting between hypergrowth validation and founder-led strategic direction.",
+        "Retail-accessible private equity vehicles are materializing as alternative asset classes mature; the 17% quarterly NAV jump in Robinhood's publicly traded fund suggests institutional-grade private company exposure is migrating from accredited-only networks to retail channels, potentially reshaping how wealth concentration in tech founders gets distributed."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 3,
+      "originalTitle": "Two different bets on the AI coding race"
+    },
+    {
+      "id": "e697b009",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "This Axios Pro Rata newsletter covers skepticism around consumer AI agents despite billions in investment, with concerns around liability, infrastructure costs, and potential regulatory needs, while also reporting that Whop raised $200 million at a $5.1 billion valuation from Sequoia and Shopify in Doug Leone's return to active deal-making. The issue highlights a divergence in retailer strategies: Walmart embracing agents with safeguards while Amazon blocks third-party shopping bots, reflecting deeper uncertainty about the economic viability and consumer acceptance of agentic commerce.",
+      "keyTakeaways": [
+        "Retailers remain fractured on AI agent strategy\u2014Amazon's blocking of third-party shopping agents versus Walmart's cautious embrace signals that unresolved liability and regulatory questions could slow agentic commerce adoption despite hype and capital flowing into the space.",
+        "Infrastructure costs at scale and potential pay-to-play discovery mechanisms could create hidden friction that undermines agent adoption; this represents a structural risk to AI agent companies' unit economics that investors should stress-test.",
+        "Whop's $5.1B valuation and Sequoia's investment signals a possible retreat from pure AI plays\u2014Leone's explicit interest in backing non-AI businesses and creator commerce suggests some tier-one VCs are hedging against AI market saturation and looking for alternative growth narratives."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Anti-agents"
+    },
+    {
+      "id": "f871810a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "California's Insurance Commissioner race features two starkly different visions: Ben Allen advocates for incremental market reforms while Jane Kim proposes more radical systemic changes. This political contest signals a critical juncture for how the nation's largest state will regulate insurance markets amid climate-driven underwriting challenges and affordability pressures.",
+      "keyTakeaways": [
+        "The outcome of this election will determine California's regulatory stance on insurance market structure, affecting how major carriers and InsurTech companies operate in the state's $100+ billion insurance market.",
+        "A reform-oriented commissioner (Allen) favors existing market players and gradual rate adjustments, while a revolutionary approach (Kim) could reshape underwriting standards, capital requirements, and create opportunities for alternative insurance models.",
+        "California's insurance regulatory direction sets precedent for other states facing climate-related coverage gaps and affordability crises, making this race relevant to the broader competitive landscape for insurance innovation and capital deployment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "The Surprisingly Exciting Race to be California\u2019s Next Insurance Commissioner"
+    },
+    {
+      "id": "ba3a187a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-22",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Wall Street is pulling back on AI and data center investments following a hot inflation report and Meta's disclosure of negative free cash flow, with stocks like Coreweave, Vistra, Microsoft, Alphabet, and Nvidia all declining sharply. Meanwhile, Net Power, a carbon capture and storage company that went public in 2023 with promising emissions-reduction technology, is effectively shutting down after failing to commercialize its product and facing diminished demand as cheaper alternatives emerge and government emissions mandates disappear.",
+      "keyTakeaways": [
+        "Market momentum on AI infrastructure may be reversing: the two-part thesis of improving AI models driving investor capital has fractured, with institutional investors reconsidering the pace and profitability of data center buildout.",
+        "High-cost clean energy solutions face existential pressure when capital discipline returns\u2014Net Power's technology failure demonstrates that regulatory tailwinds and venture enthusiasm alone cannot sustain companies with premium cost structures in competitive markets.",
+        "The electricity demand surge from AI may not materialize as rapidly or fully as previously expected, potentially reshaping infrastructure investment cycles and creating opportunities for investors positioned in cheaper, faster-to-deploy power solutions."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Is the Data Center Boom Faltering?"
+    },
+    {
       "id": "92aeac02",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22101,17 +22209,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 129
+      "count": 130
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 508
+      "count": 511
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 475
+      "count": 477
     },
     {
       "name": "Strategy & Thesis",
@@ -22129,5 +22237,5 @@
       "count": 29
     }
   ],
-  "lastUpdated": "2026-10-22T12:38:10.615901Z"
+  "lastUpdated": "2026-10-23T12:17:48.321553Z"
 }
