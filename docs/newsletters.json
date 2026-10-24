@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "8b265707",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Beyond chip investments, the AI infrastructure buildout is creating overlooked opportunities across power, optical components, construction, and logistics. KKR's $9 billion bid for UGI Corporation and Nvidia's $2 billion each in optical suppliers Lumentum and Coherent highlight how capital is flowing into adjacent infrastructure layers, with fire-and-safety contractors and construction firms capturing more PE dollars than chip companies themselves. Separately, Polymarket's valuation rose to $20.6 billion as US trading volume surged 140% month-over-month and the platform cut trading rebates, signaling improved unit economics despite international slowdown.",
+      "keyTakeaways": [
+        "Power infrastructure is becoming a core AI bet, not peripheral: Natural gas is filling the electricity gap utilities can't meet, making gas infrastructure plays like UGI and VoltaGrid ($1.4 GW deployed) direct AI exposure opportunities for PE.",
+        "Construction and fire-safety contractors tied to data centers are attracting more PE capital than chip startups\u2014this represents a cleaner, less crowded investment thesis than semiconductor plays.",
+        "Prediction markets are consolidating value: Polymarket's 71% valuation increase and shift toward fee retention over user acquisition rebates suggests the market is maturing from growth-at-all-costs toward sustainable unit economics, while Kalshi maintains distribution advantages."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The overlooked bets behind  AI\u2019s  buildout"
+    },
+    {
+      "id": "9a447fcf",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Trump administration declined to impose recommended tariffs on wind turbine components despite national security concerns, instead issuing a proclamation that preserves the option to act later\u2014a strategic move that keeps leverage while avoiding immediate trade escalation. Meanwhile, China is aggressively localizing its wind energy supply chains, with utilities replacing European and foreign components in hundreds of operating wind farms, tightening Beijing's control over global wind industry suppliers as Chinese firms like Goldwind and Mingyang expand into European markets.",
+      "keyTakeaways": [
+        "U.S. wind energy sector faces prolonged policy uncertainty: Trump's decision to delay tariffs rather than implement them suggests tariff threats may persist for months, creating competitive advantages for companies already positioned in domestic supply chains while deterring new foreign investment in U.S. wind infrastructure.",
+        "Chinese supply chain consolidation is accelerating, creating winners and losers: European wind component manufacturers face displacement in both Asian and European markets as Chinese utilities mandate domestic sourcing; investors should monitor which European suppliers can compete on cost or differentiation versus those facing margin compression.",
+        "Geopolitical fragmentation of wind energy supply chains is now structural policy, not temporary trade friction\u2014expect enduring supply chain regionalization, higher costs for deployment, and potential winners among domestic manufacturers in each region rather than the globally integrated supply chains that previously dominated the sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Trade Winds"
+    },
+    {
+      "id": "f1ed42df",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-10-23",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "America's scientific innovation infrastructure is undergoing a significant shift toward private funding models, with new deep tech startups challenging the traditional government-funded academic research system that dominated the post-WWII era. The newsletter highlights emerging opportunities across energy (Endurance Energy's underwater volcano geothermal), autonomous systems (Rivian's Third Dimension acquisition, EraDrive's DoW contract), space infrastructure (Astrolab's lunar LLM operations, AnySignal's space communications), and biotech (Electric Plant Company's plant-AI interface), signaling a broader trend toward alternative financing structures beyond traditional equity.",
+      "keyTakeaways": [
+        "Private deep tech companies are increasingly attracting capital through non-traditional structures\u2014equipment financing, asset-backed deals, and purchase agreement financing\u2014rather than pure equity, creating opportunities for alternative investors and debt providers to participate in high-risk scientific ventures.",
+        "Acquisitions and partnerships in emerging verticals (autonomous systems, space infrastructure, biotech AI) suggest large corporates like Rivian are consolidating specialized deep tech capabilities, indicating competitive consolidation in early-stage deep tech is accelerating.",
+        "The perceived decline of U.S. scientific dominance relative to China (which overtook America in Nature Index publications in 2024) is driving venture capital and alternative funders toward moonshot private research initiatives, creating a structural shift in how innovation gets funded and commercialized in America."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 185: America's new era of private science: America's new era of\r\n private science"
+    },
+    {
+      "id": "81b650d9",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The White House proposed sweeping restrictions on U.S.-China biotech deals citing national security concerns, covering equity, debt, and joint ventures across pharma, brain-computer interfaces, and biomanufacturing\u2014with a notable carveout for licensing deals. Meanwhile, the 2026 IPO market has disappointed with a 34% decline in deal count despite record proceeds buoyed by SpaceX, and NYC Comptroller Levine publicly urged Anthropic to delay its imminent IPO over unresolved existential safety risks that could create shareholder conflicts.",
+      "keyTakeaways": [
+        "Geopolitical risk now directly impacts biotech M&A: U.S. investors face a new regulatory framework restricting Chinese capital access, but licensing deals remain open\u2014expect deal structures to shift and cross-border biotech exits to face increased scrutiny.",
+        "IPO market fundamentals are weak despite headline record proceeds: the 34% decline in deal count signals diminishing appetite for public markets, raising questions about timing for AI and deep-tech companies considering near-term offerings.",
+        "Large institutional investors are beginning to push back on premature AI company IPOs on safety grounds, signaling potential governance friction ahead for companies entering public markets with unresolved technical risk profiles."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Biotech bomb"
+    },
+    {
+      "id": "9a2ada7a",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's weekly newsletter highlights critical developments across climate and energy sectors, including scrutiny of Fervo Energy's enhanced geothermal technology following short-seller allegations, California's competitive insurance commissioner race with implications for housing and wildfire policy, and emerging shifts in clean energy companies' business models\u2014notably Net Power pivoting toward natural gas data centers and a U.S. nuclear firm adopting Chinese-style reactor clustering in Kentucky. Oil prices meanwhile hit $116/barrel for Brent crude, the highest since April.",
+      "keyTakeaways": [
+        "Enhanced geothermal (Fervo) faces significant scaling obstacles and credibility challenges despite bipartisan sector support\u2014investors should scrutinize technical and financial viability claims before deploying capital in this emerging subsector.",
+        "Clean energy companies are pragmatically pivoting toward higher-margin, near-term revenue opportunities (Net Power to data centers) rather than pursuing moonshot decarbonization plays, signaling market pressures and capital constraints are reshaping clean tech strategy.",
+        "Regulatory and political risk in energy markets is rising: electricity affordability emerging as midterm election issue, California insurance reform could reshape housing/wildfire markets, and nuclear megaprojects require policy alignment\u2014geographic and political risk assessment is critical for energy infrastructure investments."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "d09aec80",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22207,19 +22297,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 130
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 511
+      "count": 513
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 477
+      "count": 479
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 30
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 130
     },
     {
       "name": "Strategy & Thesis",
@@ -22230,12 +22325,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 52
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 29
     }
   ],
-  "lastUpdated": "2026-10-23T12:17:48.321553Z"
+  "lastUpdated": "2026-10-24T11:43:34.870726Z"
 }
