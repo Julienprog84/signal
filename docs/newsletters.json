@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "37e5c137",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are shifting their healthcare investment strategy away from insurance-dependent consolidation plays toward direct-to-consumer cash-pay services like medical spas, weight-loss treatments, and concierge medicine, as rising patient cost-sharing makes these business models more attractive. This pivot reflects lessons learned from a decade of troubled roll-ups in dentistry and other specialties that struggled in higher interest-rate environments, with PE analysts projecting 2027-2028 as breakout years for the medical spa category.",
+      "keyTakeaways": [
+        "PE is abandoning the traditional roll-up playbook in healthcare specialties due to poor returns and lender takeovers; instead targeting high-margin, cash-pay segments where customer acquisition costs are controllable and reimbursement risk is eliminated.",
+        "Rising employer healthcare premiums (up 5% YoY to $28,303) combined with worker cost-sharing jumping 9% to $7,471 is creating immediate tailwinds for out-of-network, direct-pay healthcare services\u2014making this a structural market shift, not a cyclical opportunity.",
+        "Valuation arbitrage has collapsed for traditional DSOs and roll-ups (8x multiples on $1M EBITDA bolt-ons versus 10x on $20M EBITDA platforms), forcing PE to compete on operational value-add rather than financial engineering, fundamentally reshaping the sector's competitive dynamics."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "PE's pivot into cash-pay healthcare"
+    },
+    {
       "id": "8b265707",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -22299,7 +22317,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 513
+      "count": 514
     },
     {
       "name": "Climate & Energy",
@@ -22327,5 +22345,5 @@
       "count": 52
     }
   ],
-  "lastUpdated": "2026-10-24T11:43:34.870726Z"
+  "lastUpdated": "2026-10-25T12:12:46.194267Z"
 }
