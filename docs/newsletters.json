@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "fdd93c39",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-26",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French tech newsletter covering European AI sovereignty challenges, French startup funding momentum led by Pigment's \u20ac82M Series E, and emerging opportunities in wellness tech and cybersecurity compliance. The week saw \u20ac271M raised across French startups, with Pigment alone capturing 82% of deployed capital, signaling concentrated investment in enterprise software.",
+      "keyTakeaways": [
+        "European AI sovereignty is becoming a concrete investment thesis spanning semiconductors, data centers, and foundational models\u2014VCs should assess which portfolio companies can address dependency on US/China tech stacks",
+        "Pigment's dominant Series E ($82M of $271M weekly French raises) demonstrates strong investor appetite for enterprise data/BI software, while smaller tickets ($8.1M median ex-Pigment) suggest a bifurcated market favoring clear scale-up narratives",
+        "Regulatory tailwinds (Cyber Resilience Act) are creating compliance-driven software opportunities, while consumer wellness expansion (Petit BamBou's movement app) signals VCs should explore adjacent health verticals beyond meditation"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "26.10 - Une IA souveraine europ\u00e9enne, \u00e7a veut dire quoi concr\u00e8tement ?"
+    },
+    {
+      "id": "b173d8dd",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Inference chip startups are attracting record venture capital as AI compute shifts from training to deployment, with Etched leading capital efficiency at 12.3x return on invested capital and over $5.2 billion raised across the sector in 2025. Simultaneously, AI neocloud companies\u2014which provide remote GPU access\u2014have secured $6.6 billion in 2026 funding, yet Nvidia CEO Jensen Huang warns that capital demand still significantly exceeds available investment, suggesting substantial additional funding needs ahead.",
+      "keyTakeaways": [
+        "Inference chip startups offer better capital efficiency than broad AI investments: Etched's 12.3x valuation multiple on $1.7 billion raised signals that purpose-built chips designed for cost and energy efficiency can generate outsized returns compared to generalist AI infrastructure plays.",
+        "Neocloud funding is accelerating but supply-constrained: $6.6 billion in 2026 funding for GPU-as-a-service platforms represents 51% year-over-year growth, yet Huang's statement that capital demand 'is much greater' than availability suggests significant dry powder opportunity for investors willing to deploy capital into this sector.",
+        "The AI infrastructure bottleneck is shifting upstream: As inference becomes 75% of AI compute demand by 2030, capital flows are rotating from GPU manufacturers toward specialized chip designers and neocloud operators, fundamentally reshaping which companies will control AI infrastructure margins."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "25 top inference chip startups: ranked"
+    },
+    {
+      "id": "697143c7",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Brazil's President Lula secured an unprecedented fourth term by defeating far-right challenger Fl\u00e1vio Bolsonaro with 51% of votes, marking a significant political victory for climate and environmental protection in South America's largest economy. Serbia ousted strongman leader Aleksandar Vu\u010di\u0107 in a student-led movement opposing Rio Tinto's Jadar lithium mine project, signaling shifting political priorities around mining and environmental concerns in Eastern Europe. Both elections reflect growing political momentum around climate and energy policy, with implications for renewable energy deployment, mining operations, and government industrial policy across emerging markets.",
+      "keyTakeaways": [
+        "Lula's victory protects Amazon deforestation policies and strengthens state-backed Petrobras, while Bolsonaro's defeat removes a pro-privatization, Trump-aligned alternative that threatened environmental enforcement in the world's largest tropical rainforest.",
+        "Serbia's political shift away from Vu\u010di\u0107 creates uncertainty for Europe's lithium supply chains and battery manufacturing ambitions, as the anti-Jadar Student List party now holds decision-making power over critical mineral development.",
+        "Emerging market politics are increasingly polarized around climate and extractive industries, with voter coalitions forming around environmental protection rather than traditional left-right economic divides, reshaping investment thesis for energy transition and mining sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Lula!"
+    },
+    {
+      "id": "d020a058",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Overwatch, a digital threat detection startup founded by former Australian diplomat Arjun Bisen, raised $15 million in Series A funding led by Mouro Capital, with participation from Visa Ventures and Capital One Ventures. The company addresses the convergence of cybercrime, fraud, and financial crime accelerated by AI, which has reduced attack costs to under $3 per attempt and enabled threat actors to launch 100+ campaigns in days. The round reflects growing investor conviction in holistic digital threat solutions as major financial services firms including Visa, Capital One, Cash App, SoFi, Stripe, and DoorDash adopt Overwatch's AI-powered defense platform.",
+      "keyTakeaways": [
+        "AI-powered cybercrime has collapsed the barrier to entry for attackers\u2014at under $3 per attack, scamming has become a scalable threat that requires integrated defense solutions beyond traditional siloed security approaches, creating significant market opportunity for platforms like Overwatch.",
+        "Major financial services and fintech companies (Visa, Capital One, Stripe, SoFi, Cash App, DoorDash) are already adopting Overwatch, suggesting strong product-market fit and recurring revenue potential in a mission-critical security category with high switching costs.",
+        "The $15 million Series A signals investor recognition that digital threats now span cybersecurity, fraud prevention, and financial crime simultaneously\u2014indicating a structural shift in how security infrastructure will be architected and funded across enterprise software."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Fighting AI cybercrime"
+    },
+    {
+      "id": "b88bbd5a",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-26",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic filed for what could be the largest IPO of all time, reporting an $80.75 billion net loss on $16.29 billion in revenue for H1 2026, with Goldman Sachs and Morgan Stanley as lead underwriters. The filing comes amid a massive wave of AI capital raises including SpaceX's $40 billion debt financing for GPUs and Meta's $95 billion equity financing push, collectively representing 0.73% of U.S. GDP. Anthropic's move is being viewed as a referendum on the AI business model, with key risks including existential AI safety concerns and the company's own models accelerating research beyond its ability to safeguard.",
+      "keyTakeaways": [
+        "Anthropic's IPO filing despite massive losses signals investor appetite for AI infrastructure plays is hitting capacity limits\u2014watch debt financing volumes as companies prioritize maintaining investment-grade ratings over aggressive equity raises.",
+        "The concurrent mega-raises by SpaceX, Meta, and OpenAI (targeting 2027 IPO) create a crowded capital markets window; sophisticated LPs should assess concentration risk across their AI exposure and timing implications for secondary exits.",
+        "The healthcare M&A trend continues with Bon Secours acquiring Surgery Partners for $5.7B, validating a new exit thesis for PE-backed physician groups and suggesting scaled healthcare services assets are becoming more attractive to strategic buyers seeking outpatient expansion."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Claude cash"
+    },
+    {
+      "id": "fcdd91ee",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-25",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "EarnIn, a major earned wage access provider, is challenging a Maryland law that prohibits tip solicitation by arguing the restriction violates First Amendment free speech rights for both the company and its users. The lawsuit represents an escalating dispute over business models and monetization strategies in the earned wage access sector, which is divided between employer-integrated providers (with near-zero credit risk through direct payroll integration) and direct-to-consumer platforms.",
+      "keyTakeaways": [
+        "EarnIn's constitutional challenge could reshape regulatory frameworks around tip-based monetization in fintech, potentially weakening state-level restrictions on how EWA providers generate revenue\u2014a critical issue for company profitability and investor returns.",
+        "The lawsuit signals intensifying legal battles over EWA business models, suggesting regulatory uncertainty will persist as a key investment risk factor in the sector; outcomes could either validate or invalidate current monetization strategies across the industry.",
+        "The broader trend indicates fintech companies are increasingly using First Amendment arguments to challenge consumer protection regulations, which could set precedent for other state laws restricting financial services practices."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "Is Asking For A Tip \u201cFree Speech\u201d? EarnIn Says It Is."
+    },
+    {
       "id": "37e5c137",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -22315,14 +22423,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 131
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 514
+      "count": 517
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 479
+      "count": 480
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 53
     },
     {
       "name": "Deep Tech & Science",
@@ -22330,20 +22448,10 @@
       "count": 30
     },
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 130
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 36
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 52
     }
   ],
-  "lastUpdated": "2026-10-25T12:12:46.194267Z"
+  "lastUpdated": "2026-10-26T13:44:37.599553Z"
 }
