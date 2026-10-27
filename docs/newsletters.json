@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "31e3b568",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "The CES organizers held a European pre-premiere event in Milan following stops in Amsterdam and Paris, building momentum toward the 60th anniversary celebration in Las Vegas. Shadow launched Blade, a new GPU platform for AI developers and startups, marking the first major product under new leadership. The newsletter also explores critical issues for AI adoption: how enterprises lack visibility into which AI tools they're actually using, and concerns about AI's role in eroding critical thinking in information search and healthcare applications.",
+      "keyTakeaways": [
+        "Shadow's Blade platform signals a shift in AI infrastructure toward developer-friendly GPU solutions; this could indicate a market opportunity for simplified AI infrastructure plays competing against hyperscaler dominance",
+        "The AI Act compliance challenge highlighted\u2014enterprises struggle with basic AI inventory management\u2014suggests strong demand for AI governance, observability, and risk management solutions across European markets",
+        "Erosion of critical evaluation in AI-driven information systems poses both regulatory risk (via AI Act enforcement) and market opportunity for transparency and verification tools in healthcare and knowledge work sectors"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "27.10 - Le CES boucle sa tourn\u00e9e europ\u00e9enne"
+    },
+    {
+      "id": "0c526b94",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic filed its long-awaited S-1 for an IPO with an expected $1.5 trillion valuation, down from earlier $2 trillion expectations after quarterly revenue growth slowed. The filing reveals Q2 2026 revenue of $11.56 billion (up from $787 million year-over-year) and massive $66.3 billion losses largely driven by accounting treatment of convertible notes, with compute spending surging to $5.6 billion from $1.39 billion annually. Amazon and Google are the largest backers, with Amazon potentially converting $6.2 billion in outstanding convertible notes into roughly 20% equity ownership at IPO.",
+      "keyTakeaways": [
+        "Anthropic's compute spending more than quadrupled year-over-year to $5.6 billion in Q2, signaling that frontier AI labs face structurally massive capital requirements that could only be sustained through public markets or mega-funded private rounds.",
+        "The $1.5 trillion valuation despite slowing growth (Q3 revenue estimated at $16.9 billion versus Q2's $11.56 billion growth rate) suggests the market is pricing in long-term dominance but may be vulnerable to disappointment if revenue growth continues decelerating.",
+        "Strategic investor convertible notes (Amazon's $6.2 billion position) represent a hidden layer of leverage and control in frontier AI\u2014these mega-cap tech companies are structuring investments to convert at IPO, locking in significant equity stakes at predetermined prices regardless of final valuation."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "All about Anthropic"
+    },
+    {
+      "id": "938e9e93",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's S-1 filing reveals a company valued at $965 billion with $16.29 billion in H1 2026 revenue but an $80.7 billion net loss, driven primarily by massive compute spending of $9.7 billion for model R&D alone. The filing embodies fundamental contradictions of the AI boom: the company positions AI as both transformative (potentially curing cancer) and existentially risky, while committing up to $567 billion on compute through 2030 and $120.5 billion to SpaceX specifically. Despite high valuations, Anthropic acknowledges limited experience in sales, marketing, and infrastructure management, suggesting the company remains operationally immature despite its scale.",
+      "keyTakeaways": [
+        "Compute costs are the dominant driver of AI company economics: Anthropic's $9.7B H1 compute spend for R&D and planned $567B total commitment through 2030 signals that capital intensity\u2014not software margins\u2014will define AI company profitability for years. Investors should model when (or if) these companies can achieve positive unit economics.",
+        "High valuations don't equal operational maturity: Anthropic's repeated disclosures of 'limited experience' in sales force management, commercialization, and infrastructure scaling at a $965B valuation indicates execution risk is potentially underpriced in AI company valuations.",
+        "AI commoditization risk is material: The newsletter highlights concerns about competitive market pressures and sales effectiveness headwinds, suggesting the current AI market may not sustain the pricing power implied by these valuations if multiple providers reach feature parity."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "The Anthropic Rorschach test"
+    },
+    {
+      "id": "5732a7b6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "EQT Corporation announced plans to acquire Range Resources in an all-stock deal creating a $50 billion natural gas giant that would be America's largest producer at 9 billion cubic feet per day equivalent, signaling accelerating consolidation in U.S. gas. Separately, Petrobras shares plunged 14% following Brazilian President Lula's reelection, as his administration prioritizes offshore drilling expansion despite climate concerns, while Anthropic's IPO filing reveals major worries about securing sufficient energy infrastructure for AI data centers.",
+      "keyTakeaways": [
+        "The EQT-Range merger creates a scale play in natural gas with significant competitive moat\u2014the combined entity would nearly double the next-largest competitor and control over 3,700 miles of midstream infrastructure, positioning it to capture long-term cash flows regardless of commodity cycles.",
+        "Petrobras' post-election decline presents a valuation opportunity for energy investors betting on South American oil production, while simultaneously creating ESG headwinds for climate-focused funds holding positions in Brazilian energy equities.",
+        "AI's explosive energy demands are reshaping infrastructure investment priorities\u2014if major AI companies cannot secure sufficient power for data centers, this could redirect massive capital toward energy generation and grid modernization, potentially benefiting natural gas producers as a bridge fuel during the transition."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "A New Gas Goliath"
+    },
+    {
+      "id": "5732a7b6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "EQT Corporation announced a $50 billion all-stock acquisition of Range Resources to create America's largest natural gas producer, combining output of 9 billion cubic feet per day and controlling over 3,700 miles of pipeline infrastructure. The deal signals accelerating consolidation in U.S. natural gas markets, occurring amid broader energy infrastructure challenges highlighted by Anthropic's IPO filing, which emphasizes data center power constraints as a major business risk, while Brazil's Petrobras saw shares plunge 14% following President Lula's reelection and commitment to expanded offshore drilling.",
+      "keyTakeaways": [
+        "The EQT-Range merger creates a $50B+ gas infrastructure behemoth with 35% higher production than the next competitor, suggesting energy consolidation will continue driving scale advantages and potentially attracting infrastructure-focused capital and strategic buyers.",
+        "Anthropic's S-1 reveals AI companies view energy infrastructure scarcity as an existential business risk (14 mentions vs. 4 for climate), indicating massive capital deployment opportunities for power generation, data center infrastructure, and grid modernization companies.",
+        "Lula's reelection and doubled-down offshore drilling commitment despite left-wing positioning signals geopolitical realignment around energy security over climate commitments, potentially creating opportunities in traditional energy producers while reshaping ESG investment calculus."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "A New Gas Goliath"
+    },
+    {
+      "id": "789bd6f2",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Power Resilience Forum 2027 is launching February 3-5 in San Diego with confirmed speakers including PG&E CEO Sumeet Singh, J.P. Morgan's global climate advisory head, and California Public Utilities Commission President John Reynolds. The forum addresses grid vulnerabilities from extreme weather, wildfires, and cyber threats, organized around three investment-critical tracks: Protection & Risk Mitigation, Operations, and Capital & Investment, with major utility and research institution support including SDG&E, EPRI, NARUC, NRECA, and LBNL.",
+      "keyTakeaways": [
+        "Major utility executives and JPMorgan's climate team converging on grid resilience signals substantial capital reallocation toward infrastructure hardening and risk management solutions\u2014a key signal for investors tracking energy infrastructure and climate adaptation plays.",
+        "The three-track structure (Defense, Mechanics, Economics of Resilience) reflects institutional prioritization of both operational technology and capital deployment strategies, suggesting investors should monitor announcements from the Capital & Investment track for emerging funding patterns in grid modernization.",
+        "Participation from regulators (CPUC) alongside utilities and JPMorgan indicates policy-driven investment opportunities in climate-resilient grid infrastructure, particularly in high-risk regions like California facing wildfire and extreme weather exposure."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "Registration is open for Power Resilience Forum 2027!"
+    },
+    {
+      "id": "78e4a445",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-26",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Public opposition to data center development is plateauing after experiencing a dramatic 32-point swing against the facilities over 11 months, with 71% of Americans now opposing nearby construction. The shift is most pronounced among Republicans, where support increased from 23% to 34% following favorable Trump administration messaging, while over $260 billion in proposed data centers have already been canceled due to local opposition this year.",
+      "keyTakeaways": [
+        "Data center opposition may have peaked, presenting a potential inflection point for capital deployment in AI infrastructure\u2014Republican support rising to 34% signals possible political tailwinds for future permitting and development if the trend continues.",
+        "The $260 billion in canceled projects represents massive stranded capital and delayed infrastructure buildout; companies like Anthropic are flagging this slowdown as a material IPO risk, suggesting the infrastructure constraint could impact AI company valuations and timelines.",
+        "Regional political dynamics are emerging as a key variable for site selection strategy\u2014Republican-leaning areas may offer faster permitting paths, creating a geographic arbitrage opportunity for developers willing to target GOP-favorable jurisdictions over traditionally Democratic strongholds."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Exclusive: The Data Center Backlash Is Plateauing"
+    },
+    {
       "id": "fdd93c39",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22425,17 +22551,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 131
+      "count": 132
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 517
+      "count": 519
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 480
+      "count": 484
     },
     {
       "name": "Fintech",
@@ -22453,5 +22579,5 @@
       "count": 36
     }
   ],
-  "lastUpdated": "2026-10-26T13:44:37.599553Z"
+  "lastUpdated": "2026-10-27T12:52:17.290235Z"
 }
