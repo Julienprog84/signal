@@ -1,6 +1,204 @@
 {
   "newsletters": [
     {
+      "id": "c425653b",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-28",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French newsletter covering European venture capital highlights several notable fundraises and M&A activity: AQQI, founded by ex-Studapart executives, raised \u20ac4 million for an AI-powered real estate buying assistant backed by Axeleo and Kima; Vera Health, founded by Y Combinator alumni, secured $32 million for an AI medical search engine with backing from Google's AI fund; and Naboo completed an acquisition of British rival Pro-ven, managing $300 million in event spending. The edition also warns that while French funding increased 65% in H1 2026, deal volume fell 10%, indicating capital concentration among proven entrepreneurs and stricter investor selectivity.",
+      "keyTakeaways": [
+        "Capital is concentrating on proven teams and success stories\u2014French funding volume dropped 10% despite a 65% increase in total amounts raised, signaling VCs are backing fewer but larger rounds with experienced founders.",
+        "AI-powered vertical solutions continue attracting significant capital; both AQQI (real estate) and Vera Health (healthcare) demonstrate strong investor appetite for domain-specific AI applications with experienced founding teams.",
+        "European founders are successfully competing at global scale\u2014Y Combinator and Google's AI fund backing Vera Health, plus European VCs funding AQQI, shows robust transatlantic deal flow and growing sophistication of European tech startups."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "28.10 - Deux anciens dirigeants de Studapart lancent un nouveau projet"
+    },
+    {
+      "id": "a95926ed",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's Q4 2025 Global Fund Performance Report reveals that while private capital returns remain below long-term averages, significant performance divergence is emerging across different investment strategies and fund sizes. The report includes preliminary Q1 2026 data and analyzes how fund size is reshaping performance across multiple time horizons, with particular focus on risk-adjusted returns and cash flows by vintage year.",
+      "keyTakeaways": [
+        "Performance divergence by strategy is accelerating\u2014some strategies are staging comebacks while others fall further behind, creating benchmarking risk for allocators who haven't updated their performance expectations",
+        "Fund size is becoming a critical performance variable across nearly every time horizon, suggesting that mega-funds and smaller vehicles may require differentiated evaluation criteria and return expectations",
+        "Understanding the gap between risk-adjusted returns and cash flows by vintage is essential for confident benchmarking and setting realistic return targets going forward"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Q4 2025 fund performance is in, plus a first look at Q1 2026"
+    },
+    {
+      "id": "ec690615",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new report analyzing 50+ operating battery energy storage system (BESS) projects reveals a critical performance gap: projects lose nearly 20% of their overbuild capacity before commercial operation even begins, leaving sites with only 0.5% headroom above nameplate capacity. The analysis shows this erosion stems not from aging or supplier differences, but from early-stage problems that go undetected, suggesting that rigorous performance monitoring can help operators recover revenue, owners enforce warranties, and lenders make better underwriting decisions.",
+      "keyTakeaways": [
+        "BESS project finance faces a hidden performance cliff: typical 20.2% overbuilds nearly disappear by operational start, creating immediate revenue shortfalls and warranty disputes that tracking and early detection could prevent.",
+        "The variance between top and bottom-performing battery assets correlates more with problem detection timing than with chemistry or supplier choice, suggesting that performance monitoring and software/analytics solutions represent higher-ROI investments than hardware differentiation.",
+        "Lenders and equity investors in BESS projects are currently underwriting based on contract specifications that diverge materially from actual delivered capacity, indicating potential portfolio risk across the now-scaling battery storage market and opportunity for performance-tracking solutions."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Banking BESS: Financing lessons from 50+ operating battery projects"
+    },
+    {
+      "id": "3bc0aaf8",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Advent International closed a $30 billion fundraise, with its flagship GPE XI fund reaching $27 billion despite a significantly lengthened fundraising timeline of 20 months compared to 6 months for its prior fund, reflecting broader PE fundraising headwinds. The analyst also downgraded Anthropic's AI Business Quality score from 8.17 to 7.45 following its IPO filing, citing concerns about revenue quality, high customer churn risk from pay-as-you-go consumption models, and governance limitations from its Long-Term Benefit Trust structure.",
+      "keyTakeaways": [
+        "Even top-tier PE firms are facing extended fundraising cycles; Advent's 20-month close vs. 6 months previously signals that mega-fund capital availability remains constrained despite strong historical performance metrics.",
+        "Institutional investors are increasingly prioritizing distributions over IRR and multiples, a shift that favors mature PE platforms with realized exits over growth multiples\u2014relevant for fund strategy positioning.",
+        "AI businesses generating 80% revenue from consumption-based pay-as-you-go models face material revenue quality concerns, with 900% NRR reflecting volatility rather than customer stickiness, presenting valuation and sustainability risks for investors."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Advent\u2019s  $30B fundraise in 4 charts"
+    },
+    {
+      "id": "9651da87",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Eve, a San Mateo-based legal AI startup, is capturing significant market share in the underserved plaintiff-side law firm segment with an end-to-end case management platform. The company raised a $103 million Series B at a $1+ billion valuation in 2025 led by Spark Capital with backing from Andreessen Horowitz, Lightspeed Venture Partners, and Menlo Ventures, and is experiencing 75% quarterly case growth with over $3.5 billion in settlements managed and sixfold revenue growth year-over-year.",
+      "keyTakeaways": [
+        "Eve has identified a significant market inefficiency: plaintiff-side law firms operating on contingency-fee models lack the resources to adopt legal tech, creating an opening for vertical-specific solutions; the company now manages 350,000+ cases across nearly 2,000 firms with 50,000+ closed cases, demonstrating strong product-market fit and stickiness.",
+        "Legal AI investment is bifurcating between enterprise/Big Law plays (Harvey at $15B+ valuation) and underserved verticals like plaintiff practices, suggesting strategic opportunities in specialized legal tech segments where adoption barriers are lower and regulatory friction is minimal.",
+        "Eve's growth trajectory and capital efficiency suggest that AI-enabled legal services can democratize access to legal resources while creating defensible competitive advantages through network effects; the plaintiff-side market represents a multi-billion-dollar TAM currently dominated by fragmented, low-tech operators vulnerable to AI disruption."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "David and Goliath"
+    },
+    {
+      "id": "b8dbd118",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Israel's upcoming government formation following record-turnout elections could shift the country's energy policy, with opposition leader Gadi Eisenkot\u2014a former chairman of long-duration energy storage startup StorageDrop\u2014potentially replacing Netanyahu. Meanwhile, Trump is moving to eliminate Biden-era methane emissions regulations on oil and gas producers, claiming $45 billion in savings and aiming to accelerate gas production as the industry consolidates.",
+      "keyTakeaways": [
+        "Israeli political transition could redirect climate policy: Eisenkot's StorageDrop background signals potential pivot from Netanyahu's offshore gas drilling focus toward renewable energy and storage infrastructure, creating new investment vectors in Israeli clean tech.",
+        "U.S. methane regulation rollback removes compliance costs but increases climate policy uncertainty: Deregulation favors incumbent oil and gas producers but may slow adoption of methane monitoring technology and emissions control solutions that were gaining market share under Biden rules.",
+        "Energy infrastructure consolidation is accelerating: The megamerger creating America's largest gas producer, combined with regulatory loosening, suggests continued industry concentration rather than transition to renewables, affecting competitive dynamics and technology adoption timelines."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Bye-Bye Bibi?"
+    },
+    {
+      "id": "98a30692",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-28",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Decisionly, a dispute automation platform founded by Pallavi Kuppa-Apte, is addressing legacy inefficiencies in card dispute management by deploying AI-native zero-touch automation for card issuers. The podcast discussion covers regulatory frameworks (EFTA/Reg E, TILA/Reg Z, card network rules), the Apple Card/Goldman Sachs enforcement action as a cautionary tale, and how agentic commerce and first-party fraud are poised to drive surge in disputes that manual systems cannot handle.",
+      "keyTakeaways": [
+        "AI-driven dispute automation represents a significant operational efficiency opportunity for card issuers facing regulatory complexity and rising fraud volumes\u2014companies like Goldman Sachs have faced costly enforcement actions for dispute mishandling, validating the market need for automated solutions.",
+        "Agentic commerce adoption is expected to materially increase dispute volumes and first-party fraud, creating urgent demand for scalable automation platforms; manual dispute management processes are becoming structurally unfit for purpose in this new environment.",
+        "The dispute automation market addresses a $100B+ problem space for financial institutions with recurring pain around write-offs, fraud losses, and regulatory compliance\u2014creating a viable venture-scale opportunity as card networks and issuers seek to modernize legacy systems."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 47,
+      "originalTitle": "Building An AI-Native Dispute Automation Platform, with Decisionly\u2019s Pallavi Kuppa-Apte"
+    },
+    {
+      "id": "32d74fa5",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Eversource Energy and National Grid are advancing virtual power plant (VPP) programs beyond pilot phases, using them to defer grid investments, store renewable energy, and reduce consumer costs. The event will explore how utilities are scaling VPPs as reliable grid assets while addressing regulatory and valuation framework gaps that need to keep pace with industry adoption.",
+      "keyTakeaways": [
+        "VPPs are moving from experimental pilots to core utility infrastructure with multiple revenue streams\u2014grid deferral, renewable storage, power quality maintenance, and cost reduction\u2014suggesting a maturing market with growing capital deployment opportunities",
+        "Regulatory and valuation framework gaps remain the primary bottleneck to scaling; investors should monitor how utilities and regulators develop standardized metrics and pricing models to unlock VPP value at scale",
+        "Major utilities like Eversource and National Grid adopting VPPs signals sector-wide acceptance and likely regulatory tailwinds, positioning VPP technology providers and grid software platforms for significant growth in coming years"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "How Eversource and National Grid are putting VPPs to work"
+    },
+    {
+      "id": "f35f7bab",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's S-1 filing reveals the AI startup has $132 billion in cash despite going public, suggesting careful capital management rather than funding desperation. The filing also highlights governance quirks including secret succession plans and reframed messaging around AI safety, while a separate story details Disruptive's $10 billion first flagship fund raising as SPVs face reputational pressure after upcoming tech IPOs.",
+      "keyTakeaways": [
+        "Anthropic's massive cash position ($132B as of June 30) contradicts the narrative that it's going public out of financial necessity\u2014suggesting VCs should reconsider assumptions about capital needs in mega-funded AI startups and focus instead on cash burn rates and compute spending patterns.",
+        "The near-total absence of named VC firms in Anthropic's S-1 (only Spark Capital listed for board reasons) signals that even mega-investors lack traditional equity verification, raising questions about cap table transparency and secondary market valuation reliability for pre-IPO AI companies.",
+        "Disruptive's $10B fund launch reflects broader ecosystem shift away from SPV structures toward regulated fund vehicles, driven by reputational spillover risk from SpaceX and other mega-exits\u2014meaning GP operators face pressure to formalize and capitalize traditional funds even if it constrains operational flexibility."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Analyzing Anthropic"
+    },
+    {
+      "id": "cbedd1a3",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-10-27",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Benedict Evans examines the total addressable market for AI infrastructure amid trillion-dollar annual hyperscaler spending and massive valuations for OpenAI and Anthropic, arguing traditional TAM frameworks are insufficient for understanding this emerging sector. The newsletter also covers 'Black October,' a wave of critical infrastructure vulnerabilities discovered by AI tools in languages like PHP, highlighting both cybersecurity risks and opportunities for managed security services.",
+      "keyTakeaways": [
+        "Traditional TAM analysis breaks down for AI infrastructure\u2014existing frameworks designed for mature markets cannot accurately size an industry where end applications and use cases remain largely undefined, making valuation models for OpenAI ($80B+) and Anthropic ($15B+) speculative rather than grounded in precedent.",
+        "The discovery of decade-old vulnerabilities in critical infrastructure using AI tools signals a shift from reactive security patching to proactive vulnerability discovery at scale, creating a strong tailwind for managed security services and cybersecurity vendors while creating exit risk for companies managing legacy infrastructure.",
+        "The convergence of AI-enabled vulnerability discovery and widespread infrastructure exploitation risk suggests either a new equilibrium of higher baseline security through AI-assisted audits or an escalating attack surface\u2014companies must decide between managed security adoption or facing potential catastrophic breaches."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 666"
+    },
+    {
+      "id": "012b964d",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-27",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new Heatmap Pro poll of over 2,500 Americans reveals that while data center opposition remains high (70%+), public support has rebounded for the first time in over a year. The survey identifies tax revenue generation as Americans' top reason to support data centers, while concerns about utility costs and water bills are the primary opposition drivers\u2014suggesting economic messaging is key to project approval, though noise complaints are the actual leading cause of cancellations.",
+      "keyTakeaways": [
+        "Tax revenue and utility cost arguments are the most persuasive for swaying public opinion on data centers, creating a clear playbook for developers and municipalities to frame projects around fiscal benefits rather than AI or technological enablement.",
+        "There's a significant gap between what kills data center projects in practice (noise) and what Americans say drives their opposition (utility bills), indicating market intelligence based on actual outcomes may outperform survey-based messaging strategies.",
+        "Declining concern about AI-enabled data centers versus traditional cloud services suggests public appetite for data center expansion may be stronger than previously thought if projects are positioned around mainstream infrastructure rather than artificial intelligence applications."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: New Poll on Data Centers\u2019 Best Argument"
+    },
+    {
       "id": "31e3b568",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22551,33 +22749,33 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 132
+      "count": 133
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 519
+      "count": 523
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 484
+      "count": 488
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
-      "count": 53
+      "count": 54
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 37
     },
     {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 30
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 36
     }
   ],
-  "lastUpdated": "2026-10-27T12:52:17.290235Z"
+  "lastUpdated": "2026-10-28T13:40:58.937244Z"
 }
