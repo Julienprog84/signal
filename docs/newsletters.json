@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "fe2c548f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-29",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French healthtech startup Alan secured a \u20ac3 billion contract over six years alongside Allianz to provide supplementary health insurance for 150,000 French Social Security employees, marking a significant public sector win despite union opposition. The newsletter also covers Mobile.club's path to profitability with \u20ac30M+ in recurring annual revenue and political pledges from French presidential candidates to invest \u20ac200 billion in AI, quantum computing, and workforce development, reflecting growing state interest in tech infrastructure.",
+      "keyTakeaways": [
+        "Alan's \u20ac3 billion public contract validates the healthtech sector's ability to scale via government partnerships, but signals potential regulatory headwinds and political risk as union opposition suggests policy vulnerability in future administrations.",
+        "The emphasis by multiple presidential candidates on \u20ac200 billion in public tech investment suggests significant future capital deployment in AI/quantum and workforce reskilling\u2014investors should monitor which candidates gain traction and their likely appointees to key positions like Bpifrance leadership.",
+        "France's AI skills gap versus Asia (CDI hiring down 28% for young workers in AI-exposed roles) represents both a policy crisis and investment opportunity in edtech and corporate training platforms addressing compliance with EU AI Act requirements."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "29.10 - Un contrat \u00e0 3 milliards d\u2019euros pour Alan"
+    },
+    {
+      "id": "58708ed1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "SpaceX's IPO reduced venture secondary trading volume by 9% to $110.7 billion annualized, revealing that early-stage investors realized 60% returns while late entrants who bought after IPO timing became known recovered only 28%\u2014demonstrating that timing trumps access in mega-cap venture deals. Capital is now rotating away from oversaturated AI investments toward fintech, defense, prediction markets, and crypto, with secondary buyers identifying 10 startups carrying over 90% IPO probabilities within five years. Wellington Management executives dismissed concerns that mega IPOs of SpaceX, OpenAI, and Anthropic would crowd out smaller companies, arguing that public markets have sufficient capacity for additional billion-dollar valuations in 2027, provided growth rates exceed 10-25% annually.",
+      "keyTakeaways": [
+        "Late-stage venture investors face diminishing returns on mega-cap secondary purchases\u2014only 28% of 2026 SpaceX secondary buyers have recovered capital, versus 60% for earlier backers, signaling a shift toward accessing winners earlier in their lifecycle",
+        "Sector rotation is underway: capital is abandoning richly-valued AI names for fintech, defense, prediction markets, and crypto\u2014LP allocators should recalibrate portfolio construction away from crowded AI-only strategies",
+        "The mega-IPO wave (SpaceX, OpenAI, Anthropic) will not suppress smaller company IPOs in 2027, but only for high-growth targets (100%+ revenue growth); slower-growing businesses face structural disadvantages and should focus on profitability or alternative exits"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The Daily Pitch"
+    },
+    {
+      "id": "e3806d3b",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Fortune, Lightspeed, and AWS released the 2027 Cyber 60 list of innovative cybersecurity startups, with panelists warning that AI-enabled attackers now have unprecedented speed and scale advantages over defenders. Speakers highlighted that attackers can scan entire Fortune 500 external attack surfaces in hours\u2014work that would take humans a year\u2014while organizations struggle with budgeting and governance delays, creating a structural asymmetry in cybersecurity. The event revealed significant funding momentum in the sector, including Upwind raising $400 million in Series C and Foundry Robotics securing $100 million.",
+      "keyTakeaways": [
+        "AI has fundamentally shifted cybersecurity economics in attackers' favor: threat actors can now operate at machine speed and scale while defender organizations remain constrained by change control and budget cycles, suggesting massive investment opportunities in automation-first security platforms",
+        "Notable funding rounds signal strong VC confidence in the sector\u2014Upwind's $400M Series C led by Bessemer and participation from Greylock, Salesforce Ventures, and others indicates mega-rounds are still flowing to late-stage cybersecurity plays despite macro headwinds",
+        "The 'perimeter is dead' thesis is now orthodox thinking among security leaders, implying legacy network security is obsolete and capital should flow toward cloud-native, AI-powered detection and response rather than traditional firewall and VPN vendors"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Attackers ahead"
+    },
+    {
+      "id": "3c450796",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "GE Vernova is acquiring Trench Group for $9 billion to capitalize on grid modernization driven by data center demand and renewable energy buildout, signaling major consolidation in high-voltage transmission equipment. The Federal Reserve held rates steady at 3.75-4%, providing relief for capital-intensive clean energy projects, while over 40 clean-tech startups are pushing Congress to pass permitting reform before session end to accelerate project deployment.",
+      "keyTakeaways": [
+        "GE Vernova's $9 billion Trench Group acquisition reflects aggressive positioning in grid infrastructure as data centers and AI drive electricity demand\u2014investors should monitor transmission equipment suppliers as bottleneck assets in the energy transition",
+        "Fed holding rates steady rather than hiking removes near-term refinancing pressure on clean energy developers with large upfront capital requirements; however, expected rate cuts remain uncertain, creating ongoing financing risk for 2027 projects",
+        "Permitting reform has reached critical mass support among clean-tech founders and could unlock billions in delayed project investment\u2014legislative passage or failure in coming weeks will meaningfully impact deployment timelines and company valuations across geothermal, carbon removal, and grid modernization sectors"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Trench Wire"
+    },
+    {
+      "id": "83cc2dd5",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-28",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity faces intensifying political scrutiny from Democratic candidates, particularly over housing and healthcare investments, with potential regulatory acceleration if Democrats gain full congressional control. Meanwhile, India's Jio Platforms set a record with a $3.2 billion IPO at a $106 billion valuation, surging 27% on day one after raising billions from major tech and PE investors including Google, Meta, and KKR.",
+      "keyTakeaways": [
+        "PE regulatory risk is escalating: A Democratic Congress sweep could empower Sen. Elizabeth Warren to advance restrictive legislation on PE ownership across housing, healthcare, and other sectors\u2014though PE has historically succeeded in blocking federal restrictions.",
+        "Capital already flowing to Jio validates the India digital opportunity: Major institutional investors (Alphabet, Meta, KKR, Silver Lake, Vista, TPG) backed the company privately before its record IPO, signaling confidence in India's digital services growth despite competitive threats like Starlink.",
+        "Political headwinds may redirect PE capital allocation: If federal restrictions on single-family homes and mobile home PE ownership expand, PE firms may need to pivot toward less politically vulnerable sectors and geographies, including international markets like India."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: PE politics"
+    },
+    {
+      "id": "d30fa9dd",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-10-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center developers are experiencing significant technical failures with on-site gas turbines as they rush to build independent power infrastructure, with reports of cracked turbines at xAI's Memphis facility, Stargate project delays, and power failures at Virginia data centers. Anthropic's IPO filing reveals the company is investing $50 billion in self-built data centers in Texas and New York while acknowledging risks from fuel price shocks and pipeline constraints, noting that clean energy alternatives like solar and wind aren't available at required scales or timelines. The onsite gas buildout has exploded from 20 gigawatts last summer to 110 gigawatts currently, but operational challenges stem from AI workloads creating megawatt-level power fluctuations that stress equipment.",
+      "keyTakeaways": [
+        "The rapid scaling of on-site gas infrastructure for data centers is creating a hidden operational risk: many AI companies lack the expertise to maintain complex turbine systems, creating opportunities for specialized power operations and maintenance vendors, as well as battery storage and UPS manufacturers like Tesla.",
+        "Anthropic's $50 billion capital commitment to self-built data centers signals that hyperscalers believe energy independence justifies enormous capex spending, but their IPO filing explicitly warns about fuel price volatility and pipeline constraints\u2014suggesting energy hedging and long-term gas supply contracts will become critical competitive advantages.",
+        "The macro shift from grid-dependent to distributed on-site power infrastructure is accelerating (5.5x growth in 12 months), but technical failures are mounting due to unique AI power demands; this creates near-term headwinds for quick project deployment but structural tailwinds for battery storage, power conditioning, and grid-agnostic infrastructure providers."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Cracks emerge in data centers' gas buildout"
+    },
+    {
+      "id": "c4bdc820",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-28",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A new report from Brown University's Climate Solutions Lab reveals that U.S. electricity law contains no legal mechanism to rapidly disconnect a data center from the grid in an emergency, creating a potential vulnerability if an AI system were to escape its operator's control. The research highlights a critical gap where existing power grid regulations don't account for scenarios requiring immediate disconnection of industrial facilities due to autonomous computing threats, and disconnection processes could take long enough for a rogue AI to copy itself to other systems.",
+      "keyTakeaways": [
+        "Data center operators and AI companies face emerging regulatory risk: expect new federal/state legislation requiring emergency power-down protocols, which could increase capex costs and operational complexity for hyperscaler investments",
+        "This creates an opportunity for energy infrastructure companies and legal tech firms specializing in grid modernization and emergency response systems to develop compliant disconnection solutions",
+        "The gap between AI safety requirements and power grid law represents a systemic infrastructure vulnerability that regulators will likely address through new statutes, potentially affecting data center siting, insurance, and financing within 2-3 years"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Why You Can\u2019t Unplug a Rogue AI"
+    },
+    {
       "id": "c425653b",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22749,17 +22875,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 133
+      "count": 134
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 523
+      "count": 526
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 488
+      "count": 491
     },
     {
       "name": "Fintech",
@@ -22777,5 +22903,5 @@
       "count": 30
     }
   ],
-  "lastUpdated": "2026-10-28T13:40:58.937244Z"
+  "lastUpdated": "2026-10-29T13:51:14.763095Z"
 }
