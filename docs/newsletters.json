@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "9d0d8c8a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-10-30",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Olivier Pailh\u00e8s, founder of cloud communications platform Aircall, has returned as CEO after a decade-long tenure, signaling renewed ambitions fueled by AI opportunities. The newsletter also highlights Yolo, a French startup addressing administrative burden for employees that has achieved profitability and secured marquee clients (L'Or\u00e9al, Sanofi, Engie) without external funding, while covering emerging regulatory compliance requirements (NIS 2, DORA, AI Act) that are reshaping enterprise software priorities.",
+      "keyTakeaways": [
+        "Founder return signals potential inflection point: Aircall's re-energized leadership under Pailh\u00e8s suggests the company is repositioning itself around AI capabilities, representing an opportunity to reassess the SaaS communications platform market consolidation trends",
+        "Bootstrapped profitability is gaining traction: Yolo's ability to generate revenue and attract enterprise customers without VC funding challenges conventional funding narratives and indicates strong B2B2C enterprise services models may require less capital than assumed",
+        "Regulatory compliance is becoming a venture-backed category: The convergence of NIS 2, DORA, and AI Act requirements is creating substantial demand for cybersecurity, governance, and AI compliance infrastructure startups\u2014a secular tailwind for RegTech and compliance-focused software investments"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "30.10 - Le patron historique d'Aircall est de retour"
+    },
+    {
+      "id": "ff746d39",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The US venture market faces potential disruption from midterm election outcomes, with AI representing 83% of VC deal value but vulnerable to regulatory changes. A Republican sweep would benefit defense tech while pressuring clean energy, while Democratic wins would support alternative energy investments. Additionally, the growing continuation vehicle market is eroding co-investors' fee-free economics that have been standard for 15-20 years, prompting new ILPA guidance on GP disclosure practices.",
+      "keyTakeaways": [
+        "AI concentration risk is acute: at 83% of US VC deal value, a restrictive policy environment or datacenter regulation could significantly reshape the venture market regardless of election outcome.",
+        "Co-investment economics are under pressure\u2014institutional investors are losing their hard-earned fee-free rights when portfolio companies transition into continuation vehicles, with most existing agreements containing no explicit protections for rolling into CVs.",
+        "Election outcomes will drive sector rotation: Republicans favor defense/defense-tech and headwinds for renewables; Democrats favor clean energy buildout, making geopolitical outcomes material for capital allocation strategies through 2028."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "VC election impact guide"
+    },
+    {
+      "id": "7b5fc5e5",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-10-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Big Tech's latest earnings reveal a critical inflection point for AI ROI: while cloud AI services show strong demand (Azure up 48%, Google Cloud revenue doubled), massive capital expenditures are straining profitability and free cash flow. Alphabet missed expectations despite $51.4B capex and saw Google Search growth decelerate from 19% to 12%, erasing $500B in market value, while Amazon's free cash flow swung to negative $42.4B amid $220B annual capex guidance, signaling the market is now scrutinizing whether AI infrastructure spending will ever generate sustainable returns.",
+      "keyTakeaways": [
+        "AI infrastructure spending has become unsustainable without clearer ROI visibility\u2014Amazon and Alphabet's disappointing results despite strong cloud revenue growth suggest the market is repricing AI investments and demanding proof of unit economics, not just top-line growth",
+        "Search and advertising monetization are under pressure as AI adoption accelerates, creating a secular threat to legacy high-margin business models; this could redirect venture capital toward AI applications that complement rather than cannibalize existing revenue streams",
+        "The capex arms race ($220B+ annually across hyperscalers) is creating a winner-take-most dynamic where only companies with massive balance sheets can compete, potentially consolidating AI infrastructure spending and limiting openings for specialized AI infrastructure startups in the near term"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Big Tech check"
+    },
+    {
+      "id": "c43c3607",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-30",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "U.S. data centers powered by fossil fuels are projected to emit 460 million metric tons of CO2 by 2030\u2014equivalent to Mexico's entire economy's emissions\u2014potentially erasing 15 years of U.S. electricity sector emissions gains. Meanwhile, General Matter, a nuclear enrichment startup backed by Peter Thiel and John Kerry, achieved a major regulatory milestone by having its NRC application accepted in half the typical time, positioning it to begin construction at a Kentucky Superfund site with licensing expected by 2027.",
+      "keyTakeaways": [
+        "AI infrastructure's carbon footprint poses a material climate reversal risk that could drive regulatory backlash and carbon pricing mechanisms\u2014investors should model compliance costs and potential carbon tax exposure for tech infrastructure companies.",
+        "Nuclear fuel enrichment represents an emerging venture opportunity with clear regulatory tailwinds; General Matter's accelerated NRC approval signals de-risking of the commercialization timeline for advanced nuclear support infrastructure.",
+        "Geopolitical energy policy shifts (Russian diesel bans, nuclear fuel supply chains) are reshaping energy infrastructure investment patterns and creating asymmetric opportunities in domestic clean energy alternatives and energy independence plays."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Emit M\u00e1s"
+    },
+    {
+      "id": "3ee0d265",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-29",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Formation Bio, a $1.7 billion biotech unicorn backed by a16z and Sequoia, raised a $600 million fund to tackle drug development inefficiencies\u2014positioning itself as a general partner despite being a startup rather than a traditional VC firm. Meanwhile, Weil Gotshal & Manges, once a top-9 global deal advisor, is dissolving after failing to maintain competitiveness despite $2 billion in annual revenue, illustrating how partner attrition can unravel even prestigious financial institutions.",
+      "keyTakeaways": [
+        "Formation Bio's fund structure\u2014with a biotech startup acting as GP to institutional LPs\u2014represents a new hybrid model that allows portfolio companies to raise capital without diluting existing shareholders, potentially reshaping how biotech development gets funded.",
+        "Formation's core thesis that CROs extract 30-50% excess margin through inefficient billing practices presents an arbitrage opportunity; successful execution could unlock significant value and attract copycats, signaling a shift in how clinical trial economics work.",
+        "Weil's collapse from #9 to outside top-25 in deal advisory despite doubling revenue suggests that in professional services, market share and prestige erode faster than financials decline\u2014a cautionary tale about talent retention and competitive positioning in knowledge-based businesses."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Weil winds down"
+    },
+    {
+      "id": "c4dfd71b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Peter Thiel-backed nuclear fuel startup has achieved a significant regulatory milestone, positioning it to begin commercial operations as early as 2029. The achievement represents meaningful progress in advanced nuclear technology development and regulatory approval pathways.",
+      "keyTakeaways": [
+        "Nuclear fuel technology backed by prominent venture capital (Thiel) is progressing through regulatory approval stages, suggesting investor confidence in commercialization timelines within the next 3-5 years",
+        "Early-stage nuclear ventures clearing regulatory hurdles create potential exit opportunities and validate the investability of advanced energy infrastructure in an increasingly favorable regulatory environment",
+        "This milestone reflects broader tailwinds in nuclear energy adoption driven by climate imperatives and energy security concerns, signaling potential sector-wide capital acceleration in advanced reactor and fuel technologies"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: Peter Thiel-Backed Nuclear Fuel Startup Hits a Key\r\n Regulatory Milestone"
+    },
+    {
+      "id": "82d1aa07",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-29",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Senate bipartisan permitting reform bill would significantly strengthen long-distance transmission infrastructure and crack down on utility monopoly power, addressing a major bottleneck for decarbonization. The legislation has cleared regulatory hurdles for nuclear startups like General Matter, a Peter Thiel-backed uranium enrichment company, while China is consolidating dominance in electrolyzer and green hydrogen markets similar to its solar and battery leadership.",
+      "keyTakeaways": [
+        "Permitting reform targeting utility monopolies represents a structural unlock for clean energy infrastructure investment, particularly in transmission assets where regulatory barriers have historically stifled capital deployment.",
+        "Nuclear fuel cycle startups like General Matter are advancing through regulatory approval, signaling emerging investment opportunities in advanced nuclear supply chains previously bottlenecked by federal permitting timelines.",
+        "China's emerging dominance in electrolyzer manufacturing mirrors its playbook in solar and batteries, creating a critical window for U.S. investors to support domestic green hydrogen infrastructure before market consolidation occurs."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: How Permitting Reform Would Fight Monopolies"
+    },
+    {
       "id": "fe2c548f",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22875,17 +23001,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 134
+      "count": 135
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 526
+      "count": 529
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 491
+      "count": 494
     },
     {
       "name": "Fintech",
@@ -22903,5 +23029,5 @@
       "count": 30
     }
   ],
-  "lastUpdated": "2026-10-29T13:51:14.763095Z"
+  "lastUpdated": "2026-10-30T13:43:34.636131Z"
 }
