@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "617b5353",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-10-31",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity funds from 2018-2021 vintages are showing a troubling disconnect between paper valuations and actual cash distributions to LPs, with distributed value ratios significantly lagging historical norms despite solid total valuations. Meanwhile, the venture capital industry can no longer rely on a traditional IPO backlog to return capital\u201475% of the 2023 IPO-ready companies have raised new funding instead, with major exits like Databricks and Scale AI paying out investors through private transactions rather than public offerings.",
+      "keyTakeaways": [
+        "PE middle-market LPs should scrutinize the DPI-to-TVPI ratio as a red flag: 2019 vintage funds show only 0.57x distributed value at year 7 versus 1.14x for 2015 vintages, signaling extended holding periods and exit delays that will limit near-term distributions.",
+        "The $300 billion PE maturity wall approaching for portfolio companies will force GPs into difficult refinancing or restructuring decisions, potentially triggering asset write-downs that could narrow the valuation-to-distribution gap downward rather than upward.",
+        "VC investors should abandon assumptions about IPO-driven LP returns: only 53 of 254 IPO-ready companies actually listed by end of 2025, while private secondary markets and continuation funds are becoming the primary exit mechanism for early-stage capital."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "PE's paper gains aren't reaching LPs"
+    },
+    {
+      "id": "091a85e8",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-10-30",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "IBM achieved a significant quantum computing milestone by connecting two quantum chips using meter-long aluminum cables, moving the industry closer to scaling from ~100 qubits to thousands needed for practical quantum advantage. The newsletter also covers major developments across deep tech including trillion-parameter AI model deployments from Cerebras and Mistral, a US-made laptop collaboration between Anduril and Qualcomm, and OpenAI solving a million-dollar quantum mathematics problem that had eluded human researchers.",
+      "keyTakeaways": [
+        "IBM's quantum chip linking demonstration signals the transition from lab-scale quantum systems to engineered, interconnected quantum processors\u2014a critical inflection point for investors betting on quantum computing commercialization timelines.",
+        "The convergence of quantum computing breakthroughs, trillion-parameter AI model deployments, and US-focused semiconductor manufacturing (BlueChip laptop) reflects renewed strategic focus on deep tech infrastructure with national security implications, likely driving government R&D funding and corporate partnerships.",
+        "The cluster of announcements spanning quantum, AI, aerospace, and defense suggests deep tech is moving from theoretical milestones to engineering-scale deployment, favoring well-capitalized companies like IBM, Anduril, and OpenAI while creating acquisition targets in specialized components and software."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 186: IBM links quantum chips in major milestone"
+    },
+    {
+      "id": "48ab2639",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-10-30",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The Albertsons-Kroger merger dispute could reshape how deal agreements are structured, with Albertsons seeking $9.3 billion in damages for alleged regulatory failures. Meanwhile, DoorDash's acquisition of Instacart five years later at a lower valuation highlights how regulatory shifts and competitive dynamics from Amazon and Walmart have altered the grocery delivery landscape. Salesforce's acquisition of defense tech startup Rune Technologies signals major tech company interest in Pentagon spending as DOD seeks $1.1-1.5 trillion in new defense budgets.",
+      "keyTakeaways": [
+        "Future M&A agreements may require explicit divestiture plans and language limiting financial remedies to termination fees if regulatory approval fails, directly impacting deal structure and risk allocation for both buyers and sellers.",
+        "Instacart's pre-IPO valuation drop from $39 billion to its current DoorDash acquisition price reflects how regulatory environment shifts and new competitive entrants can crater exit multiples even as the company IPOs\u2014a cautionary tale for portfolio companies in regulated sectors.",
+        "Defense tech represents an emerging acquisition target class for major software companies, with Salesforce's 80% YoY defense business growth and $5.6 billion Army contract signaling a secular shift toward consolidation in the $1+ trillion Pentagon spending market."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Grocery grievance"
+    },
+    {
       "id": "9d0d8c8a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -22999,14 +23053,19 @@
   ],
   "themes": [
     {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 531
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 31
+    },
+    {
       "name": "European VC",
       "color": "#059669",
       "count": 135
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 529
     },
     {
       "name": "Climate & Energy",
@@ -23022,12 +23081,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 37
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 30
     }
   ],
-  "lastUpdated": "2026-10-30T13:43:34.636131Z"
+  "lastUpdated": "2026-10-31T13:12:02.896468Z"
 }
