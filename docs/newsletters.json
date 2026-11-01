@@ -1,6 +1,78 @@
 {
   "newsletters": [
     {
+      "id": "15c82fe0",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-01",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity-backed CEOs face unprecedented scrutiny and shorter tenures as PE sponsors struggle to execute value creation in a higher interest rate environment. With 58% of companies acquired between 2018-2021 still held by original acquirers and distributions to LPs dried up, PE firms are shifting from passive financial engineering to hands-on operational management, replacing underperforming executives faster than historical norms and implementing granular performance metrics rather than broad revenue targets.",
+      "keyTakeaways": [
+        "PE sponsors are abandoning patience with underperforming CEOs\u2014early terminations within 12-18 months are becoming more common as firms prioritize specific operational metrics over traditional business growth targets, signaling a fundamental shift in portfolio management strategy.",
+        "The capital allocation implication: PE firms must now invest significantly in CEO assessment, retention, and coaching capabilities, effectively shifting fees and resources from distribution focus to operational value creation in extended hold periods.",
+        "Macro trend: the interest rate regime change since 2022 has broken the traditional PE playbook (cheap debt + rising market exits), forcing the industry to develop genuine operational expertise rather than relying on financial arbitrage, which has structural implications for PE fund economics and LP returns over the next 3-5 years."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "The struggles of the PE-backed CEO"
+    },
+    {
+      "id": "57e8d572",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-01",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The fintech sector faces mounting operational and regulatory challenges, exemplified by Binance suffering a $6.36 billion hack and Wise restricting customer accounts without notice, including the newsletter author's own account. An Eighth Circuit ruling has reopened litigation around debit card fee regulations, threatening the economic model of many fintech players. Meanwhile, major fintech companies like Chime and Increase are acquiring traditional banks, signaling a potential shift away from the sponsor bank model that has defined fintech infrastructure for the past decade.",
+      "keyTakeaways": [
+        "Security breaches at major crypto/fintech platforms and unexplained account restrictions create existential trust issues that could accelerate regulatory crackdowns and force consolidation among smaller players lacking robust compliance infrastructure.",
+        "The sponsor bank model is breaking down as larger fintechs acquire their own banking licenses\u2014a capital-intensive pivot that favors well-funded players and raises questions about whether the original fintech arbitrage (avoiding banking regulations) has become economically unsustainable.",
+        "Regulatory headwinds (debit card fee limits, crypto transaction monitoring, 'debanking' practices) are materializing simultaneously, suggesting fintech margins will compress significantly and investment thesis around disruption-via-regulatory-arbitrage may need recalibration."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 8,
+      "originalTitle": "I Never Thought It Would Happen To Me"
+    },
+    {
+      "id": "1eb3a9ed",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-10-31",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Brett King, futurist and author of the forthcoming 'Bank 5.0: The Rise of the Agentic Bank,' discusses how autonomous AI agents will reshape banking infrastructure and commerce. The interview explores technology adoption patterns across geographies, the economics of payment systems, and how traditional banks dependent on branches must adapt to a machine-to-machine economy.",
+      "keyTakeaways": [
+        "Agentic commerce represents a fundamental shift in banking architecture\u2014investors should monitor how incumbent banks and fintech players position themselves for autonomous transaction ecosystems rather than human-initiated workflows.",
+        "Geographic and payment infrastructure fragmentation (cash, checks, regional adoption rates) creates both barriers and opportunities for regional bank consolidation and payment modernization investments.",
+        "Traditional branch-dependent banks face existential pressure; capital will likely flow toward platforms enabling API-first, agent-ready infrastructure rather than legacy customer service models."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 50,
+      "originalTitle": "Interview: Brett King on Bank 5.0 & the Future of Banking"
+    },
+    {
+      "id": "ca2e28c3",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-10-31",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA) permitting reform bill is advancing through the Senate with significant implications for clean energy infrastructure. The legislation's transmission provisions have broad support for revolutionizing long-distance power lines critical to climate goals, but its \"Project Certainty\" provisions are raising environmental concerns by potentially restricting future presidents' ability to regulate wind energy. Meanwhile, public support for data centers shows early signs of recovery after consistent decline, and China has captured dominant market share in electrolyzer production despite U.S. industrial policy efforts.",
+      "keyTakeaways": [
+        "BAAJA's transmission section represents a major regulatory breakthrough with near-universal support for accelerating long-distance infrastructure\u2014investors in grid modernization, transmission equipment, and renewable energy developers should monitor Senate deliberations as passage could unlock significant capital deployment.",
+        "The bill's Project Certainty provisions create long-term policy uncertainty by potentially constraining regulatory flexibility; investors in wind energy and politically-sensitive clean tech should assess whether these protections reduce regulatory risk or create future political backlash.",
+        "China's dominance in electrolyzer manufacturing mirrors the solar panel and battery market consolidation pattern\u2014U.S. clean hydrogen and fuel cell investors face intensifying competition and may need to focus on differentiation, government support mechanisms, and domestic manufacturing incentives to remain competitive."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "617b5353",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -23055,7 +23127,17 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 531
+      "count": 532
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 56
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 495
     },
     {
       "name": "Deep Tech & Science",
@@ -23068,20 +23150,10 @@
       "count": 135
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 494
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 54
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 37
     }
   ],
-  "lastUpdated": "2026-10-31T13:12:02.896468Z"
+  "lastUpdated": "2026-11-01T13:55:32.806239Z"
 }
