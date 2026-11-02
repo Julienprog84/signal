@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "c538df92",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-02",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Auriga Partners launched Auriga Cyber Ventures II, an \u20ac80 million fund targeting early-stage European cybersecurity startups from pre-seed to Series A, with plans to raise up to \u20ac120 million total. French tech startups raised \u20ac41.2 million this week with AI companies capturing 91.5% of funding (\u20ac37.7 million across 6 startups), signaling concentrated investor appetite in the AI sector despite overall fundraising volume declining sixfold week-over-week.",
+      "keyTakeaways": [
+        "Cybersecurity remains a dedicated capital pool in Europe with substantial ticket sizes (\u20ac80-120M fund), suggesting VCs view it as a defensible, regulatory-driven market distinct from the current AI funding concentration.",
+        "AI dominance in French fundraising (91.5% of capital) indicates potential capital scarcity for non-AI European deeptech and growth-stage companies, creating competitive pressure for founders outside the AI narrative.",
+        "Regulatory compliance frameworks (NIS 2, REC, DORA) are becoming governance imperatives rather than technical considerations, creating tailwinds for cybersecurity and compliance-focused software vendors across European enterprises."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "02.11 - Anthony Bourbon : nouvel \u00e9pisode dans sa bataille face \u00e0 un concurrent de Blast"
+    },
+    {
+      "id": "64ca93ad",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Megafunds' dominance in private equity fundraising is eroding as mid-market funds ($1-5B) captured 40% of capital raised in the first nine months of 2026, up from 32% in 2025, driven by superior performance with top-decile mid-market funds posting 21.1% IRR versus 13.9% for megafunds in 2021-vintage vehicles. Meanwhile, biopharma exit activity surged in 2026 with $15.3B in Q3 exits alone\u2014already 1.8x the full-year 2025 total\u2014as Big Pharma aggressively acquires VC-backed companies at record median valuations near $820M to address patent cliff risks, with M&A accounting for 63% of exits.",
+      "keyTakeaways": [
+        "Mid-market PE funds are outperforming megafunds significantly and capturing increasing LP capital; investors should reassess allocation toward $1-5B fund managers who can acquire assets at lower multiples and expand margins more effectively",
+        "Biopharma M&A has become the primary exit mechanism for VC investors as IPO windows remain inconsistent; the patent cliff driving Big Pharma acquisitions represents a structural tailwind for VC-backed biotech exits through at least 2027",
+        "Anthropic's upcoming IPO will establish critical price transparency for private AI companies, potentially reshaping valuation expectations across the entire private AI market and affecting both current VC returns and future fundraising dynamics"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Megafunds falter"
+    },
+    {
+      "id": "5e663803",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Faire, a $5.2 billion wholesale marketplace connecting independent retailers and brands, is targeting an IPO within the next 12 months after deliberately restructuring its business model. The company cut its peak valuation of $12.6 billion in half by prioritizing unit economics and customer retention over vanity metrics, achieving $750 million in annualized revenue (up 49% YoY) and breaking even on EBITDA for the first time.",
+      "keyTakeaways": [
+        "Faire's IPO strategy validates a shift from growth-at-all-costs to sustainable unit economics\u2014a discipline that could influence how late-stage B2B marketplaces prepare for public markets and how investors evaluate pre-IPO SaaS and marketplace companies going forward.",
+        "The company's deliberate contraction (cutting brands, reducing customer acquisition burn) while growing revenue 49% demonstrates that profitable growth is achievable in marketplace models, offering a blueprint for investors reassessing post-2022 valuations and founder discipline.",
+        "The wholesale marketplace category, historically dominated by physical trade shows, is consolidating around digital platforms; Faire's recovery signals institutional confidence in vertical marketplaces that serve SMBs, potentially opening capital allocation opportunities in adjacent B2B commerce segments."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Faire\u2019s fix"
+    },
+    {
+      "id": "b17266f6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Senate permitting reform bill (Bipartisan American Affordability and Jobs Act) would likely result in net carbon neutrality or modest emissions reductions by 2040, according to analysis by Rhodium Group, as benefits from accelerated renewable energy deployment offset increased natural gas pipeline permitting. China has doubled hydrogen investments in the first nine months of 2026 and is consolidating control over electrolyzer supply chains, a critical technology for hydrogen production.",
+      "keyTakeaways": [
+        "Permitting reform creates a wash on climate but unlocks 200+ gigawatts of clean energy capacity and reduces annual energy bills by $78\u2014investors should monitor execution risk on transmission buildout versus pipeline expansion",
+        "China's doubling of hydrogen investments and growing electrolyzer dominance signals the sector is moving from experimental to deployment phase; Western companies face urgent need to build competing supply chains before Chinese firms lock in market share",
+        "Global energy infrastructure is at an inflection point where policy enablement (permitting reform) and industrial capacity (hydrogen, electrolyzers) are converging\u2014this creates both opportunity in clean tech deployment and risk in legacy fuel infrastructure"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Neutral, at Worst"
+    },
+    {
+      "id": "ca1ca2ad",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-02",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic updated its IPO filing with Q3 financials while OpenAI reportedly cut its fundraising target from $30 billion to $20 billion, signaling potential cooling in frontier AI financing. In a shocking turn, OPay priced its IPO at the bottom of its range but withdrew before trading began, citing a regulatory inquiry in an immaterial jurisdiction\u2014raising questions about whether this was a strategic retreat amid weak demand. Meanwhile, Marvell Technology announced a $115 billion acquisition of Lumentum in the largest tech merger ever, reflecting continued confidence in AI data center infrastructure despite broader market pullback.",
+      "keyTakeaways": [
+        "AI company IPO and fundraising momentum may be stalling: Anthropic's need to update filings and OpenAI's $10 billion reduction in fundraising targets suggest frontier labs are facing tougher capital markets than anticipated, warranting caution on AI valuations.",
+        "OPay's IPO withdrawal sets troubling precedent and signals either demand weakness or serious undisclosed legal risk\u2014investors should scrutinize the 'immaterial jurisdiction' claim and watch for similar strategic withdrawals in emerging markets fintech.",
+        "The $115 billion Marvell-Lumentum merger validates the AI infrastructure play thesis and suggests large-cap tech is consolidating around proven data center tailwinds, even as early-stage VC funding appears to be normalizing."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: IP-Uh-Oh"
+    },
+    {
       "id": "15c82fe0",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -23125,9 +23215,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 136
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 532
+      "count": 535
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 496
     },
     {
       "name": "Fintech",
@@ -23135,19 +23235,9 @@
       "count": 56
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 495
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 31
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 135
     },
     {
       "name": "Strategy & Thesis",
@@ -23155,5 +23245,5 @@
       "count": 37
     }
   ],
-  "lastUpdated": "2026-11-01T13:55:32.806239Z"
+  "lastUpdated": "2026-11-02T16:41:53.879299Z"
 }
