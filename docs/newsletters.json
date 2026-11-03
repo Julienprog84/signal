@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "96d6710c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-03",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A European VC-focused newsletter featuring an interview with Laetitia Carle, CEO of Greenly (a climate tech company), profiling FDJ UNITED Ventures as an emerging investor, and analyzing the competitive dynamics of AI-enabled startup creation. The issue highlights Yolo, a bootstrapped French startup addressing employee wellness through administrative task outsourcing, which has achieved profitability and secured enterprise clients including L'Or\u00e9al, Sanofi, and Engie without external funding.",
+      "keyTakeaways": [
+        "Profitability without venture capital is achievable in B2B2C models targeting enterprise HR solutions, as demonstrated by Yolo's path to revenue with marquee corporate clients\u2014suggesting founders should validate unit economics before pursuing dilutive rounds.",
+        "FDJ UNITED Ventures' profiling indicates consolidation and diversification in European VC, where traditional corporate-backed funds are increasingly competing with dedicated climate tech and fintech specialists for deal flow.",
+        "AI commoditization of product development shifts competitive advantage from speed of build to execution quality, founding team dynamics, and market penetration\u2014implying VC thesis around founder pairs and go-to-market edge rather than pure technical capability."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 6,
+      "originalTitle": "03.11 - Les rencontres qui ont men\u00e9 Laetitia Carle \u00e0 la t\u00eate de Greenly"
+    },
+    {
+      "id": "32b93871",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Venture capital's anticipated IPO backlog is largely a myth, with 75% of previously exit-ready companies having raised new funding since 2023, often at higher valuations, while only 53 of 254 predicted 2025 IPO candidates actually went public. Meanwhile, the AI infrastructure boom is channeling $64.4 billion into data center-adjacent investments across gas pipelines, fire suppression, and logistics, while private equity is aggressively deploying capital into European B2B events businesses valued for their AI-resistance and pricing power.",
+      "keyTakeaways": [
+        "Don't expect a wave of delayed IPOs when markets reopen\u2014most unicorns have already recapitalized at higher valuations and shifted their exit timelines, fundamentally changing LP return expectations",
+        "The real capital flows in AI aren't going to pure-play software companies but to infrastructure enablers like data center services, energy, and logistics, creating a 37x increase in investment since 2016",
+        "Defensive, recurring-revenue business models in event services are outperforming disruption-exposed sectors, with PE willing to pay premium valuations for market-leading properties with pricing power and customer loyalty"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The IPO backlog is a myth"
+    },
+    {
+      "id": "cddec73e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Gas prices have hit record highs during Trump's second term at $4.17 per gallon on November 2, 2026, exceeding Biden-era peaks amid geopolitical tensions, while OpenAI announces its 'grid protectors program' to make all data centers responsive to grid conditions, positioning AI infrastructure as a stabilizing asset rather than a burden on power systems. Environmental groups are challenging the Trump administration's rollback of EPA carbon emission restrictions on power plants, setting up a major regulatory battle over clean energy policy.",
+      "keyTakeaways": [
+        "OpenAI's grid flexibility initiative represents a significant business model shift that could unlock faster data center deployment by converting regulatory/community opposition into competitive advantage\u2014investors should watch for similar commitments from other hyperscalers like Meta and Microsoft.",
+        "Volatile oil markets tied to Iran peace negotiations and Persian Gulf tensions create timing risk for energy infrastructure investments; WTI dropping to $96/barrel signals potential margin compression for traditional energy producers.",
+        "The Trump administration's EPA rollback of power plant emissions rules is being actively challenged by environmental groups, creating legal and policy uncertainty that will shape long-term energy infrastructure investment decisions and renewable energy competitiveness through 2026-2027."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Pump and Trump"
+    },
+    {
+      "id": "883d4be6",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Castelion, a $13 billion defense startup founded by three ex-SpaceX executives in 2022, is racing to close America's hypersonics gap by producing low-cost, scalable hypersonic missiles that can travel at Mach 5 or faster. Despite initial skepticism from Pentagon officials, the company has secured a notable U.S. Navy customer and program of record, positioning it as a leading defense tech upstart amid intensifying geopolitical pressure from China and Russia's existing hypersonic capabilities.",
+      "keyTakeaways": [
+        "Castelion's $13 billion valuation and Navy contract represent significant market validation for a defense startup built on manufacturing and cost-optimization expertise rather than pure R&D, suggesting investors should monitor execution risk as the company scales production in 2027.",
+        "The company's founders leveraged SpaceX's operational playbook for rapid production and cost reduction to tackle a problem that defense incumbents have failed to solve despite billions in spending, indicating that startup models can outpace legacy defense contractors on manufacturing efficiency.",
+        "The hypersonics sector represents a critical national security gap driving urgent capital deployment and government partnerships, creating sustained tailwinds for well-executed defense tech companies but also regulatory and geopolitical concentration risk for portfolio exposure."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "Inside Castelion"
+    },
+    {
+      "id": "332691c8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "New modeling analysis by the Rhodium Group concludes that the BAAJA (Bolstering American Infrastructure and Jobs Act) permitting bill would likely reduce emissions rather than increase them, even under worst-case scenarios. This finding addresses a key political concern that had previously stalled the legislation's passage, potentially removing a major obstacle to streamlined energy infrastructure permitting.",
+      "keyTakeaways": [
+        "The BAAJA permitting bill has cleared a significant political hurdle with credible third-party analysis showing emission reductions are highly likely, making passage more probable and potentially accelerating clean energy infrastructure deployment timelines.",
+        "Investors in renewable energy, grid modernization, and transmission infrastructure companies should track BAAJA's legislative progress, as permitting streamlining could materially reduce project development costs and timelines.",
+        "Permitting reform represents a critical macro enabler for the energy transition\u2014faster, cheaper project approval directly impacts capital efficiency for climate tech and clean energy infrastructure investments across the entire sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Exclusive: New Modeling Finds Permitting Bill Would Likely Cut\r\n Emissions"
+    },
+    {
+      "id": "e2483182",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-02",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A bipartisan permitting reform bill (BAAJA) could increase transmission capacity additions by 167-262% annually compared to the past decade, according to a Rhodium Group analysis, with potential climate benefits that are neutral to positive depending on broader energy economy variables. The bill's streamlined environmental review process\u2014cutting federal transmission permitting timelines to match pipeline review speeds\u2014could accelerate grid modernization critical for renewable energy deployment, though the analysis may underestimate transmission benefits due to computational limitations in modeling the full U.S. grid network.",
+      "keyTakeaways": [
+        "Permitting reform represents a material opportunity for transmission infrastructure investors and renewable energy developers, with potential 2-3x acceleration in capacity deployment that could unlock billions in capital deployment over the next decade",
+        "The bill's climate impact hinges on macroeconomic variables like oil prices and energy demand, making it a hedge against commodity market volatility\u2014relevant for energy infrastructure funds and long-duration renewable portfolios",
+        "Infrastructure modernization bottlenecks are slowing decarbonization more than technology constraints; policy changes that reduce review timelines from 2x slower than pipeline projects to parity could unlock significant capital returns in grid transition plays"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: The Power Grid Irony"
+    },
+    {
       "id": "c538df92",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -23217,17 +23325,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 136
+      "count": 137
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 535
+      "count": 537
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 496
+      "count": 499
     },
     {
       "name": "Fintech",
@@ -23245,5 +23353,5 @@
       "count": 37
     }
   ],
-  "lastUpdated": "2026-11-02T16:41:53.879299Z"
+  "lastUpdated": "2026-11-03T14:45:44.573833Z"
 }
