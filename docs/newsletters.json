@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "6f43bff9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democrats have gained control of Georgia's Public Service Commission after securing three of five seats through a special election in 2025 and midterm victories in 2026. This shift in regulatory control over the state's energy commission could significantly influence Georgia's energy policy direction, particularly regarding renewable energy investments and utility regulation.",
+      "keyTakeaways": [
+        "Regulatory control of state energy commissions drives utility investment decisions; a Democratic-controlled Georgia PSC may accelerate renewable energy mandates and influence major projects like those involving Duke Energy, Georgia Power, and Southern Company subsidiaries operating in the state.",
+        "This represents a structural shift in energy policy that could affect capital allocation toward clean energy infrastructure in the Southeast and reshape utility cost-recovery mechanisms that impact investor returns.",
+        "State-level regulatory wins increasingly determine energy transition momentum; this Georgia development signals broader momentum for climate-aligned policies in traditionally conservative energy markets, affecting long-term utility asset valuations and renewable energy project viability."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Democrats Win Control of Georgia\u2019s Energy Regulator"
+    },
+    {
+      "id": "3f6c9e95",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-04",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Former BlaBlaCar employees Arthur Bertrand, Olivio Bugosen, and Louis Carron-Cabaret (ex-Japhy CTO) are launching Paco to acquire the long-distance bus routes BlaBlaCar is discontinuing, creating a direct succession play in European mobility. The newsletter also covers Gallium Defense raising \u20ac7.1M for drone detection radars, concerns from the Bank of France about AI valuation bubbles in American tech companies, and the evolution of CRM platforms toward agentic AI capabilities with insights from Splio's co-CEOs.",
+      "keyTakeaways": [
+        "Experienced mobility operators are identifying strategic exits by incumbents as acquisition targets\u2014Paco's founding team leverages insider knowledge of BlaBlaCar's bus operation to capture stranded customer bases and infrastructure, representing a lower-risk market entry versus greenfield startups.",
+        "European deep-tech is scaling defensively: Gallium Defense's \u20ac7.1M raise for mass-production drone detection demonstrates investor appetite for hardware solving urgent security needs, contrasting with AI enthusiasm and suggesting portfolio diversification toward tangible applications.",
+        "Regulatory and central bank skepticism toward AI valuations may constrain European fundraising if American tech stocks correct, creating a potential valuation reset and opportunity window for selective European AI infrastructure plays positioned as necessities rather than speculative bets."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "04.11 - Des anciens de BlaBlaCar lancent une startup pour reprendre les lignes de bus bient\u00f4t stopp\u00e9es par la plateforme de covoiturage"
+    },
+    {
+      "id": "7ffe1735",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI startups raised $407 billion in the first half of 2026, already surpassing all of 2025's $264.1 billion total, with capital heavily concentrated among a few mega-deals. Horizontal AI platforms captured 70.8% of deal value while representing just 9.9% of deal count, and exits reached a decade high of $391.1 billion, highlighted by Anthropic's $65 billion funding round.",
+      "keyTakeaways": [
+        "Capital concentration in AI is extreme: nine horizontal platform companies captured nearly $288 billion, signaling that returns will be driven by a handful of winners rather than distributed across a large portfolio.",
+        "The mega-deal trend has clear implications for late-stage valuations and step-ups\u2014investors should benchmark against the 10 largest Q2 deals and exits detailed in the report to assess valuation discipline and mark-to-market risks in their own holdings.",
+        "Exit velocity is accelerating with $391.1 billion in exits, suggesting the IPO window is opening; banking teams should monitor macro forces shaping AI IPO timing through 2026 to prepare for potential exits and refinancings."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "AI startups raised $407B in H1 2026. Here's where it's\r\n concentrated."
+    },
+    {
+      "id": "6ee78f6b",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "University of North Carolina's endowment achieved a 37.8% return in fiscal 2026, the highest among the 50 largest U.S. endowments, driven significantly by a $2 million SpaceX investment made through Founders Fund in 2009 that has since generated over $1 billion in holdings following SpaceX's June IPO at a $1.78 trillion valuation. The strong endowment performance across the sector\u2014averaging 26.3% returns versus 12% the prior year\u2014remains concentrated in a handful of companies like SpaceX and AI-linked businesses, highlighting the outsized impact of early-stage venture exposure on institutional returns.",
+      "keyTakeaways": [
+        "Early venture concentration in mega-winners like SpaceX can dramatically outperform broader portfolio returns: UNC's $2M investment from 2009 now represents more than half of the fund's 37.8% annual return, demonstrating the power of long-hold venture stakes through IPO events.",
+        "Endowment performance disparity is widening based on venture access\u2014funds without exposure to breakout companies like SpaceX and AI leaders are significantly underperforming, creating pressure on LPs to prioritize venture allocations and top-tier fund relationships.",
+        "The venture success remains highly concentrated rather than broad-based, suggesting endowments face ongoing allocation challenges; strong 2026 returns mask underlying structural risks if concentrated bets become a strategic dependency rather than fortunate outliers."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "SpaceX lifts  endowments\u2014especially  one"
+    },
+    {
+      "id": "3e960d64",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Reed Jobs's Yosemite venture firm has closed its second fund at $350 million, doubling its initial $200 million commitment to cancer-focused investments across startups and scientific grants. Rather than pursuing a cure, Jobs positions the firm's thesis around making cancer non-lethal through a portfolio approach combining early-stage venture stakes, philanthropic grants to universities, and partnerships with pharma LPs like Amgen and AbbVie, modeling the strategy on how AIDS transformed from fatal to manageable disease.",
+      "keyTakeaways": [
+        "Yosemite's dual-track model\u2014blending venture equity stakes with cheap philanthropic grants for early hypothesis testing\u2014offers a differentiated approach to de-risking biotech R&D before committing significant capital, suggesting potential for other health VCs to adopt similar philanthropic-venture hybrids.",
+        "The $350M fund size and blue-chip LP roster (John Doerr, MIT, Memorial Sloan Kettering, major pharma) signals institutional validation for single-disease-focus thesis, with explicit venture-scale return expectations indicating this is not purely philanthropic but profit-driven capital seeking exits.",
+        "Jobs's reframing of cancer as a chronic, manageable condition rather than a curable disease reflects a macro shift in biotech strategy toward combination therapies and companion diagnostics, mirroring successful precedents in HIV/AIDS and signaling where drug development capital will concentrate."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Making cancer non-lethal"
+    },
+    {
+      "id": "64db0c05",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democrats won control of Congress in the November 2026 midterms with historic victories in traditionally Republican states like Texas, Kansas, and South Carolina, positioning the party to advance clean energy policies including renewable energy tax credit restoration, new battery tax credits, and data center restrictions. The newsletter previews Democratic congressional investigations into the Trump administration's rollback of climate rules and clean energy funding, while noting that nine Republican representatives who publicly supported renewable energy tax credits lost reelection, suggesting voter demand for climate action transcends party lines.",
+      "keyTakeaways": [
+        "Democratic control of Congress signals accelerated deployment of renewable energy and battery storage incentives through restored and new tax credits, creating near-term capital deployment opportunities in wind, solar, and energy storage companies that benefited from previous IRA provisions.",
+        "Data center regulation emerges as a critical policy battleground, with Democrats targeting restrictions on new facilities\u2014investors should reassess exposure to hyperscaler infrastructure expansion plans and evaluate energy companies positioned to supply alternative power sources for computing.",
+        "The electoral rejection of Republicans who backed clean energy tax credits indicates bipartisan voter support for climate policy, suggesting renewable energy investments face lower regulatory risk under Democratic governance but may face volatility if political control shifts again."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Democrats Shellack"
+    },
+    {
+      "id": "0a2f21fc",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-03",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Prediction markets like Kalshi and Polymarket face a credibility test in today's midterm elections, with their models currently showing a 75% probability of Democratic Congressional sweep. Meanwhile, Carl Icahn's CVR Energy is acquiring two U.S. refineries and a marketing business from Marathon Petroleum for $4.2 billion, capitalizing on elevated refining margins driven by geopolitical supply constraints. The venture capital market remains robust, with notable fundings including Applied Compute raising $350 million at a $3.25 billion valuation for custom AI models and Ornn securing $150 million in Series A funding for compute trading.",
+      "keyTakeaways": [
+        "Prediction market legitimacy hinges on electoral accuracy\u2014a Republican win in either chamber would align them with discredited traditional pollsters despite their 75% confidence in a Democratic sweep, while a Democratic victory cements their credibility advantage over legacy polling.",
+        "Energy infrastructure consolidation is accelerating: refining capacity constraints from geopolitical conflicts are driving M&A at attractive margins, suggesting significant value capture opportunities for operators willing to deploy capital in traditional energy assets despite energy transition headwinds.",
+        "AI infrastructure and compute remain hyper-capitalized with massive valuations (Applied Compute at $3.25B on $350M raise, Ornn potentially north of $1B), signaling investor conviction that enterprise AI infrastructure will be a durable winner regardless of near-term model commoditization concerns."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Midterm predictions"
+    },
+    {
+      "id": "f7bbd4da",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-11-03",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Anthropic's S1 filing reveals actual GAAP revenue numbers that largely validate previously leaked figures, but the filing functions as a Rorschach test where investors can cherry-pick narratives around customer concentration, debt obligations ($1 trillion in future commitments), governance complexity, and circular revenue dynamics with hyperscaler customers. Simultaneously, AI markets are experiencing a correction driven by scaling capex concerns, with evidence appearing across multiple tech earnings including Google's AI Overview revenue impact, Intel's miss, Amazon's elevated capex guidance, and OpenAI's reduced fundraising round from $30 billion at $1.4 trillion valuation.",
+      "keyTakeaways": [
+        "Anthropic's unit economics lack predictive value as a one-time snapshot, but the $1 trillion in future infrastructure commitments and complex seven-founder shareholder structure raise material questions about capital efficiency and governance sustainability in AI labs.",
+        "The bipolar sentiment in AI markets\u2014simultaneously celebrating growth metrics while fearing overvaluation\u2014is creating a correction phase where investors should scrutinize capex-to-revenue ratios and cash flow sustainability rather than headline growth numbers.",
+        "The interconnection between hyperscalers as customers, suppliers, shareholders, and competitors (evident in Meta's $95B equity raise with chip manufacturers taking stakes) creates unprecedented circularity risk and governance complexity that traditional valuation models may not adequately price."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 667"
+    },
+    {
+      "id": "bc40519f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "As Americans vote in the 2026 midterm elections, energy and climate policy hangs in the balance with particular focus on electricity costs, which have surged faster than inflation over the past year despite Trump's 2024 promise to cut power bills in half. Key races to watch include battleground House districts with the highest power bill increases, seven critical state races where climate and energy policy could shift significantly, and unexpected competitive races in traditionally conservative areas like Oklahoma's insurance commissioner race, driven by hail-related insurance crises.",
+      "keyTakeaways": [
+        "Rising electricity costs present a major political vulnerability and investment signal: power bills increasing faster than inflation create constituency pressure for energy policy reform, meaning whoever controls Congress will shape regulatory environments for utilities, renewables, and grid modernization projects over the next two years.",
+        "State-level elections may matter more than federal races for climate investors: 36 governorships and 6,000+ state legislative seats are up for grabs, and these races will determine state-by-state energy policy, renewable energy mandates, and utility regulation\u2014critical variables for clean energy companies and infrastructure funds.",
+        "Data center policy is emerging as an unexpected electoral flashpoint: communities are mobilizing against data center expansion (particularly visible in Kentucky races), signaling that local opposition could materially impact where hyperscalers and AI companies can build facilities, affecting real estate and energy infrastructure investment opportunities."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Weirdest Races to Watch Tonight"
+    },
+    {
+      "id": "4a46b306",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-03",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Following Democratic control of the House, lawmakers are prioritizing renewable energy tax credits restoration and investigating Energy Department funding cuts under the previous administration. This signals a potential policy reversal that could significantly impact clean energy investment incentives and federal energy research funding.",
+      "keyTakeaways": [
+        "Renewable tax credit restoration could unlock substantial capital deployment in solar, wind, and battery storage sectors by restoring investor certainty and improving project economics",
+        "Investigations into Energy Department funding cuts suggest potential budget reallocation toward clean energy R&D and deployment programs, benefiting early-stage climate tech and established renewable manufacturers",
+        "Policy shift creates a favorable regulatory environment for climate tech venture capital and public market valuations in renewable energy, energy efficiency, and grid modernization sectors"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Democrats Retake the House. Here\u2019s What They Plan to Do With It."
+    },
+    {
       "id": "96d6710c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -23323,19 +23503,24 @@
   ],
   "themes": [
     {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 503
+    },
+    {
       "name": "European VC",
       "color": "#059669",
-      "count": 137
+      "count": 138
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 537
+      "count": 541
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 499
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 38
     },
     {
       "name": "Fintech",
@@ -23346,12 +23531,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 31
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 37
     }
   ],
-  "lastUpdated": "2026-11-03T14:45:44.573833Z"
+  "lastUpdated": "2026-11-04T14:58:32.282856Z"
 }
