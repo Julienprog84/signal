@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "0563c2d5",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-05",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Station F releases its autumn Future 40 list highlighting 40 promising startups from its Paris campus ecosystem. The newsletter covers emerging trends including creator economy growth in France (where only 6% of creators earn over $30,000 annually), Belgian startup diversity through the Fundtruck initiative, and enterprise AI adoption among SMEs driven by incremental process improvements rather than transformational projects.",
+      "keyTakeaways": [
+        "Station F's Future 40 curation remains a key indicator of European early-stage startup quality and investment momentum in the French tech ecosystem, with multiple acceleration programs actively seeking cohorts for 2027",
+        "Creator economy monetization remains structurally challenged in France despite spectacular growth, presenting a gap for fintech and creator services solutions targeting the 94% of creators earning below subsistence levels",
+        "SME AI adoption is entering through low-friction use cases and departmental tools rather than enterprise-wide transformation, suggesting significant opportunity for vertical-specific or workflow-integrated AI platforms"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "05.11 - Future 40 : Station F d\u00e9voile sa nouvelle s\u00e9lection de ses meilleures p\u00e9pites"
+    },
+    {
+      "id": "acd8d16e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democrats' election victory halts Trump's pro-fossil fuel energy agenda, causing nuclear stocks to decline while solar stocks surge. Oil prices have plummeted below $100 per barrel amid Iran peace signals, while new data shows U.S. data centers account for 62-77% of American electricity demand growth, a problem unique to America compared to China, Europe, India, and the Middle East.",
+      "keyTakeaways": [
+        "Renewable energy investments are positioned to benefit substantially from the Democratic electoral victory, which reverses Trump administration policies favoring fossil fuels and creates uncertainty for nuclear energy sector valuations",
+        "Oil market volatility driven by geopolitical factors presents both risk and opportunity; falling crude prices below $100/barrel could ease energy cost pressures but complicate the investment thesis for energy transition companies relying on fossil fuel price differentials",
+        "U.S. data center electricity demand growth represents an outsized domestic opportunity for power infrastructure, grid modernization, and distributed energy solutions compared to international markets where residential/commercial demand dominates"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Blue His House With a Blue Little Window"
+    },
+    {
+      "id": "348d1c9e",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "AI startup investment is cooling after a record year, with global AI VC deal value plummeting 43.4% from Q2 to Q3 2026 and funding for frontier model developers like OpenAI and Anthropic collapsing from $201.8 billion to $27.6 billion. Sequoia Capital is restructuring by closing its London office and consolidating early-stage and growth teams, while OpenAI's struggle to raise its targeted $30 billion round at a lower valuation signals that mega-checks are becoming harder to secure as big tech players like Meta and Google compete aggressively on model pricing.",
+      "keyTakeaways": [
+        "AI funding momentum has reversed sharply\u2014Q3 2026 saw a 43.4% quarterly decline in AI VC deal value, marking the second consecutive quarterly drop from the $248 billion Q1 peak, with horizontal platforms and frontier labs taking the steepest hits",
+        "Even tier-one firms are restructuring: Sequoia's consolidation of early-stage and growth teams signals a shift away from the highly distributed early-stage model, suggesting major VCs are rightsizing for lower deal velocity and valuations",
+        "VC's recent outperformance over the S&P 500 (22.8% IRR at 1-year horizon) is entirely AI-driven and at risk\u2014if AI valuations normalize and markups fail to convert to realized exits, post-COVID vintage returns could face significant pressure"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "The top of AI is cracking"
+    },
+    {
+      "id": "f4e2727e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "The U.S. midterm elections delivered a decisive rejection of tech and data centers, with over 70% of Americans opposing data center construction and Democrats running anti-tech ads in over 130 races, yet outcomes remain paradoxical: California's billionaire tax appears dead despite tech industry opposition, stock markets rallied despite tech setbacks, and billionaire political spending of over $500 million proved ineffective at shifting voter sentiment against the AI boom.",
+      "keyTakeaways": [
+        "Critical infrastructure bottleneck ahead: AI companies like Anthropic face a major secular headwind as compute expansion through data centers faces fierce public opposition, creating potential supply constraints and cost pressures that could reshape AI venture economics and exit valuations.",
+        "Political spending inefficiency signals market repricing: The failure of $400M+ in tech billionaire donations to move election outcomes suggests market participants should discount future political risk mitigation strategies by tech founders and reassess VC/PE exposure to politically vulnerable infrastructure plays.",
+        "Macro policy divergence emerging: Selective regulatory wins (California billionaire tax defeat) amid broader anti-tech sentiment indicates fragmented rather than unified tech policy ahead, creating compliance complexity and state-by-state arbitrage opportunities for capital allocation decisions."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Midterm questions"
+    },
+    {
+      "id": "ec79831b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-04",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Democrats' election victories in key data center states like Texas, Georgia, and Ohio threaten to significantly constrain AI infrastructure growth, with Texas governor-elect Gina Hinojosa pledging to end data center tax breaks and potentially delaying 41% of planned U.S. data center capacity for 2028. Venture capitalists will need to recalibrate AI valuations and related bets in energy, healthcare, and defense tech as long-term growth projections become more realistic, while simultaneously facing reduced access to incoming Democratic policymakers after many top VCs backed Republicans this cycle. Meanwhile, CVS announced plans to split into two independent public companies by mid-2028, dismantling decades of vertical integration in healthcare\u2014a trend accelerating under Democrat-controlled government.",
+      "keyTakeaways": [
+        "AI infrastructure investments face material headwinds: regulatory delays affecting 41% of planned U.S. data center capacity by 2028 mean AI-adjacent bets in energy, healthcare, and defense should be repriced downward for longer development timelines and higher regulatory risk.",
+        "Political capital matters as much as financial capital: VCs who backed Republicans may struggle to influence incoming Democratic administrations on data center policy, reducing their ability to shape favorable regulatory messaging around AI infrastructure.",
+        "Healthcare vertical integration is reversing: the CVS split signals broader sector pressure against consolidation under Democratic governance, suggesting VCs should reassess healthcare portfolio companies betting on roll-up strategies."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: AI blues"
+    },
+    {
+      "id": "651d7d30",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-04",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "A fintech podcast recap covering three major October 2024 trends: Money20/20 conference discussions centered on agentic AI applications in banking, the OCC's report on 'debanking' practices with the host sharing a personal account of being restricted by Wise, and EarnIn's controversial legal argument that requesting customer tips constitutes protected First Amendment speech.",
+      "keyTakeaways": [
+        "Agentic AI has emerged as the dominant theme at Money20/20, signaling that fintech investors should prioritize companies developing autonomous AI systems for banking operations and customer interactions",
+        "The debanking phenomenon is gaining regulatory scrutiny through OCC oversight, creating compliance risk for fintech platforms and cross-border payment providers\u2014investors should assess how portfolio companies are positioned on de-risking customer relationships",
+        "Legal and regulatory challenges around consumer experience practices like tipping are intensifying, suggesting fintech business model assumptions around customer friction may face constitutional and policy challenges"
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 13,
+      "originalTitle": "Money20/20 Recap, \u201cDebanking,\u201d & Free Speech"
+    },
+    {
+      "id": "bc896647",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Data center operators are adopting 800 volt direct current (800 VDC) architecture as early as 2027, a shift led by NVIDIA and major computing equipment suppliers. This transition enables lower electrical current, simpler power distribution, and higher power density while reducing efficiency losses from transformers and inverters, allowing data centers to deploy more GPU capacity per rack with improved infrastructure efficiency.",
+      "keyTakeaways": [
+        "NVIDIA and equipment suppliers are driving a fundamental shift in data center electrical architecture that will become standard by 2027, creating near-term capital expenditure opportunities for infrastructure providers and electrical equipment manufacturers supporting this transition",
+        "The move to 800 VDC reduces conversion losses and enables denser GPU deployment, directly impacting the unit economics of AI and compute-intensive workloads\u2014a critical advantage as data center margins face pressure from rising power and cooling costs",
+        "This architectural change signals accelerating data center electrification and the growing importance of on-site power generation and microgrids, positioning energy infrastructure and distributed power companies as strategic partners in the next wave of hyperscale data center buildouts"
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Data centers are shifting to 800 VDC as early as 2027"
+    },
+    {
+      "id": "ec634a37",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A Democratic electoral sweep across key data center markets\u2014including gubernatorial victories in Georgia, Ohio, Texas, Iowa, and Nevada\u2014signals voter rejection of rapid AI infrastructure expansion without regulation. The election results are likely to reshape utility commission composition and state-level permitting processes, creating significant headwinds for hyperscale data center development in concentrated regions. Meanwhile, PJM's amended reliability proposal raises procurement cost caps from $325 to $555 per megawatt-day, shifting cost allocation debates that will determine how ratepayers absorb data center infrastructure expenses.",
+      "keyTakeaways": [
+        "Democratic control of state utility commissions in critical data center markets (Georgia, Ohio, Texas) will likely tighten permitting timelines and increase scrutiny of developer-friendly power agreements, creating execution risk for near-term hyperscale deployments in these regions.",
+        "The political momentum against data center development without community buy-in raises capital costs through extended permitting cycles and increased regulatory compliance\u2014investors should model longer development timelines and higher soft costs in concentrated markets.",
+        "PJM's higher procurement cost caps ($555 vs. $325/MW-day) may accelerate discussions about cost-sharing mechanisms; if ratepayers bear more data center infrastructure costs, political pressure will intensify for developers to fund their own generation or relocate to less regulated jurisdictions."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Data centers are political losers"
+    },
+    {
+      "id": "2cf16569",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-04",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democrats won a historic midterm victory on November 4, 2026, capturing at least 54 Senate seats and over 260 House seats\u2014a swing larger than 2006 or 2010\u2014ending Trump's climate denial era and ushering in a new Democratic energy and climate policy agenda. Key voter concerns included opposition to data centers (75% of Americans would oppose one in their town), gas prices, and the Iran War, with significant demographic shifts across Hispanic, young male, and non-college-educated white voters favoring Democrats. This represents a structural shift in Democratic coalition-building, driven by booming cities and suburbs rather than historical Southern polarization, signaling major policy changes ahead for renewable energy, permitting reform, and decarbonization.",
+      "keyTakeaways": [
+        "Clean energy and climate tech investors should prepare for a dramatically accelerated policy environment: Democrats now have the legislative power to pass major decarbonization initiatives, permitting reforms, and renewable energy deployment frameworks that were blocked under Trump.",
+        "Data center infrastructure faces significant headwinds with 75% public opposition; energy-intensive tech projects will require new permitting strategies, community benefit agreements, and alternative power solutions\u2014presenting opportunities for distributed energy, microgrids, and efficiency companies.",
+        "The Democratic majority reflects suburban and urban growth coalitions rather than traditional geographic power bases, suggesting climate and energy policy will prioritize urban electrification, transit, and clean energy over rural energy production\u2014a fundamental realignment for fossil fuel and traditional energy infrastructure sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Trump\u2019s Energy Revolution Is Over. Now a New Era Begins."
+    },
+    {
       "id": "6f43bff9",
       "title": "Heatmap",
       "source": "Heatmap News",
@@ -23503,19 +23665,24 @@
   ],
   "themes": [
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 503
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 138
+      "count": 139
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 507
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 541
+      "count": 544
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 57
     },
     {
       "name": "Strategy & Thesis",
@@ -23523,15 +23690,10 @@
       "count": 38
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 56
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 31
     }
   ],
-  "lastUpdated": "2026-11-04T14:58:32.282856Z"
+  "lastUpdated": "2026-11-05T15:02:42.035496Z"
 }
