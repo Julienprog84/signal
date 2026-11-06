@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "b32ccee4",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-06",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mistral, France's leading generative AI company, acquired SkipLabs, a French code generation startup, marking its fifth acquisition this year as it pursues aggressive external growth. The newsletter also reports that Sequoia Capital is closing its London office after six years, reflecting broader retreat by major US VCs from Europe, while Bpifrance launched a \u20ac75 million fund targeting non-deeptech industrial startups, signaling diversification beyond cutting-edge technology investments.",
+      "keyTakeaways": [
+        "Mistral's five acquisitions in 2024 demonstrate an M&A-driven growth strategy in generative AI, suggesting consolidation of the competitive landscape and potential focus on acquiring specialized capabilities rather than organic development",
+        "Sequoia's retreat from London signals cooling investor appetite for European tech despite record French fundraising (\u20ac614.7M in October), indicating selective geographic focus by top-tier US capital on higher-conviction markets",
+        "The \u20ac75M Bpifrance fund targeting industrial non-deeptech startups reflects growing institutional capital allocation toward traditional manufacturing innovation and reshoring, creating a distinct investment thesis separate from the AI/deeptech hype cycle"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "06.11 - Mistral s'offre une cinqui\u00e8me acquisition depuis le d\u00e9but de l'ann\u00e9e"
+    },
+    {
+      "id": "f0727b18",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Apollo Global Management is investing $350 million over two years to build data infrastructure and trading capabilities for private markets, aiming to replicate the transparency and liquidity of public exchanges. This reflects a broader industry trend by Blackstone and KKR to democratize alternatives through retail-focused evergreen funds. Meanwhile, prediction markets Kalshi and Polymarket outperformed traditional pollsters in midterm forecasting, though commercial trading volumes remain concentrated in sports betting rather than event prediction contracts.",
+      "keyTakeaways": [
+        "Apollo's $350M technology investment signals that infrastructure standardization is becoming a competitive moat in alternatives\u2014firms building transparent pricing and liquidity mechanisms may capture disproportionate retail capital flows",
+        "The push for private market democratization requires fundamental product retooling by institutional managers; sponsors should expect increasing fee pressure and performance transparency requirements as alternatives scale to retail",
+        "Prediction markets demonstrated real-time forecasting utility beating traditional polls, but current commercial adoption remains limited; this represents either an undervalued opportunity or a market awaiting regulatory clarity before institutional participation"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Apollo loves private market data"
+    },
+    {
+      "id": "cf133d8e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "JPMorgan's global M&A head Charlie Bouckaert predicts that private equity firms will be forced to pursue liquidity starting in the second half of 2027, driven by aging holdings, approaching refinancing deadlines, and LP pressure to return capital rather than by market strength. With a massive backlog of 33,853 unsold PE investments that would take over eight years to clear at current exit rates, sponsors will increasingly explore alternative exit structures like continuation funds and secondary deals alongside traditional sales, though overall M&A activity is expected to remain moderate rather than surge.",
+      "keyTakeaways": [
+        "PE exit activity will accelerate in H2 2027 not due to valuation improvement but forced by LP redemption demands and refinancing deadlines\u2014mark this timeline for exit strategy planning and secondary market opportunities",
+        "The massive PE inventory overhang (33,853 companies) creates both a supply shock risk and opportunity for strategic acquirers to negotiate better terms as sellers become less patient",
+        "Continuation funds and secondary transactions will become increasingly prevalent exit vehicles alongside traditional M&A, signaling a structural shift in how PE returns capital that impacts fund structuring and investor negotiation dynamics"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Private equity can\u2019t wait forever"
+    },
+    {
+      "id": "e9aafd53",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A $2.5 trillion selloff in AI and tech stocks follows Democratic electoral victories, with nearly half of proposed U.S. data centers facing regulatory headwinds in newly Democratic-controlled states like Texas. Meanwhile, Shell has bid $150 million for offshore oil licenses off Canada's Newfoundland and Labrador as major oil companies pursue new geographic opportunities, while permitting reform legislation maintains 66% voter support even after hearing environmental critiques.",
+      "keyTakeaways": [
+        "Political risk is repricing AI infrastructure: Democrats' wins have triggered massive tech selloffs, and data center development faces material regulatory risk in states with newly elected Democratic governors committed to moratoriums and restrictions.",
+        "Energy sector capital is rotating to new geographies: Major oil companies are diversifying exploration bets across Canada, Guyana, Venezuela, and Africa as traditional plays face political and regulatory uncertainty.",
+        "Permitting reform remains politically viable but narrowing: Voter support for the Bipartisan American Affordability and Jobs Act dropped from 79% to 66% after hearing environmental arguments, suggesting the legislative window is closing and fossil fuel provisions face mounting political friction."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Oil Canada!"
+    },
+    {
+      "id": "df05587e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-05",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "BC Partners abandoned a $300 million investment in LIV Golf after failing to secure player commitments, potentially paving the way for bankruptcy liquidation as Saudi Arabia's PIF withdraws support. Meanwhile, Zipline raised $1.5 billion at a $21.5 billion valuation for its drone delivery service, expanding its Walmart partnership to 300 additional sites, signaling growing investor confidence in last-mile logistics technology despite emerging regulatory headwinds against data center expansion.",
+      "keyTakeaways": [
+        "Equity versus cash compensation remains a critical deal-breaker in sports tech restructurings\u2014BC Partners' failure to align player incentives demonstrates that even well-capitalized sponsors cannot force value creation without participant buy-in on deal terms.",
+        "Regulatory arbitrage risks are material for international fintech: OPay's $304 million IPO collapse shows how undisclosed jurisdictional exposure (China-based R&D team) can trigger late-stage intervention from foreign regulators, potentially adding weeks or months to capital raises regardless of market conditions.",
+        "Data center restrictions are creating a vacuum for alternative infrastructure investment\u201444 of 45 ballot measures limiting data centers passed with 75% voter support, suggesting investor capital may redirect toward drone delivery, logistics networks, and edge computing solutions less exposed to local opposition."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Hole in none"
+    },
+    {
+      "id": "30ac270e",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Everyday Electric and The Brattle Group are presenting research showing that utility-scale virtual power plants (VPPs) can reduce residential rate increases by more than half, positioning VPPs as a near-term solution for state policymakers addressing energy affordability concerns. The December 9 webinar will provide a practical implementation guide for state-level VPP deployment, suggesting growing regulatory momentum and commercial opportunity in residential demand flexibility.",
+      "keyTakeaways": [
+        "VPP companies like Everyday Electric are gaining policy traction with quantifiable ROI claims (50%+ rate reduction potential), signaling a shift from pilot phase to scalable deployment across states seeking to manage cost pressures.",
+        "The emphasis on 'near-term' bill relief and state-level implementation urgency indicates accelerating regulatory support and potential for rapid customer acquisition in residential VPP markets.",
+        "Growing state regulator interest in VPPs as an alternative to traditional rate hikes reflects broader utility modernization demand and creates expansion opportunities for distributed energy software and aggregation platforms."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "State policymaker guide: How to lower household energy bills"
+    },
+    {
+      "id": "93bb1325",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-05",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Democrats' election victory on Tuesday is creating unexpected headwinds for utility companies despite broader market turmoil, as newly elected senators like Kansas Democrat Adam Hamilton are targeting utilities with proposals for competitive bidding on transmission projects\u2014potentially cutting costs by 20-30 percent. The newsletter highlights a shift in political attention toward public utility regulators and utility oversight, suggesting utilities face a tougher regulatory environment than they have in decades, even as Duke Energy and Southern Company initially gained ground on election day.",
+      "keyTakeaways": [
+        "Competitive bidding mandates for transmission projects could significantly compress utility margins and profitability; investors should expect increased regulatory scrutiny on contract awards across the sector, particularly for large infrastructure projects like the $493 million Evergy deal cited.",
+        "Utilities are experiencing a political vulnerability not seen in years\u2014Democratic control and heightened attention to public utility commission appointments create risk for traditional rate-base expansion models and may favor alternative transmission developers and competitive market structures.",
+        "This represents a structural shift favoring decentralized energy infrastructure, microgrids, and private renewable developers over vertically integrated monopolies; capital should rotate toward competitive transmission operators and clean energy developers who can win open bidding processes."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The Anti-Utility Moment"
+    },
+    {
       "id": "0563c2d5",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -23667,17 +23793,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 139
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 507
+      "count": 140
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 544
+      "count": 547
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 510
     },
     {
       "name": "Fintech",
@@ -23695,5 +23821,5 @@
       "count": 31
     }
   ],
-  "lastUpdated": "2026-11-05T15:02:42.035496Z"
+  "lastUpdated": "2026-11-06T14:42:39.938966Z"
 }
