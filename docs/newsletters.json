@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "8871055a",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-07",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "The VC market faces a deepening J-curve challenge as strong recent vintage IRRs (21.8% for 1-year) are driven primarily by portfolio markups rather than realized exits, creating vulnerability if the AI trade falters and markups cannot convert to realizations. Meanwhile, vertical AI applications are outperforming horizontal platforms on an exit basis, accounting for 56% of the top 50 AI exits in Q3 with 87.1% of disclosed exit value, despite horizontal platforms receiving larger aggregate deal value from megadeals.",
+      "keyTakeaways": [
+        "VC returns are artificially inflated by unrealized markups in AI portfolios\u2014if sentiment shifts and exits dry up, post-COVID vintages will significantly underperform, which LPs have already begun pricing into their allocation decisions.",
+        "Vertical AI applications are proving more attractive to strategic acquirers than horizontal platforms; they generated nearly 3x more deals (4,977 vs 1,773 on a trailing-12-month basis) and dominated exit value, signaling that niche, applied AI may be a safer investment thesis than betting on frontier model companies.",
+        "The AI investment landscape is showing stress signals: debt markets are cooling on the sector, political headwinds threaten infrastructure buildout, and expected valuations for exits like Anthropic's IPO have compressed significantly, creating systemic risk for concentrated VC portfolios."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "The VC J-curve has deepened"
+    },
+    {
+      "id": "36383d57",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-06",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private markets may be entering a correction lag following the Nasdaq's worst day since Trump's tariff announcements, with tech stocks down 4% over six months despite being up 6% year-to-date. The key question for investors is whether AI's transformational potential justifies current private tech valuations, with the upcoming Anthropic IPO serving as a critical bellwether for whether companies will cut valuation expectations. Notable deals include Shield AI's $2.5 billion in funding and debt for military drone technology, and CesiumAstro's $730 million Series D at a $4.5 billion valuation for space and defense communications.",
+      "keyTakeaways": [
+        "Monitor the Anthropic IPO roadshow starting in approximately one week as the definitive signal for private market valuation sentiment\u2014any material cuts to their IPO expectations could unlock deal negotiations that have stalled at inflated valuations.",
+        "The election outcome paradoxically increased retail investors' exposure to AI through 401(k) alternative investment vehicles and potential Trump Account stock donations precisely when some voters rejected AI acceleration policies, creating a potential valuation disconnect between public and private markets.",
+        "Defense and aerospace tech is attracting massive institutional capital (Blackstone structured equity, JPMorgan debt facilities), suggesting investors see geopolitical risk as a secular growth driver independent of AI sentiment or tariff cycles."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Blue light special"
+    },
+    {
+      "id": "630b2743",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-11-06",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Tissue engineering is advancing from theoretical concept to clinical reality, with companies like Matricelf developing personalized neural tissue transplants using patient-derived cells and hydrogels for spinal cord injuries affecting 310,000 Americans. The newsletter highlights breakthrough applications across deep tech including an AI agent performing autonomous brain surgery on a mouse for Exin Therapeutics, while also noting regulatory headwinds as US voters rejected data center expansions and significant funding rounds for frontier companies like Zipline ($1.5B for autonomous healthcare drone delivery) and CesiumAstro ($730M for satellite infrastructure).",
+      "keyTakeaways": [
+        "Tissue engineering represents a maturing investment thesis moving from R&D to commercialization\u2014Matricelf's personalized neural scaffolds target the 310,000-person spinal cord injury market, indicating significant TAM for engineered tissue products at clinical scale.",
+        "AI-driven drug discovery and autonomous surgical systems are operationalizing: Exin's AI agent independently selected gene therapy vectors, surgical targets, and dosing from spreadsheets and literature, suggesting automation of complex biotech workflows could reduce development timelines and costs substantially.",
+        "Infrastructure buildout faces political friction; data center rejection in ballot measures signals need for alternative compute strategies (satellite-based, distributed models), while drone delivery networks like Zipline's $1.5B raise indicate investor confidence in logistics automation as defensive hedges against AI compute centralization risks."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 187:Tissue Engineering Takes Shape"
+    },
+    {
+      "id": "1aba28ad",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Jane Kim, a progressive candidate, won the California Insurance Commissioner race, signaling potential support for single-payer wildfire insurance in the state. This electoral outcome suggests California may pursue a state-backed insurance model to address the catastrophic wildfire coverage crisis, where major insurers have exited the market and homeowners face skyrocketing premiums or inability to obtain coverage.",
+      "keyTakeaways": [
+        "A state-backed single-payer wildfire insurance model in California could fundamentally disrupt the private property insurance market, potentially reducing demand for private homeowners insurance policies and affecting insurers like State Farm, Allstate, and AXA that operate in the state.",
+        "This regulatory shift creates investment opportunities in climate risk mitigation technologies, construction materials for fire-resistant homes, and catastrophe bond structures designed to back state insurance programs, while creating headwinds for traditional insurance underwriters.",
+        "The broader macro implication is that climate-driven insurance market failures are pushing states toward public alternatives, signaling a structural shift in how catastrophic risks are priced and allocated in the economy."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "California Just Voted for Single-Payer Wildfire Insurance"
+    },
+    {
+      "id": "3cbdb45f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-06",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Following Democrats' historic midterm gains, including surprise Senate victories in Texas, Kansas, and South Carolina, the political landscape for climate and energy policy has fundamentally shifted. The newsletter highlights three major investment themes: data center regulation tightening dramatically (40 of 41 ballot measures restricting them passed), climate tech venture funding rebounding as Democrats gain congressional control, and renewed momentum for the Bipartisan American Affordability and Jobs Act permitting reform package.",
+      "keyTakeaways": [
+        "Data center sector faces unprecedented regulatory headwinds with 40 of 41 local ballot restrictions passing this week and a consistent acceleration of new local restrictions nationwide\u2014this represents a structural shift in operational costs and site selection for hyperscalers and infrastructure investors.",
+        "Climate tech venture capital is repositioning away from euphemistic 'defense-related' and 'AI-adjacent' framing toward explicit climate messaging, signaling investor confidence in a pro-climate policy environment and likely capital reallocation toward renewable energy, battery, and critical minerals companies.",
+        "Permitting reform for clean energy projects gains bipartisan momentum in a Democratic-controlled Congress, reducing project development timelines and creating opportunities across utility-scale renewable development, transmission infrastructure, and construction-stage clean energy businesses."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "b32ccee4",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -23791,19 +23881,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 140
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 547
+      "count": 549
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 32
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 510
+      "count": 512
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 140
     },
     {
       "name": "Fintech",
@@ -23814,12 +23909,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 38
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 31
     }
   ],
-  "lastUpdated": "2026-11-06T14:42:39.938966Z"
+  "lastUpdated": "2026-11-07T13:39:45.726566Z"
 }
