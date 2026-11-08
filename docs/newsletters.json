@@ -1,6 +1,24 @@
 {
   "newsletters": [
     {
+      "id": "c0fa4df9",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-08",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A growing trend of venture capitalists are simultaneously holding operating roles at portfolio companies while maintaining their investment positions, exemplified by leaders like Judith Dada (co-CEO of Langdock while senior partner at Visionaries Club) and Uwe Horstmann (CEO of Stark while GP at Project A). This dual-hat approach reflects both founder expectations for hands-on investor support beyond capital and VCs' desire to capture upside in high-growth companies, though the practice raises questions about conflicts of interest and focus.",
+      "keyTakeaways": [
+        "Nearly one-third of mid-to-top-level US VCs eventually join a portfolio company as operators, but the new trend eliminates this binary choice\u2014investors are now taking full-time operating roles without leaving their firms, suggesting heightened conviction in specific portfolio bets and founder pressure for deeper involvement.",
+        "Founders increasingly expect investors to provide strategic execution support beyond funding, creating demand for VCs' cross-portfolio pattern recognition and operational expertise, which could become a competitive differentiator for firms that formalize this dual-role structure.",
+        "This shift may signal a structural change in VC firm economics and GP incentive alignment, where returns increasingly depend on active operator-level involvement rather than passive board-level guidance, potentially requiring firms to reconsider GP compensation and LP expectations."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "VC's new fashion: wearing two hats"
+    },
+    {
       "id": "8871055a",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -23883,7 +23901,7 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 549
+      "count": 550
     },
     {
       "name": "Deep Tech & Science",
@@ -23911,5 +23929,5 @@
       "count": 38
     }
   ],
-  "lastUpdated": "2026-11-07T13:39:45.726566Z"
+  "lastUpdated": "2026-11-08T13:58:07.036427Z"
 }
