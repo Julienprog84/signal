@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "2cdd348c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-09",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Meta is conducting a voluntary departure plan in France affecting approximately 100 employees, representing nearly one-third of its local workforce, as part of a broader global restructuring prioritizing artificial intelligence investment. The newsletter also reports that Wall Street experienced significant tech stock declines due to concerns about massive AI investments and U.S. mid-term election results, and highlights Alta Ares, a French defense startup founded in 2024, securing its first NATO contract for anti-drone systems with volume production expected in 2027.",
+      "keyTakeaways": [
+        "Meta's aggressive workforce reduction in France signals accelerating resource reallocation toward AI\u2014a strategic signal that large tech companies are consolidating headcount while intensifying capital deployment in AI infrastructure and R&D, reshaping European tech employment patterns.",
+        "The sharp correction in U.S. tech valuations driven by AI investment concerns presents a recalibration moment for European VCs; capital allocation should focus on AI companies with defensible unit economics and clear near-term revenue paths rather than speculative infrastructure plays.",
+        "Alta Ares' NATO contract win demonstrates market validation for European deep-tech/defense startups and suggests geopolitical factors are driving sovereign capital allocation\u2014European defense and critical infrastructure tech may offer more stable growth trajectories than consumer-facing AI ventures facing margin pressure."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "09.11 - Meta va tailler dans ses effectifs en France"
+    },
+    {
+      "id": "215a0fdc",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Physical AI data collection has emerged as the most lucrative robotics business, with startups like Maxinsights projecting $250 million annualized run rates by supplying training data to robot developers. Physical AI startups have raised $2.1 billion in 2026, surpassing 2025's $1.4 billion, but the window is narrowing as deployed robots begin generating their own training data and the buyer pool remains tiny.",
+      "keyTakeaways": [
+        "Data collection infrastructure, not hardware manufacturing, is currently the revenue-generating opportunity in robotics\u2014Maxinsights grew from virtually no customers to $250M ARR, signaling a critical infrastructure gap that remains highly profitable but time-limited.",
+        "The physical AI data market faces structural headwinds: as robot deployment accelerates, proprietary training data capture will shift from specialized suppliers to end-users, compressing margins and eliminating the need for third-party data brokers within 2-3 years.",
+        "Industrial and manufacturing plays with diversified customer bases remain more resilient than specialized AI vendors\u2014Pritzker Private Capital's focus on \"make things and move things\" businesses with low-cost, high-value offerings suggests capital should favor resilient, non-commoditized industrial services over temporary data arbitrage plays."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Robotics\u2019 hottest business isn\u2019t  robots"
+    },
+    {
+      "id": "1612f310",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The UN's COP31 climate summit has begun in Turkey with a central focus on the '35x35' pledge to electrify 35% of global energy use by 2035, up from the current 21%, though projections suggest only 28% is likely achievable. The U.S. Senate updated its bipartisan permitting reform bill (BAAJA) to streamline transmission line construction and address tribal sovereignty concerns, with President Trump endorsing the legislation as critical for energy independence. Anthropic has secured a $3.4 billion investment, signaling major capital flows into AI infrastructure supporting climate and energy applications.",
+      "keyTakeaways": [
+        "The 'gap' between the 35x35 target (35% electrification by 2035) and realistic projections (28%) represents a $multi-trillion infrastructure opportunity for transmission, grid modernization, and renewable energy companies over the next decade.",
+        "BAAJA's revised permitting framework reduces project timelines for critical transmission infrastructure and renewable energy deployment, creating favorable conditions for utilities and clean energy developers to accelerate capital expenditure cycles.",
+        "Major AI investments like Anthropic's $3.4 billion round indicate institutional capital is flowing toward computational infrastructure that supports energy optimization, climate modeling, and grid management\u2014a sector tailwind for both AI and climate tech."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "BAAJA Blast"
+    },
+    {
+      "id": "f5ad04a1",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Bain Capital Ventures' Ajay Agarwal made an early contrarian bet on Kiva Systems in 2004 when robotics was out of favor, generating a 26.6x return after Amazon's $775 million acquisition. With robotics and physical AI startups raising $27.6 billion across 1,009 deals in 2025\u2014more than double 2024's total\u2014Agarwal believes the sector is entering a 'golden era,' evidenced by top-tier talent migration from SpaceX and Google DeepMind and strong early momentum in companies like TerraFirma.",
+      "keyTakeaways": [
+        "Early conviction in unsexy hardware can generate outsized returns: Bain's willingness to invest in Kiva when software-focused VCs passed enabled a 26.6x multiple, suggesting contrarian positioning in physical AI remains a viable strategy despite current crowding.",
+        "Physical AI funding has entered mainstream adoption phase: The doubling of robotics deal volume and capital in 2025 signals market inflection, but late-stage investors should focus on differentiated founders (SpaceX, DeepMind talent) and defensible use cases rather than chasing capital deployment trends.",
+        "The sector shift reflects structural talent reallocation: After 20 years of workflow software saturation, elite engineers are now prioritizing hardware and robotics, indicating a potential multi-decade reorientation of capital and engineering talent away from pure software\u2014this reshaping will benefit specialized hardware-focused VCs like Bain over generalist firms."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 6,
+      "originalTitle": "Bain Capital's early robot bet"
+    },
+    {
+      "id": "971e9b6b",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-09",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia CEO Jensen Huang's admitted romantic relationship with an alleged Chinese spy has triggered a 7% stock decline and raised national security concerns, yet the company's board retains confidence in his leadership, making him effectively too big to fire despite potential shareholder lawsuits and congressional scrutiny. Meanwhile, Canadian oil sands consolidation accelerated with Strathcona Resources agreeing to acquire Greenfire Resources for C$2.7-2.9 billion, creating the fourth-largest SAGD operator in Canada and signaling strong demand expectations in the energy sector.",
+      "keyTakeaways": [
+        "Nvidia's Huang represents extreme key-man risk in a mission-critical tech infrastructure company; investors should monitor board investigation outcomes and congressional hearings as potential catalysts for leadership changes or strategic shifts affecting the entire AI supply chain.",
+        "The Nvidia crisis could ripple through venture capital deployment tied to the AI trade, as uncertainty about leadership and national security restrictions may redirect strategic and venture funding previously flowing from Nvidia's chip revenue streams.",
+        "Canadian oil sands consolidation reflects bullish energy demand expectations post-election, with Waterous Energy Fund orchestrating deals as private capital bets on sustained fossil fuel demand despite climate pressures\u2014relevant for energy-focused LP allocations."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Too big to fire"
+    },
+    {
+      "id": "7082ceba",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Verse, a demand flexibility company, released analysis showing that 10 gigawatts of new data centers in Texas's ERCOT grid that bring their own power and participate in demand flexibility could save ratepayers $2.3 billion annually, or roughly $75 per household. The report frames demand flexibility as a solution to community backlash against data centers over rising utility costs, while highlighting that grid operators like ERCOT and SPP are incentivizing flexibility with accelerated interconnection pathways to offset $3 million-per-megawatt-per-month interconnection delay costs.",
+      "keyTakeaways": [
+        "Data center operators adopting bring-your-own-power (BYOP) models with demand flexibility can transform regulatory and community opposition into a competitive advantage, potentially unlocking faster grid connections and reduced project timelines.",
+        "The $2.3 billion annual savings projection suggests significant arbitrage opportunities for data centers and energy flexibility providers that can monetize demand response during peak pricing periods while improving grid stability.",
+        "Grid infrastructure constraints and interconnection backlogs are creating tailwinds for demand flexibility technologies and operators, positioning companies that solve this problem as critical infrastructure partners in the data center boom."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "For data centers, demand flexibility is a responsibility"
+    },
+    {
+      "id": "9bfdb833",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-08",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "The Office of the Comptroller of the Currency has released a 'super intelligence' framework to guide bank examiners in evaluating AI risks across banking operations including credit decisioning, payments, and fraud detection. The framework emphasizes that AI should not be treated as a separate risk category but rather as a modifier of existing risks like operational and compliance risks, with examiner focus on materiality and human oversight rather than technical sophistication.",
+      "keyTakeaways": [
+        "Regulators are taking a pragmatic, risk-based approach to AI supervision rather than imposing blanket technical requirements, meaning fintech and banking companies can deploy AI solutions without building separate compliance frameworks specifically for AI as long as existing risk management processes adequately cover AI-related impacts.",
+        "The OCC's de-emphasis on AI as a distinct risk category and alignment with the Federal Reserve's demotion of generative AI from formal model risk management (SR 26-2) signals regulatory clarity that reduces uncertainty for investors backing AI-enabled lending, payments, and fraud detection platforms.",
+        "Bank examiners will prioritize outcomes and human oversight over technological sophistication, creating competitive advantages for companies that can demonstrate robust governance and clear business rationale for AI deployment rather than those with the most advanced models."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "OCC Issues \u201cSuper Intelligence\u201d Framework for Bank Examiners"
+    },
+    {
       "id": "c0fa4df9",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -23899,9 +24025,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 141
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 550
+      "count": 553
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 514
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 58
     },
     {
       "name": "Deep Tech & Science",
@@ -23909,25 +24050,10 @@
       "count": 32
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 512
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 140
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 57
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 38
     }
   ],
-  "lastUpdated": "2026-11-08T13:58:07.036427Z"
+  "lastUpdated": "2026-11-09T16:59:31.099070Z"
 }
