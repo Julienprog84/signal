@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "7a17a0d5",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-10",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Web Summit 2026 will feature over 70,000 participants including 10,000 startups and 1,500 investors, with significant presence from Chinese tech giants like Tencent and Xiaomi alongside Chinese robotics and AI leaders. In related news, Pretto, a French online real estate brokerage platform, reached profitability in Q3 2026 after nine years through expansion of its independent broker network and AI-driven productivity gains.",
+      "keyTakeaways": [
+        "Chinese tech dominance at Europe's largest tech conference signals accelerating capital and talent flow from Asia to European startups; European VCs should expect intensified competition for deal sourcing and portfolio company talent.",
+        "Pretto's path to profitability through AI-enabled productivity improvements and network scaling offers a viable model for European fintech platforms; profitability timelines of 9+ years suggest investors should prepare for extended burn cycles in marketplace businesses.",
+        "The contrast between Chinese innovation presence and European 'euro-fatigue' (as mentioned in the newsletter's tribune) highlights structural competitiveness concerns in European tech ecosystems that may redirect capital allocation toward specific sectors or geographies."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "10.11 - Web Summit 2026 : une \u00e9dition qui porte l'empreinte de la tech chinoise"
+    },
+    {
+      "id": "1e433f90",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "U.S. software startups are now reaching $5 billion valuations in under four years, down from 17 years two decades ago, driven by abundant capital and a winner-take-all dynamic where top companies raise $1 billion before hitting unicorn status. However, cracks are appearing with mounting AI-related debt and potential data center expansion slowdowns, with Anthropic's upcoming IPO serving as a key test of AI valuation sustainability. Meanwhile, investment bankers are poised to significantly outpace PE professionals in 2026 year-end bonuses, with banking bonuses rising 15-30% compared to flat-to-7.5% growth for PE, partly due to a continued exit drought affecting private equity returns.",
+      "keyTakeaways": [
+        "The acceleration to $5B valuations reflects unsustainable capital concentration: top startups now raise 2x the capital their predecessors did, setting higher bars for profitable exits and increasing downside risk as rate pressures persist.",
+        "AI sector validation is uncertain: 14 AI acquisitions exceeding $1B have occurred through 2026, but accumulating AI debt and potential data center slowdowns suggest valuations may not be justified\u2014watch Anthropic's IPO as the market's reality check.",
+        "PE compensation is becoming less competitive relative to banking: with PE bonuses flat-to-7.5% versus banking's 15-30% growth, combined with exit scarcity, top talent retention in private equity may face structural headwinds through 2027."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "VC valuations are fast and furious"
+    },
+    {
+      "id": "50f6f6da",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Senate advanced permitting reform legislation (BAAJA) with a 73-25 cloture vote, splitting Democratic support but winning backing from the solar industry despite Trump's opposition to new wind farms. The Nuclear Regulatory Commission issued its third construction permit this year, granting Amazon-backed X-energy approval for its reactor project, marking continued acceleration in nuclear development after a previous industry slowdown.",
+      "keyTakeaways": [
+        "Permitting reform is gaining bipartisan traction despite environmental group opposition, signaling that energy infrastructure development (particularly solar and nuclear) is becoming a priority even in a divided Congress\u2014creating near-term opportunities for companies in grid modernization and power generation.",
+        "The NRC's rapid issuance of three construction permits in one year (TerraPower in March, TVA in September, X-energy now) indicates a structural acceleration in nuclear project approvals, suggesting venture and growth capital should focus on supply chain enablers and modular reactor technology developers.",
+        "The political split on climate legislation\u2014with some newly elected Democrats voting for permitting reform while others voted against\u2014suggests the climate-energy sector is fragmenting along economic/infrastructure lines rather than pure ideology, creating tailwinds for companies addressing energy costs and grid reliability over pure emissions reduction."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Finding Cloture"
+    },
+    {
+      "id": "d182f845",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jensen Huang's admission of an affair with an alleged Chinese spy triggered a $230 billion market cap decline for Nvidia on Monday, raising critical questions about key man risk in AI infrastructure. The incident exposes systemic vulnerability across private markets, where Nvidia controls over 80% of AI/data center GPU supply and serves as the backbone for OpenAI, Anthropic, xAI, and 400+ other startups, while also functioning as an investor and financing partner across major PE firms including Apollo, BlackRock, and KKR in a $500 billion compute infrastructure ecosystem.",
+      "keyTakeaways": [
+        "Nvidia represents extreme concentration risk in AI infrastructure\u2014with over 80% GPU market share, any disruption to CEO continuity or company stability creates cascading exposure across the entire portfolio of AI startups and LLMs that depend on their compute clusters.",
+        "The $500 billion financing partnership between Nvidia and major PE/infrastructure firms (Apollo, BlackRock, Blackstone, KKR) means that reputational or operational damage to Huang/Nvidia directly threatens capital deployment pipelines for data center and compute-focused investments.",
+        "Despite the scandal's severity, Huang's entrenchment and irreplaceability suggest he will likely survive as CEO, but the incident highlights systemic over-reliance on single individuals and companies in early-stage AI markets\u2014a governance risk that LPs and founders should actively monitor and diversify against."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "AI\u2019s multi-trillion key man"
+    },
+    {
+      "id": "83ffd076",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-11-10",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Democratic candidates won legislative elections by campaigning against AI data center construction, with 41% of planned US data center projects now located in states with governors opposing expansion. This political backlash is creating market contradictions: AI stocks declined due to perceived overspending on infrastructure, then declined further as reduced construction capacity limits future spending\u2014a dynamic that may slow but not halt development, particularly in Texas where existing permits appear protected.",
+      "keyTakeaways": [
+        "Data center construction faces geopolitical headwinds despite bipartisan voter concern; Texas represents the largest market but has nuanced restrictions (no approval required, existing permits safe), suggesting bottlenecks will be localized rather than absolute",
+        "AI sector rerating reflects market confusion between structural concerns (capex intensity) and policy risk (reduced growth runway)\u2014investors should distinguish between temporary permitting delays and fundamental business model stress",
+        "High-profile tech executive political spending (Musk's $500M in 2024 election) delivered poor ROI and created downstream regulatory risk; this may reduce venture/founder political alignment and increase unpredictability around AI infrastructure policy"
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 5,
+      "originalTitle": "Benedict's Newsletter: No. 668"
+    },
+    {
+      "id": "8f197790",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-10",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Sequoia Capital is undergoing a major organizational restructuring that dismantles much of predecessor Roelof Botha's legacy, including closing its London office, ending its Arc accelerator and Scouts programs, and abandoning its novel evergreen fund structure. The upheaval stems from a dramatic internal conflict triggered when Botha joined the SpaceX board immediately after its June 2026 IPO without informing other Sequoia partners, leaving the firm's SpaceX investment restricted to insider trading windows and fracturing trust with current leadership Alfred Lin and Pat Grady.",
+      "keyTakeaways": [
+        "Sequoia's shift back to traditional fund structures and elimination of experimental programs like Scouts and evergreen funds signals that the firm believes diversification and innovation created returns drag\u2014this validates a consolidation-focused strategy for major VCs competing on deal quality rather than breadth.",
+        "The London office closure and retreat to Bay Area-centric investing could cede European deal sourcing to local competitors, presenting an opportunity for regional VC firms to capture founder relationships Sequoia is abandoning.",
+        "Internal governance conflicts at top-tier firms can trigger multi-year strategic reversals; LP concerns about decision-making opacity at Sequoia may prompt capital reallocation toward firms with clearer accountability structures and founder-friendly international presence."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: Sequoia's story"
+    },
+    {
+      "id": "2d43d174",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Senate's BAAJA (permitting reform bill) advanced through its first procedural vote, signaling momentum for legislation that could streamline energy infrastructure permitting. However, President Trump's statement that the bill 'hasn't been fully negotiated' introduces uncertainty about final passage and potential modifications that could affect project timelines and capital deployment in energy sectors.",
+      "keyTakeaways": [
+        "Permitting reform legislation is progressing but faces potential renegotiation, creating near-term uncertainty for energy infrastructure investors who may need to adjust project timeline assumptions.",
+        "Trump's skepticism suggests the final bill may include concessions to his administration, potentially affecting which energy types (renewables vs. fossil fuels) receive streamlined approvals\u2014critical for energy transition fund allocations.",
+        "Successful passage of permitting reform could unlock billions in delayed infrastructure investments across grid modernization, transmission, and generation projects, representing a significant macro shift in capital efficiency for the energy sector."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Senate Permitting Deal Wins First Vote"
+    },
+    {
+      "id": "a0920c03",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-09",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA), which streamlines permitting for federal infrastructure projects particularly power lines, has gained momentum after the midterm elections despite predictions it would stall. The bill secured 73 Senate votes to end debate and is now on a clearer path to passage, strengthened by Democratic electoral gains that reinforced voter demand for affordability solutions and aligned with incoming senators' pro-energy expansion platforms.",
+      "keyTakeaways": [
+        "Permitting reform legislation is accelerating toward passage, which will materially increase deployment speed for renewable and conventional energy infrastructure, creating near-term opportunities for construction, grid modernization, and power line companies.",
+        "The bill's focus on federal project affordability and multi-energy approach (fossil and clean) suggests sustained capital allocation toward diversified energy supply expansion rather than renewable-only strategies, reshaping sector investment thesis.",
+        "Democratic Senate gains paradoxically strengthened bipartisan compromise rather than derailing it, indicating political realignment around infrastructure pragmatism that could unlock $billions in previously delayed projects across transit, power, and energy sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Why the Blue Tsunami Strengthened Permitting Reform"
+    },
+    {
       "id": "2cdd348c",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24027,17 +24171,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 141
+      "count": 142
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 553
+      "count": 556
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 514
+      "count": 517
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 39
     },
     {
       "name": "Fintech",
@@ -24048,12 +24197,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 32
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 38
     }
   ],
-  "lastUpdated": "2026-11-09T16:59:31.099070Z"
+  "lastUpdated": "2026-11-10T15:19:12.718966Z"
 }
