@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "225870ee",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Thomas Bravo lost its entire $5.1 billion equity stake in customer experience software company Medallia to a lender consortium just 17 months after installing new AI-focused management, signaling broader distress in legacy SaaS holdings. PitchBook's 2026 Advanced Software Report warns of more forced sales in 2026-2027 and provides GPs with durability scoring frameworks and AI readiness audits to identify portfolio vulnerabilities before they become write-downs.",
+      "keyTakeaways": [
+        "Last-generation SaaS companies without credible AI strategies face accelerating equity destruction; investors should conduct immediate agentic readiness audits on existing holdings to identify sale windows before debt holders take control.",
+        "The $30.7 billion advanced software market is reallocating capital away from legacy players\u2014GPs holding outdated SaaS can monetize distressed positions by acquiring from peers who lack AI margin super-cycle positioning.",
+        "Forced sales like Medallia's are expected to increase materially through 2027 as debt covenants tighten; this creates both downside risk for legacy SaaS portfolios and M&A opportunity for strategically positioned acquirers with AI-native capabilities."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Report: Your last-gen SaaS holdings have a closing window"
+    },
+    {
+      "id": "7e4cb907",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Blackstone leads the 'Big Six' alternative asset managers with 15% PE portfolio appreciation over 12 months, driven by power and electrification sector gains, while TPG ranks second with 10% returns. Anthropic's IPO is priced at $70-$78 per share, valuing the company at up to $1.4 trillion, with the AI lab aggressively targeting biotech through acquisitions like Coefficient Bio and Mithril. Venture capital has crowded into AI-driven molecular design ($2 billion invested through Q3 2026) but neglected clinical trial infrastructure ($250 million), creating a critical gap given that human trials consume 70% of drug R&D spending.",
+      "keyTakeaways": [
+        "Blackstone's outperformance in PE is concentrated in power and electrification\u2014energy transition bets are currently delivering returns ahead of traditional buyout strategies across the 'Big Six'",
+        "Big AI's entry into biotech creates dual dynamics: they function as both deep-pocketed acquirers and competitors to VC-backed startups, making due diligence and exit scenarios more complex for life science investors",
+        "The biotech AI paradox presents a contrarian opportunity\u2014while molecular design attracts venture capital, clinical infrastructure remains underfunded despite representing 70% of drug development costs, signaling where actual R&D bottlenecks and returns will concentrate"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "Ranking  PE\u2019s \u2018Big Six\u2019"
+    },
+    {
+      "id": "43323a4f",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Electricity prices spiked nearly 8% year-over-year to 19.9 cents per kilowatt-hour in October, driven partly by California billing timing changes but showing underlying inflation pressures. Ontario Power Generation's first-of-a-kind BWRX-300 small modular reactor project at Darlington has exceeded its $7.7 billion budget and missed its October 2030 commercial operation target. Green cement startup Sublime Systems is suing the Department of Energy after the Trump administration canceled an $87 million grant, with the government allegedly refusing to cooperate in discovery obligations.",
+      "keyTakeaways": [
+        "SMR commercialization is proving more capital-intensive and time-consuming than projected, potentially affecting investor confidence in first-mover reactor projects and the replicability economics that justify early deployment costs.",
+        "Federal grant cancellations and litigation risk are emerging as material headwinds for climate tech companies dependent on government support, suggesting portfolio companies should diversify funding sources and prepare for regulatory uncertainty.",
+        "Electricity price inflation remains a structural concern despite volatile month-to-month data, which could support long-term demand for alternative energy infrastructure but also signals higher real cost of capital for energy transition projects."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Late and Over Budget"
+    },
+    {
+      "id": "77644092",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-11",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Rox, an AI-native CRM startup, has raised $100 million in Series B funding at a $1.3 billion valuation, led by General Catalyst and March Capital with participation from Sequoia, GV, and new investor Prosperity7. Founded by former New Relic CGO Ishan Mukherjee alongside talent from AWS, Google, and Stanford AI Lab, Rox aims to displace Salesforce by building autonomous AI agents that handle customer research, prioritization, and outreach rather than retrofitting AI into legacy software. The funding reflects broader investor conviction that AI-native startups can capture enterprise software market share as major companies like Nvidia and Intel move away from Salesforce and establish their own data environments.",
+      "keyTakeaways": [
+        "AI-native architecture is becoming a viable competitive wedge against entrenched enterprise software incumbents\u2014Rox's $1.3B valuation and $100M Series B suggest investors believe the displacement thesis can work if execution matches the founding team's pedigree.",
+        "Large enterprise customers (Nvidia, Intel) actively moving data out of Salesforce indicates the incumbent's moat is eroding; startups building purpose-built AI solutions for specific workflows have a narrow window to capture value before incumbents integrate AI capabilities.",
+        "The 'SaaSpocalypse' and software sector volatility in 2026 appears to be creating repricing opportunity for disruptive models\u2014General Catalyst's decision to invest pre-product and pre-revenue suggests conviction that AI disruption cycles move faster than traditional SaaS replacement timelines."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Move over SaaS"
+    },
+    {
+      "id": "efe26c35",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media launched Latitude Intelligence, a new research platform tracking AI infrastructure buildout across U.S. utilities, providing granular data on data center load allocation, power procurement terms, and project feasibility by utility territory. The platform addresses a critical market gap by aggregating regulatory and commercial activity across organized power markets to help developers, capital providers, and tech companies identify optimal locations for renewable energy and storage projects in 2027.",
+      "keyTakeaways": [
+        "A new intelligence platform is solving a previously fragmented market problem: developers and investors can now quickly assess data center load coming to specific utilities, power pricing shifts, and project capacity availability\u2014data that previously required manual coordination across multiple sources and markets.",
+        "The AI-energy nexus is driving regulatory and political upheaval; recent elections have voted out legislators and commissioners in key states, signaling that utilities' ability to meet rising data center demand with existing carbon-free capacity is becoming a consequential political issue for investors to monitor.",
+        "Market consolidation around natural gas generation and storage development opportunities suggests capital should focus on regions with procurement RFPs still open and favorable timelines, as utilities face pressure to add capacity quickly to meet AI infrastructure buildout demands."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Utilities\u2019 carbon-free power gap"
+    },
+    {
+      "id": "660ff7b1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-10",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Senator Martin Heinrich discusses a bipartisan permitting reform bill that advanced with 73 Senate votes, creating a federal one-stop shop for power line approvals and placing transmission infrastructure on equal footing with natural gas pipelines. The legislation addresses long-standing bottlenecks in clean energy deployment and represents a significant climate policy victory, though it has drawn criticism from environmental groups concerned about potential unintended consequences like behind-the-meter natural gas generation for data centers.",
+      "keyTakeaways": [
+        "The permitting bill reduces regulatory friction for transmission infrastructure, directly benefiting renewable energy developers and grid modernization companies by enabling faster project deployment and clearer capital investment timelines.",
+        "Power line and transmission companies gain material advantage through streamlined federal approval processes, while clean energy firms face reduced project execution risk\u2014important for investors evaluating infrastructure and utility sector valuations.",
+        "The bill's passage signals durable bipartisan support for energy infrastructure acceleration, reducing policy uncertainty for long-duration capital projects in clean energy, though remaining debate over unintended consequences (data center natural gas adoption) suggests complex downstream effects warrant monitoring."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Heatmap Daily: Exclusive: Heinrich on BAAJA\u2019s Next Steps"
+    },
+    {
       "id": "7a17a0d5",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24169,19 +24277,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 142
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 556
+      "count": 559
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 517
+      "count": 520
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 142
     },
     {
       "name": "Strategy & Thesis",
@@ -24199,5 +24307,5 @@
       "count": 32
     }
   ],
-  "lastUpdated": "2026-11-10T15:19:12.718966Z"
+  "lastUpdated": "2026-11-11T14:49:28.082801Z"
 }
