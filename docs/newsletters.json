@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "4c93cc23",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-12",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Mirakl, a European marketplace software platform, has appointed Steve Stathis Tzikakis as co-CEO alongside founder Philippe Corrot, while co-founder Adrien Nussenbaum transitions to board chair. The newsletter also covers AI market dynamics following recent scandals affecting Nvidia leadership and highlights Heal.dev's \u20ac4 million funding round from Mango Capital and Alven for AI-powered application vulnerability detection.",
+      "keyTakeaways": [
+        "Mirakl's dual-CEO structure signals a leadership transition at a mature European tech company, suggesting preparation for either scaling operations or potential exit activities given the co-founder's move to chairman.",
+        "Heal.dev's \u20ac4M raise targeting AI-generated code vulnerabilities indicates growing investor appetite for AI governance and risk management tools\u2014a defensive play gaining traction as enterprises deploy more AI systems.",
+        "European tech ecosystem faces competitive pressure from US AI leaders; the newsletter frames upcoming GenerationAI Paris event as critical moment to define Europe's AI strategy and identify next potential decacorn, reflecting VC concern about European companies' ability to compete in AI race."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "12.11 - Mirakl accueille un nouveau PDG"
+    },
+    {
+      "id": "8cb08832",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "A third of total unicorn value\u2014approximately $2.6 trillion\u2014comes from valuations older than two years, with 10 of 12 unicorns that exited in Q3 2026 selling below their old marks at a median discount of 72.8%. Extrapolating this discount rate to stale valuations suggests roughly 22% of total unicorn value is at risk, forcing LPs to recalibrate cash forecasts and GPs to confront uncomfortable markdown conversations. Meanwhile, major PE manager ICG ($145 billion AUM) is cooling on AI investments unless structured as pure equity or venture-style bets, citing insufficient risk-adjusted returns and excess LP exposure.",
+      "keyTakeaways": [
+        "LPs must assume lower exit proceeds than historically forecasted: with $2.6 trillion in unicorn value based on 2+ year old rounds, the 72.8% median discount seen in Q3 exits signals that capital commitments to follow-on funds cannot rely on valuation recovery assumptions.",
+        "Mark-to-market pressure is accelerating across portfolios: each additional below-valuation exit forces GPs to write down their entire cohort of similarly-aged holdings, compressing distributed returns and reducing LP dry powder for new investments.",
+        "The AI trade is consolidating investor appetite: tier-one capital managers are selectively withdrawing from AI betting unless they own equity directly or have venture-style risk compensations, suggesting peak FOMO funding may be cooling and capital will concentrate in infrastructure plays (data centers, power) rather than software applications."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "How much unicorn value is at risk?"
+    },
+    {
+      "id": "6bbddd2e",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "UN Secretary-General Guterres escalated rhetoric against fossil fuels at COP31, calling them tools of 'mutually assured destruction' while climate advocates push for nuclear power to be explicitly recognized as clean energy in official summit communiques. Exxon Mobil filed a confidential legal challenge against EU carbon capture regulations, arguing they violate investor protections under a 1994 treaty, even as Europe races to expand its carbon capture capacity from 5.2% to 30% of global operations by 2035.",
+      "keyTakeaways": [
+        "Nuclear power faces a critical regulatory inflection point at COP31\u2014explicit recognition as clean energy could unlock massive capital flows into the sector, making this a pivotal moment for nuclear-focused investors and energy infrastructure funds.",
+        "Exxon's legal challenge signals corporate pushback against aggressive EU climate mandates, suggesting regulatory risk for European climate-tech investments but also potential upside for companies positioned to navigate compliance requirements ahead of competitors.",
+        "Europe's carbon capture infrastructure ambitions represent a $100+ billion capital deployment opportunity over the next decade, but investor returns depend heavily on regulatory certainty\u2014currently contested by major oil majors through litigation."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 6,
+      "originalTitle": "Carbon Complaint"
+    },
+    {
+      "id": "14844551",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Despite Anthropic's imminent IPO, venture capital faces structural challenges as companies reach $5 billion valuations 80% faster but require 74% more capital, according to PitchBook data. The IPO window remains largely closed outside elite companies, exits remain scarce, and valuation compression dominates M&A activity\u2014exemplified by Airtable's sale for $1.28 billion versus its $11.7 billion 2021 peak. Rising interest rates and economic uncertainty threaten current vintage fund performance, creating a precarious mix of high private valuations, low liquidity, and sluggish exit opportunities.",
+      "keyTakeaways": [
+        "The valuation-to-capital efficiency has inverted dangerously: startups now reach $5 billion valuations 74% faster but require 74% more capital to do so, meaning returns per dollar invested are deteriorating significantly for existing portfolios.",
+        "Exit channels are severely constrained\u2014IPO windows remain closed for all but mega-cap AI players, while M&A has become a race to the bottom with acquirers like Bending Spoons buying Airtable and Miro at steep discounts, forcing LPs to accept valuation compression rather than achieve profitable exits.",
+        "Current vintage funds face a perfect storm of headwinds: high interest rates (with another Fed hike likely in December 2026), high private valuations now disconnected from market reality, and historically poor VC performance during high-rate periods suggests significant portfolio depreciation ahead for investors holding 2022-2024 vintage funds."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "\u201cCracks are beginning to show in venture\u201d"
+    },
+    {
+      "id": "1bdcc622",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-12",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia founder and CEO Jensen Huang has resigned following revelations about affairs with a Chinese government spy allegation and a direct report, triggering an 8% premarket decline and erasing trillions in market value as shares plummeted from a $239 high to $151 at open. CFO Colette Kress assumes interim leadership while the board grapples with succession amid potential regulatory scrutiny, national security concerns, and risks to Nvidia's vast ecosystem of dependent companies and acquisition pipeline.",
+      "keyTakeaways": [
+        "Nvidia's leadership vacuum creates immediate execution risk for the AI infrastructure layer; interim CFO Kress lacks Huang's technical credibility and political relationships, potentially hampering the company's ability to navigate stricter regulatory oversight and maintain customer confidence during a critical period.",
+        "Portfolio companies relying on Nvidia for chips or financing face near-term volatility and potential capital constraints; founders may hesitate to sell to or partner with a company in 'severe flux,' which could slow M&A activity and neoclouds funding.",
+        "The sudden leadership transition demonstrates how personal conduct and judgment gaps at visionary founders can trigger broader ecosystem shocks; this sets precedent for how boards evaluate founder risk beyond operational metrics, particularly in national security-sensitive sectors."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Jensen jettisoned"
+    },
+    {
+      "id": "fee9e946",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-11",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "SoftBank is taking a $3.7 billion loss on natural gas turbine reservations as AI data center demand strains the global supply chain, with GE Vernova's order book now filled through 2031. The glut of released turbines suggests potential softening in AI infrastructure investment appetite, while data center developers are turning to less efficient power sources like diesel generators. Separately, Nvidia faces potential leadership turmoil following reports of CEO Jensen Huang's personal scandals, raising questions about the stability of the company anchoring the AI hardware boom.",
+      "keyTakeaways": [
+        "The natural gas turbine market is experiencing artificial scarcity: GE Vernova has a two-year wait list extending to 2031, causing desperate data center operators to resort to inefficient alternatives like diesel and jet engines, creating a potential supply-side investment opportunity for turbine manufacturers and alternative power solutions.",
+        "SoftBank's $3.7 billion loss on turbine reservations may signal that AI infrastructure investors are overcapitalized relative to actual buildout demand, suggesting a potential correction in speculative AI capex spending and a re-evaluation of data center economics.",
+        "Nvidia's leadership instability coinciding with AI momentum slowdown signals broader volatility in the AI ecosystem\u2014investors should monitor whether the semi-conductor supply chain remains tight or if demand destruction accelerates as AI capex cycles normalize."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: The AI Muddle Is Here"
+    },
+    {
       "id": "225870ee",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -24277,19 +24385,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 143
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 559
+      "count": 562
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 520
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 142
+      "count": 522
     },
     {
       "name": "Strategy & Thesis",
@@ -24307,5 +24415,5 @@
       "count": 32
     }
   ],
-  "lastUpdated": "2026-11-11T14:49:28.082801Z"
+  "lastUpdated": "2026-11-12T15:41:11.174289Z"
 }
