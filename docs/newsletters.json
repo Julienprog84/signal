@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "fae3bbae",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-13",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "A French tech newsletter reports on major industry developments including Jensen Huang's resignation as Nvidia CEO, potential regulatory headwinds for tech following Democratic victories in US Congress, and highlights European startup momentum including French finalists in the Startup World Cup and The Exploration Company's \u20ac680 million funding raising to develop reusable spacecraft technology as a SpaceX competitor.",
+      "keyTakeaways": [
+        "Leadership instability at foundational AI infrastructure companies like Nvidia could create market volatility and opportunity windows for competitors in semiconductor and AI chip markets that European investors should monitor closely.",
+        "Anticipated regulatory tightening in the US under Democratic control\u2014specifically around data centers and tech regulation\u2014may accelerate European tech policy divergence and create protected markets for EU-based AI and infrastructure companies.",
+        "European startups are gaining visibility in global venture competitions and attracting significant capital (The Exploration Company's \u20ac680M since 2021), signaling potential decacorn candidates in AI, space-tech, and regulated sectors where European founders can differentiate from US competitors."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "13.11 - S\u00e9isme dans la tech : le patron de Nvidia, Jensen Huang, d\u00e9missionne !"
+    },
+    {
+      "id": "c9a4f006",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Nvidia's aggressive venture capital strategy\u2014backing 296 VC deals since 2023 and nearly one-third of AI unicorns\u2014faces uncertainty following CEO Jensen Huang's departure, potentially disrupting a critical funding source for AI infrastructure and frontier labs. Meanwhile, secondary market participants debate whether GP-led continuation fund investments should prioritize manager track record or underlying asset quality, with traditional secondaries firms still relying heavily on sponsor reputation despite risks. The University of Illinois endowment meanwhile grapples with underperformance driven by legacy investments.",
+      "keyTakeaways": [
+        "Nvidia's exit from active venture investing removes a major source of patient capital for AI infrastructure deals\u2014investors should monitor whether other mega-cap tech companies or sovereign wealth funds step in to fill the $1 trillion AI funding gap.",
+        "Secondary buyers face a critical decision point: continuing to bet on manager pedigree in GP-led deals risks concentration in 'challenged assets' even from top-tier sponsors, suggesting more disciplined asset-level underwriting is needed.",
+        "The endowment sector's performance struggles indicate that legacy portfolio drag is a systemic problem for institutional investors, potentially forcing reallocation decisions across PE and VC holdings during a rate environment that rewards selectivity."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Can Nvidia keep writing  AI\u2019s  checks?"
+    },
+    {
+      "id": "f8e2e967",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia CEO Jensen Huang resigned amid scandal, creating uncertainty for AI stocks and the sector's reliance on singular leaders, while SpaceX plans $74 billion in supercomputing investments that could strain natural gas supplies. Meta simultaneously moved to green its data center materials through partnerships with green steel and low-carbon cement suppliers, signaling growing corporate demand for sustainable infrastructure. The New York Times editorial board endorsed the Senate's permitting reform bill (BAAJA) as essential for climate action and affordability, though the piece notably omits discussion of tribal opposition concerns.",
+      "keyTakeaways": [
+        "Nvidia's leadership vacuum creates both risk and opportunity: AI infrastructure plays face near-term volatility, but the chaos could accelerate consolidation or shift capital toward alternative chip designers and suppliers.",
+        "Massive new AI compute demand (SpaceX's $74B investment) will drive natural gas prices higher for consumers unless policymakers act\u2014gas infrastructure and energy providers may see margin compression despite volume growth.",
+        "Green materials for data centers are becoming a competitive differentiator: Meta's use of environmental attribute certificates creates near-term demand for future production, potentially creating venture and growth equity opportunities in clean cement and steel startups like Sublime Systems and Stegra."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Chips Passing in the Night"
+    },
+    {
+      "id": "6504f69e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Jensen Huang's departure as Nvidia CEO creates significant uncertainty for the private AI market, where Nvidia invested $189 billion in 2026 as the top U.S. corporate backer, primary GPU supplier, and market benchmark. New interim CEO Colette Kress may adopt a more cautious investment approach, potentially creating funding pressure on companies like CoreWeave and Lambda Labs that depended on Huang's dealmaking, while Anthropic's IPO remains on track despite market volatility.",
+      "keyTakeaways": [
+        "Nvidia's three-fold role as mega-investor ($189B in 2026), chip supplier, and market gauge means its leadership transition will directly impact AI startup funding availability and GPU pricing\u2014investors should monitor whether Kress maintains or reduces deployment levels",
+        "Infrastructure-dependent startups (neoclouds) face immediate risk if Nvidia cuts corporate venture funding, but cheaper GPU access could benefit early-stage companies building products rather than seeking capital; this creates a bifurcated outcome for different portfolio stages",
+        "Some VCs see opportunity in a potential valuation reset, viewing inflated AI fundraising as unsustainable\u2014this transition period could shift capital allocation away from speculative late-stage rounds toward profitable business fundamentals"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "Jensen, Nvidia, and the private markets fallout"
+    },
+    {
+      "id": "f10d7ab3",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a live event featuring Intel and PG&E executives discussing how software-defined, standards-based substations can modernize grid infrastructure. The discussion addresses how utilities can overcome legacy architectural constraints and improve operational agility to handle growing electrification demand and grid complexity.",
+      "keyTakeaways": [
+        "Software-defined substations represent a significant modernization opportunity for aging utility infrastructure, suggesting substantial capital deployment potential in grid digitalization and automation technologies.",
+        "Major utilities like PG&E and tech leaders like Intel are actively collaborating on standards-based solutions, indicating this is moving beyond pilot phase toward commercial implementation\u2014a signal for investors to track vendors in this space.",
+        "The shift from project-specific hardware designs to standardized software platforms could create a new software-as-a-service market within energy infrastructure, disrupting traditional hardware-centric utility vendor relationships."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Next week: Why utilities are rethinking the substation"
+    },
+    {
+      "id": "0821881f",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Critical Capital podcast explores energy infrastructure financing through interviews with builders like Fervo Energy (now producing utility-scale geothermal at Cape Station in Utah) and Intersect, alongside investors from Lowercarbon Capital and Andreessen Horowitz. The series highlights a market shift where clean energy is increasingly viewed as economically competitive rather than a moral imperative, with capital costs and regulatory timelines\u2014not financing costs\u2014now determining returns on industrial energy projects.",
+      "keyTakeaways": [
+        "Geothermal is reaching commercial viability at utility scale: Fervo Energy's Cape Station demonstrates that fracking technology can enable cost-effective geothermal deployment, creating a new investable energy category beyond traditional renewables.",
+        "Clean energy investing has become fundamentally about unit economics, not ESG sentiment: Lowercarbon Capital's apolitical approach reflects institutional capital's shift toward clean tech as a standalone business opportunity, signaling maturing market dynamics for energy investors.",
+        "Regulatory speed now trumps cost of capital as the limiting factor: Andreessen Horowitz highlights that permitting and regulatory approval timelines\u2014not debt financing\u2014constrain returns on industrial energy projects, suggesting policy reform (like Senator Heinrich's permitting bill) could unlock significant capital deployment."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "How to finance energy with Intersect, Fervo, Lowercarbon Capital,\r\n and more"
+    },
+    {
+      "id": "53c2b999",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-12",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Evergreen Action, a climate-focused nonprofit, is among the few environmental groups affirmatively endorsing the Bipartisan American American Affordability and Jobs Act (BAAJA), a permitting reform bill likely to face a Senate vote next week, despite divisions within the environmental community. The group's leadership argues that accelerating clean energy deployment at scale justifies support for the bill despite its flaws, reflecting a pragmatic shift in climate advocacy toward deployment speed over regulatory perfection.",
+      "keyTakeaways": [
+        "Clean energy infrastructure deployment speed is becoming a primary decision criterion for major climate advocacy groups, signaling a potential shift in regulatory and policy priorities that could accelerate project timelines for renewable and nuclear developers.",
+        "Permitting reform remains a critical battleground for clean energy investors; bipartisan support from labor unions and urban coalitions alongside environmental endorsements suggests political viability, but FERC regulatory changes will be essential to realize benefits.",
+        "The divide among environmental groups on permitting reform indicates emerging fault lines in climate policy consensus\u2014groups prioritizing deployment velocity (Evergreen Action) vs. those emphasizing environmental protections (Wilderness Society, Earthjustice), creating investment uncertainty around which regulatory framework will ultimately dominate."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Why Evergreen Action Wants the Permitting Bill"
+    },
+    {
       "id": "4c93cc23",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24387,17 +24513,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 143
+      "count": 144
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 562
+      "count": 564
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 522
+      "count": 526
     },
     {
       "name": "Strategy & Thesis",
@@ -24415,5 +24541,5 @@
       "count": 32
     }
   ],
-  "lastUpdated": "2026-11-12T15:41:11.174289Z"
+  "lastUpdated": "2026-11-13T15:00:01.283887Z"
 }
