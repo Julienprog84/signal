@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "661b091f",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-14",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Nvidia's venture capital strategy, which has grown nearly 11x since 2020 with 129 minority investments, faces uncertainty following Jensen Huang's exit as CEO. While interim CEO Colette Kress was reportedly hesitant about Nvidia's aggressive dealmaking pace, the company's role as the \"central bank\" of AI venture funding means any strategic shift will ripple through the ecosystem, particularly affecting early-stage AI startups dependent on compute access and capital. Separately, PE firms are aggressively pursuing defense deals, with 128 transactions completed through September 2026\u2014already surpassing the entire 89 deals recorded in 2025.",
+      "keyTakeaways": [
+        "Monitor Nvidia's participation in major AI funding rounds as a bellwether for CEO transition impact: a pullback from largest deals would signal strategic caution and reduced exposure to acquisition-stage AI companies.",
+        "Early-stage AI founders should diversify funding sources immediately, as Nvidia's hesitant new leadership may reduce both venture capital and critical compute access that startups currently rely on.",
+        "Defense sector PE activity is accelerating dramatically, representing the strongest aerospace and defense deal flow in years and suggesting significant capital reallocation away from consumer/commercial tech toward government contracting."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Where Nvidia turmoil will hit venture"
+    },
+    {
+      "id": "84072ede",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-13",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's IPO next week faces uncertainty due to Nvidia CEO Jensen Huang's sudden resignation, complicating the companies' deep financial entanglement including a $10 billion share purchase and hundreds of billions in GPU commitments. Meanwhile, Blackstone has emerged as a quasi-biotech bank, agreeing to finance up to $1.5 billion of Pfizer's drug development\u2014reversing traditional venture capital's role in biotech by helping public companies offset clinical trial costs rather than backing startups.",
+      "keyTakeaways": [
+        "Anthropic IPO investors should discount future mega-deal commitments with Nvidia as uncertain; the company's valuation and growth projections may have factored in Nvidia partnerships that are now in flux following leadership upheaval.",
+        "Blackstone's biotech financing model signals a structural shift in how large pharma fund R&D, potentially reducing traditional VC's role in early-stage drug discovery and creating new LP allocation opportunities in alternative asset managers acting as development financiers.",
+        "Japan's M&A slowdown (down 32% YTD despite strong historical context) under new leadership suggests geopolitical and policy shifts can materially impact deal flow, while cross-border activity remains relatively resilient, indicating selective market pullback rather than systemic decline."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 4,
+      "originalTitle": "Axios Pro Rata: Anthropic ahead"
+    },
+    {
+      "id": "6d1d67ec",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-11-13",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "The U.S. government implemented new mandatory screening rules for synthetic DNA orders, replacing voluntary self-regulation to address biosecurity risks from AI-enabled pathogen creation. The newsletter covers significant deep tech developments including IBM's quantum speed advances, Anthropic's $4.3B turbine purchase commitment, X-energy's small modular reactor approval, and Fervo's $12B geothermal order book, signaling major capital deployment in AI infrastructure and energy sectors.",
+      "keyTakeaways": [
+        "Regulatory tightening around synthetic biology represents a new compliance cost and potential market fragmentation, favoring established U.S.-approved DNA synthesis vendors while creating barriers to entry for smaller players in biotech supply chains.",
+        "Major AI companies (Anthropic) are making multi-billion dollar commitments to energy infrastructure, indicating acute power constraints and suggesting significant capital reallocation toward nuclear, geothermal, and natural gas generation to support AI scaling.",
+        "The convergence of biosecurity regulation, quantum computing advances, and frontline manufacturing capabilities signals that deep tech investors should focus on dual-use infrastructure plays and distributed manufacturing solutions in defense-adjacent sectors."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 188:U.S. imposes new rules on ordering synthetic DNA"
+    },
+    {
+      "id": "ed04db9c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Rising electricity prices correlated with congressional seat flips during recent elections, with districts experiencing faster bill increases showing higher likelihood of voting against incumbent parties. The analysis, compiled by Heatmap News in partnership with the Electricity Price Hub, suggests that utility cost inflation has become a material political and economic factor influencing voter behavior in key electoral regions.",
+      "keyTakeaways": [
+        "Electricity price volatility is now a measurable electoral swing factor\u2014investors should monitor utility rate increases as a leading indicator of political shifts that could affect energy policy and regulatory environments",
+        "States with rapidly rising electricity costs represent both risk and opportunity for energy infrastructure investors; expect increased pressure for rate regulation and potential policy changes favoring renewable energy adoption or grid modernization",
+        "The intersection of energy costs and electoral outcomes suggests growing consumer sensitivity to utility bills, creating market tailwinds for distributed energy resources, efficiency technologies, and alternative energy providers that can offer cost relief"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Where Rising Electricity Prices Showed Up in the Blue Wave"
+    },
+    {
+      "id": "49ef0f31",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-13",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap's weekly digest highlights five key stories in climate and energy: rising electricity prices correlated with Democratic electoral gains, a major geoengineering summit in Iceland bringing the once-taboo topic into mainstream discourse, Senate progress on bipartisan permitting reform led by Senator Martin Heinrich, public resistance to data center projects despite financial incentives, and environmental group Evergreen Action's unexpected support for the permitting bill based on lessons from the Inflation Reduction Act.",
+      "keyTakeaways": [
+        "Electricity price sensitivity is now a decisive electoral issue\u2014districts with rising power costs swung significantly toward Democratic candidates, suggesting that energy affordability and grid infrastructure investment will remain a central political battleground affecting climate policy implementation.",
+        "Data center dividend strategies are failing as a social license tool; most Americans reject projects regardless of payment, indicating that developers must prioritize grid capacity, land use planning, and community infrastructure improvements rather than direct payments to unlock real estate for high-demand computing facilities.",
+        "Permitting reform is gaining unexpected cross-sector support from dedicated climate advocates, signaling that clean energy and decarbonization groups now view streamlined development processes as essential infrastructure policy rather than regulatory capture\u2014a potential catalyst for accelerated renewable energy and grid modernization deployment."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "fae3bbae",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24511,19 +24601,24 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 144
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 564
+      "count": 566
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 33
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 526
+      "count": 528
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 144
     },
     {
       "name": "Strategy & Thesis",
@@ -24534,12 +24629,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 58
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 32
     }
   ],
-  "lastUpdated": "2026-11-13T15:00:01.283887Z"
+  "lastUpdated": "2026-11-14T13:52:18.084672Z"
 }
