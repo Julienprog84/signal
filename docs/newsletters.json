@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "2da6648d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-15",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Wall Street is developing GPU compute futures contracts modeled after 1980s oil markets to hedge the volatile price of AI computing power, a structural shift that reflects private credit investors increasingly displacing venture capitalists as the primary funders of capital-intensive AI infrastructure and hard tech. Anthropic's upcoming IPO and Nvidia's prolific deal-making\u2014averaging one investment every three days in 2026\u2014underscore how the financing landscape is moving away from software-era VC models toward longer-duration, credit-based structures for robotics, autonomous vehicles, and advanced manufacturing.",
+      "keyTakeaways": [
+        "GPU futures contracts will create price transparency and hedging mechanisms for lenders exposed to compute price volatility, potentially reshaping how capital flows into AI infrastructure startups.",
+        "Private credit is outpacing traditional VC in funding hard tech and AI infrastructure, signaling that LPs should rebalance allocations toward credit funds and away from traditional venture vehicles for capital-intensive bets.",
+        "Nvidia's dominance as both a chip supplier and venture investor (backing nearly one-third of AI unicorns since 2023) creates concentration risk and raises questions about the sustainability of its VC portfolio if regulatory or competitive pressures emerge."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 6,
+      "originalTitle": "Financial engineering for the AI era"
+    },
+    {
+      "id": "75a9ca94",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-15",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Y Combinator and Coinbase-backed Venezuelan crypto app Kontigo had its operating license suspended by regulators on November 6th, with the country's banking authority ordering all Venezuelan banks to cease operations with the company, effectively cutting off users from the traditional banking system. While users can still withdraw USDC to external crypto wallets, the regulatory action raises questions about the viability of crypto banking solutions in jurisdictions with hostile regulatory environments. The newsletter also references a separate crisis at a Synapse founder's new startup that cannot make payroll after the CEO took a $4.6 million personal loan for a luxury home.",
+      "keyTakeaways": [
+        "Regulatory risk in emerging markets can instantly destroy business model viability\u2014Kontigo's access to Venezuela's entire banking system was eliminated overnight, demonstrating that crypto banking apps operating in countries with strict capital controls face existential regulatory threats regardless of prominent backing.",
+        "Fintech founders' governance failures create cascading losses\u2014the Synapse founder's startup payroll crisis stemming from a $4.6M personal luxury real estate loan signals weak board oversight and founder accountability in the fintech sector, a concern for LP due diligence.",
+        "Macro implication: crypto-native banking solutions face a narrow regulatory path in developing nations; successful models may require either operating in crypto-only environments or partnering with incumbent financial institutions rather than competing directly with government banking systems."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "Kontigo\u2019s License Suspended, Cutting The Venezuelan Crypto App Off From Country\u2019s Banking System"
+    },
+    {
       "id": "661b091f",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -24603,7 +24639,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 566
+      "count": 567
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 59
     },
     {
       "name": "Deep Tech & Science",
@@ -24624,12 +24665,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 39
-    },
-    {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 58
     }
   ],
-  "lastUpdated": "2026-11-14T13:52:18.084672Z"
+  "lastUpdated": "2026-11-15T14:25:44.009153Z"
 }
