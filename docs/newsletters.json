@@ -1,6 +1,96 @@
 {
   "newsletters": [
     {
+      "id": "593655b9",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-16",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Arthur Mensch, CEO of Mistral AI, urged European leaders at an EU summit in Dublin to accelerate AI investments and strengthen cooperation to keep pace with global competitors. The newsletter also covers Clement Delangue's defense of Nvidia following Jensen Huang's departure, and highlights a $4 million pre-seed funding round for Well, an AI assistant for SME executives founded by former iBanFirst employees.",
+      "keyTakeaways": [
+        "European AI competitiveness is at a critical inflection point\u2014Mistral's leadership is signaling that incremental policy changes are insufficient and aggressive capital deployment is needed immediately to avoid permanent competitive disadvantage",
+        "Recent leadership turbulence at major AI infrastructure players (Nvidia) is creating narrative risk for open-source AI platforms; European founders are actively managing perception and defending continued investment in the ecosystem",
+        "The funding environment for European AI startups targeting SME operational efficiency remains healthy\u2014$4M pre-seed for a productivity tool indicates solid capital availability for downstream applications despite broader macro uncertainty"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "16.11 - IA : Arthur Mensch appelle les dirigeants europ\u00e9ens \u00e0 agir \u00abd\u00e8s maintenant\u00bb"
+    },
+    {
+      "id": "76b11f23",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Weil Gotshal & Manges was quietly incubating Kepler, an AI-native legal services challenger, before the 95-year-old law firm's collapse, led by former partner Arnie Fridhandler who built Weil's DealVision360 AI platform. Meanwhile, climate tech VC hit record deal value of $22.5 billion in Q3 2026, with data center infrastructure investments driving 78% of that total as AI-driven energy demand reshapes venture capital allocation. The newsletter also examines Nvidia's broad VC ecosystem under Jensen Huang and emerging biotech opportunities in Asia through Aulis Capital's $200 million fund.",
+      "keyTakeaways": [
+        "Big Law's disruption is already underway: experienced partners with proprietary AI tools are spinning out independent ventures, signaling that traditional partnership models cannot compete with AI-native legal tech\u2014expect more defections and M&A consolidation in legal services.",
+        "Data center infrastructure is becoming a primary allocation vector for climate tech capital, with built environment, dispatchable energy, and grid infrastructure collectively absorbing $17.7 billion in Q3 alone, suggesting investors should reassess climate tech opportunities through an AI/compute lens rather than pure decarbonization.",
+        "The newsletter's focus on Huang's departure from Nvidia and its ripple effects through VC ecosystem suggests key-person risk in AI-dependent companies is now a material due diligence concern, potentially reshaping valuations and exit strategies across AI infrastructure investments."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Inside  Weil\u2019s  secret AI bet"
+    },
+    {
+      "id": "03dcd2f9",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers five major climate and energy developments: hydropower generation in the American Southwest has collapsed to record lows amid severe drought conditions, with output 19% below last year and forecasted 9% lower for the full year; Amazon has secretly acquired 600 megawatts of computing capacity from nuclear-powered startup Fermi America in a potential lifeline deal; Exxon Mobil has greenlighted its largest offshore drilling field in Guyana, with production expected by 2030; and Canada is negotiating to sell nuclear reactor technology (CANDU) to Turkey. These developments signal both clean energy infrastructure challenges and continued fossil fuel expansion.",
+      "keyTakeaways": [
+        "Water scarcity is creating a critical vulnerability in U.S. power generation\u2014hydropower output declining 28% below 10-year averages represents a material infrastructure risk that could drive demand for alternative energy sources including nuclear and data center power solutions.",
+        "Amazon's $600M commitment to Fermi America's nuclear data center complex validates the AI hyperscaler thesis around private nuclear power and suggests major tech companies are willing to anchor emerging nuclear ventures, creating potential investment opportunities in advanced reactor developers.",
+        "Oil majors continue aggressive offshore expansion despite energy transition rhetoric\u2014Exxon's eighth Guyana project targeting 2030 production demonstrates entrenched fossil fuel capex cycles that may outpace clean energy infrastructure deployment in the near term."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Lake Need"
+    },
+    {
+      "id": "c35eaa5f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Bradley Tusk, known for his work with Uber and Bloomberg, has shifted his venture firm away from traditional VC by investing equity instead of cash in exchange for regulatory and operational services. The model, which charges startups $50,000-$200,000 monthly in preferred equity over roughly 18-month engagements across approximately 21 companies, allows Tusk Ventures to avoid the capital raising, LP management, and portfolio construction burdens of conventional funds while positioning itself as uniquely valuable in helping startups navigate regulatory challenges.",
+      "keyTakeaways": [
+        "The equity-for-services model transfers downside risk from capital loss to time and resource expenditure, making it more capital-efficient than traditional VC in a market facing slow exits and elevated valuations.",
+        "This pivot suggests established VCs may increasingly adopt hybrid models that monetize specialized expertise (regulatory navigation, fundraising credibility, founder networks) rather than relying solely on capital deployment for returns.",
+        "The trend reflects deeper VC market stress\u2014with interest rates rising and valuations elevated, boutique service-driven funds may outperform diversified portfolio approaches, particularly in regulated sectors where compliance expertise commands premium value."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Services over cash"
+    },
+    {
+      "id": "63d02b52",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-16",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia CEO Jensen Huang is in discussions to return to the company after his recent resignation, with support from tech investors, though his comeback depends on board approval and resolving questions about chip exports to China and unresolved security concerns. Meanwhile, Barcelona-based electric motorcycle startup Stark Future raised $165 million at a $1.32 billion valuation amid surging demand for electric vehicles driven by global fuel crisis concerns, becoming Europe's first unicorn in the sector.",
+      "keyTakeaways": [
+        "Huang's potential return reflects the outsized importance of founder-CEOs to investor confidence in AI-era tech companies; Nvidia's 2% stock decline signals market uncertainty about near-term leadership clarity and execution risk during the scandal investigation.",
+        "The electric motorcycle/micromobility space is attracting significant capital at high valuations (Stark's 60% jump since September 2025), suggesting investors are betting on fuel crisis-driven demand shifts and geographic diversification beyond traditional EV categories.",
+        "Applied Intuition and Kalshi are seeking massive raises at extreme valuations ($30B and $65B respectively), indicating late-stage private markets remain frothy for AI/autonomous vehicle and prediction market infrastructure despite macro headwinds."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Talking time"
+    },
+    {
       "id": "2da6648d",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -24637,9 +24727,19 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 145
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 567
+      "count": 570
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 529
     },
     {
       "name": "Fintech",
@@ -24652,20 +24752,10 @@
       "count": 33
     },
     {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 528
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 144
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 39
     }
   ],
-  "lastUpdated": "2026-11-15T14:25:44.009153Z"
+  "lastUpdated": "2026-11-16T16:37:33.148220Z"
 }
