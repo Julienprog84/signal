@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "fdfb9b6a",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-17",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Maddynews highlights AI's pervasive influence in San Francisco through three observable examples (Instinct, Corgi Caf\u00e9, Waymo), while reporting that Sofinnova Partners closed its \u20ac725 million Crossover II fund focused on late-stage biopharma and medtech companies, primarily in Europe. The newsletter also covers emerging opportunities in French tech tax incentives allowing up to 30% income tax deductions for investments in innovative startups, and examines France's struggle to translate AI investments into scaled operational results.",
+      "keyTakeaways": [
+        "Sofinnova's \u20ac725 million Crossover II closing signals sustained European institutional confidence in life sciences venture capital, with a focus on advancing portfolio companies toward exit rather than early-stage deployment.",
+        "French tax incentives for tech investing (30% deduction on income tax) represent an underutilized capital mobilization tool for HNI/family office allocations, suggesting inefficient market awareness around fiscal optimization mechanisms.",
+        "Despite increased AI spending in France, enterprise deployment maturity lags significantly behind investment levels\u2014indicating a widening gap between capital committed and actual operational transformation, creating both risk and opportunity in enterprise AI implementation services."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 8,
+      "originalTitle": "17.11 - Instinct, Corgi Caf\u00e9, Waymo\u2026 : 3 choses qui illustrent la folie de l\u2019IA \u00e0 San Francisco"
+    },
+    {
+      "id": "f1b40730",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Resource Innovations is positioning residential battery systems as a distributed grid resilience solution for utilities facing aging infrastructure and recurring outages. The company offers end-to-end program implementation\u2014from identifying vulnerable communities to managing installations and interconnection\u2014enabling utilities to deploy batteries across outage-prone areas while longer-term infrastructure upgrades occur over years.",
+      "keyTakeaways": [
+        "Residential battery deployment represents a near-term revenue opportunity for utilities and battery vendors targeting communities with chronic outage issues, potentially accelerating adoption cycles before grid modernization capex plans materialize.",
+        "Resource Innovations' managed services model\u2014combining community identification, customer enrollment, installation, and ongoing management\u2014suggests a B2B SaaS or professional services play in the distributed energy resources space with recurring revenue potential.",
+        "The distributed residential battery approach addresses a critical infrastructure gap: utilities can monetize customer resilience demand while deferring massive grid modernization investments, creating a multi-year tailwind for battery storage companies and software platforms managing aggregated residential assets."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "What if grid resilience started at home?"
+    },
+    {
+      "id": "ea30e18c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity hold periods have reached a post-financial crisis peak, with the median age of PE deals climbing to 4.2 years\u2014a 35% increase from 2023\u2014as pandemic-era investments struggle with higher interest rates and inflation. Meanwhile, a new Hong Kong-based secondaries firm launched by former Carlyle and Warburg Pincus executives is capitalizing on a significant overhang of aging Asian private assets trading at 35%+ discounts to net asset value, compared to 13% globally.",
+      "keyTakeaways": [
+        "PE firms are increasingly turning to continuation funds and evergreen structures to extend fund lives rather than force exits in a challenging environment, fundamentally altering how returns are generated and when capital is returned to investors.",
+        "Asian secondaries represent an overlooked opportunity, with discounts of 35%+ versus 13% globally, as most secondary buyers avoid China and Asia positions\u2014creating a potential edge for specialized regional players like Noveon Capital.",
+        "Pandemic-era deals purchased at inflated multiples with high leverage are now facing prolonged hold periods, forcing allocators to rethink PE's return profile and suggesting structural changes to fund design and exit timing across the industry."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "PE hold times hit a post-GFC record"
+    },
+    {
+      "id": "d7b65c42",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The newsletter covers three major climate and energy developments: the Trump administration's seventh emergency order to keep Michigan's coal-fired J.H. Campbell plant operating despite state authority concerns; delays and cost overruns at Ontario Power Generation's Darlington small modular reactor project with budget updates not expected until mid-2027; and a Data for Progress poll showing 65% of American voters know nothing about the Bipartisan American Affordability and Jobs Act, the federal permitting reform legislation that supporters claim will streamline energy infrastructure approval.",
+      "keyTakeaways": [
+        "Coal plant subsidization through repeated emergency orders signals political pressure to maintain legacy fossil fuel infrastructure, creating uncertainty for utilities planning grid transitions and renewable energy investments.",
+        "SMR project delays at a flagship North American demonstration site indicate technology scaling challenges and rising capital costs that could impact private investment appetite in the nuclear sector.",
+        "Public awareness of permitting reform remains negligible despite its significance for energy development, suggesting policy implementation may face grassroots opposition or indifference when projects attempt to leverage the legislation."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "Seventh Heaven"
+    },
+    {
+      "id": "7eee917a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Private equity firms are increasingly targeting undervalued public software companies for take-private deals, with PitchBook identifying a growing pipeline of acquisition candidates in 2027. Recent deals include Bumble ($1.3B to Ithaca Holdings), Kneat ($454M to Thoma Bravo), and Varonis ($6.3B acquisition by Thoma Bravo-backed Proofpoint), driven by depressed software stock valuations and strong free cash flow generation that can service leveraged buyout debt.",
+      "keyTakeaways": [
+        "Software companies with strong free cash flow (like BILL at $83M quarterly FCF), solid margins (First Advantage at 29% adjusted EBITDA), and depressed valuations relative to peers are prime PE targets\u2014investors should monitor PitchBook's candidate list for liquidity events",
+        "Rising interest rates and sticky inflation pose existential risk to deal velocity; higher borrowing costs could stall the current M&A pipeline if macro conditions tighten further, making deal timing critical for both buyers and sellers",
+        "The sector-wide valuation compression creates a bifurcated opportunity: profitable, cash-generative software assets are attractive to leveraged buyers, while high-growth players remain vulnerable to both market pressure and acquisition speculation"
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Software stocks have had a painful year"
+    },
+    {
+      "id": "f5b9041e",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-17",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Axios BFD, an annual dealmakers summit in New York City, features keynote interviews with major figures spanning PE, central banking, prediction markets, sports ownership, climate tech, and investment banking. The newsletter highlights General Flash, a Cambridge-based critical metals production startup that raised $128 million in seed and Series A funding from Lux Capital and Overmatch Ventures, signaling investor interest in materials innovation.",
+      "keyTakeaways": [
+        "AI market volatility is reshaping PE playbooks: Robert F. Smith of Vista Equity Partners and Federal Reserve NY President John C. Williams will discuss how new AI models are challenging traditional tech investment strategies and creating potential financial stability concerns that regulators are monitoring closely.",
+        "Alternative assets are democratizing: Blackstone's Joan Solotar is pushing individual investors into private equity and real estate, indicating a major industry shift toward retail participation in traditionally institutional-only vehicles that could reshape capital flows.",
+        "Energy and materials are becoming essential VC thesis: Climate tech investing via companies like General Flash (critical metals production) and data center buildout are forcing venture capitalists to reconsider previously avoided or forgotten sectors as infrastructure demands become undeniable."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 6,
+      "originalTitle": "Axios Pro Rata: BFD Day!"
+    },
+    {
+      "id": "125b69c7",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-11-17",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "Nvidia's board fired founder and CEO Jensen Huang after discovering he had affairs with subordinates and potentially a customer connected to Chinese intelligence, while also lying to the board about the scope of misconduct. The scandal appears connected to U.S. government concerns about Nvidia's business in Southeast Asia, particularly through Megaspeed, which may have facilitated chip smuggling to China despite export restrictions that only target direct chip sales but not cloud GPU services. The incident raises questions about Nvidia's governance, the company's compliance with export controls, and potential leadership succession challenges as the board searches for a new CEO.",
+      "keyTakeaways": [
+        "Board governance failures at scale: Nvidia's lack of founder control (unlike Zuckerberg or Anthropic founders) enabled board action, but the fact that misconduct required government whistleblowing rather than internal controls suggests systemic governance weaknesses that institutional investors should scrutinize across leadership teams.",
+        "Export control arbitrage collapsing: Nvidia's $20B+ Singapore-routed business exploiting the cloud GPU loophole in China restrictions faces existential regulatory risk; this challenges the company's growth narrative and validates thesis that AI chip supply-chain policies will tighten significantly.",
+        "CEO succession uncertainty and macro instability: Temporary CFO leadership and speculation about external hires (Tim Cook, ARM CEO) signals a potentially protracted transition at a company central to AI infrastructure; this creates near-term volatility and long-term questions about Nvidia's strategic direction under non-technical leadership."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 669"
+    },
+    {
+      "id": "7e47f7ce",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Heatmap News is launching a nine-episode podcast called 'Load Bearing' hosted by former FERC commissioner Allison Clements to examine the growing backlash against data center development across the United States. The series will explore how communities are increasingly rejecting data centers due to concerns over water and energy consumption, with cities and counties passing development bans at record rates, potentially impacting the expansion plans of technology companies dependent on AI infrastructure.",
+      "keyTakeaways": [
+        "Data center development is facing unprecedented regulatory and community pushback, with multiple jurisdictions implementing bans\u2014this signals rising operational risks for tech companies scaling AI infrastructure and suggests capital deployment for new data center projects will face significant friction and delays.",
+        "The involvement of ON.energy as launch sponsor and FERC expertise indicates the energy grid constraints and utility management are becoming critical investment considerations for the AI/cloud computing sector, potentially creating opportunities in grid modernization and alternative energy solutions.",
+        "The macro implication is that hyperscaler expansion may decelerate in certain regions, forcing companies to explore alternative locations or technologies; this could reshape the competitive landscape for data center REITs and shift capital toward companies solving water/energy efficiency in computing."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Introducing Our New Podcast: Load Bearing"
+    },
+    {
+      "id": "34c1d3d4",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The PJM capacity market faces acute stress with costs surging from $2.2 billion to $16 billion in three years, creating urgent demand for battery energy storage systems at commercial and industrial (C&I) sites. Voltus and Google are pioneering bring-your-own-capacity (BYOC) arrangements where large new loads fund battery capacity directly, making distributed energy resources bankable. C&I facilities represent over 60% of U.S. electricity use but remain significantly underdeployed for battery storage, presenting a substantial market opportunity for rapid capacity additions.",
+      "keyTakeaways": [
+        "BYOC models unlock capital for distributed battery deployment by coupling new power demand with capacity funding, suggesting a viable path to bankability that could accelerate C&I battery adoption across the U.S.",
+        "The 627% capacity cost increase in PJM within three years signals a critical infrastructure bottleneck with significant arbitrage opportunities for companies that can rapidly deploy distributed storage at scale.",
+        "C&I sites representing 60% of electricity consumption are vastly underutilized for battery storage, indicating a multi-gigawatt addressable market opportunity as utilities rethink traditional substation-centered infrastructure models."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Why aren't there more batteries at C&I sites?"
+    },
+    {
+      "id": "e506fdc1",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-16",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia's former CEO Jensen Huang functioned as a \"one-person coordination function\" across the AI ecosystem, not just designing chips but lending money to buyers, backing data center projects, and investing in software companies\u2014a strategy that propelled Nvidia to a $5 trillion peak valuation. The newsletter examines how Nvidia has become a major investor in energy and climate-adjacent startups like Atomic Canyon, often simultaneously serving as both investor and vendor, a dual role that could face disruption under new leadership and reshape the energy sector's capital flows.",
+      "keyTakeaways": [
+        "CEO transitions at mega-cap tech companies can trigger sector-wide capital allocation shifts: watch whether Nvidia's new leadership maintains Huang's aggressive venture financing strategy across AI and energy infrastructure, as pullbacks could starve promising cleantech startups of crucial early funding.",
+        "Nvidia's dual investor-vendor relationships with energy startups (like Atomic Canyon) create alignment incentives but also concentration risk; competitors and customers should assess whether this ecosystem financing model persists or gets dismantled under new CEO.",
+        "The AI boom's energy demands are creating a hype cycle in nuclear and clean energy startups, but this growth may depend on continued Nvidia venture capital and preferential chip access\u2014making the chip maker's strategic priorities a critical bellwether for the energy sector's attractiveness to institutional capital."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Nvidia\u2019s Climate Tech Web"
+    },
+    {
       "id": "593655b9",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24729,17 +24909,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 145
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 570
+      "count": 146
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 529
+      "count": 534
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 573
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 40
     },
     {
       "name": "Fintech",
@@ -24750,12 +24935,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 33
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 39
     }
   ],
-  "lastUpdated": "2026-11-16T16:37:33.148220Z"
+  "lastUpdated": "2026-11-17T16:35:27.522822Z"
 }
