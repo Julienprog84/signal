@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "10649b10",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-18",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French cloud infrastructure company OVHcloud launched its first AI model called 'Olala' on Hugging Face, targeting 100 million users. Meanwhile, French fintech unicorn Qonto secured its banking license after nine years, enabling it to offer loans and savings products. In robotics, Genesis AI raised $500 million in Series A funding from Nvidia, Samsung, Zoom, and other investors to scale its generalist robot deployment.",
+      "keyTakeaways": [
+        "OVHcloud's AI model launch signals European tech giants entering the generative AI race with infrastructure-native solutions, potentially challenging US-dominated AI platforms through open-source accessibility via Hugging Face.",
+        "Qonto's banking license represents a critical inflection point for European fintech\u2014regulatory approval enables diversified revenue streams beyond payments, increasing unit economics and competitive moats against traditional banks.",
+        "Genesis AI's $500M Series A demonstrates institutional investor conviction in embodied AI and robotics as infrastructure-level opportunities, with strategic backing from hardware giants suggesting integration into commercial ecosystems within 2-3 years."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "18.11 - OVHcloud d\u00e9voile son premier mod\u00e8le d'IA"
+    },
+    {
+      "id": "9865de6d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity firms are holding nearly 4,600 portfolio companies worth $860 billion with no clear exit strategy, creating what PitchBook calls a 'zombie backlog.' The report identifies which sectors and vintage years contain the highest concentration of stuck assets and analyzes how PE firms are extending hold periods, while revealing emerging opportunities as these companies face forced liquidation or restructuring.",
+      "keyTakeaways": [
+        "PE's zombie portfolio represents a significant untapped deal flow opportunity\u2014nearly 4,600 stuck companies worth $860B could become acquisition targets or secondary sale candidates as holding periods extend beyond typical exit windows",
+        "Understanding which deal vintages and sectors are most congested allows investors to identify undervalued assets likely to face forced exits, enabling strategic positioning ahead of a potential wave of secondary transactions",
+        "The concentration of stranded PE assets suggests structural challenges in the current exit environment, potentially signaling longer holding periods across the industry and reduced returns on committed capital\u2014critical context for LP capital allocation decisions"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Making the most of PE's zombie problem"
+    },
+    {
+      "id": "41c0e533",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic is pricing its IPO today with expectations to reach a $1.5 trillion valuation, though analysts estimate $1.42 trillion based on revenue growth and token price assumptions. Meanwhile, private equity deployment has dramatically shifted from software to hard assets, with HALO businesses (power generators, utilities, grid equipment) capturing a record 22.7% of PE deal value in 2026 while software fell to 9.0%, a 14-point gap driven by the SaaS downturn and strong HALO exit multiples. Nvidia signaled it will become more selective with its AI infrastructure investments, potentially tightening capital availability for startups and frontier labs that have relied on the chipmaker's balance sheet.",
+      "keyTakeaways": [
+        "Anthropic's IPO valuation hinges on assumptions about token price depreciation\u2014at $1.5T valuation, annual returns barely exceed bond yields, meaning significant downside risk if AI monetization slows faster than expected.",
+        "PE capital is fleeing software for physical assets with hard-to-replicate value; this structural rotation suggests venture investors should prepare for extended software fundraising headwinds and limited exit multiples in SaaS.",
+        "Nvidia's pivot to disciplined investment criteria signals the AI infrastructure financing cycle is normalizing\u2014startups can no longer count on major chip supplier backing and must secure capital from traditional VCs or strategic investors with higher hurdle rates."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "Claude, price my stock"
+    },
+    {
+      "id": "b2aa01ff",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia doubled its earnings in Q3 2024, reporting $116 billion in revenue with 103% year-over-year growth and projecting $130 billion for Q4, potentially strengthening founder Jensen Huang's position to return as CEO despite recent personal scandals. The Trump administration is reassessing permits for offshore wind projects like EDF Renewables' Atlantic Shores South despite bipartisan permitting reform, signaling continued regulatory headwinds for the renewable energy sector.",
+      "keyTakeaways": [
+        "Nvidia's exceptional earnings growth ($116B revenue, doubling YoY) provides financial ammunition for internal leadership battles and validates the AI infrastructure investment thesis, though hyperscaler debt concerns persist around data center ROI.",
+        "Offshore wind project permitting remains vulnerable despite legislative progress; investors should expect continued regulatory friction under current administration policies regardless of bipartisan agreements.",
+        "AI chip dominance correlates directly with clean energy infrastructure buildout\u2014Nvidia's trajectory as a 'bellwether for AI industry health' has downstream implications for VPP (virtual power plant) adoption and grid modernization investments mentioned in the headline."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Huang\u2019s Win"
+    },
+    {
+      "id": "5347b742",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia reported a blockbuster quarter with $115.8 billion in revenue and raised its fiscal 2028 growth forecast to 75%, but the leadership transition from Jensen Huang to interim CEO Colette Kress raises critical questions about the company's future dealmaking strategy. Under Huang, Nvidia invested in 126 startups this year, acquired Hugging Face for $13 billion, and helped spearhead a $500 billion AI infrastructure financing initiative with major financial firms\u2014a dealmaking spree that Kress signaled would become more \"disciplined\" and \"thoughtful.\"",
+      "keyTakeaways": [
+        "Nvidia's new interim CEO Kress has signaled a pullback from Huang's aggressive venture investment and financing activities, which directly threatens AI startup funding pipelines that have grown accustomed to Nvidia's deep-pocketed support and strategic backing.",
+        "The $500 billion AI infrastructure financing initiative with Apollo, BlackRock, Blackstone, Goldman Sachs, and KKR remains in negotiation with no pause announced\u2014but Kress's more cautious stance suggests Nvidia's role and capital commitments in this mega-fund could be significantly constrained.",
+        "Nvidia's shift from \"central bank of AI\" dealmaker to operationally disciplined CFO-led company marks a potential inflection point for the entire AI startup ecosystem, which has relied on the chipmaker as both a strategic investor and financial partner in an era of explosive but capital-intensive growth."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "Nvidia\u2019s next act"
+    },
+    {
+      "id": "2bfc7443",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-18",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "Benjamin McKenzie, director of the film 'Everyone Is Lying To You For Money' and co-author of 'Easy Money: Cryptocurrency, Casino Capitalism, and the Golden Age of Fraud,' discusses major failures and fraud in the cryptocurrency sector, including interviews with FTX founder Sam Bankman-Fried and Celsius CEO Alex Mashinsky. The podcast explores how crypto's promised narrative of financial inclusion for the underbanked has failed to materialize, while addressing industry security breaches such as Binance's record $6.3 billion hack.",
+      "keyTakeaways": [
+        "Crypto industry is built on deceptive narratives: McKenzie's work documents how the cryptocurrency sector systematically misrepresents itself to investors and consumers, with major players like FTX and Celsius using access and inclusion rhetoric to mask casino-like speculation and fraud.",
+        "Security and custody risks remain systemic: The Binance hack represents an existential challenge to crypto infrastructure, suggesting that institutional-grade security in decentralized finance remains unresolved despite multi-billion dollar platforms.",
+        "Regulatory and reputational reckoning accelerating: High-profile interviews with convicted/disgraced founders indicate the crypto sector is entering a phase of accountability and documentation that will shape investor confidence and regulatory frameworks for years."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 43,
+      "originalTitle": "Everyone Is Lying To You For Money"
+    },
+    {
+      "id": "a4584888",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-18",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's IPO pricing signals continued investor appetite for AI despite broader pullback concerns, while Federal Reserve officials acknowledge potential rate increases driven by AI sector dynamics and monitor leverage within the industry. Separately, Litmus Music's $475 million funding round from KKR and Carlyle suggests persistent Wall Street interest in artist royalty acquisitions, while market observers note selective mini-bubbles in AI capital allocation and a healthier IPO market than headlines suggest.",
+      "keyTakeaways": [
+        "The Fed is actively monitoring how AI companies finance themselves but hasn't detected problematic leverage or complex financial structures yet\u2014this regulatory clarity may actually support continued capital deployment into AI infrastructure and services",
+        "Goldman Sachs' investment banking leadership confirms AI isn't a broad bubble but acknowledges capital has outpaced revenue in specific subsectors; investors should focus on discriminating between fundamentally sound AI plays and speculative mini-bubbles rather than broad sector rotation",
+        "Rebranding matters: climate tech investors are successfully repositioning portfolios as 'energy' and 'advanced manufacturing' plays to attract capital and avoid stigma, suggesting investors should evaluate underlying business models rather than sector nomenclature when assessing energy transition opportunities"
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: What we learned"
+    },
+    {
+      "id": "0f8b2532",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-17",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Native American tribal nations have emerged as critical power brokers in Senate negotiations over a bipartisan permitting bill, surpassing environmental groups in influence. The central dispute involves changes to Section 106 of the National Historic Preservation Act, which requires federal consultation with tribes before permitting projects on culturally significant lands\u2014protections that extend beyond reservation boundaries to public and private property. The bill's evolving amendments would impose timelines and reduce consultation scope, potentially weakening tribal sovereignty recognition through one of the few federal mechanisms that formally acknowledges it.",
+      "keyTakeaways": [
+        "Tribal consultation requirements represent a material regulatory bottleneck for major infrastructure and energy projects; investors in permitting-dependent sectors should monitor how tribes leverage their newfound negotiating position, as their approval could become a prerequisite cost for project development.",
+        "The shift in permitting negotiations from environmental groups to tribal nations signals a rebalancing of political power that could reshape clean energy deployment strategy\u2014capital allocation toward projects with strong tribal partnerships may face lower permitting risk than those without.",
+        "The National Historic Preservation Act amendments represent a broader test of whether the Biden administration's elevation of tribal sovereignty (exemplified by Deb Haaland's Interior Secretary appointment) will withstand legislative pressure, with implications for how federal agencies weigh indigenous interests against energy transition timelines."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: How Tribes Became Permitting Power Players"
+    },
+    {
       "id": "fdfb9b6a",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -24909,17 +25053,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 146
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 534
+      "count": 147
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 573
+      "count": 577
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 536
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 60
     },
     {
       "name": "Strategy & Thesis",
@@ -24927,15 +25076,10 @@
       "count": 40
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 59
-    },
-    {
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 33
     }
   ],
-  "lastUpdated": "2026-11-17T16:35:27.522822Z"
+  "lastUpdated": "2026-11-18T16:04:43.861590Z"
 }
