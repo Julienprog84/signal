@@ -1,6 +1,168 @@
 {
   "newsletters": [
     {
+      "id": "5f0c139e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-19",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France generated over 6,500 new tech entrepreneurs in 2026, according to Atomico's annual report presented at Slush, signaling a more positive year for European tech. The newsletter also covers a \u20ac30 million funding round for Remanence, an AI startup founded by H Company's former CTO that helps enterprises convert agent-generated data into specialized models, backed by notable entrepreneurs including the founders of Mirakl and Datadog.",
+      "keyTakeaways": [
+        "France's tech entrepreneurship is accelerating with 6,500+ new founders in 2026, suggesting strengthening venture formation dynamics across continental Europe that investors should monitor for pipeline opportunities.",
+        "Data-to-AI model conversion tools are attracting significant capital ($30M) from prominent VCs, indicating investor confidence in enterprise AI infrastructure for competitive model development.",
+        "European tech ecosystem shows cyclical improvement year-over-year, potentially signaling better exit environments and return profiles for early-stage VC investors in the region."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "19.11 - La France a vu na\u00eetre plus de 6 500 nouveaux entrepreneurs de la tech en 2026"
+    },
+    {
+      "id": "4d73cf62",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic completed the largest IPO ever, raising $81.3 billion at $83 per share and achieving a $1.5 trillion valuation, surpassing SpaceX's previous record and vaulting the company ahead of OpenAI in total capital raised. PE investors are expanding into family law with Cordell & Cordell, the nation's largest divorce firm, seeking outside investment, while mid-market PE funds are increasingly attracting LP capital through co-investment strategies.",
+      "keyTakeaways": [
+        "Anthropic's massive IPO success at a premium valuation signals strong public market appetite for AI infrastructure plays despite recent tech selloffs, potentially opening the door for other AI companies to pursue public listings in 2027.",
+        "The divorce law sector represents a new PE consolidation opportunity with countercyclical revenue characteristics and scalable economics, particularly attractive for high-net-worth family matters.",
+        "Mid-market PE funds ($1B-$5B) are gaining competitive advantage through co-investment offerings, suggesting a shift in capital allocation as LPs seek diversification away from mega-funds and prefer tiered investment access."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "The biggest IPO ever"
+    },
+    {
+      "id": "da0599a8",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic, the Claude AI maker, is going public on Nasdaq under ticker ANT at an expected price north of $80, marking the first frontier AI lab to achieve public company status and providing a concrete valuation metric for assessing AI progress claims. The newsletter also covers Trump administration priorities around securing America's global natural gas infrastructure and nuclear power expansion ahead of a trilateral summit with China and Russia, alongside climate-driven disruptions in Thailand, Australia, and California.",
+      "keyTakeaways": [
+        "Anthropic's IPO pricing ($80-$85) establishes the first public market benchmark for frontier AI valuations; investors should monitor post-IPO performance as a barometer for AI sector maturity and whether the market rewards current AI capabilities versus future-promised progress.",
+        "The Trump administration is actively locking in long-term gas infrastructure deals and expansion\u2014import terminals already operational with more coming\u2014which represents a structural bet against energy transition that could face headwinds from climate pressures and geopolitical shifts.",
+        "Concurrent climate disasters (Thailand flooding, Australian heat records, California storms) underscore the tension between near-term energy infrastructure buildout and accelerating climate costs, creating both investment risks in legacy fuel infrastructure and opportunities in climate adaptation and resilience sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Anthropic\u2019s Moment"
+    },
+    {
+      "id": "da763c4f",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "U.S. startups raised $42 billion in Series A funding through October 2026, a 60% year-over-year increase, yet the number of companies receiving funding has remained relatively flat at around 1,200 deals annually. While mega-rounds like Mirendril's $1 billion and TypeSafe AI's $870 million signal larger checks, the real story is that Series A rounds have inflated due to higher operating costs, expensive talent concentration in San Francisco, skyrocketing compute expenses, and investor expectations that founders demonstrate more traction\u2014typically $1 million ARR\u2014before funding.",
+      "keyTakeaways": [
+        "Capital concentration is accelerating: funding dollars are growing 60% year-over-year while deal count stagnates, meaning fewer founders access capital and winners capture disproportionate resources, creating a bifurcated market of mega-rounds versus seed-stage bottlenecks.",
+        "Series A bar has shifted up dramatically\u2014what once qualified as a Series C now barely qualifies as Series A, requiring founders to reach $1M+ ARR before raising, fundamentally changing the runway and risk profile for early-stage companies.",
+        "Ultra-pedigree founder advantage is widening: experienced teams from Google, Anthropic, and OpenAI can raise massive rounds on 'a deck and nothing else,' while typical founders must demonstrate far more progress, suggesting talent pedigree now rivals product-market fit as a funding criterion."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "A billion dollars. For starters"
+    },
+    {
+      "id": "f0813c90",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-19",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic completed the largest IPO ever at $83.5 billion, raising $81.35 billion after pricing 980 million shares at $83 per share, plus a concurrent $26 billion private placement. The company achieved a fully diluted valuation around $1.5 trillion despite regulatory headwinds and competitive pressure from OpenAI, which remains private. Separately, Palo Alto Networks is acquiring Applied Compute for $4.5 billion to address enterprise concerns about AI safety through customized open-source models.",
+      "keyTakeaways": [
+        "Anthropic's massive IPO signals strong institutional demand for AI infrastructure despite macro uncertainty and regulatory risks, creating a liquidity event that will distribute billions to early-stage VC investors and mint new angels who will reinvest into the startup ecosystem.",
+        "The IPO timing matters: Anthropic beat OpenAI to public markets, gaining access to public capital for compute infrastructure while its competitor remains private and unaccountable to shareholder scrutiny\u2014a critical advantage in the AI arms race.",
+        "Enterprise AI deployment is shifting from pure model capability toward safety and customization concerns, as evidenced by Palo Alto's $4.5B bet on open-weight models; this suggests the next wave of AI M&A will consolidate around enterprise trust and control, not just raw model performance."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Claude crushes it"
+    },
+    {
+      "id": "bf888c55",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "This newsletter aggregates three reports on climate and energy sectors for 2027: Watershed's guide on sustainability policy compliance covering multiple reporting frameworks and regulatory requirements; Shoals Technologies Group's analysis of power infrastructure trends driven by AI-driven electricity demand and battery storage scaling; and Heatmap/Embold Research's voter sentiment study on clean energy messaging strategies. Together, these reports signal growing regulatory complexity, infrastructure investment acceleration, and the importance of community engagement in clean energy deployment.",
+      "keyTakeaways": [
+        "2027 sustainability reporting will require flexible systems capable of managing multiple frameworks simultaneously\u2014creating opportunity for compliance software and consulting services targeting enterprises facing fragmented regulatory requirements",
+        "AI's power consumption surge is driving infrastructure investment in battery storage, on-site generation, and electrical design optimization\u2014potential capital deployment areas for infrastructure funds and renewable energy developers",
+        "Public perception and voter messaging around affordability are critical to project viability; companies with sophisticated community engagement strategies will have competitive advantages in permitting and local approval processes"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Reports: Sustainability Policy in 2027, Trends in Power Infrastructure, and Communicating about Clean Energy.\u00a0"
+    },
+    {
+      "id": "b3d3a7c3",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Virtual power plants are transitioning from a theoretical concept to regulatory reality, with Hawaii, Virginia, and New Jersey launching or approving VPP programs in 2024-2025. The investment opportunity lies in shifting VPP design from device-centric coordination to household-based models that can defer or avoid costly infrastructure upgrades, moving dispatch operations from system peaks to everyday grid operations as distribution spending accelerates.",
+      "keyTakeaways": [
+        "VPP market is entering an inflection point: regulatory frameworks are now mandating programs (New Jersey's PowerUp NJ launching October 2027), creating guaranteed revenue opportunities for software and hardware providers that can aggregate residential assets at scale.",
+        "Infrastructure deferral is the real value driver: utilities face surging distribution costs; well-designed VPPs that prevent or delay feeder and substation upgrades represent billions in capex savings, making VPP platforms essential infrastructure investments rather than optional efficiency tools.",
+        "The hardware refresh cycle creates a business model risk: devices (EVs, batteries, heat pumps) have 10-15 year lifespans, but program designs must survive longer; winners will be companies that build durable, device-agnostic orchestration platforms rather than those dependent on specific hardware deployments."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 4,
+      "originalTitle": "Will a VPP still be there in 10 years?"
+    },
+    {
+      "id": "b83c27c3",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Anthropic's IPO debut (ticker: ANT) on Nasdaq marks a potentially historic moment for AI commercialization, with the company pricing 825 million shares at $70-78 per share amid mixed market sentiment on AI's sustainability. The company's SEC filing reveals massive infrastructure commitments totaling $895.4 billion, with $69.8 billion planned for the coming year and $447.5 billion expected by 2030, heavily dependent on fossil fuel-powered data centers. Anthropic's prospectus downplays clean energy availability and cost-effectiveness, signaling that utilities and energy companies betting on AI-driven growth should prepare for sustained fossil fuel demand rather than renewable transitions.",
+      "keyTakeaways": [
+        "Anthropic's $895.4B committed infrastructure spend creates a multi-year tailwind for traditional utilities and energy providers, but the company explicitly signals skepticism about clean energy availability and cost competitiveness, making fossil fuel infrastructure plays more attractive than renewable energy suppliers to AI-dependent firms.",
+        "The IPO timing is strategically important: it arrives as investor confidence in the AI boom faces headwinds (Nvidia CEO scandal, midterm data center backlash, construction slowdowns), so a successful Anthropic debut could either validate the secular AI growth thesis or prove premature if fundamentals deteriorate further.",
+        "The massive 15-20 year infrastructure spend ($447.5B by 2030, remainder through 2045) creates long-term revenue visibility for utilities but also regulatory risk\u2014FERC is considering requiring data centers to fund their own grid upgrades, potentially squeezing margins and shifting capital allocation dynamics."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 5,
+      "originalTitle": "Anthropic IPO day"
+    },
+    {
+      "id": "eaffb5d6",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-18",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Senate is voting on the Bipartisan American Affordability and Jobs Act (BAAJA), a permitting reform bill that has secured broad Republican support with nearly all GOP senators voting yes, while Democratic support has fractured with 25 Democrats consistently opposing and several moderates peeling off during final votes. The bill's passage appears likely as it only needs a bare majority, and its politics have revealed geographic divisions among Democrats, particularly between Western senators with tribal ties and Eastern/Midwest lawmakers.",
+      "keyTakeaways": [
+        "BAAJA's near-certain passage signals that permitting reform for energy infrastructure\u2014including transmission\u2014will become law, reducing development timelines and regulatory friction for clean energy and grid modernization projects",
+        "The collapse of Democratic unity on the bill (25 consistent no votes vs. 14 consistent yes votes) suggests the party is fracturing on energy infrastructure, creating opportunities for investors in companies that benefit from faster permitting but also signaling continued political volatility around energy policy",
+        "Geographic splits in voting patterns indicate Western senators prioritize resource development and tribal relations differently than coastal Democrats, suggesting future energy and infrastructure legislation will likely be region-dependent and that Western-focused energy projects may face different political dynamics"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 3,
+      "originalTitle": "Heatmap Daily: Counting the Senate\u2019s Votes on BAAJA"
+    },
+    {
       "id": "10649b10",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25053,17 +25215,17 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 147
+      "count": 148
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 577
+      "count": 580
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 536
+      "count": 541
     },
     {
       "name": "Fintech",
@@ -25081,5 +25243,5 @@
       "count": 33
     }
   ],
-  "lastUpdated": "2026-11-18T16:04:43.861590Z"
+  "lastUpdated": "2026-11-19T16:10:59.414404Z"
 }
