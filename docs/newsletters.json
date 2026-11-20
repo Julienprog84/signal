@@ -1,6 +1,186 @@
 {
   "newsletters": [
     {
+      "id": "c23e514e",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-20",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Oussama Ammar, co-founder of The Family European VC accelerator, was convicted to 16 months in prison by British courts on November 3rd and plans to appeal. In parallel developments within the European tech ecosystem, Armand Thiberge (founder of unicorn Brevo) raised \u20ac7.7 million for Stryx AI, his defense-tech startup focused on drone interception technology, backed by Jacques Veyrat's holding company.",
+      "keyTakeaways": [
+        "Leadership disruption risk in European VC: The Family, a prominent accelerator in the ecosystem, faces reputational and operational uncertainty following its co-founder's criminal conviction, potentially affecting portfolio company support and institutional credibility.",
+        "Defense-tech emerging as parallel venture track: Serial entrepreneurs like Thiberge are leveraging unicorn success (Brevo) to pursue higher-margin defense applications with strategic backing, signaling investor appetite for European sovereign tech capabilities beyond consumer SaaS.",
+        "Regulatory tightening on digital influence: New French rules requiring content creators to maintain political pluralism during elections represent broader trend of regulatory constraints on digital platforms and creators\u2014relevant for evaluating late-stage consumer internet and media tech investments."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "20.11 - Oussama Ammar condamn\u00e9 \u00e0 16 mois de prison ferme"
+    },
+    {
+      "id": "0a64a104",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Brattle Group's new research finds that utility-scale virtual power plants (VPPs) can reduce household energy rate increases by more than half over a five-year period. The study, commissioned by Everyday Electric, quantifies benefits across utility ecosystems and translates operational efficiencies into direct cost savings for consumers. A live forum on December 9 will present findings and practical implementation strategies for regulators and utilities.",
+      "keyTakeaways": [
+        "VPP technology demonstrates concrete ROI potential: 50%+ reduction in rate increases represents significant value creation that policymakers can leverage to justify investment in distributed energy infrastructure.",
+        "Mass market adoption accelerators are already in place\u2014millions of households have smart thermostats, EV chargers, and rooftop solar/batteries ready for aggregation, suggesting VPP deployment barriers are primarily regulatory and commercial rather than technological.",
+        "Policy environment is crystallizing around VPPs as a cost mitigation tool heading into 2027, indicating this sector is transitioning from pilot phase to scaled utility implementation, with potential for infrastructure investment and software/controls platform consolidation."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "Join us live: Can VPPs cut rate increases in half?"
+    },
+    {
+      "id": "1655a383",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Anthropic's $1.7 trillion IPO, backed by over 300 investors including Jaan Tallinn and Singapore's sovereign wealth fund, marks a major validation of AI's public market entry. Simultaneously, LP pressure is mounting on traditional 2-and-20 fee structures, with 31% of investors preferring profit-linked fees and 45% expecting AI-driven efficiencies to lower management fees. The Marsh-Wilshire OCIO merger signals broader industry consolidation driven by aging founders and succession challenges, creating a barbell market favoring mega-providers and specialized boutiques.",
+      "keyTakeaways": [
+        "PE managers face an urgent fee renegotiation risk: only 45% of fund managers defend 2-and-20 versus 21% of LPs, with nearly half of investors expecting cost savings from AI to be passed through via lower management fees.",
+        "OCIO consolidation is reshaping LP relationships and contract terms\u2014the Marsh-Wilshire deal adds $221B AUM and $1.6T in assets under advisement, raising immediate questions about fee changes and fiduciary obligations for existing clients.",
+        "AI sector IPO success is creating momentum for private capital deployment, but LP expectations around fee transparency and AI-driven productivity gains will likely force structural reckoning across PE and alternatives management within 18-24 months."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "The ANT trail to $1.7T"
+    },
+    {
+      "id": "04c65b3a",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's November 19, 2026 IPO at a $1.27-1.76 trillion valuation marks a watershed moment for AI as a commercially viable industry, with the five-year-old company closing up 17% despite broader market volatility. Major VC backers including Lightspeed Venture Partners and Iconiq Capital\u2014which invested over $6 billion combined\u2014are now positioned to cash out, while the company faces new public market scrutiny on unit economics, inference costs, and capital efficiency that will reset expectations for AI startups.",
+      "keyTakeaways": [
+        "AI frontier labs are now subject to public market discipline: Anthropic's IPO forces transparency on previously private AI economics, including Claude subscriptions, enterprise deals, and inference costs. This will create a new baseline for evaluating smaller AI players' defensibility and unit economics.",
+        "VC returns are maturing: Early-stage backers like Lightspeed and Iconiq are transitioning from private venture capital to public market liquidity, signaling that the AI infrastructure layer has moved from exploration to revenue-generating business model requiring proof of durable competitive advantages.",
+        "Market sentiment on AI regulation and safety is embedded in valuations: Anthropic's mixed first-day trading despite massive IPO demand reflects broader market anxiety about AI's existential risks and regulatory uncertainty, suggesting investors now demand transparency and societal participation in AI governance as part of valuation metrics."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 8,
+      "originalTitle": "The Anthropic bellwether"
+    },
+    {
+      "id": "3dbf7b89",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Senate passed the Bipartisan American Affordability and Jobs Act (BAAJA) with a 62-33 vote, clearing major permitting reforms designed to accelerate clean energy infrastructure deployment across hundreds of projects, though the bill's passage in the House remains uncertain due to opposition from both progressives concerned about fossil fuel provisions and tribal groups over inadequate environmental protections. The legislation, backed by renewable energy trade associations like American Clean Power, aims to streamline transmission line construction and rural energy development but faces headwinds from anti-fossil fuel conservation groups and potential defections from lame-duck Republicans.",
+      "keyTakeaways": [
+        "Senate passage of BAAJA creates near-term visibility for clean energy project financings and infrastructure investments, particularly in transmission and rural electrification, though House passage with two-thirds majority requirement remains a significant execution risk that could delay capital deployment.",
+        "The permitting reform removes regulatory bottlenecks that have constrained renewable energy buildout, potentially accelerating returns for investors in wind, solar, and grid modernization companies, but environmental riders and tribal objections suggest future legislative battles could impose additional compliance costs.",
+        "Political fragmentation around the bill\u2014with progressives, conservatives, and tribal interests all objecting\u2014signals that sustained clean energy policy support may be unpredictable, making regulatory risk a key factor in long-term energy infrastructure investment thesis."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "The Senate Permits"
+    },
+    {
+      "id": "19a3cda2",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-11-20",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "Sila Nanotechnologies' $1 billion supply deal with Panasonic Energy validates the emerging market for high-performance silicon anode materials, particularly for defense, electric aircraft, and data center applications where energy density requirements justify premium pricing over traditional graphite. Despite EV market slowdown, silicon-based anodes are carving out profitable niches in specialized sectors, with industry analysts projecting engineered high-silicon anode materials could capture 3% of the total anode market by 2035.",
+      "keyTakeaways": [
+        "Silicon anode materials represent a defensible market segment with pricing power in mission-critical applications (defense, aviation, data centers) even as commodity EV battery markets consolidate around low-cost chemistries\u2014a valuable differentiation pattern for materials technology investors.",
+        "Sila's $1B deal validates a capital-intensive commercialization pathway for nano-materials; similar monetization models may apply to competing anode firms (Group14 Technologies, Nexeon) and adjacent nanomaterials plays mentioned in the newsletter like AI chip cooling solutions.",
+        "The 3% market share projection by 2035 suggests silicon anodes will remain specialty/premium tier rather than mass-market, limiting total addressable market but supporting higher margins for successful players in this performance-tier niche."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 189: $1B deal signals momentum for silicon battery anodes"
+    },
+    {
+      "id": "d07dd878",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-20",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's IPO raised $93.54 billion, breaking SpaceX's previous record after underwriters exercised greenshoe options, though shares declined 9% on opening day despite an initial pop. The company opted for traditional bookbuilding price discovery rather than SpaceX's fixed-price approach, gaining early confidence from mutual fund allocation requests on day one. Infrastructure permitting reform passed the Senate with bipartisan support and is expected to pass the House, potentially transforming energy infrastructure development and data center deployment costs.",
+      "keyTakeaways": [
+        "Anthropic's IPO pricing reflected a 'Goldilocks' strategy\u2014modest enough pop to satisfy day-one buyers but avoiding the optics of leaving billions on the table, though subsequent 9% decline creates near-term hiring and morale risks similar to Facebook's post-IPO experience.",
+        "The mutual fund participation on day one of Anthropic's bookbuilding signaled unusually strong institutional confidence early, contrasting with typical hedge-fund-focused demand and suggesting broader asset class appetite for AI infrastructure plays.",
+        "BAAJA permitting reform passage could materially reduce infrastructure deployment timelines and costs across energy and data center sectors, creating significant capital allocation implications for investors betting on AI compute infrastructure expansion."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: ANT march"
+    },
+    {
+      "id": "cbf554b1",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Power Resilience Forum 2027 announced new speakers from major energy infrastructure organizations including FPL, NERC, EPRI, and Lawrence Berkeley National Laboratory. The event, scheduled for February 3-5, 2027 in San Diego, is expanding its focus beyond extreme weather resilience to address cybersecurity, physical infrastructure vulnerabilities, and grid economics, signaling growing industry consensus around multifaceted grid modernization challenges.",
+      "keyTakeaways": [
+        "Leadership from critical grid operators and reliability organizations are publicly prioritizing resilience across four dimensions (weather, wildfire, cybersecurity, infrastructure), indicating substantial capital deployment opportunities in grid modernization and risk management solutions.",
+        "The shift from single-issue resilience (extreme weather) to comprehensive risk modeling suggests utilities and grid operators are maturing their strategic planning\u2014potential tailwinds for infrastructure tech, software platforms, and risk analytics vendors serving the energy sector.",
+        "High-level participation from EPRI, NERC, and utilities like FPL indicates the energy sector is consolidating around shared resilience frameworks, creating standardization opportunities for technology providers and potential M&A targets in grid resilience and cybersecurity."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "New speakers announced for Power Resilience Forum 2027!"
+    },
+    {
+      "id": "6957944c",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Meta has joined Microsoft in securing deals with clean materials companies Fortera, Sublime, and Stegra, signaling growing corporate demand for sustainable materials in manufacturing and infrastructure. This trend reflects major tech companies' efforts to decarbonize their supply chains and meet climate commitments, potentially creating a significant market for clean materials startups.",
+      "keyTakeaways": [
+        "Major tech giants (Microsoft, Meta) are becoming anchor customers for clean materials startups, validating the business model and de-risking these companies for follow-on funding rounds",
+        "Corporate procurement power is driving capital allocation toward climate tech\u2014investors should monitor which clean materials companies can secure multiple Fortune 500 contracts as proof of market traction",
+        "The concentration of deals among Fortera, Sublime, and Stegra suggests these three companies have emerged as category leaders; this competitive consolidation may limit funding opportunities for other clean materials players in the near term"
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 2,
+      "originalTitle": "Meta Joins the Clean Materials Race"
+    },
+    {
+      "id": "ba72a976",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-19",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The International Energy Agency's 2026 World Energy Outlook identifies the Iran-triggered Middle East conflict as creating the largest oil supply shock in history, surpassing all previous disruptions since 1970 and posing an unprecedented energy security threat. The newsletter uses this report alongside Grand Theft Auto VI's fuel pricing ($4.29/gallon for gasoline, $5.22 for diesel) to frame discussions about the present and future energy system, while noting Meta's entry into the clean materials market.",
+      "keyTakeaways": [
+        "The IEA warns that current Middle East disruptions represent the largest oil supply shock ever recorded, dwarfing previous crises\u2014this signals extreme commodity price volatility and potential stagflation risks that should factor into energy infrastructure and diversification investments.",
+        "Meta's move into clean materials signals major tech companies are increasingly vertical-integrating into climate solutions and green supply chains, creating both competition and partnership opportunities for traditional energy and materials companies.",
+        "Energy pricing simulation gaps (IEA modeling vs. real-world Florida prices) highlight model uncertainty; investors should discount traditional energy forecasts and consider hedging strategies given both geopolitical supply shocks and unpredictable demand shifts from tech sector demand for clean energy."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Grand Theft Energy Agency"
+    },
+    {
       "id": "5f0c139e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25215,17 +25395,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 148
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 580
+      "count": 149
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 541
+      "count": 546
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 583
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 34
     },
     {
       "name": "Fintech",
@@ -25236,12 +25421,7 @@
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 40
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 33
     }
   ],
-  "lastUpdated": "2026-11-19T16:10:59.414404Z"
+  "lastUpdated": "2026-11-20T15:51:03.946021Z"
 }
