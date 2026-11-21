@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "4c569814",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-21",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Private equity has dramatically shifted capital from software to infrastructure and hard assets, with US software PE deal value collapsing from $110 billion quarterly in Q3 2025 to $10.7 billion by Q3 2026, while global HALO (heavy assets, low obsolescence) deal value reached $313.1 billion through Q3 2026. This reallocation is driven by AI's massive power demands straining electrical grids and supply chains, favoring patient capital strategies over the rapid financial engineering that defined the software era. Meanwhile, chips and data center investments hit record $53.7 billion year-to-date in 2026, up 64.3% in Q3 alone, demonstrating resilience despite geopolitical volatility and Fed rate hikes.",
+      "keyTakeaways": [
+        "PE sponsors are systematically de-risking by pivoting from software multiples to tangible infrastructure with slow depreciation rates and high replication costs\u2014this is a structural shift, not cyclical rotation, as AI power demand creates sustained tailwinds for energy, grids, and data center construction.",
+        "Capital allocation winners are shifting from operators who excel at rapid add-on strategies to those with deep operating expertise in long-cycle infrastructure projects; firms lacking construction and industrial operations capabilities will struggle in this new playbook.",
+        "Data center and semiconductor deal flow appears insulated from political risk\u2014reaching record investment levels despite Fed tightening and election volatility\u2014suggesting institutional conviction that AI infrastructure buildout transcends policy uncertainty and represents a multi-year secular trend."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 7,
+      "originalTitle": "AI uncertainty hasn't slowed investors"
+    },
+    {
+      "id": "24260e32",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-20",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "A bipartisan permitting reform bill advanced through the Senate this week, though it faces procedural challenges in the House despite Republican control. Meta is joining Microsoft in purchasing clean cement and steel from startups Fortera, Sublime, and Stegra, responding to surging emissions from AI infrastructure buildout. Meanwhile, Anthropic's $80 billion IPO marks a transformative moment for the AI sector's impact on U.S. electricity demand.",
+      "keyTakeaways": [
+        "Permitting reform could unlock significant infrastructure investment, but House procedural dynamics and tribal rights protections remain unresolved\u2014investors should monitor legislative strategy and timeline impacts on clean energy projects.",
+        "Corporate demand from Meta and Microsoft for clean industrial materials signals emerging venture opportunity in decarbonized cement and steel; these startups are capturing first-mover advantage in supplying hyperscalers' decarbonization needs.",
+        "AI's massive electricity consumption is reshaping energy sector economics and driving new demand for both clean power infrastructure and emissions-reduction solutions across industrial supply chains."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Our Top 5 Stories This Week"
+    },
+    {
       "id": "c23e514e",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25393,19 +25429,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 149
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 584
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 546
+      "count": 547
     },
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 583
+      "name": "European VC",
+      "color": "#059669",
+      "count": 149
     },
     {
       "name": "Deep Tech & Science",
@@ -25423,5 +25459,5 @@
       "count": 40
     }
   ],
-  "lastUpdated": "2026-11-20T15:51:03.946021Z"
+  "lastUpdated": "2026-11-21T15:00:10.423334Z"
 }
