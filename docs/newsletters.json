@@ -1,6 +1,42 @@
 {
   "newsletters": [
     {
+      "id": "c2ad5226",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-22",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "VCs are increasingly frustrated by AI-generated pitch emails and investor outreach from founders, with one investor estimating 40-80% of cold inbound is obviously or subtly AI-generated slop. The irony is sharp: the technology VCs backed is now being weaponized by founders in ways that hurt their credibility, with investors viewing poor AI deployment in pitches as a red flag for broader execution and marketing capability. Anthropic's record $81.3 billion IPO validates the AI bet, but the practical reality for portfolio management has become noisier and lower-signal.",
+      "keyTakeaways": [
+        "AI-generated pitch materials are now a credibility killer in fundraising: founders who outsource their core pitch narrative to chatbots are being automatically rejected, suggesting AI deployment has become a proxy for founder authenticity and strategic thinking.",
+        "Signal-to-noise problem creates deal flow friction: 40-80% of cold inbound being low-quality AI content drowns out genuinely differentiated pitches, forcing GPs to invest more time filtering rather than evaluating, which could disadvantage newer or non-traditional founders.",
+        "Defensibility and execution speed are reshaping VC thesis: as software becomes easier to build and copy (4-week incumbent catch-up time vs. 1-year historically), investors are rotating toward hardware and deep tech as more defensible bets, suggesting sector allocation is shifting away from crowded AI-native software."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "AI slop comes back to bite VCs"
+    },
+    {
+      "id": "482f266f",
+      "title": "Fintech Business Weekly",
+      "source": "Jason Mikula",
+      "date": "2026-11-22",
+      "theme": "Fintech",
+      "themeColor": "#0D9488",
+      "region": "Global",
+      "summary": "OneMain Financial has received FDIC approval to charter OneMain Bank, an industrial loan company (ILC) subsidiary, after a 20-month application process. The bank must raise at least $341 million in capital and will originate unsecured personal loans, auto-secured loans, and credit cards funded primarily by brokered deposits, with most receivables sold back to OneMain. The approval raises questions about whether OneMain can succeed with an ILC charter where other fintech lenders like Enova and OppFi have faced challenges.",
+      "keyTakeaways": [
+        "OneMain's ILC charter approval signals continued regulatory openness to fintech lending platforms seeking deposit-funded banking infrastructure, though the 20-month timeline indicates heightened FDIC scrutiny of non-bank lender applications.",
+        "The capital requirement ($341M) and leverage ratio mandate (15%) set material hurdles for profitability; investors should track whether OneMain's loan economics can support both deposit costs and regulatory capital buffers while remaining competitive.",
+        "The comparative success metric against Enova and OppFi suggests the ILC model's viability depends on operational efficiency and deposit gathering capabilities\u2014this approval may signal a bifurcation in fintech lending between well-capitalized players with ILC charters and those remaining non-bank dependent."
+      ],
+      "url": "https://fintechbusinessweekly.substack.com",
+      "readTime": 4,
+      "originalTitle": "OneMain Gets FDIC Nod On ILC Charter"
+    },
+    {
       "id": "4c569814",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -25431,7 +25467,12 @@
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 584
+      "count": 585
+    },
+    {
+      "name": "Fintech",
+      "color": "#0D9488",
+      "count": 61
     },
     {
       "name": "Climate & Energy",
@@ -25449,15 +25490,10 @@
       "count": 34
     },
     {
-      "name": "Fintech",
-      "color": "#0D9488",
-      "count": 60
-    },
-    {
       "name": "Strategy & Thesis",
       "color": "#0891B2",
       "count": 40
     }
   ],
-  "lastUpdated": "2026-11-21T15:00:10.423334Z"
+  "lastUpdated": "2026-11-22T14:58:27.673690Z"
 }
