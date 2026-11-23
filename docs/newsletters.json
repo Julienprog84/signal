@@ -1,6 +1,114 @@
 {
   "newsletters": [
     {
+      "id": "c1f6ecb5",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-23",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Niklas Zennstr\u00f6m, founder of Skype and VC firm Atomico, discusses Europe's potential to build global technology champions during an interview at Slush conference in Helsinki. In parallel, French Tech funding reached \u20ac526 million this week, with Genesis AI's \u20ac455 million Series A representing 87% of total capital deployed across nine startups, signaling concentrated investment in AI infrastructure.",
+      "keyTakeaways": [
+        "Europe possesses sufficient infrastructure and talent to produce globally competitive tech companies, according to a proven founder-investor with exits exceeding $2.6B, suggesting institutional confidence in European venture outcomes despite geographic competition from US and Asia",
+        "AI-driven funding concentration is accelerating: a single Series A round captured 87% of weekly French Tech capital, indicating LP capital is flowing toward mature, capital-intensive AI plays rather than diversifying across early-stage or B2B SaaS opportunities",
+        "European VC ecosystem maturation is validated by both founder sentiment and capital deployment patterns, but the extreme concentration in Genesis AI raises questions about downstream deal flow fragmentation and whether emerging European startups are being starved of growth-stage capital"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 4,
+      "originalTitle": "23.11 - Le fondateur de Skype et d\u2019Atomico se confie \u00e0 Maddyness"
+    },
+    {
+      "id": "1c0ac88c",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Apollo Global Management's introduction of daily pricing for private credit assets has drawn skepticism from competing lenders, who question whether frequent price marks benefit investors with monthly or quarterly redemption windows or merely provide psychological comfort. Meanwhile, venture investors at the Slush conference are increasingly targeting hardware and deep tech startups as defensible alternatives to software, citing AI's rapid commoditization of code and pointing to robotics and drones as areas where venture-timeline commercialization is now viable, with deal value reaching $68.8 billion this year.",
+      "keyTakeaways": [
+        "Daily pricing in private credit may be more marketing than substance: competing managers argue that frequent marks add little value for retail funds locked into monthly or quarterly redemption schedules, suggesting Apollo's transparency push is partly investor psychology rather than operational improvement.",
+        "Deep tech and hardware are emerging as the new defensible VC territory as AI commoditizes software; investors should reweight portfolios away from pure software plays toward robotics, physical AI, and science-driven ventures that have longer moats.",
+        "The robotics and drones sector's $68.8 billion deal value this year signals sustained capital appetite for hard tech, implying that venture dry powder will continue flowing toward hardware and deep tech commercialization rather than traditional software-as-a-service models."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "Apollo peers pooh-pooh pricing"
+    },
+    {
+      "id": "747229ef",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Global climate negotiations collapsed at COP31 in Turkey over disagreements on fossil fuel language, with the EU and nearly 90 nations rejecting a draft agreement backed by Saudi Arabia and other major oil producers, while the U.S. remained absent after withdrawing from the UN Framework Convention on Climate Change. The newsletter also covers critical infrastructure developments including PJM's proposal to accelerate grid interconnection timelines for new generation and large power users like data centers from 18-24 months to 12 months, plus emerging climate impacts including severe droughts in Pacific Island nations and record wildfires in Russia's Yakutia region.",
+      "keyTakeaways": [
+        "The collapse of binding fossil fuel language at COP31 signals prolonged regulatory uncertainty for clean energy investments, potentially delaying carbon pricing mechanisms and transition timelines that underpin green tech valuations.",
+        "PJM's accelerated 12-month interconnection process (versus 18-24 months) could substantially improve project economics for data center operators and renewable developers by reducing pre-revenue holding periods and capital deployment drag, making infrastructure plays more attractive.",
+        "Intensifying climate extremes\u2014tropical cyclones, unprecedented wildfires, and droughts\u2014are driving emergency declarations in vulnerable regions, increasing demand for adaptation infrastructure, disaster resilience solutions, and climate tech funding in emerging markets."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 7,
+      "originalTitle": "COP86\u2019d"
+    },
+    {
+      "id": "cecdb54e",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Anthropic's IPO sparked a broader tech market correction, with the AI bellwether stock rising 17% on day one before dropping 8% by Friday, as the Nasdaq finished down 2.66% year-to-date and major indices entered correction territory. Jensen Huang's unexpected ouster from Nvidia and subsequent earnings beats raised questions about the company's ability to maintain its role as AI's central bank for startups and data center deals, with succession uncertainty persisting. A wave of major cybersecurity incidents\u2014including a $6.3 billion Binance hack and widespread outages at FAA, Microsoft, Chase, Bank of America, Apple, and NSA systems\u2014is expected to trigger intense congressional scrutiny on AI safety, data centers, and cyber infrastructure.",
+      "keyTakeaways": [
+        "The Anthropic IPO and subsequent market volatility signals potential instability in the AI investment thesis; expect heightened due diligence on profitability and unit economics for AI startups as investor sentiment shifts from euphoria to skepticism through year-end.",
+        "Nvidia's leadership vacuum creates uncertainty for the entire AI infrastructure ecosystem\u2014founders relying on Jensen Huang as a guarantor for neoclouds like CoreWeave and Lambda Labs face execution risk; diversifying infrastructure partners is now mission-critical for AI-dependent startups.",
+        "Incoming congressional focus on cybersecurity and data center resilience will drive regulatory tailwinds for enterprise security and infrastructure hardening companies, while potentially creating compliance burdens and capex pressures for data center operators and cloud providers."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 4,
+      "originalTitle": "What just happened?"
+    },
+    {
+      "id": "0d9412a7",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-23",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia reinstated Jensen Huang as president and CEO, sending the stock up 30% and adding $900 billion in market value, with government blessing citing no national security concerns. Separately, CrowdStrike agreed to acquire Zscaler for $43.9 billion in stock, reflecting accelerating cybersecurity consolidation driven by AI-enabled threats, while Sierra raised $1.75 billion at a $30 billion valuation and Databricks pursued a funding round targeting a $225 billion valuation.",
+      "keyTakeaways": [
+        "Huang's return signals potential shift in AI capex spending, though his pre-ouster conservatism on investments suggests the market may not see a return to aggressive venture financing despite the euphoric market reaction.",
+        "Cybersecurity consolidation is accelerating around larger platform players like CrowdStrike, Microsoft, and Palo Alto Networks as companies seek integrated defenses against both AI-enabled threats and AI-discovered vulnerabilities\u2014a potential headwind for smaller standalone security startups.",
+        "The $43.9 billion Zscaler acquisition and ongoing mega-rounds for AI infrastructure plays (Sierra, Databricks) underscore winner-take-most dynamics in both cybersecurity and enterprise AI, with capital concentrating around market leaders and specialized AI agents rather than distributed across the sector."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "\ud83e\ude83 Axios Pro Rata: BoomerHuang"
+    },
+    {
+      "id": "223b3775",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Sunrun is proposing that hyperscalers fund residential solar and battery installations in communities near proposed data centers as a strategy to reduce local opposition and accelerate grid interconnection. With 75 U.S. data center projects worth $130 billion blocked or delayed in Q1 2026 due to community opposition and grid capacity constraints, this approach would create distributed generation capacity while providing residents with lower energy costs and improved resilience.",
+      "keyTakeaways": [
+        "Data center developers face a $130 billion problem: local opposition and grid interconnection delays are blocking major projects, creating a financial incentive for alternative solutions like community energy investments.",
+        "Hyperscaler capital could flow into distributed residential solar and battery markets as a de facto community relations and grid infrastructure strategy, potentially reshaping how capital flows into distributed energy resources.",
+        "This signals growing recognition that centralized infrastructure projects face mounting community friction, pushing major tech companies to consider decentralized energy solutions as a business requirement rather than corporate social responsibility."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 3,
+      "originalTitle": "The case for hyperscalers funding home batteries"
+    },
+    {
       "id": "c2ad5226",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -25465,24 +25573,24 @@
   ],
   "themes": [
     {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 150
+    },
+    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 585
+      "count": 588
+    },
+    {
+      "name": "Climate & Energy",
+      "color": "#D97706",
+      "count": 549
     },
     {
       "name": "Fintech",
       "color": "#0D9488",
       "count": 61
-    },
-    {
-      "name": "Climate & Energy",
-      "color": "#D97706",
-      "count": 547
-    },
-    {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 149
     },
     {
       "name": "Deep Tech & Science",
@@ -25495,5 +25603,5 @@
       "count": 40
     }
   ],
-  "lastUpdated": "2026-11-22T14:58:27.673690Z"
+  "lastUpdated": "2026-11-23T18:52:28.596129Z"
 }
