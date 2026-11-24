@@ -1,6 +1,150 @@
 {
   "newsletters": [
     {
+      "id": "b7eb2b03",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-24",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "Jensen Huang has been reinstated as Nvidia CEO following a two-week leadership crisis, with Trump administration support. European venture capital is showing mixed sentiment at the Slush conference in Helsinki, where 6,358 startups met 3,248 investors, while entrepreneur Thibaud Elzi\u00e8re launches a 200-company acceleration program at WAT, a 6,000 m\u00b2 incubator in Brussels opening January 2027.",
+      "keyTakeaways": [
+        "Nvidia's leadership stability has been restored at a critical moment for AI chip dominance, with political backing signaling continued government support for the semiconductor sector.",
+        "European VC funding activity remains robust with Slush attracting record startup participation, but investor sentiment is fragile amid macro uncertainty and competing opportunities like Anthropic's IPO.",
+        "Brussels is consolidating as a secondary European startup hub through large-scale incubator infrastructure (WAT), creating geographic diversification from traditional Western European VC centers."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "24.11 - Jensen is back !"
+    },
+    {
+      "id": "f515e925",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Nvidia is tightening financial standards for neocloud providers\u2014specialized cloud companies that rent its chips to AI labs\u2014by requiring them to close external financing and deploy capacity before honoring chip commitments, testing the sustainability of AI's circular funding model. The shift exposes concentrated risk across the AI infrastructure ecosystem, where frontier labs represent only 15% of Nvidia's data center revenue but disproportionately drive neocloud financing and hardware orders. Meanwhile, PE investors are pivoting toward space systems and satellites in defense, with space deals accounting for the largest share of $9.7 billion in defense PE deal value year-to-date, driven primarily by growth equity rounds.",
+      "keyTakeaways": [
+        "Nvidia's stricter neocloud financing requirements could starve unfunded infrastructure builds of capital and reverse the self-reinforcing AI hardware purchasing cycle if frontier lab revenue slows\u2014investors with dual exposure to both labs and infrastructure face concentrated customer risk across seemingly diversified portfolios.",
+        "GPs and LPs should closely monitor frontier lab revenue and runway as leading indicators of neocloud stress, since the AI infrastructure ecosystem depends on a narrow customer base that may not sustain current growth rates.",
+        "Defense PE is rotating from electronics to space systems (now the largest segment by deal value), signaling that growth-stage capital deployment in aerospace & defense is shifting toward emerging satellite and space infrastructure rather than traditional defense contracting."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 4,
+      "originalTitle": "Nvidia tests AI's money-go-round"
+    },
+    {
+      "id": "4fc9ee0b",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Jensen Huang's reinstatement as Nvidia CEO following Trump intervention boosted energy stocks tied to AI data center growth, with geothermal startup Fervo Energy up 8%, nuclear reactor firm X-energy up 13%, and CoreWeave up 23%. The Democratic Republic of the Congo is reinstating a cobalt export ban effective November 30 to address oversupply and boost prices for the critical battery metal, marking the second such restriction in less than two years.",
+      "keyTakeaways": [
+        "AI infrastructure plays remain Trump administration priorities, creating near-term tailwinds for energy and power companies serving data centers; Nvidia's leadership stability directly impacts investor sentiment in Fervo Energy, X-energy, and CoreWeave valuations.",
+        "DRC cobalt export restrictions create supply-side pricing support for battery and EV markets but signal potential disruption risk for manufacturers dependent on consistent cobalt access; the government's quota management strategy suggests volatility ahead for battery material costs.",
+        "Climate policy remains unpredictable under Trump, with selective environmental interventions (Iowa lead azide halt) contradicted by dismissal of climate science, creating regulatory uncertainty for clean energy and emissions-intensive industries alike."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Cobalt Blues"
+    },
+    {
+      "id": "8ee10888",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia CEO Jensen Huang was reinstated just 11 days after his resignation over national security concerns involving an alleged affair with a Chinese spy, following a massive grassroots campaign from Silicon Valley's elite including Elon Musk and Travis Kalanick. While the tech community celebrates Huang's return as validation of 'founder mode' culture and Nvidia's stock surged 31%, corporate governance experts and board observers warn the hasty reinstatement before independent investigations conclude and congressional testimony occurs creates significant reputational and legal risks.",
+      "keyTakeaways": [
+        "Founder-worship in Silicon Valley can override corporate governance best practices and national security considerations, creating legal and fiduciary liability for boards\u2014investors should scrutinize how portfolio companies balance founder retention with proper oversight mechanisms.",
+        "The rapid reversal signals that founder indispensability arguments carry enormous weight in capital markets (Nvidia up 31%), but this precedent may encourage founders to test governance boundaries and complicates M&A valuations tied to founder-dependent risk premiums.",
+        "The case demonstrates how tech leadership networks can mobilize to overturn institutional decisions within days, suggesting that board independence and institutional investor influence may be weaker than assumed in high-profile tech disputes, with implications for shareholder activism strategy."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "\u201cThe mistake has been corrected\u201d"
+    },
+    {
+      "id": "a0a55829",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-24",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Nvidia's board fired and then rehired CEO Jensen Huang within two weeks without explanation, leaving the market and public guessing about the reasons despite trillions in value at stake. Meanwhile, Amazon is acquiring Decart's chip optimization software assets for $7.5 billion as Big Tech companies structure major AI deals as asset purchases to avoid antitrust scrutiny, while continued VC funding flows into AI infrastructure startups like Marlowe ($277M seed) and robotics companies.",
+      "keyTakeaways": [
+        "Corporate governance transparency is collapsing at systemically critical companies\u2014Nvidia's silence on Huang's firing and rehiring creates information asymmetry that disadvantages public market investors and warrants Congressional investigation.",
+        "Tech giants are deliberately restructuring multibillion-dollar AI acquisitions as asset-only purchases to circumvent antitrust enforcement, suggesting regulatory arbitrage has become a primary deal structuring consideration for M&A strategy.",
+        "The AI infrastructure and robotics sector remains well-capitalized with mega-seed rounds ($100M+) commonplace, indicating venture investors are doubling down on compute optimization and autonomous systems despite broader macroeconomic uncertainty."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Interim ignorance"
+    },
+    {
+      "id": "05951e40",
+      "title": "Benedict Evans",
+      "source": "Benedict Evans",
+      "date": "2026-11-24",
+      "theme": "Strategy & Thesis",
+      "themeColor": "#0891B2",
+      "region": "Global",
+      "summary": "AI has transitioned from pilot to production across enterprises, with AI-assisted code merges growing from 35% to 62% at major tech firms between April and September 2026, yet most organizations cannot measure AI's true cost or workforce impact. Anthropic and OpenAI have demonstrated AI's capability to solve major mathematical problems like the Riemann Hypothesis and Navier-Stokes equations, raising fundamental questions about whether AI-generated solutions that are mathematically correct but humanly incomprehensible represent genuine progress or a paradigm shift in how we validate knowledge.",
+      "keyTakeaways": [
+        "AI productivity gains are quantifiable and substantial in engineering workflows, but lack of measurement infrastructure means enterprises are flying blind on ROI\u2014creating opportunity for observability and analytics platforms like the featured Larridin to become critical enterprise infrastructure.",
+        "The emergence of AI solving previously unsolvable mathematical problems signals a potential shift from understanding-driven to validation-driven knowledge: investors should monitor whether this model applies to other high-value domains like drug discovery and materials science where verification is possible without human comprehension.",
+        "Leadership transitions at scale (Nvidia CEO situation referenced) will increasingly test whether companies can decentralize decision-making from founders as AI augmentation changes organizational dynamics\u2014this structural risk deserves close attention in portfolio management and board compositions."
+      ],
+      "url": "https://www.ben-evans.com/newsletter",
+      "readTime": 8,
+      "originalTitle": "Benedict's Newsletter: No. 670"
+    },
+    {
+      "id": "985bc179",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Latitude Media is hosting a December 14 webinar on energy cybersecurity that frames security infrastructure as a competitive business advantage rather than a compliance cost. The event features cybersecurity experts and utility leaders discussing evolving threats and strategic positioning, with the webinar serving as a preview for the 2027 Power Resilience Forum focusing on cybersecurity, extreme weather, and resilience investment in the energy sector.",
+      "keyTakeaways": [
+        "Market messaging shift: Energy sector is repositioning cybersecurity from regulatory burden to business value driver, signaling increased capital allocation toward security infrastructure solutions that directly impact utility competitiveness and resilience.",
+        "B2B opportunity: Growing alignment between cybersecurity vendors and utility operators creates investment potential in companies solving critical infrastructure protection, particularly those addressing evolving cyber threats specific to energy systems.",
+        "Macro trend: Integration of cybersecurity with climate resilience (extreme weather, wildfire resilience) suggests investors should evaluate dual-purpose infrastructure solutions that address both climate adaptation and security risks simultaneously."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 2,
+      "originalTitle": "You're invited: the business case for energy cybersecurity"
+    },
+    {
+      "id": "318c2f26",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-23",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The International Energy Agency projects that global computing energy demand will double by 2030, with AI data centers driving 75% of that increase, according to Heatmap's coverage of a new podcast exploring whether responsible data center development is possible. Former Federal Energy Regulatory Commission commissioner Allison Clements interviewed stakeholders including municipal officials, regulators, utility executives, and activists to assess whether the data center boom can be managed sustainably, revealing significant tension between AI infrastructure growth and energy infrastructure planning.",
+      "keyTakeaways": [
+        "AI-driven data center demand is now the dominant force reshaping national energy infrastructure, with computing's energy consumption expected to double globally within four years\u2014this represents a major capital reallocation opportunity for infrastructure and power generation investors.",
+        "Regulatory and community friction around data center siting is intensifying, as evidenced by the breadth of stakeholder concerns documented in this reporting; investors in data center companies face increasing non-technical risks around permitting, local opposition, and grid constraints.",
+        "The feasibility of 'responsible' or sustainable data center development remains unresolved among policymakers and operators, suggesting that companies demonstrating genuine sustainability solutions (renewable power integration, efficiency improvements) will likely gain competitive advantages in securing locations and regulatory approval."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Are \u201cGood\u201d Data Centers Possible?"
+    },
+    {
       "id": "c1f6ecb5",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25575,17 +25719,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 150
+      "count": 151
     },
     {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 588
+      "count": 591
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 549
+      "count": 552
+    },
+    {
+      "name": "Strategy & Thesis",
+      "color": "#0891B2",
+      "count": 41
     },
     {
       "name": "Fintech",
@@ -25596,12 +25745,7 @@
       "name": "Deep Tech & Science",
       "color": "#7C3AED",
       "count": 34
-    },
-    {
-      "name": "Strategy & Thesis",
-      "color": "#0891B2",
-      "count": 40
     }
   ],
-  "lastUpdated": "2026-11-23T18:52:28.596129Z"
+  "lastUpdated": "2026-11-24T18:28:48.504835Z"
 }
