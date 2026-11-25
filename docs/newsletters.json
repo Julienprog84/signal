@@ -1,6 +1,132 @@
 {
   "newsletters": [
     {
+      "id": "2fa9cba1",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "PitchBook's Q2 2026 Enterprise SaaS Report reveals that apparent SaaS funding weakness masks underlying strength\u2014when excluding OpenAI and xAI's megadeals from Q1, Q2 funding climbed 40.3% quarter-over-quarter, marking one of the strongest quarters since 2021. The report highlights four critical trends: AI-native SaaS companies are attracting increasing capital, exit activity outside megadeals is near record highs, agent security has emerged as a distinct and rapidly consolidating category, and revenue models are shifting from seat-based to consumption-based pricing.",
+      "keyTakeaways": [
+        "The perceived SaaS funding collapse is an optical illusion created by comparison to exceptional Q1 AI megadeals; underlying deal momentum is exceptionally strong at 40% QoQ growth, suggesting healthy capital deployment in the sector",
+        "Agent security is crystallizing as a standalone investment category worthy of distinct attention, signaling a consolidation opportunity for investors identifying market leaders before the category matures",
+        "Revenue model shifts from per-seat to consumption-based pricing fundamentally change unit economics and borrower underwriting criteria, requiring investors and lenders to reassess portfolio company valuation methodologies and growth sustainability"
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 8,
+      "originalTitle": "The SaaS 'collapse' isn't what it seems"
+    },
+    {
+      "id": "1669032c",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-25",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French tech ecosystem strengthens with 'NoBo' hub emerging in Paris's 10th arrondissement as a 23-hectare cluster of startups and coworking spaces anchored by Hexa and Qonto. Meanwhile, Hexa founder Thibaud Elzi\u00e8re is expanding European ambitions by launching a 200-entrepreneur accelerator program at WAT in Brussels, occupying a 6,000 m\u00b2 former Renault facility opening January 2027. Early-stage circular economy startup Circul'egg demonstrates growing retail investor appetite by raising \u20ac500,000 from crowdfunding on Sowefund following \u20ac2M institutional round for its egg-shell-to-ingredients technology.",
+      "keyTakeaways": [
+        "Geographic clusters matter: Paris's NoBo district and Brussels's WAT incubator signal deliberate ecosystem-building by established fintechs (Qonto, Hexa) seeking to anchor and scale emerging founders, reducing friction in deal-sourcing and talent retention.",
+        "European cross-border expansion is accelerating among French founders\u2014Hexa's Brussels program suggests successful French-born startups are now exporting their operating model and capital to unlock deal flow across EU jurisdictions, fragmenting traditional Paris-centric VC flows.",
+        "Retail capital is flowing into climate/circular economy plays: Circul'egg's successful crowdfunding round (\u20ac500K public tranche) after institutional backing (\u20ac2M) indicates retail retail audiences are receptive to B2B sustainability, creating alternative exit pathways and customer validation for climate tech founders."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "25.11 - D\u00e9couvrez les 100 personnalit\u00e9s fran\u00e7aises de l'IA !"
+    },
+    {
+      "id": "a9b5d2ec",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "BlackRock has proposed a novel hybrid fund structure called an ETIF that would combine the public trading liquidity of ETFs with the private asset exposure of interval funds, potentially democratizing access to illiquid alternatives for retail investors. Meanwhile, Brookfield has signaled it has no intention of exiting its $13.2 billion Clarios investment despite owning it for seven years, as the battery maker generates substantial cash flow and is pivoting into higher-growth data center businesses.",
+      "keyTakeaways": [
+        "BlackRock's ETIF represents a structural innovation that could unlock significant retail capital for private assets by offering daily trading liquidity on public exchanges\u2014watch for SEC approval and competitive responses from other large asset managers seeking to capture this channel.",
+        "Brookfield's retention of Clarios despite generating $1.2 billion in dividend recapitalization proceeds signals conviction in operational improvements and strategic pivots; the firm's willingness to hold at $20-25 billion valuations suggests private market valuations for cash-generative infrastructure assets remain attractive relative to public market equivalents.",
+        "The convergence of blockchain-based tokenized fund vehicles (Ark Venture Fund) and traditional hybrid structures (BlackRock's ETIF) indicates the private capital industry is systematically removing friction for retail access, which could reshape LP composition and fund-raising dynamics in PE/VC over the next 2-3 years."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "BlackRock\u2019s  private ETF bid"
+    },
+    {
+      "id": "ba4b5f28",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia's reinstatement of Jensen Huang as CEO initially boosted tech stocks 7%, but a sharp reversal followed as markets repriced credit and interest rate risks from government intervention, sending data center and next-generation energy stocks sharply lower. Meanwhile, consolidation in the Permian Basin accelerated with Texas Pacific Land's $3 billion acquisition of EagleRock Land, creating a million-acre platform that will capture royalties and fees from oil and gas development.",
+      "keyTakeaways": [
+        "Market skepticism of government-mandated corporate leadership changes suggests regulatory and political pressure on data center development could become a material headwind, making alternative computing infrastructure (space-based, offshore) increasingly attractive investment targets.",
+        "Permian Basin consolidation is concentrating land, water, and drilling rights among fewer, larger players \u2014 investors should monitor whether this trend favors established energy majors over independent operators and whether it creates pricing power for landlords.",
+        "The divergence between initial enthusiasm for Huang's return and subsequent sell-off in energy infrastructure reveals market concerns about rising financing costs and policy uncertainty for capital-intensive buildout projects, signaling potential repricing across clean energy and industrial tech sectors."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 8,
+      "originalTitle": "Permian Double-Down"
+    },
+    {
+      "id": "bf9367c2",
+      "title": "Term Sheet",
+      "source": "Fortune / Dan Primack",
+      "date": "2026-11-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Every, an AI-focused media and software company founded by Dan Shipper, raised $17.5 million in Series A funding at a $110 million post-money valuation, with IA Ventures leading the round. The raise is notable for defying the historical pattern of VC-backed media startups failing, as Shipper structured the deal to maintain full operational control and preserve the company's unique hybrid model combining media, consulting, and conferences for an AI-native professional audience.",
+      "keyTakeaways": [
+        "VC-backed media has a poor track record (Ozy, Vice, The Messenger), but Every's hybrid business model\u2014combining editorial content, B2B consulting, and events\u2014may offer a more defensible path to profitability than pure-play media ventures.",
+        "Founder control and investor alignment matter: Shipper bypassed standard fundraising to work directly with a trusted lead investor who understands his vision, suggesting that unconventional deal structures may be necessary for founder-led creative ventures to succeed with VC backing.",
+        "AI-native professional content is emerging as a viable market segment; Every's 130,000 unpaid and 10,000 paid subscribers indicate demand for specialized editorial serving tech professionals navigating AI adoption, representing a potential new category for media-plus-software businesses."
+      ],
+      "url": "https://fortune.com/section/term-sheet/",
+      "readTime": 5,
+      "originalTitle": "A \u2018Philosopher King\u2019 raises $17.5 million"
+    },
+    {
+      "id": "ce4b33a6",
+      "title": "Pro Rata",
+      "source": "Axios / Dan Primack",
+      "date": "2026-11-25",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "US",
+      "summary": "Recent IPO disappointments at Anthropic and SpaceX\u2014where shares fell 26.5% and 25% below opening trades respectively\u2014could significantly impact OpenAI's planned early 2027 public offering by making institutional investors more price-conscious and deterring retail participation. Meanwhile, BC Partners acquired full control of sports management agency GSE Worldwide after abandoning its LIV Golf restructuring plans, while Rep. Jamie Raskin plans congressional hearings on Trump Jr.'s 1789 Capital despite demonstrating limited understanding of private equity structures.",
+      "keyTakeaways": [
+        "IPO market conditions are deteriorating rapidly: Both Anthropic and SpaceX saw massive post-opening declines, signaling that retail investors are increasingly gun-shy and institutional buyers will demand steeper discounts. OpenAI should expect significantly more difficult pricing dynamics than recent mega-cap tech IPOs.",
+        "Corporate venture arms are consolidating: Payward's acquisition of co-founder Arjun Sethi's Tribe Capital\u2014while maintaining outside LP fundraising\u2014suggests established companies are building in-house VC capabilities rather than relying on external managers, potentially reducing LP dry powder for traditional venture firms.",
+        "Political scrutiny of venture capital is rising without informed oversight: Congressional investigation into 1789 Capital risks becoming a spectacle if lawmakers don't understand basic PE mechanics, potentially creating regulatory uncertainty for growth equity and emerging manager fundraising."
+      ],
+      "url": "https://www.axios.com/newsletters/axios-pro-rata",
+      "readTime": 5,
+      "originalTitle": "Axios Pro Rata: Thud"
+    },
+    {
+      "id": "6754e1ac",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-24",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA) faces an uncertain House vote next week as Republicans struggle with low attendance following election losses, while some Democrats like Sean Casten and Mike Levin oppose the bill and want to pursue permitting reform separately in 2027. The newsletter's analysis suggests that if BAAJA fails, Democrats are unlikely to pass meaningful permitting reform in the next Congress, as any legislation would require cooperation with the Trump administration and Senate Republicans, making it politically vulnerable to attacks as a rollback of environmental protections.",
+      "keyTakeaways": [
+        "BAAJA's passage is in serious jeopardy due to GOP attendance issues post-election, creating uncertainty for manufacturers seeking the $4.2 billion in annual savings the bill promises through permitting reforms.",
+        "Democratic opposition and delay tactics suggest the energy and infrastructure sectors should not assume permitting streamlining is imminent\u2014investor expectations for accelerated project timelines should be tempered through 2027.",
+        "Long-term permitting reform prospects are weakening as partisan dynamics make bipartisan solutions politically toxic; companies dependent on streamlined approvals (renewables, transmission, data centers) face prolonged regulatory uncertainty."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 4,
+      "originalTitle": "Heatmap Daily: Permitting in 2027? Really?"
+    },
+    {
       "id": "b7eb2b03",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25717,19 +25843,19 @@
   ],
   "themes": [
     {
-      "name": "European VC",
-      "color": "#059669",
-      "count": 151
-    },
-    {
       "name": "VC & Deal Flow",
       "color": "#E84B2E",
-      "count": 591
+      "count": 595
+    },
+    {
+      "name": "European VC",
+      "color": "#059669",
+      "count": 152
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 552
+      "count": 554
     },
     {
       "name": "Strategy & Thesis",
@@ -25747,5 +25873,5 @@
       "count": 34
     }
   ],
-  "lastUpdated": "2026-11-24T18:28:48.504835Z"
+  "lastUpdated": "2026-11-25T17:42:53.598038Z"
 }
