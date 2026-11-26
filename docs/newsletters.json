@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "cee993e9",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-26",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "France Digitale, a major French tech industry association, has published 24 policy proposals ahead of the 2027 presidential election to shape the next administration's tech strategy. Concurrently, the European Union announced plans to establish a \u20ac50 billion sovereign fund focused on strategic technologies including AI and quantum computing to prevent falling behind the US and China, signaling a shift toward more aggressive public capital deployment in European tech.",
+      "keyTakeaways": [
+        "French tech sector is mobilizing politically to secure favorable policies for the 2027 election cycle, suggesting potential regulatory or tax changes could impact European VC/startup ecosystems within 18 months",
+        "EU's \u20ac50 billion sovereign tech fund represents a material shift from traditional venture funding models\u2014institutional capital is consolidating around strategic tech categories, which could reshape competitive dynamics and exit opportunities for European-backed companies",
+        "The parallel focus on workplace risk management compliance for startups indicates regulatory burden is increasing in France/EU, potentially raising operational costs for early-stage companies and creating compliance-as-a-service opportunities"
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 5,
+      "originalTitle": "26.11 - Pr\u00e9sidentielle 2027 : France Digitale d\u00e9voile 24 propositions pour le prochain quinquennat"
+    },
+    {
+      "id": "aebfd445",
+      "title": "Latitude Media",
+      "source": "Latitude Media",
+      "date": "2026-11-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "Nvidia CEO Jensen Huang's unexpected reinstatement after a 11-day resignation\u2014reportedly following pressure from the Trump administration\u2014highlights the company's central role in AI infrastructure and energy sector financing. Through its venture capital arm NVentures and corporate development, Nvidia has invested in energy companies spanning nuclear, battery storage, and grid software, positioning itself as a critical financial player in powering data centers. The newsletter raises concerns about systemic risk: if Nvidia faces corporate or leadership instability, the entire interconnected energy ecosystem it finances could be disrupted.",
+      "keyTakeaways": [
+        "Nvidia's energy sector investments (Cloverleaf Infrastructure, Emerald AI, ThinkLabs, Redwood Materials) are strategic bets on AI infrastructure buildout, not diversification\u2014meaning energy companies dependent on Nvidia financing face single-point-of-failure risk if the chip giant stumbles.",
+        "Executive concentration risk is acute: energy sector partners have become over-reliant on Huang's personal relationships and decision-making, creating vulnerability if leadership changes or scandals recur at Nvidia.",
+        "The AI-energy symbiosis is creating tighter coupling between tech and energy sectors than traditional venture models; investors should stress-test portfolio companies for Nvidia dependency and explore whether board composition at Nvidia-backed energy firms properly accounts for concentration risk."
+      ],
+      "url": "https://www.latitudemedia.com",
+      "readTime": 8,
+      "originalTitle": "Dealing with Nvidia's drama\u00a0"
+    },
+    {
+      "id": "ad9fd9e0",
+      "title": "Heatmap",
+      "source": "Heatmap News",
+      "date": "2026-11-25",
+      "theme": "Climate & Energy",
+      "themeColor": "#D97706",
+      "region": "Global",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA), a permitting reform bill set for House vote next week, has deeply divided the climate and clean energy community. Earthjustice, the nation's largest nonprofit environmental law firm, has emerged as a major critic of the bill despite its potential to save manufacturers $4.2 billion annually, citing concerns over project certainty sections and tribal rights provisions that remain under active negotiation.",
+      "keyTakeaways": [
+        "BAAJA's permitting reforms could generate $4.2 billion in annual savings for manufacturers, but environmental groups are fragmenting on support\u2014creating political uncertainty for infrastructure and clean energy projects dependent on streamlined approval processes.",
+        "The bill's most contentious provisions involve project certainty and tribal rights protections, which remain unresolved and may face continued legal challenges from organizations like Earthjustice, potentially limiting its practical impact on capital allocation for energy infrastructure.",
+        "The split within the climate movement signals broader tension between expediting green energy deployment and maintaining environmental/regulatory safeguards\u2014investors should monitor how this resolves, as it could reshape the risk profile for renewable energy and infrastructure projects over the next 2-3 years."
+      ],
+      "url": "https://heatmap.news",
+      "readTime": 5,
+      "originalTitle": "Heatmap Daily: Why Earthjustice Opposes BAAJA"
+    },
+    {
       "id": "2fa9cba1",
       "title": "PitchBook",
       "source": "PitchBook",
@@ -25843,19 +25897,19 @@
   ],
   "themes": [
     {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 595
-    },
-    {
       "name": "European VC",
       "color": "#059669",
-      "count": 152
+      "count": 153
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
-      "count": 554
+      "count": 556
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 595
     },
     {
       "name": "Strategy & Thesis",
@@ -25873,5 +25927,5 @@
       "count": 34
     }
   ],
-  "lastUpdated": "2026-11-25T17:42:53.598038Z"
+  "lastUpdated": "2026-11-26T17:26:03.203983Z"
 }
