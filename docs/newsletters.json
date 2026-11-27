@@ -1,6 +1,60 @@
 {
   "newsletters": [
     {
+      "id": "14568c0f",
+      "title": "Maddyness",
+      "source": "Maddyness",
+      "date": "2026-11-27",
+      "theme": "European VC",
+      "themeColor": "#059669",
+      "region": "Europe",
+      "summary": "French government reaffirms support for the Research Tax Credit (CIR), a key fiscal incentive for the country's tech industry, while remaining open to potential modifications. Separately, Korben, a robotics software interoperability startup, raised \u20ac10 million at a \u20ac36.2 million valuation just two years after founding, positioning itself as Europe's robotics brain. The newsletter also covers Obypay's QR-code ordering platform and regulatory challenges facing proptech startups in France.",
+      "keyTakeaways": [
+        "The French government's defense of CIR signals political commitment to R&D tax incentives despite ongoing scrutiny, potentially sustaining competitive advantages for French deeptech and software companies seeking tax-efficient R&D funding.",
+        "Korben's \u20ac10M raise at a 2.8x revenue multiple in a niche robotics software segment demonstrates strong investor appetite for infrastructure plays in automation, suggesting robotics interoperability is an underserved market with consolidation potential.",
+        "Fragmented regulatory frameworks across French municipalities are creating data compliance friction for proptech and SaaS platforms, indicating opportunities for regulatory intelligence or compliance-as-a-service solutions targeting local government complexity."
+      ],
+      "url": "https://www.maddyness.com",
+      "readTime": 3,
+      "originalTitle": "27.11 - Le gouvernement monte au cr\u00e9neau pour d\u00e9fendre le CIR"
+    },
+    {
+      "id": "0938057d",
+      "title": "PitchBook",
+      "source": "PitchBook",
+      "date": "2026-11-27",
+      "theme": "VC & Deal Flow",
+      "themeColor": "#E84B2E",
+      "region": "Global",
+      "summary": "Major institutional advisors BlackRock and Marsh are counseling private markets investors to diversify recent IPO gains from companies like Anthropic and SpaceX into fixed income and alternative strategies rather than redeploying entirely back into venture. Meanwhile, cybersecurity VC investment surged nearly 80% quarter-over-quarter to $6.1 billion in Q3, driven by recent software outages and growing demand for AI-integrated security operations tools.",
+      "keyTakeaways": [
+        "Institutional LPs should consider rotating some IPO windfalls into fixed income and undercapitalized strategies like GP-led secondaries and small/mid-market buyouts rather than chasing returns back into volatile private markets.",
+        "Cybersecurity remains a hot investment area with SecOps capturing 25% of deal value and volume in Q3, particularly as companies integrate AI-powered security agents into operations following major network disruptions.",
+        "The convergence of liquidity events (Anthropic, SpaceX) and demonstrated infrastructure vulnerabilities is reshaping LP capital allocation priorities toward risk mitigation and specialized credit opportunities in emerging markets and critical infrastructure."
+      ],
+      "url": "https://pitchbook.com/news/newsletters",
+      "readTime": 5,
+      "originalTitle": "How to spend those IPO gains"
+    },
+    {
+      "id": "c07b1c7c",
+      "title": "Deep Tech Newsletter",
+      "source": "Deep Tech Newsletter",
+      "date": "2026-11-27",
+      "theme": "Deep Tech & Science",
+      "themeColor": "#7C3AED",
+      "region": "Global",
+      "summary": "AI has solved the 167-year-old Riemann Hypothesis and hundreds of other longstanding mathematical problems since September, prompting significant questions about the future of pure mathematics research. The newsletter covers major deep tech developments including SpaceX's FCC-approved plan for one million space-based AI data centers, Nvidia's advancement in brain-computer interfaces through Paradromics, and emerging technologies like photonic AI chips from Q.ANT and space-based solar power from Virtus Solis.",
+      "keyTakeaways": [
+        "AI's breakthrough in solving century-old mathematical problems signals a fundamental shift in how research and development operates across scientific fields\u2014companies investing in AI-powered R&D could dramatically accelerate innovation cycles and derisk long-term R&D projects.",
+        "The convergence of space infrastructure (SpaceX data centers), specialized computing (photonic chips, neural processors), and energy production (orbital solar) is creating a capital-intensive ecosystem where multiple deep tech winners emerge across hardware, software, and infrastructure plays.",
+        "Robotics applications in high-risk human scenarios (EOD detection) combined with advances in materials science (superconductors, novel batteries, semiconductors) suggest a broad portfolio of enabling technologies reaching commercialization simultaneously, reducing single-point-of-failure risk for investors."
+      ],
+      "url": "https://deeptechnewsletter.com",
+      "readTime": 8,
+      "originalTitle": "DTN 190:AI has conquered  mathematics\u2019  greatest challenge"
+    },
+    {
       "id": "cee993e9",
       "title": "Maddyness",
       "source": "Maddyness",
@@ -25899,17 +25953,22 @@
     {
       "name": "European VC",
       "color": "#059669",
-      "count": 153
+      "count": 154
+    },
+    {
+      "name": "VC & Deal Flow",
+      "color": "#E84B2E",
+      "count": 596
+    },
+    {
+      "name": "Deep Tech & Science",
+      "color": "#7C3AED",
+      "count": 35
     },
     {
       "name": "Climate & Energy",
       "color": "#D97706",
       "count": 556
-    },
-    {
-      "name": "VC & Deal Flow",
-      "color": "#E84B2E",
-      "count": 595
     },
     {
       "name": "Strategy & Thesis",
@@ -25920,12 +25979,7 @@
       "name": "Fintech",
       "color": "#0D9488",
       "count": 61
-    },
-    {
-      "name": "Deep Tech & Science",
-      "color": "#7C3AED",
-      "count": 34
     }
   ],
-  "lastUpdated": "2026-11-26T17:26:03.203983Z"
+  "lastUpdated": "2026-11-27T17:04:50.881568Z"
 }
